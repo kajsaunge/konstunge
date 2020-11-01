@@ -1,7 +1,14 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import styles from "../styles/Home.module.css";
 
-export default function Home() {
+const Home = ({ data }) => {
+  const cats = data.map((item) => (
+    <a href="https://nextjs.org/learn" className={styles.card}>
+      <h3>{item.type}</h3>
+      <p>{item.text}</p>
+    </a>
+  ));
+
   return (
     <div className={styles.container}>
       <Head>
@@ -10,56 +17,57 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        <h2>Cat API</h2>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div>
+        <div className={styles.grid}>{cats}</div>
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
     </div>
-  )
+  );
+};
+
+// export async function getStaticProps(context) {
+//   const options = {
+//     method: "GET",
+//     headers: {
+//       get: "/facts/random?animal_type=cat&amount=2",
+//     },
+//   };
+//   const res = await fetch(
+//     "https://cat-fact.herokuapp.com/facts/random?animal_type=cat&amount=2"
+//   );
+//   const data = await res.json();
+
+//   return {
+//     props: {
+//       data,
+//     },
+//   };
+// }
+const options = {
+  method: "GET",
+    headers: {
+      get: 'user',
+      target: "instafeed-container",
+      resolution: 'low_resolution',
+      accessToken: 'IGQVJYVDRVX0hqUjU1NEpsMk9ITjMyNWZABZAXZAsa0k2d2R6NGN1ak5GUzA0WUc4ajQ0ZAE84UnJ0LWFoNkFIS2ZAhSGpHbk1wbkg1VXRTSFl2cXVsc0gtdUFYUzhJeVh2UThsMmNpTWFrdXloMUQ1Y1A3cwZDZD'
+    }
+};
+export async function getStaticProps(context) {
+  console.log('context: ', context);
+  
+  const res = await fetch(
+    "https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js",
+    [options]
+  );
+  console.log('res: ', res);
+  // const data = await JSON.stringify(res)
+  const data = await res.json();
+
+  return {
+    props: {
+      data,
+    },
+  };
 }
+
+export default Home;
