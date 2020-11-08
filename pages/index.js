@@ -13,7 +13,7 @@ const Home = () => {
 
       <main className={styles.main}>
         <h2>Art u</h2>
-
+        <p>pushing from new laptop</p>
         <div className={styles.grid}>Konst</div>
       </main>
     </div>
