@@ -1,0 +1,18 @@
+.header {
+  width: 100%;
+  min-height: 48px;
+  margin: 0;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: DarkSeaGreen;
+  background-color: DarkSlateGrey;
+}
+.logo {
+  margin: 0;
+}
+.nav {
+
+}
