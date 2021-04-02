@@ -76,6 +76,33 @@ const art = [
       },
     ],
   },
+  {
+    id: "003",
+    name: "New York",
+    description:
+      "Sverige är fullt av tranor. De symboliserar styrka och passion...",
+    size: "100x1000 cm",
+    suspension: "Spik och krok eller tavelhylla",
+    dateCreated: "20201230",
+    frame: "Vit träram, raka kanter",
+    artist: "Kajsa Unge",
+    tage: ["plywood", "akryl", "fåglar"],
+    category: "",
+    material: {
+      medium: "Akryl",
+      base: "Plywood",
+    },
+    images: [
+      {
+        src: "/static/paintings/lorje/lorje_01.jpg",
+        alt: "Lörje process",
+      },
+      {
+        src: "/static/paintings/tranor/tranor.jpg",
+        alt: "Tranor fast fel",
+      }
+    ],
+  },
 ];
 
 const Home = () => {
