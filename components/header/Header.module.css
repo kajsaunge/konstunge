@@ -1,18 +1,32 @@
 .header {
   width: 100%;
-  min-height: 48px;
+  height: 100px;
   margin: 0;
   padding: 16px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  color: DarkSeaGreen;
-  background-color: DarkSlateGrey;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  max-width: 1200px;
+  margin: 0 auto;
+  color: grey;
 }
 .logo {
   margin: 0;
+  height: 1em;
+  font-weight: 400;
 }
 .nav {
 
+}
+.navList {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+}
+.navListItem {
+  margin-left: 16px;
+  text-transform: uppercase;
 }

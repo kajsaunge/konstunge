@@ -1,0 +1,219 @@
+{
+  "pages": [
+    {
+        "slug": "/tranor",
+        "path": "/tranor",
+        "name": "Trunks in love",
+        "description": "Product description.",
+        "price": "2 500 sek",
+        "material": {
+          "medium": "Acrylics",
+          "base": "Plywood"
+        },
+        "tags": [
+        "plywood",
+        "akryl",
+        "typography"
+      ],
+        "category": "original",
+        "images": [
+        {
+            "src": "/static/paintings/tranor/tranor.jpg",
+            "alt": "Tranor front"
+        },
+        {
+            "src": "/static/paintings/tranor/tranor-2.jpg",
+            "alt": "Tranor close up"
+        },
+        {
+          "src": "/static/paintings/tranor/tranor-3.jpg",
+          "alt": "Tranor side"
+      }
+      ]
+    },
+    {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New York, New York",
+      "description": "Product description.",
+      "price": "2 500 sek",
+      "material": {
+        "medium": "Acrylics",
+        "base": "Plywood"
+      },
+      "tags": [
+      "plywood",
+      "akryl",
+      "typography"
+    ],
+      "category": "original",
+      "images": [
+      {
+          "src": "/static/paintings/newyork/newyork.jpg",
+          "alt": "newyork front"
+      },
+      {
+          "src": "/static/paintings/newyork/newyork-2.jpg",
+          "alt": "newyork close up"
+      },
+      {
+        "src": "/static/paintings/newyork/newyork-3.jpg",
+        "alt": "newyork side"
+    }
+    ]
+  },
+  {
+    "slug": "/femme",
+    "path": "/femme",
+    "name": "Her freedom",
+    "description": "Product description.",
+    "price": "2 500 sek",
+    "material": {
+      "medium": "Acrylics",
+      "base": "Plywood"
+    },
+    "tags": [
+    "plywood",
+    "akryl",
+    "typography"
+  ],
+    "category": "original",
+    "images": [
+    {
+        "src": "/static/paintings/femme/femme.jpg",
+        "alt": "femme front"
+    },
+    {
+        "src": "/static/paintings/femme/femme-2.jpg",
+        "alt": "femme close up"
+    },
+    {
+      "src": "/static/paintings/femme/femme-3.jpg",
+      "alt": "femme side"
+  }
+  ]
+},
+{
+  "slug": "/beyonce",
+  "path": "/beyonce",
+  "name": "Her force",
+  "description": "Product description.",
+  "price": "2 500 sek",
+  "material": {
+    "medium": "Acrylics",
+    "base": "Plywood"
+  },
+  "tags": [
+  "plywood",
+  "akryl",
+  "typography"
+],
+  "category": "original",
+  "images": [
+  {
+      "src": "/static/paintings/beyonce/beyonce.jpg",
+      "alt": "beyonce front"
+  },
+  {
+      "src": "/static/paintings/beyonce/beyonce-2.jpg",
+      "alt": "beyonce close up"
+  },
+  {
+    "src": "/static/paintings/beyonce/beyonce-3.jpg",
+    "alt": "beyonce side"
+}
+]
+},
+{
+  "slug": "/sheme",
+  "path": "/sheme",
+  "name": "Is it her, is it me?",
+  "description": "Product description.",
+  "price": "2 500 sek",
+  "material": {
+    "medium": "Acrylics",
+    "base": "Plywood"
+  },
+  "tags": [
+  "plywood",
+  "akryl",
+  "typography"
+],
+  "category": "original",
+  "images": [
+  {
+      "src": "/static/paintings/sheme/sheme.jpg",
+      "alt": "she me front"
+  },
+  {
+      "src": "/static/paintings/sheme/sheme-2.jpg",
+      "alt": "she me close up"
+  },
+  {
+    "src": "/static/paintings/sheme/sheme-3.jpg",
+    "alt": "she me side"
+}
+]
+},
+{
+  "slug": "/see-through-girl-1",
+  "path": "/see-through-girl-1",
+  "name": "Came from nothing",
+  "description": "Product description.",
+  "price": "2 500 sek",
+  "material": {
+    "medium": "Acrylics",
+    "base": "Plywood"
+  },
+  "tags": [
+  "plywood",
+  "akryl"
+],
+  "category": "original",
+  "images": [
+  {
+      "src": "/static/paintings/see-through-girl-1/seethrough1.jpg",
+      "alt": "see through girl front"
+  },
+  {
+      "src": "/static/paintings/see-through-girl-1/see-through-girl-2.jpg",
+      "alt": "see through girl close up"
+  },
+  {
+    "src": "/static/paintings/see-through-girl-1/see-through-girl-3.jpg",
+    "alt": "see through girl side"
+}
+]
+},
+{
+  "slug": "/see-through-girl-2",
+  "path": "/see-through-girl-2",
+  "name": "She was nothing",
+  "description": "Product description.",
+  "price": "2 500 sek",
+  "material": {
+    "medium": "Acrylics",
+    "base": "Plywood"
+  },
+  "tags": [
+  "plywood",
+  "akryl"
+],
+  "category": "original",
+  "images": [
+  {
+      "src": "/static/paintings/see-through-girl-2/seethrough2.jpg",
+      "alt": "see through girl front"
+  },
+  {
+      "src": "/static/paintings/see-through-girl-2/see-through-girl2-2.jpg",
+      "alt": "see through girl close up"
+  },
+  {
+    "src": "/static/paintings/see-through-girl-2/see-through-girl2-3.jpg",
+    "alt": "see through girl side"
+}
+]
+}
+  ]
+}
