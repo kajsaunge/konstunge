@@ -18,8 +18,8 @@ const ImageGallery = ({ images }) => {
         loading="lazy"
         src={selectedImage.src}
         alt={selectedImage.alt}
-        width={424}
-        height={424}
+        width={660}
+        height={800}
         className={galleryMainItem}
       />
       <ul className={galleryList}>
@@ -34,8 +34,8 @@ const ImageGallery = ({ images }) => {
                   loading="lazy"
                   src={image.src}
                   alt={image.alt}
-                  width={100}
-                  height={100}
+                  width={80}
+                  height={80}
                   className={galleryListItemImage}
                 />
               </button>
