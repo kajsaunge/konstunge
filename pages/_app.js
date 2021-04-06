@@ -7,7 +7,7 @@ import "../styles/normalize.css";
 import "../styles/globals.css";
 import "../styles/app.css";
 
-function MyApp({ Component, pageProps, params }) {
+function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
