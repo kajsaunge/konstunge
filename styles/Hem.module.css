@@ -1,0 +1,47 @@
+.artPiecesWrapper {
+    margin: 16px;
+    width: 100%;
+    margin: 0 auto;
+}
+.artPieces {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 16px;
+  list-style-type: none;
+  padding-left: 0;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.artPiece {
+  min-width: 310px;
+  max-width: 400px;
+  margin-bottom: 52px;
+  margin-left: 16px;
+}
+.artPiece:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.artPieceContent {
+  width: 70%;
+  margin: 0 auto;
+}
+.artPieceImage {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.artPieceTitle {
+  margin-bottom: 12px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+}
+.artPieceDescription {
+  margin-top: 2px;
+  font-size: 16px;
+  text-align: center;
+  color: grey;
+  padding-top: 12px;
+  border-top: 1px solid silver;
+}

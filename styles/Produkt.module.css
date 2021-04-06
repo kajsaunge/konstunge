@@ -1,29 +1,10 @@
-.main {
-  padding: 5rem 0;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  margin: 0 auto;
-  max-width: 1200px;
-}
-
-.grid {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-top: 3rem;
-  width: 100%;;
-}
-
-@media (max-width: 600px) {
-  .grid {
-    width: 100%;
-    flex-direction: column;
-  }
+.backNav {
+  position: absolute;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+  color: grey;
+  padding: 16px;
 }
 
 .artPiecesWrapper {

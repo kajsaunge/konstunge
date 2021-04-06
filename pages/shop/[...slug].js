@@ -2,16 +2,20 @@ import { useRouter } from "next/router";
 
 import content from "../api/content.json";
 import ImageGallery from "components/imageGallery";
-import styles from "../../styles/Product.module.css";
+import styles from "../../styles/Produkt.module.css";
+
+{/* TODO add content. Fix styles. Add a page footer */}
 
 const Product = ({ page }) => {
   const router = useRouter();
   return (
     <>
-      <main className={styles.main}>
-        <button onClick={() => router.back()}>Back</button>
-        <h2>Product page</h2>
-        <p>Unika konstverk för unika hem</p>
+      <main className='main'>
+        <button className={styles.backNav} onClick={() => router.back()}>&#60; Back</button>
+        <div className='main-intro'>
+          <h1 className='main-intro__title'>Product page</h1>
+          <p className='main-intro__description'>Unika konstverk för unika hem</p>
+        </div>
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
             <ul className={styles.artPieces}>
