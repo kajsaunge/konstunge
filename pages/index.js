@@ -9,9 +9,9 @@ const Home = () => {
     <>
       <main className='main'>
         <div className='main-intro'>
-          <h1 className='main-intro__title'>Konst</h1>
+          <h1 className='main-intro__title'>Välkommen</h1>
           <p className='main-intro__description'>
-            Unika konstverk för unika hem
+            Unik konst för unika hem
           </p>
         </div>
         <section className={styles.artPiecesWrapper}>
