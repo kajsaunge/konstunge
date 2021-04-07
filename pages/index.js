@@ -54,16 +54,4 @@ const Home = () => {
   );
 };
 
-export async function getStaticPaths() {
-  const paths = content.pages.map((page) => {
-    const slug = page.slug.split("/").slice(1);
-    return { params: { slug } };
-  });
-  return { paths, fallback: false };
-}
-
-export async function getStaticProps() {
-  return { props: { content } };
-}
-
 export default Home;
