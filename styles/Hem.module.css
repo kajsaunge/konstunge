@@ -6,6 +6,7 @@
 .artPieces {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   margin: 16px;
   list-style-type: none;
   padding-left: 0;
