@@ -22,23 +22,28 @@ const Product = ({ page }) => {
               <ImageGallery images={page.images} />
               <div className={styles.artPieceContent}>
                 <h3 className={styles.artPieceTitle}>{page.name}</h3>
-                <p className={styles.artPieceDescription}>
-                  {page.description}
+                <p className={styles.artPieceDetails}>
+                  {page.size} | {page.material.medium} på {page.material.base}
                 </p>
-                <table className={styles.artPieceTable}>
+                <p className={styles.artPiecePrice}>
+                  Pris: {page.price}
+                </p>
+                <h3 className={styles.artPieceOrderDetails}>Beställning</h3>
+                <p className={styles.artPiecePrice}>
+                  För beställning skickar du ett mail till <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a>
+                </p>
+                {/* <table className={styles.artPieceTable}>
                   <tbody className={styles.artPieceTableHead}>
-                    <th>Size:</th>
-                    <th>Mount:</th>
+                    <th>Format:</th>
                     <th>Material:</th>
                   </tbody>
                   <tbody className={styles.artPieceTableData}>
                     <td>{page.size}</td>
-                    <td>{page.suspension}</td>
                     <td>
                       {page.material.medium} på {page.material.base}
                     </td>
                   </tbody>
-                </table>
+                </table> */}
               </div>
             </ul>
           </section>
