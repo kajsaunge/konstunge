@@ -1,170 +1,144 @@
 {
   "pages": [
     {
-        "slug": "/tranor",
-        "path": "/tranor",
-        "name": "Trunks in love",
-        "description": "Product description.",
-        "price": "2 500 sek",
-        "material": {
-          "medium": "Acrylics",
-          "base": "Plywood"
-        },
-        "tags": [
-        "plywood",
-        "akryl",
-        "typography"
-      ],
-        "category": "original",
-        "images": [
-        {
-            "src": "/static/paintings/tranor/tranor.jpg",
-            "alt": "Tranor front"
-        },
-        {
-            "src": "/static/paintings/tranor/tranor-2.jpg",
-            "alt": "Tranor close up"
-        },
-        {
-          "src": "/static/paintings/tranor/tranor-3.jpg",
-          "alt": "Tranor side"
-      }
-      ]
+      "slug": "/beyonce",
+      "path": "/beyonce",
+      "name": "The force within",
+      "description": "Product description.",
+      "price": "4 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "size": "40x50 cm",
+      "tags": [
+      "plywood",
+      "akryl",
+      "typografi"
+    ],
+      "category": "original",
+      "images": [
+      {
+          "src": "/static/paintings/beyonce/beyonce.jpg",
+          "alt": "Tavlan 'The force within' framifrån"
+      },
+      {
+          "src": "/static/paintings/beyonce/beyonce-2.jpg",
+          "alt": "Tavlan 'The force within' närbild"
+      },
+      {
+        "src": "/static/paintings/beyonce/beyonce-3.jpg",
+        "alt": "Tavlan 'The force within' från sidan"
+    }
+    ]
     },
     {
       "slug": "/newyork",
       "path": "/newyork",
-      "name": "New York, New York",
+      "name": "[new]york",
       "description": "Product description.",
-      "price": "2 500 sek",
+      "price": "5 500 sek",
       "material": {
-        "medium": "Acrylics",
+        "medium": "Akryl",
         "base": "Plywood"
       },
+      "size": "50x90 cm",
       "tags": [
       "plywood",
       "akryl",
-      "typography"
+      "typografi"
     ],
       "category": "original",
       "images": [
       {
           "src": "/static/paintings/newyork/newyork.jpg",
-          "alt": "newyork front"
+          "alt": "Tavlan '[new]york' framifrån"
       },
       {
           "src": "/static/paintings/newyork/newyork-2.jpg",
-          "alt": "newyork close up"
+          "alt": "Tavlan '[new]york' närbild"
       },
       {
         "src": "/static/paintings/newyork/newyork-3.jpg",
-        "alt": "newyork side"
+        "alt": "Tavlan '[new]york' från sidan"
     }
     ]
   },
   {
     "slug": "/femme",
     "path": "/femme",
-    "name": "Her freedom",
+    "name": "[wo]man",
     "description": "Product description.",
-    "price": "2 500 sek",
+    "price": "4 500 sek",
     "material": {
-      "medium": "Acrylics",
+      "medium": "Akryl",
       "base": "Plywood"
     },
+    "size": "50x90 cm",
     "tags": [
     "plywood",
     "akryl",
-    "typography"
+    "typografi"
   ],
     "category": "original",
     "images": [
     {
         "src": "/static/paintings/femme/femme.jpg",
-        "alt": "femme front"
+        "alt": "Tavlan '[wo]man' framifrån"
     },
     {
         "src": "/static/paintings/femme/femme-2.jpg",
-        "alt": "femme close up"
+        "alt": "Tavlan '[wo]man' närbild"
     },
     {
       "src": "/static/paintings/femme/femme-3.jpg",
-      "alt": "femme side"
+      "alt": "Tavlan '[wo]man' från sidan"
   }
   ]
 },
 {
-  "slug": "/beyonce",
-  "path": "/beyonce",
-  "name": "Her force",
-  "description": "Product description.",
-  "price": "2 500 sek",
-  "material": {
-    "medium": "Acrylics",
-    "base": "Plywood"
-  },
-  "tags": [
-  "plywood",
-  "akryl",
-  "typography"
-],
-  "category": "original",
-  "images": [
-  {
-      "src": "/static/paintings/beyonce/beyonce.jpg",
-      "alt": "beyonce front"
-  },
-  {
-      "src": "/static/paintings/beyonce/beyonce-2.jpg",
-      "alt": "beyonce close up"
-  },
-  {
-    "src": "/static/paintings/beyonce/beyonce-3.jpg",
-    "alt": "beyonce side"
-}
-]
-},
-{
   "slug": "/sheme",
   "path": "/sheme",
-  "name": "Is it her, is it me?",
+  "name": "Är det du?",
   "description": "Product description.",
-  "price": "2 500 sek",
+  "price": "6 500 sek",
   "material": {
-    "medium": "Acrylics",
+    "medium": "Akryl",
     "base": "Plywood"
   },
+  "size": "40x50 cm",
   "tags": [
   "plywood",
   "akryl",
-  "typography"
+  "typografi"
 ],
   "category": "original",
   "images": [
   {
       "src": "/static/paintings/sheme/sheme.jpg",
-      "alt": "she me front"
+      "alt": "Tavlan 'Är det du?' framifrån"
   },
   {
       "src": "/static/paintings/sheme/sheme-2.jpg",
-      "alt": "she me close up"
+      "alt": "Tavlan 'Är det du?' närbild"
   },
   {
     "src": "/static/paintings/sheme/sheme-3.jpg",
-    "alt": "she me side"
+    "alt": "Tavlan 'Är det du?' från sidan"
 }
 ]
 },
 {
   "slug": "/see-through-girl-1",
   "path": "/see-through-girl-1",
-  "name": "Came from nothing",
+  "name": "The release",
   "description": "Product description.",
-  "price": "2 500 sek",
+  "price": "3 500 sek",
   "material": {
-    "medium": "Acrylics",
+    "medium": "Akryl",
     "base": "Plywood"
   },
+  "size": "40x50 cm",
   "tags": [
   "plywood",
   "akryl"
@@ -173,28 +147,29 @@
   "images": [
   {
       "src": "/static/paintings/see-through-girl-1/seethrough1.jpg",
-      "alt": "see through girl front"
+      "alt": "Tavlan 'The release' framifrån"
   },
   {
       "src": "/static/paintings/see-through-girl-1/see-through-girl-2.jpg",
-      "alt": "see through girl close up"
+      "alt": "Tavlan 'The release' närbild"
   },
   {
     "src": "/static/paintings/see-through-girl-1/see-through-girl-3.jpg",
-    "alt": "see through girl side"
+    "alt": "Tavlan 'The release' från sidan"
 }
 ]
 },
 {
   "slug": "/see-through-girl-2",
   "path": "/see-through-girl-2",
-  "name": "She was nothing",
+  "name": "Osynlig",
   "description": "Product description.",
-  "price": "2 500 sek",
+  "price": "3 500 sek",
   "material": {
-    "medium": "Acrylics",
+    "medium": "Akryl",
     "base": "Plywood"
   },
+  "size": "40x50 cm",
   "tags": [
   "plywood",
   "akryl"
@@ -203,15 +178,47 @@
   "images": [
   {
       "src": "/static/paintings/see-through-girl-2/seethrough2.jpg",
-      "alt": "see through girl front"
+      "alt": "Tavlan 'Osynlig' framifrån"
   },
   {
       "src": "/static/paintings/see-through-girl-2/see-through-girl2-2.jpg",
-      "alt": "see through girl close up"
+      "alt": "Tavlan 'Osynlig' närbild"
   },
   {
     "src": "/static/paintings/see-through-girl-2/see-through-girl2-3.jpg",
-    "alt": "see through girl side"
+    "alt": "Tavlan 'Osynlig' från sidan"
+}
+]
+},
+{
+  "slug": "/tranor",
+  "path": "/tranor",
+  "name": "Vår evighet",
+  "description": "Product description.",
+  "price": "6 500 sek",
+  "material": {
+    "medium": "Akryl",
+    "base": "Plywood"
+  },
+  "size": "90x90 cm",
+  "tags": [
+  "plywood",
+  "akryl",
+  "typografi"
+],
+  "category": "original",
+  "images": [
+  {
+      "src": "/static/paintings/tranor/tranor.jpg",
+      "alt": "Tavlan 'Vår evighet' framifrån"
+  },
+  {
+      "src": "/static/paintings/tranor/tranor-2.jpg",
+      "alt": "Tavlan 'Vår evighet' närbild"
+  },
+  {
+    "src": "/static/paintings/tranor/tranor-3.jpg",
+    "alt": "Tavlan 'Vår evighet' från sidan"
 }
 ]
 }
