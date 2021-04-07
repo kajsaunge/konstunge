@@ -1,10 +1,12 @@
 .backNav {
   position: absolute;
-  margin-top: 20px;
+  margin-top: 4px;
   border: none;
   cursor: pointer;
   color: grey;
   padding: 16px;
+  background-color: transparent;
+  background: transparent;
 }
 
 .artPiecesWrapper {
