@@ -1,8 +1,8 @@
 {
   "pages": [
     {
-      "slug": "/beyonce",
-      "path": "/beyonce",
+      "slug": "/the-force-within",
+      "path": "/the-force-within",
       "name": "The force within",
       "description": "Product description.",
       "price": "4 500 sek",
@@ -19,15 +19,15 @@
       "category": "original",
       "images": [
       {
-          "src": "/static/paintings/beyonce/beyonce.jpg",
+          "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
           "alt": "Tavlan 'The force within' framifrån"
       },
       {
-          "src": "/static/paintings/beyonce/beyonce-2.jpg",
+          "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
           "alt": "Tavlan 'The force within' närbild"
       },
       {
-        "src": "/static/paintings/beyonce/beyonce-3.jpg",
+        "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
         "alt": "Tavlan 'The force within' från sidan"
     }
     ]
@@ -35,7 +35,7 @@
     {
       "slug": "/newyork",
       "path": "/newyork",
-      "name": "[new]york",
+      "name": "New york",
       "description": "Product description.",
       "price": "5 500 sek",
       "material": {
@@ -52,22 +52,22 @@
       "images": [
       {
           "src": "/static/paintings/newyork/newyork.jpg",
-          "alt": "Tavlan '[new]york' framifrån"
+          "alt": "Tavlan New york framifrån"
       },
       {
           "src": "/static/paintings/newyork/newyork-2.jpg",
-          "alt": "Tavlan '[new]york' närbild"
+          "alt": "Tavlan New york närbild"
       },
       {
         "src": "/static/paintings/newyork/newyork-3.jpg",
-        "alt": "Tavlan '[new]york' från sidan"
+        "alt": "Tavlan New york från sidan"
     }
     ]
   },
   {
-    "slug": "/femme",
-    "path": "/femme",
-    "name": "[wo]man",
+    "slug": "/female",
+    "path": "/female",
+    "name": "Female",
     "description": "Product description.",
     "price": "4 500 sek",
     "material": {
@@ -83,22 +83,22 @@
     "category": "original",
     "images": [
     {
-        "src": "/static/paintings/femme/femme.jpg",
-        "alt": "Tavlan '[wo]man' framifrån"
+        "src": "/static/paintings/female/female_1.jpg",
+        "alt": "Tavlan Female framifrån"
     },
     {
-        "src": "/static/paintings/femme/femme-2.jpg",
-        "alt": "Tavlan '[wo]man' närbild"
+        "src": "/static/paintings/female/female_2.jpg",
+        "alt": "Tavlan Female närbild"
     },
     {
-      "src": "/static/paintings/femme/femme-3.jpg",
-      "alt": "Tavlan '[wo]man' från sidan"
+      "src": "/static/paintings/female/female_3.jpg",
+      "alt": "Tavlan Female från sidan"
   }
   ]
 },
 {
-  "slug": "/sheme",
-  "path": "/sheme",
+  "slug": "/ar-det-du",
+  "path": "/ar-det-du",
   "name": "Är det du?",
   "description": "Product description.",
   "price": "6 500 sek",
@@ -115,22 +115,22 @@
   "category": "original",
   "images": [
   {
-      "src": "/static/paintings/sheme/sheme.jpg",
+      "src": "/static/paintings/ar-det-du/ar-det-du_1.jpg",
       "alt": "Tavlan 'Är det du?' framifrån"
   },
   {
-      "src": "/static/paintings/sheme/sheme-2.jpg",
+      "src": "/static/paintings/ar-det-du/ar-det-du_2.jpg",
       "alt": "Tavlan 'Är det du?' närbild"
   },
   {
-    "src": "/static/paintings/sheme/sheme-3.jpg",
+    "src": "/static/paintings/ar-det-du/ar-det-du_3.jpg",
     "alt": "Tavlan 'Är det du?' från sidan"
 }
 ]
 },
 {
-  "slug": "/see-through-girl-1",
-  "path": "/see-through-girl-1",
+  "slug": "/the-release",
+  "path": "/the-release",
   "name": "The release",
   "description": "Product description.",
   "price": "3 500 sek",
@@ -146,22 +146,22 @@
   "category": "original",
   "images": [
   {
-      "src": "/static/paintings/see-through-girl-1/seethrough1.jpg",
+      "src": "/static/paintings/the-release/the-release_1.jpg",
       "alt": "Tavlan 'The release' framifrån"
   },
   {
-      "src": "/static/paintings/see-through-girl-1/see-through-girl-2.jpg",
+      "src": "/static/paintings/the-release/the-release_2.jpg",
       "alt": "Tavlan 'The release' närbild"
   },
   {
-    "src": "/static/paintings/see-through-girl-1/see-through-girl-3.jpg",
+    "src": "/static/paintings/the-release/the-release_3.jpg",
     "alt": "Tavlan 'The release' från sidan"
 }
 ]
 },
 {
-  "slug": "/see-through-girl-2",
-  "path": "/see-through-girl-2",
+  "slug": "/osynlig",
+  "path": "/osynlig",
   "name": "Osynlig",
   "description": "Product description.",
   "price": "3 500 sek",
@@ -177,22 +177,22 @@
   "category": "original",
   "images": [
   {
-      "src": "/static/paintings/see-through-girl-2/seethrough2.jpg",
+      "src": "/static/paintings/osynlig/osynlig_1.jpg",
       "alt": "Tavlan 'Osynlig' framifrån"
   },
   {
-      "src": "/static/paintings/see-through-girl-2/see-through-girl2-2.jpg",
+      "src": "/static/paintings/osynlig/sosynlig_2.jpg",
       "alt": "Tavlan 'Osynlig' närbild"
   },
   {
-    "src": "/static/paintings/see-through-girl-2/see-through-girl2-3.jpg",
+    "src": "/static/paintings/osynlig/sosynlig_3.jpg",
     "alt": "Tavlan 'Osynlig' från sidan"
 }
 ]
 },
 {
-  "slug": "/tranor",
-  "path": "/tranor",
+  "slug": "/var-evighet",
+  "path": "/var-evighet",
   "name": "Vår evighet",
   "description": "Product description.",
   "price": "6 500 sek",
@@ -209,15 +209,23 @@
   "category": "original",
   "images": [
   {
-      "src": "/static/paintings/tranor/tranor.jpg",
+      "src": "/static/paintings/var-evighet/var-evighet_1.jpg",
       "alt": "Tavlan 'Vår evighet' framifrån"
   },
   {
-      "src": "/static/paintings/tranor/tranor-2.jpg",
+      "src": "/static/paintings/var-evighet/var-evighet_2.jpg",
       "alt": "Tavlan 'Vår evighet' närbild"
   },
   {
-    "src": "/static/paintings/tranor/tranor-3.jpg",
+    "src": "/static/paintings/var-evighet/var-evighet_4.jpg",
+    "alt": "Tavlan 'Vår evighet' närbild"
+},
+{
+  "src": "/static/paintings/var-evighet/var-evighet_5.jpg",
+  "alt": "Tavlan 'Vår evighet' närbild"
+},
+  {
+    "src": "/static/paintings/var-evighet/var-evighet_3.jpg",
     "alt": "Tavlan 'Vår evighet' från sidan"
 }
 ]
