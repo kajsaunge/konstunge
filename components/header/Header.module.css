@@ -14,12 +14,7 @@
   color: grey;
 }
 .logo {
-  margin: 0;
-  height: 1em;
-  font-weight: 400;
-}
-.nav {
-
+  text-transform: uppercase;
 }
 .navList {
   list-style-type: none;
