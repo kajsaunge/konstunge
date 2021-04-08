@@ -10,7 +10,7 @@ const Kontakt = () => {
       <main className='main'>
         <div className='main-intro'>
           <h1 className='main-intro__title'>Don't be a stranger</h1>
-          <p className='main-intro__description'>Har du några som helst frågor kring min konst, ett köp eller ett potentiellt samarbete når du mig enklast på <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a></p>
+          <p className='main-intro__description'>Har du några som helst frågor kring min konst, ett köp eller ett potentiellt samarbete når du mig enklast på <a className='link' href='mailto:info@konstunge.se'>info@konstunge.se</a></p>
         </div>
       </main>
     </>

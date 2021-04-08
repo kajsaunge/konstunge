@@ -34,7 +34,7 @@ const Product = ({ page }) => {
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Beställning</h3>
                 <p className={styles.artPieceDetails}>
-                  För beställning skickar du ett mail till <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a>
+                  För beställning skickar du ett mail till <a className='link' href='mailto:info@konstunge.se'>info@konstunge.se</a>
                 </p>
                 {/* <table className={styles.artPieceTable}>
                   <tbody className={styles.artPieceTableHead}>

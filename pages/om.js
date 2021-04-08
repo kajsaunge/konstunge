@@ -31,7 +31,7 @@ const Om = () => {
               Vid sidan av konsten jobbar jag som utvecklare och designer på ett av Finlands främsta full service byråer. 
             </p>
             <p className={styles.mainContentText}>
-              Sidan växer i sin egen takt och jag fyller på med utökad info och mer konst. Hör gärna av dig till <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a> med förfrågningar.
+              Sidan växer i sin egen takt och jag fyller på med utökad info och mer konst. Hör gärna av dig till <a className='link' href='mailto:info@konstunge.se'>info@konstunge.se</a> med förfrågningar.
             </p>
           </div>
         </div>
