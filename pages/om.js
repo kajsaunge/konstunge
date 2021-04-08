@@ -22,13 +22,16 @@ const Om = () => {
           />
           <div className={styles.mainContentTextBlock}>
             <p className={styles.mainContentText}>
-              Skapandet är främst inspirerat av intryck, känslor och tankar. Men även av uppväxten på vackra Gotland, mixad med intryck från andra delar av världen och vårt underbara Stockholm. Materialen varierar men oftast blir det akryl som får landa vilt på stora plywoodskivor. Motiven får ofta växa fram organiskt utan en fullständig plan, vilket skapar flow både för skaparen och i konstverken.
+              Skapandet är främst inspirerat av intryck, känslor och tankar. Men även av uppväxten på vackra Gotland, mixad med intryck från andra delar av världen och vårt underbara Stockholm. Materialen varierar och oftast är det akryl som får landa vilt på stora plywoodskivor. Motiven får växa fram organiskt utan en fullständig plan, vilket skapar flow både för skaparen och i konstverken.
             </p>
             <p className={styles.mainContentText}>
-              Vid sidan av konsten jobbar jag som utvecklare och designer på Stockholms-kontoret för ett av Finlands främsta full service byråer. 
+              Drivet och passionen för att skapa har följt med sedan barndomen där min mor spelat en stor och viktig roll. Hon var en stark kvinna som följde sin passion och sina drömmar, trots samhällsnormerna som regerade under 80-talet. Ursprungdet av de starka feminina krafterna genomsyrar min konst och får blandas med min fascination för djur och akitektur.
             </p>
             <p className={styles.mainContentText}>
-              Sidan växer i sin egen takt och jag fyller på med utökad info och mer konst. Hör gärna av dig med förfrågningar <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a>
+              Vid sidan av konsten jobbar jag som utvecklare och designer på ett av Finlands främsta full service byråer. 
+            </p>
+            <p className={styles.mainContentText}>
+              Sidan växer i sin egen takt och jag fyller på med utökad info och mer konst. Hör gärna av dig till <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a> med förfrågningar.
             </p>
           </div>
         </div>

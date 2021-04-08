@@ -23,13 +23,17 @@ const Product = ({ page }) => {
               <div className={styles.artPieceContent}>
                 <h3 className={styles.artPieceTitle}>{page.name}</h3>
                 <p className={styles.artPieceDetails}>
-                  {page.size} | {page.material.medium} på {page.material.base}
+                  {page.material.medium} på {page.material.base}
                 </p>
-                <p className={styles.artPiecePrice}>
+                <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
+                <p className={styles.artPieceDetails}>
+                  Storlek: {page.size}
+                </p>
+                <p className={styles.artPieceDetails}>
                   Pris: {page.price}
                 </p>
-                <h3 className={styles.artPieceOrderDetails}>Beställning</h3>
-                <p className={styles.artPiecePrice}>
+                <h3 className={styles.artPieceSubTitle}>Beställning</h3>
+                <p className={styles.artPieceDetails}>
                   För beställning skickar du ett mail till <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a>
                 </p>
                 {/* <table className={styles.artPieceTable}>

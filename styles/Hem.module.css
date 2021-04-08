@@ -19,13 +19,16 @@
   max-width: 400px;
   margin-bottom: 52px;
   margin-left: 16px;
+  transition: .3s;
+  background-color: #f1f1f1;
+  box-shadow: rgba(0, 0, 0, 0.14) 0px 2px 5px;
 }
 .artPiece:hover {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .artPieceContent {
   width: 70%;
-  margin: 0 auto;
+  margin: 36px auto;
 }
 .artPieceImage {
   width: 100%;
