@@ -1,5 +1,5 @@
 body {
-  color: rgb(52, 52, 52);
+  color: var(--text-color);
 }
 .main {
   max-width: 1200px;
@@ -21,8 +21,27 @@ body {
 .main-intro__description {
   margin: 8px;
   line-height: 1.6;
+  transition: .3s;
 }
 
 .link {
-  color: steelblue;
+  transition: .3s;
+  color: var(--link-color);
+}
+.link:hover,
+.link:active,
+.link:focus {
+  color: var(--link-color-hover);
+}
+.visually-hidden {
+  position: absolute !important;
+  height: 1px; 
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap; /* added line */
+}
+*::selection {
+  background: var(--input-color-active);
 }
