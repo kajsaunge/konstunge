@@ -3,12 +3,17 @@
   margin-top: 4px;
   border: none;
   cursor: pointer;
-  color: var(--nav-link-color);
+  color: var(--link-color);
   padding: 16px;
   background-color: transparent;
   background: transparent;
+  transition: .3s;
 }
-
+.backNav:hover,
+.backNav:active,
+.backNav:focus {
+  color: var(--link-color-hover);
+}
 .artPiecesWrapper {
     margin: 16px;
     width: 100%;

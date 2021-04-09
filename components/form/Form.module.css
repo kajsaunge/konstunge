@@ -8,6 +8,7 @@
   padding: 0;
 }
 .formlabel {
+  font-size: 14px;
   width: 100%;
   display: block;
   margin-bottom: 4px;
@@ -35,8 +36,10 @@
   margin: 0;
 }
 .formSubmit {
+  color: var(--text-color);
+  text-transform: uppercase;
   border: none;
-  padding: 12px 20px;
+  padding: 10px 16px;
   background: var(--input-color-active);
 }
 .formSubmit:hover,

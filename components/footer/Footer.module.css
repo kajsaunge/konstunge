@@ -4,7 +4,7 @@
   margin: 0;
   padding: 16px;
   color: var(--text-color);
-  background-color: var(--input-color-hover);
+  background-color: white;
 }
 .content {
   max-width: 1200px;
