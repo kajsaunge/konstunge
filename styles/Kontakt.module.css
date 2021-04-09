@@ -1,0 +1,23 @@
+.mainContent {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 24px;
+    align-items: start;
+  }
+  .mainContentTextBlock {
+    max-width: 600px;
+    margin-top: 12px;
+  }
+  .mainContentTitle {
+    font-size: 16px;
+}
+  .mainContentText {
+    margin-top: 0;
+    line-height: 1.6;
+  }
+  @media screen and (min-width: 1100px) {
+    .mainContent {
+      grid-template-columns: 2fr 1fr;
+    }
+  }
