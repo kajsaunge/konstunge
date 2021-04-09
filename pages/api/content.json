@@ -97,9 +97,9 @@
   ]
 },
 {
-  "slug": "/ar-det-du",
-  "path": "/ar-det-du",
-  "name": "Är det du?",
+  "slug": "/untouched",
+  "path": "/untouched",
+  "name": "Untouched",
   "description": "Product description.",
   "price": "6 500 sek",
   "material": {
@@ -115,16 +115,16 @@
   "category": "original",
   "images": [
   {
-      "src": "/static/paintings/ar-det-du/ar-det-du_1.jpg",
-      "alt": "Tavlan 'Är det du?' framifrån"
+      "src": "/static/paintings/untouched/untouched_1.jpg",
+      "alt": "Tavlan 'Untouched?' framifrån"
   },
   {
-      "src": "/static/paintings/ar-det-du/ar-det-du_2.jpg",
-      "alt": "Tavlan 'Är det du?' närbild"
+      "src": "/static/paintings/untouched/untouched_2.jpg",
+      "alt": "Tavlan 'Untouched?' närbild"
   },
   {
-    "src": "/static/paintings/ar-det-du/ar-det-du_3.jpg",
-    "alt": "Tavlan 'Är det du?' från sidan"
+    "src": "/static/paintings/untouched/untouched_3.jpg",
+    "alt": "Tavlan 'Untouched?' från sidan"
 }
 ]
 },
