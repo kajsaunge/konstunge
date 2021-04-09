@@ -42,6 +42,7 @@ const Product = ({ page }) => {
                   <NextLink
                       href='/kontakt'
                     ><a className='link'>kontaktsidan</a></NextLink>
+
                 </p>
                 {/* <table className={styles.artPieceTable}>
                   <tbody className={styles.artPieceTableHead}>
