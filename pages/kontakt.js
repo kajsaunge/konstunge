@@ -16,8 +16,8 @@ const Kontakt = () => {
             <p className={styles.mainContentText}>
               Har du några som helst frågor kring min konst, ett köp eller ett
               potentiellt samarbete når du mig enklast på{" "}
-              <a className="link" href="mailto:hej@kajsaunge.se">
-                hej@kajsaunge.se
+              <a className="link" href="mailto:info@konstunge.se">
+                info@konstunge.se
               </a>
             </p>
             <p className={styles.mainContentText}>Det går även bra att använda formuläret här intill.</p>
