@@ -1,0 +1,46 @@
+.form {
+  width: 326px;
+  padding: 0;
+  margin: 0;
+}
+.formfieldset {
+  border: none;
+  padding: 0;
+}
+.formlabel {
+  width: 100%;
+  display: block;
+  margin-bottom: 4px;
+}
+.forminput {
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  min-height: 40px;
+  padding: 4px 8px;
+}
+.forminputTextarea {
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  min-height: 100px;
+  padding: 8px;
+}
+.forminput:focus,
+.forminputTextarea:focus {
+  border-radius: 0;
+  outline-color: var(--input-color-active);
+  border: none;
+  box-shadow: none;
+  margin: 0;
+}
+.formSubmit {
+  border: none;
+  padding: 12px 20px;
+  background: var(--input-color-active);
+}
+.formSubmit:hover,
+.formSubmit:focus,
+.formSubmit:active {
+  background: var(--input-color-hover);
+}
