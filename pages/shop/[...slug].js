@@ -1,4 +1,5 @@
 import { useRouter } from "next/router";
+import NextLink from "next/link";
 
 import content from "../api/content.json";
 import ImageGallery from "components/imageGallery";
@@ -34,7 +35,13 @@ const Product = ({ page }) => {
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Beställning</h3>
                 <p className={styles.artPieceDetails}>
-                  För beställning skickar du ett mail till <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a>
+                  För beställning skickar du ett mail till <a className='link' href='mailto:hej@kajsaunge.se'>hej@kajsaunge.se</a>.
+                </p>
+                <p className={styles.artPieceDetails}>
+                  Du kan även använda formuläret på {" "}
+                  <NextLink
+                      href='/kontakt'
+                    ><a className='link'>kontaktsidan</a></NextLink>
                 </p>
                 {/* <table className={styles.artPieceTable}>
                   <tbody className={styles.artPieceTableHead}>

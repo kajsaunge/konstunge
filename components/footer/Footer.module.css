@@ -3,8 +3,8 @@
   height: 48px;
   margin: 0;
   padding: 16px;
-  color: rgb(232, 232, 232);
-  background-color: rgb(79, 79, 79);
+  color: var(--text-color);
+  background-color: var(--input-color-hover);
 }
 .content {
   max-width: 1200px;

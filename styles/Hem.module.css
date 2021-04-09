@@ -18,9 +18,8 @@
   min-width: 310px;
   max-width: 400px;
   margin-bottom: 52px;
-  margin-left: 16px;
   transition: .3s;
-  background-color: #f1f1f1;
+  background-color: var(--page-bg-color);
   box-shadow: rgba(0, 0, 0, 0.14) 0px 2px 5px;
 }
 .artPiece:hover {
@@ -45,7 +44,12 @@
   margin-top: 2px;
   font-size: 16px;
   text-align: center;
-  color: grey;
+  color: var(--nav-link-color);
   padding-top: 12px;
   border-top: 1px solid silver;
+}
+@media screen and (min-width: 1100px) {
+  .artPiece {
+    margin-left: 16px;
+  }
 }
