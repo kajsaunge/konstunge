@@ -12,25 +12,24 @@
       },
       "size": "40x50 cm",
       "tags": [
-      "plywood",
-      "akryl",
-      "typografi"
-    ],
+        "plywood",
+        "akryl"
+      ],
       "category": "original",
       "images": [
-      {
+        {
           "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
           "alt": "Tavlan 'The force within' framifrån"
-      },
-      {
+        },
+        {
           "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
           "alt": "Tavlan 'The force within' närbild"
-      },
-      {
-        "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
-        "alt": "Tavlan 'The force within' från sidan"
-    }
-    ]
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
+          "alt": "Tavlan 'The force within' från sidan"
+        }
+      ]
     },
     {
       "slug": "/newyork",
@@ -44,191 +43,279 @@
       },
       "size": "50x90 cm",
       "tags": [
-      "plywood",
-      "akryl",
-      "typografi"
-    ],
+        "plywood",
+        "akryl",
+        "typografi"
+      ],
       "category": "original",
       "images": [
-      {
+        {
           "src": "/static/paintings/newyork/newyork.jpg",
           "alt": "Tavlan New york framifrån"
-      },
-      {
+        },
+        {
           "src": "/static/paintings/newyork/newyork-2.jpg",
           "alt": "Tavlan New york närbild"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork-3.jpg",
+          "alt": "Tavlan New york från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/female",
+      "path": "/female",
+      "name": "Female",
+      "description": "Product description.",
+      "price": "4 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
       },
-      {
-        "src": "/static/paintings/newyork/newyork-3.jpg",
-        "alt": "Tavlan New york från sidan"
+      "size": "50x90 cm",
+      "tags": [
+        "plywood",
+        "akryl",
+        "typografi"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/female/female_1.jpg",
+          "alt": "Tavlan Female framifrån"
+        },
+        {
+          "src": "/static/paintings/female/female_2.jpg",
+          "alt": "Tavlan Female närbild"
+        },
+        {
+          "src": "/static/paintings/female/female_3.jpg",
+          "alt": "Tavlan Female från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/untouched",
+      "path": "/untouched",
+      "name": "Untouched",
+      "description": "Product description.",
+      "price": "6 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "size": "40x50 cm",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/untouched/untouched_1.jpg",
+          "alt": "Tavlan 'Untouched?' framifrån"
+        },
+        {
+          "src": "/static/paintings/untouched/untouched_2.jpg",
+          "alt": "Tavlan 'Untouched?' närbild"
+        },
+        {
+          "src": "/static/paintings/untouched/untouched_3.jpg",
+          "alt": "Tavlan 'Untouched?' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/the-release",
+      "path": "/the-release",
+      "name": "The release",
+      "description": "Product description.",
+      "price": "3 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "size": "40x50 cm",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-release/the-release_1.jpg",
+          "alt": "Tavlan 'The release' framifrån"
+        },
+        {
+          "src": "/static/paintings/the-release/the-release_2.jpg",
+          "alt": "Tavlan 'The release' närbild"
+        },
+        {
+          "src": "/static/paintings/the-release/the-release_3.jpg",
+          "alt": "Tavlan 'The release' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/osynlig",
+      "path": "/osynlig",
+      "name": "Osynlig",
+      "description": "Product description.",
+      "price": "3 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "size": "40x50 cm",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/osynlig/osynlig_1.jpg",
+          "alt": "Tavlan 'Osynlig' framifrån"
+        },
+        {
+          "src": "/static/paintings/osynlig/sosynlig_2.jpg",
+          "alt": "Tavlan 'Osynlig' närbild"
+        },
+        {
+          "src": "/static/paintings/osynlig/sosynlig_3.jpg",
+          "alt": "Tavlan 'Osynlig' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/var-evighet",
+      "path": "/var-evighet",
+      "name": "Vår evighet",
+      "description": "Product description.",
+      "price": "6 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "size": "90x90 cm",
+      "tags": [
+        "plywood",
+        "akryl",
+        "typografi"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/var-evighet/var-evighet_1.jpg",
+          "alt": "Tavlan 'Vår evighet' framifrån"
+        },
+        {
+          "src": "/static/paintings/var-evighet/var-evighet_2.jpg",
+          "alt": "Tavlan 'Vår evighet' närbild"
+        },
+        {
+          "src": "/static/paintings/var-evighet/var-evighet_4.jpg",
+          "alt": "Tavlan 'Vår evighet' närbild"
+        },
+        {
+          "src": "/static/paintings/var-evighet/var-evighet_5.jpg",
+          "alt": "Tavlan 'Vår evighet' närbild"
+        },
+        {
+          "src": "/static/paintings/var-evighet/var-evighet_3.jpg",
+          "alt": "Tavlan 'Vår evighet' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/the-inhabitat",
+      "path": "/the-inhabitat",
+      "name": "The inhabitat",
+      "description": "Product description.",
+      "price": "2 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "size": "40x40 cm",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_1.jpg",
+          "alt": "Tavlan The inhabitat framifrån"
+        },
+        {
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_2.jpg",
+          "alt": "Tavlan The inhabitat närbild"
+        }
+      ]
+    },
+    {
+      "slug": "/balance",
+      "path": "/balance",
+      "name": "Balance",
+      "description": "Product description.",
+      "price": "3 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plexiglas"
+      },
+      "size": "50x70 cm",
+      "tags": [
+        "plexiglas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/balance/balance_1.jpg",
+          "alt": "Tavlan Balance framifrån"
+        },
+        {
+          "src": "/static/paintings/balance/balance_2.jpg",
+          "alt": "Tavlan Balance närbild"
+        },
+        {
+          "src": "/static/paintings/balance/balance_3.jpg",
+          "alt": "Tavlan Balance från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/leaving",
+      "path": "/leaving",
+      "name": "Leaving",
+      "description": "Product description.",
+      "price": "3 500 sek",
+      "material": {
+        "medium": "Akryl",
+        "base": "Glas"
+      },
+      "size": "40x30 cm",
+      "tags": [
+        "glas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/leaving/leaving_1.jpg",
+          "alt": "Tavlan Leaving framifrån"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_2.jpg",
+          "alt": "Tavlan Leaving närbild"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "alt": "Tavlan Leaving från sidan"
+        }
+      ]
     }
-    ]
-  },
-  {
-    "slug": "/female",
-    "path": "/female",
-    "name": "Female",
-    "description": "Product description.",
-    "price": "4 500 sek",
-    "material": {
-      "medium": "Akryl",
-      "base": "Plywood"
-    },
-    "size": "50x90 cm",
-    "tags": [
-    "plywood",
-    "akryl",
-    "typografi"
-  ],
-    "category": "original",
-    "images": [
-    {
-        "src": "/static/paintings/female/female_1.jpg",
-        "alt": "Tavlan Female framifrån"
-    },
-    {
-        "src": "/static/paintings/female/female_2.jpg",
-        "alt": "Tavlan Female närbild"
-    },
-    {
-      "src": "/static/paintings/female/female_3.jpg",
-      "alt": "Tavlan Female från sidan"
-  }
-  ]
-},
-{
-  "slug": "/untouched",
-  "path": "/untouched",
-  "name": "Untouched",
-  "description": "Product description.",
-  "price": "6 500 sek",
-  "material": {
-    "medium": "Akryl",
-    "base": "Plywood"
-  },
-  "size": "40x50 cm",
-  "tags": [
-  "plywood",
-  "akryl",
-  "typografi"
-],
-  "category": "original",
-  "images": [
-  {
-      "src": "/static/paintings/untouched/untouched_1.jpg",
-      "alt": "Tavlan 'Untouched?' framifrån"
-  },
-  {
-      "src": "/static/paintings/untouched/untouched_2.jpg",
-      "alt": "Tavlan 'Untouched?' närbild"
-  },
-  {
-    "src": "/static/paintings/untouched/untouched_3.jpg",
-    "alt": "Tavlan 'Untouched?' från sidan"
-}
-]
-},
-{
-  "slug": "/the-release",
-  "path": "/the-release",
-  "name": "The release",
-  "description": "Product description.",
-  "price": "3 500 sek",
-  "material": {
-    "medium": "Akryl",
-    "base": "Plywood"
-  },
-  "size": "40x50 cm",
-  "tags": [
-  "plywood",
-  "akryl"
-],
-  "category": "original",
-  "images": [
-  {
-      "src": "/static/paintings/the-release/the-release_1.jpg",
-      "alt": "Tavlan 'The release' framifrån"
-  },
-  {
-      "src": "/static/paintings/the-release/the-release_2.jpg",
-      "alt": "Tavlan 'The release' närbild"
-  },
-  {
-    "src": "/static/paintings/the-release/the-release_3.jpg",
-    "alt": "Tavlan 'The release' från sidan"
-}
-]
-},
-{
-  "slug": "/osynlig",
-  "path": "/osynlig",
-  "name": "Osynlig",
-  "description": "Product description.",
-  "price": "3 500 sek",
-  "material": {
-    "medium": "Akryl",
-    "base": "Plywood"
-  },
-  "size": "40x50 cm",
-  "tags": [
-  "plywood",
-  "akryl"
-],
-  "category": "original",
-  "images": [
-  {
-      "src": "/static/paintings/osynlig/osynlig_1.jpg",
-      "alt": "Tavlan 'Osynlig' framifrån"
-  },
-  {
-      "src": "/static/paintings/osynlig/sosynlig_2.jpg",
-      "alt": "Tavlan 'Osynlig' närbild"
-  },
-  {
-    "src": "/static/paintings/osynlig/sosynlig_3.jpg",
-    "alt": "Tavlan 'Osynlig' från sidan"
-}
-]
-},
-{
-  "slug": "/var-evighet",
-  "path": "/var-evighet",
-  "name": "Vår evighet",
-  "description": "Product description.",
-  "price": "6 500 sek",
-  "material": {
-    "medium": "Akryl",
-    "base": "Plywood"
-  },
-  "size": "90x90 cm",
-  "tags": [
-  "plywood",
-  "akryl",
-  "typografi"
-],
-  "category": "original",
-  "images": [
-  {
-      "src": "/static/paintings/var-evighet/var-evighet_1.jpg",
-      "alt": "Tavlan 'Vår evighet' framifrån"
-  },
-  {
-      "src": "/static/paintings/var-evighet/var-evighet_2.jpg",
-      "alt": "Tavlan 'Vår evighet' närbild"
-  },
-  {
-    "src": "/static/paintings/var-evighet/var-evighet_4.jpg",
-    "alt": "Tavlan 'Vår evighet' närbild"
-},
-{
-  "src": "/static/paintings/var-evighet/var-evighet_5.jpg",
-  "alt": "Tavlan 'Vår evighet' närbild"
-},
-  {
-    "src": "/static/paintings/var-evighet/var-evighet_3.jpg",
-    "alt": "Tavlan 'Vår evighet' från sidan"
-}
-]
-}
   ]
 }
