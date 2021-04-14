@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Image from "next/image";
 import NextLink from "next/link";
 
@@ -7,6 +8,11 @@ import styles from "../styles/Hem.module.css";
 const Home = () => {
   return (
     <>
+    <Head>
+        <title>Konsunge</title>
+        <link rel="icon" href="/favicon.ico" />
+        <meta description="Konst portfolio med original av konstnären Kajsa Unge" />
+      </Head>
       <main className='main'>
         <div className='main-intro'>
           <h1 className='main-intro__title'>Välkommen</h1>

@@ -1,3 +1,4 @@
+import Head from "next/head";
 import { useRouter } from "next/router";
 import NextLink from "next/link";
 
@@ -5,17 +6,26 @@ import content from "../api/content.json";
 import ImageGallery from "components/imageGallery";
 import styles from "../../styles/Produkt.module.css";
 
-{/* TODO add content. Fix styles. Add a page footer */}
+{
+  /* TODO add content. Fix styles. Add a page footer */
+}
 
 const Product = ({ page }) => {
   const router = useRouter();
   return (
     <>
-      <main className='main'>
-        <button className={styles.backNav} onClick={() => router.back()}>&#60; Back</button>
-        <div className='main-intro'>
-          <h1 className='main-intro__title'>{page.name}</h1>
-          <p className='main-intro__description'>Unik konst för unika hem</p>
+      <Head>
+        <title>Konsunge | Produktsida för {page.name}</title>
+        <link rel="icon" href="/favicon.ico" />
+        <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
+      </Head>
+      <main className="main">
+        <button className={styles.backNav} onClick={() => router.back()}>
+          &#60; Back
+        </button>
+        <div className="main-intro">
+          <h1 className="main-intro__title">{page.name}</h1>
+          <p className="main-intro__description">Unik konst för unika hem</p>
         </div>
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
@@ -27,22 +37,21 @@ const Product = ({ page }) => {
                   {page.material.medium} på {page.material.base}
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
-                <p className={styles.artPieceDetails}>
-                  Storlek: {page.size}
-                </p>
-                <p className={styles.artPieceDetails}>
-                  Pris: {page.price}
-                </p>
+                <p className={styles.artPieceDetails}>Storlek: {page.size}</p>
+                <p className={styles.artPieceDetails}>Pris: {page.price}</p>
                 <h3 className={styles.artPieceSubTitle}>Beställning</h3>
                 <p className={styles.artPieceDetails}>
-                  För beställning skickar du ett mail till <a className='link' href='mailto:info@konstunge.se'>info@konstunge.se</a>.
+                  För beställning skickar du ett mail till{" "}
+                  <a className="link" href="mailto:info@konstunge.se">
+                    info@konstunge.se
+                  </a>
+                  .
                 </p>
                 <p className={styles.artPieceDetails}>
-                  Du kan även använda formuläret på {" "}
-                  <NextLink
-                      href='/kontakt'
-                    ><a className='link'>kontaktsidan</a></NextLink>
-
+                  Du kan även använda formuläret på{" "}
+                  <NextLink href="/kontakt">
+                    <a className="link">kontaktsidan</a>
+                  </NextLink>
                 </p>
                 {/* <table className={styles.artPieceTable}>
                   <tbody className={styles.artPieceTableHead}>
