@@ -19,3 +19,9 @@
   margin: 0;
   font-size: 16px;
 }
+.footerNavList {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+}
