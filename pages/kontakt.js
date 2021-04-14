@@ -6,7 +6,7 @@ const Kontakt = () => {
   return (
     <>
       <Head>
-        <title>Konsunge | Kontakt</title>
+        <title>Konstunge | Kontakt</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Kontaktinformation till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>

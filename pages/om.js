@@ -8,7 +8,7 @@ const Om = () => {
   return (
     <>
       <Head>
-        <title>Konsunge | Om</title>
+        <title>Konstunge | Om</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Konst portfolio för Kajsa Unge, svensk konstnär och designer" />
       </Head>

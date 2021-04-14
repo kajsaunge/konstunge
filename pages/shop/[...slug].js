@@ -15,7 +15,7 @@ const Product = ({ page }) => {
   return (
     <>
       <Head>
-        <title>Konsunge | Produktsida för {page.name}</title>
+        <title>Konstunge | Produktsida för {page.name}</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
