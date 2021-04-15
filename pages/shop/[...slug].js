@@ -20,9 +20,9 @@ const Product = ({ page }) => {
         <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
       <main className="main">
-        <button className={styles.backNav} onClick={() => router.back()}>
-          &#60; Back
-        </button>
+        <nav className={styles.backNavWrapper}>
+        <button className={styles.backNav} onClick={() => router.back()}>Back</button>
+        </nav>
         <div className="main-intro">
           <h1 className="main-intro__title">{page.name}</h1>
           <p className="main-intro__description">Unik konst för unika hem</p>
