@@ -2,8 +2,9 @@
     --page-bg-color: #f1f1f1;
     --text-color: rgb(52, 52, 52);
     --nav-link-color: grey;
+    --nav-link-color--active: rgb(97, 97, 97);
     --link-color: steelblue;
-    --link-color-hover: #003566;
-    --input-color-active: #ffd60a;
-    --input-color-hover: #fdc500;
+    --link-color--active: #003566;
+    --interactive-color: #ffd60a;
+    --interactive-color--active: #fdc500;
 }

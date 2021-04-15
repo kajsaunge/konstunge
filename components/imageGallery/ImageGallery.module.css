@@ -44,8 +44,8 @@
 .galleryListItemButton:active {
   outline: none;
   border-radius: 0 !important;
-  border: 1px solid var(--input-color-active);
+  border: 1px solid var(--interactive-color--active);
 }
 .galleryListItemButton:hover {
-  border: 1px solid var(--input-color-active);
+  border: 1px solid var(--interactive-color--active);
 }
