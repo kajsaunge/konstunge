@@ -30,7 +30,7 @@
 .forminput:focus,
 .forminputTextarea:focus {
   border-radius: 0;
-  outline-color: var(--input-color-active);
+  outline-color: var(--interactive-color);
   border: none;
   box-shadow: none;
   margin: 0;
@@ -40,10 +40,10 @@
   text-transform: uppercase;
   border: none;
   padding: 10px 16px;
-  background: var(--input-color-active);
+  background: var(--interactive-color);
 }
 .formSubmit:hover,
 .formSubmit:focus,
 .formSubmit:active {
-  background: var(--input-color-hover);
+  background: var(--interactive-color--active);
 }

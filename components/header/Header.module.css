@@ -36,5 +36,5 @@
 .navListItem:hover,
 .navListItem:focus,
 .navListItem:active {
-  border-bottom: 2px solid var(--input-color-active);
+  border-bottom: 2px solid var(--interactive-color--active);
 }
