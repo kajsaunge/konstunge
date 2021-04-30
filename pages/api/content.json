@@ -5,13 +5,13 @@
       "path": "/the-force-within",
       "name": "The force within",
       "description": "Product description.",
-      "price": "4 500 sek",
+      "price": "4 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "70x100 cm",
+      "size": "70x100",
       "tags": [
         "plywood",
         "akryl"
@@ -37,13 +37,13 @@
       "path": "/the-strong-and",
       "name": "The strong &",
       "description": "Product description.",
-      "price": "3 500 sek",
+      "price": "3 500",
       "status": "sold",
       "material": {
         "medium": "Akryl",
         "base": "Canvas"
       },
-      "size": "50x70 cm",
+      "size": "50x70",
       "tags": [
         "plywood",
         "akryl"
@@ -77,13 +77,13 @@
       "path": "/newyork",
       "name": "New york",
       "description": "Product description.",
-      "price": "5 500 sek",
+      "price": "5 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "80x120 cm",
+      "size": "80x120",
       "tags": [
         "plywood",
         "akryl",
@@ -110,13 +110,13 @@
       "path": "/female",
       "name": "Female",
       "description": "Product description.",
-      "price": "4 500 sek",
+      "price": "4 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "80x120 cm",
+      "size": "80x120",
       "tags": [
         "plywood",
         "akryl",
@@ -143,13 +143,13 @@
       "path": "/untouched",
       "name": "Untouched",
       "description": "Product description.",
-      "price": "6 500 sek",
+      "price": "6 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "70x100 cm",
+      "size": "70x100",
       "tags": [
         "plywood",
         "akryl"
@@ -175,13 +175,13 @@
       "path": "/the-release",
       "name": "The release",
       "description": "Product description.",
-      "price": "3 500 sek",
+      "price": "3 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "60x80 cm",
+      "size": "60x80",
       "tags": [
         "plywood",
         "akryl"
@@ -207,13 +207,13 @@
       "path": "/osynlig",
       "name": "Osynlig",
       "description": "Product description.",
-      "price": "3 500 sek",
+      "price": "3 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "60x80 cm",
+      "size": "60x80",
       "tags": [
         "plywood",
         "akryl"
@@ -239,13 +239,13 @@
       "path": "/var-evighet",
       "name": "Vår evighet",
       "description": "Product description.",
-      "price": "6 500 sek",
+      "price": "6 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "120x120 cm",
+      "size": "120x120",
       "tags": [
         "plywood",
         "akryl",
@@ -280,13 +280,13 @@
       "path": "/the-inhabitat",
       "name": "The inhabitat",
       "description": "Product description.",
-      "price": "2 500 sek",
+      "price": "2 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Canvas"
       },
-      "size": "40x40 cm",
+      "size": "40x40",
       "tags": [
         "canvas",
         "akryl"
@@ -308,13 +308,13 @@
       "path": "/balance",
       "name": "Balance",
       "description": "Product description.",
-      "price": "3 500 sek",
+      "price": "3 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plexiglas"
       },
-      "size": "50x70 cm",
+      "size": "50x70",
       "tags": [
         "plexiglas",
         "akryl"
@@ -340,13 +340,13 @@
       "path": "/leaving",
       "name": "Leaving",
       "description": "Product description.",
-      "price": "3 500 sek",
+      "price": "3 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Glas"
       },
-      "size": "40x30 cm",
+      "size": "40x30",
       "tags": [
         "glas",
         "akryl"
