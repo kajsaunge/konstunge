@@ -10,14 +10,21 @@ import styles from "../styles/Hem.module.css";
 
 const Home = () => {
   const [sortValue, setSortValue] = useState('')
-  const [artOrder, setArtOrder] = useState([])
 
   // useEffect(() => {
-  //   setArtOrder(!sortValue)
+  //   setSortValue(sortValue)
   // }, [sortValue])
 
   const mapped = content.pages.map((el, i) => {
-    return { index: i, value: el.price };
+    console.log(el.size);
+    const sortBy = sortValue !== ''
+      ? sortValue === 'price'
+        ? el.price
+        : el.size
+      : ''
+    
+    console.log(sortValue);
+    return { index: i, value: sortBy};
   })
 
   mapped.sort((a, b) => {
@@ -86,7 +93,6 @@ const Home = () => {
                 );
               }) :
               content.pages.map((piece, i) => {
-                // console.log(childData);
                 return (
                   <li key={i} className={styles.artPiece}>
                     <NextLink
