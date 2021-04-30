@@ -11,7 +11,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "70x100",
+      "width": "70",
+      "height": "100",
       "tags": [
         "plywood",
         "akryl"
@@ -43,7 +44,8 @@
         "medium": "Akryl",
         "base": "Canvas"
       },
-      "size": "50x70",
+      "width": "50",
+      "height": "70",
       "tags": [
         "plywood",
         "akryl"
@@ -83,7 +85,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "80x120",
+      "width": "80",
+      "height": "120",
       "tags": [
         "plywood",
         "akryl",
@@ -116,7 +119,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "80x120",
+      "width": "80",
+      "height": "120",
       "tags": [
         "plywood",
         "akryl",
@@ -149,7 +153,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "70x100",
+      "width": "70",
+      "height": "100",
       "tags": [
         "plywood",
         "akryl"
@@ -181,7 +186,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "60x80",
+      "width": "60",
+      "height": "80",
       "tags": [
         "plywood",
         "akryl"
@@ -213,7 +219,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "60x80",
+      "width": "60",
+      "height": "80",
       "tags": [
         "plywood",
         "akryl"
@@ -245,7 +252,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "size": "120x120",
+      "width": "120",
+      "height": "120",
       "tags": [
         "plywood",
         "akryl",
@@ -286,7 +294,8 @@
         "medium": "Akryl",
         "base": "Canvas"
       },
-      "size": "40x40",
+      "width": "40",
+      "height": "40",
       "tags": [
         "canvas",
         "akryl"
@@ -314,7 +323,8 @@
         "medium": "Akryl",
         "base": "Plexiglas"
       },
-      "size": "50x70",
+      "width": "50",
+      "height": "70",
       "tags": [
         "plexiglas",
         "akryl"
@@ -346,7 +356,8 @@
         "medium": "Akryl",
         "base": "Glas"
       },
-      "size": "40x30",
+      "width": "30",
+      "height": "40",
       "tags": [
         "glas",
         "akryl"

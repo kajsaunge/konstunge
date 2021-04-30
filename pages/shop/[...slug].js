@@ -37,7 +37,7 @@ const Product = ({ page }) => {
                   {page.material.medium} på {page.material.base}
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
-                <p className={styles.artPieceDetails}>Storlek: {page.size} cm</p>
+                <p className={styles.artPieceDetails}>Storlek: {page.width}x{page.height} cm</p>
                 <p className={styles.artPieceDetails}>Pris: {page.price} kr</p>
                 <h3 className={styles.artPieceSubTitle}>Beställning</h3>
                 <p className={styles.artPieceDetails}>
