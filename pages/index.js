@@ -11,19 +11,20 @@ import styles from "../styles/Hem.module.css";
 const Home = () => {
   const [sortValue, setSortValue] = useState('')
 
-  // useEffect(() => {
-  //   setSortValue(sortValue)
-  // }, [sortValue])
+  useEffect(() => {
+    setSortValue(sortValue)
+  }, [sortValue])
 
   const mapped = content.pages.map((el, i) => {
-    console.log(el.size);
+    const elWidth = parseInt(el.width)
+    const elHeight = parseInt(el.height)
+    const sizeSort = elWidth < elHeight ? elWidth : elHeight
     const sortBy = sortValue !== ''
       ? sortValue === 'price'
         ? el.price
-        : el.size
+        : sizeSort
       : ''
     
-    console.log(sortValue);
     return { index: i, value: sortBy};
   })
 
@@ -86,6 +87,9 @@ const Home = () => {
                           <p className={styles.artPieceDescription}>
                             {piece.price}
                           </p>
+                          <p className={styles.artPieceDescription}>
+                            {piece.width}x{piece.height}
+                          </p>
                         </div>
                       </a>
                     </NextLink>
@@ -114,7 +118,10 @@ const Home = () => {
                         <div className={styles.artPieceContent}>
                           <h3 className={styles.artPieceTitle}>{piece.name}</h3>
                           <p className={styles.artPieceDescription}>
-                            {piece.price}
+                            <b>Pris:</b> {piece.price} kr
+                          </p>
+                          <p className={styles.artPieceDescription}>
+                            <b>Storlek:</b> {piece.width}x{piece.height} cm
                           </p>
                         </div>
                       </a>
