@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 import styles from "./Sorter.module.css";
 
-const Sorter = ({ toggles, sortValue }) => {
+const Sorter = ({ toggleBy, getSortValue }) => {
   const [toggled, setToggled] = useState('');
 
   useEffect(() => {
@@ -13,19 +13,19 @@ const Sorter = ({ toggles, sortValue }) => {
     e.stopPropagation();
     if (toggled !== e.target.name) {
       setToggled(e.target.name);
-      sortValue(e.target.name);
+      getSortValue(e.target.name)
     } else if (toggled === e.target.name && toggled !== '') {
       setToggled('');
-      sortValue('');
+      getSortValue('')
     }
   };
 
   return (
     <div className={styles.sorter}>
-      <form>
-        <formfield>Sortera</formfield>
+      <form className={styles.sorterForm}>
+        <formfield className={styles.sorterFormField}>Sortera</formfield>
         <ul className={styles.sorterList}>
-          {toggles.map((item, i) => (
+          {toggleBy.map((item, i) => (
             <li
               key={i}
               className={
