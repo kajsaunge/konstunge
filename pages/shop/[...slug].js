@@ -10,12 +10,12 @@ import styles from "../../styles/Produkt.module.css";
   /* TODO add content. Fix styles. Add a page footer */
 }
 
-const Product = ({ page }) => {
+const Product = ({ piece }) => {
   const router = useRouter();
   return (
     <>
       <Head>
-        <title>Konstunge | Produktsida för {page.name}</title>
+        <title>Konstunge | Produktsida för {piece.name}</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
@@ -24,21 +24,21 @@ const Product = ({ page }) => {
         <button className={styles.backNav} onClick={() => router.back()}>Back</button>
         </nav>
         <div className="main-intro">
-          <h1 className="main-intro__title">{page.name}</h1>
+          <h1 className="main-intro__title">{piece.name}</h1>
           <p className="main-intro__description">Unik konst för unika hem</p>
         </div>
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
             <ul className={styles.artPieces}>
-              <ImageGallery images={page.images} />
+              <ImageGallery images={piece.images} />
               <div className={styles.artPieceContent}>
-                <h3 className={styles.artPieceTitle}>{page.name}</h3>
+                <h3 className={styles.artPieceTitle}>{piece.name}</h3>
                 <p className={styles.artPieceDetails}>
-                  {page.material.medium} på {page.material.base}
+                  {piece.material.medium} på {piece.material.base}
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
-                <p className={styles.artPieceDetails}>Storlek: {page.size}</p>
-                <p className={styles.artPieceDetails}>Pris: {page.price}</p>
+                <p className={styles.artPieceDetails}>Storlek: {piece.width}x{piece.height} cm</p>
+                <p className={styles.artPieceDetails}>Pris: {piece.price} kr</p>
                 <h3 className={styles.artPieceSubTitle}>Beställning</h3>
                 <p className={styles.artPieceDetails}>
                   För beställning skickar du ett mail till{" "}
@@ -59,9 +59,9 @@ const Product = ({ page }) => {
                     <th>Material:</th>
                   </tbody>
                   <tbody className={styles.artPieceTableData}>
-                    <td>{page.size}</td>
+                    <td>{piece.size}</td>
                     <td>
-                      {page.material.medium} på {page.material.base}
+                      {piece.material.medium} på {piece.material.base}
                     </td>
                   </tbody>
                 </table> */}
@@ -75,8 +75,8 @@ const Product = ({ page }) => {
 };
 
 export async function getStaticPaths() {
-  const paths = content.pages.map((page) => {
-    const slug = page.slug.split("/").slice(1);
+  const paths = content.pieces.map((piece) => {
+    const slug = piece.slug.split("/").slice(1);
     return { params: { slug } };
   });
   return { paths, fallback: false };
@@ -86,10 +86,10 @@ export async function getStaticProps(context) {
   const { params } = context;
 
   const currentPath = `/${params.slug.join("/")}`;
-  const page = content.pages.find((page) => page.path === currentPath) || {
+  const piece = content.pieces.find((piece) => piece.path === currentPath) || {
     notfound: true,
   };
-  return { props: { page } };
+  return { props: { piece } };
 }
 
 export default Product;

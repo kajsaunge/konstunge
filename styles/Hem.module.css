@@ -4,20 +4,20 @@
     margin: 0 auto;
 }
 .artPieces {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(172px, 372px));
   justify-content: center;
-  margin: 16px;
+  grid-gap: 16px;
   list-style-type: none;
   padding-left: 0;
   width: 100%;
   margin: 0 auto;
+  max-width: 1200px;
 }
 
 .artPiece {
   min-width: 310px;
   max-width: 400px;
-  margin-bottom: 52px;
   transition: .3s;
   background-color: var(--page-bg-color);
   box-shadow: rgba(0, 0, 0, 0.14) 0px 2px 5px;
@@ -47,9 +47,4 @@
   color: var(--nav-link-color);
   padding-top: 12px;
   border-top: 1px solid silver;
-}
-@media screen and (min-width: 667px) {
-  .artPiece {
-    margin-left: 16px;
-  }
 }

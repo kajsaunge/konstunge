@@ -2,6 +2,7 @@ body {
   color: var(--text-color);
 }
 .main {
+  width: 100%;
   max-width: 1200px;
   margin: 0 auto;
   padding: 46px 16px;
@@ -44,4 +45,14 @@ body {
 }
 *::selection {
   background: var(--interactive-color--active);
+}
+.visually-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  border: 0;
+  height: 1px; margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  width: 1px;
+  white-space: nowrap;
 }

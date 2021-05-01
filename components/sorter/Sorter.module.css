@@ -1,0 +1,44 @@
+.sorter {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+@media screen and (min-width: 1180px) {
+    .sorter {
+      justify-content: flex-end;
+    }
+}
+.sorterForm {
+  display: flex;
+  align-items: center;
+}
+.sorterFormField {
+  margin-right: 16px;
+}
+.sorterList {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+}
+
+.sorterListItem {
+  margin-right: 8px;
+  background: transparent;
+  color: var(--text-color);
+  text-transform: uppercase;
+  padding: 10px 16px;
+  border: 1px solid var(--interactive-color);
+}
+.sorterListItemToggled {
+  margin-right: 8px;
+  background: transparent;
+  color: var(--text-color);
+  text-transform: uppercase;
+  padding: 10px 16px;
+  border: 1px solid var(--interactive-color--active);
+  background: var(--interactive-color);
+}
+.sorterListInput {
+  display: none;
+}
