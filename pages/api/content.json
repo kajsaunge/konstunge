@@ -34,47 +34,6 @@
       ]
     },
     {
-      "slug": "/the-strong-and",
-      "path": "/the-strong-and",
-      "name": "The strong &",
-      "description": "Product description.",
-      "price": "3 500",
-      "status": "sold",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-strong-and/the-strong-and_.jpg",
-          "alt": "Tavlan 'The strong and' framifrån"
-        },
-        {
-          "src": "/static/paintings/the-strong-and/the-strong-and_2.jpg",
-          "alt": "Tavlan 'The strong and' närbild"
-        },
-        {
-          "src": "/static/paintings/the-strong-and/the-strong-and_3.jpg",
-          "alt": "Tavlan 'The strong and' från sidan"
-        },
-        {
-          "src": "/static/paintings/the-strong-and/the-strong-and_4.jpg",
-          "alt": "Tavlan 'The strong and' närbild"
-        },
-        {
-          "src": "/static/paintings/the-strong-and/the-strong-and_5.jpg",
-          "alt": "Tavlan 'The strong and' närbild"
-        }
-      ]
-    },
-    {
       "slug": "/newyork",
       "path": "/newyork",
       "name": "New york",
@@ -342,6 +301,47 @@
         {
           "src": "/static/paintings/balance/balance_3.jpg",
           "alt": "Tavlan Balance från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/the-strong-and",
+      "path": "/the-strong-and",
+      "name": "The strong &",
+      "description": "Product description.",
+      "price": "3 500",
+      "status": "sold",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-strong-and/the-strong-and_.jpg",
+          "alt": "Tavlan 'The strong and' framifrån"
+        },
+        {
+          "src": "/static/paintings/the-strong-and/the-strong-and_2.jpg",
+          "alt": "Tavlan 'The strong and' närbild"
+        },
+        {
+          "src": "/static/paintings/the-strong-and/the-strong-and_3.jpg",
+          "alt": "Tavlan 'The strong and' från sidan"
+        },
+        {
+          "src": "/static/paintings/the-strong-and/the-strong-and_4.jpg",
+          "alt": "Tavlan 'The strong and' närbild"
+        },
+        {
+          "src": "/static/paintings/the-strong-and/the-strong-and_5.jpg",
+          "alt": "Tavlan 'The strong and' närbild"
         }
       ]
     },

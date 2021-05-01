@@ -85,12 +85,14 @@ const Home = () => {
                             <h3 className={styles.artPieceTitle}>
                               {piece.name}
                             </h3>
-                            <p className={styles.artPieceDescription}>
+                            <div className={styles.artPieceDescription}>
+                            <p className={styles.artPieceDescriptionText}>
                               <b>Pris:</b> {piece.price} kr
                             </p>
-                            <p className={styles.artPieceDescription}>
+                            <p className={styles.artPieceDescriptionText}>
                               <b>Storlek:</b> {piece.width}x{piece.height} cm
                             </p>
+                            </div>
                           </div>
                         </a>
                       </NextLink>

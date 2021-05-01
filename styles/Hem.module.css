@@ -35,7 +35,7 @@
   object-fit: cover;
 }
 .artPieceTitle {
-  margin-bottom: 12px;
+  margin-bottom: 16px;
   font-size: 20px;
   text-align: center;
   font-weight: 400;
@@ -45,6 +45,10 @@
   font-size: 16px;
   text-align: center;
   color: var(--nav-link-color);
-  padding-top: 12px;
+  padding-top: 24px;
   border-top: 1px solid silver;
+}
+.artPieceDescriptionText {
+margin-top: 0;
+margin-bottom: 8px;
 }
