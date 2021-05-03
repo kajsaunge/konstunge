@@ -33,6 +33,7 @@ body {
 .link:active,
 .link:focus {
   color: var(--link-color--active);
+  text-decoration: underline;
 }
 .visually-hidden {
   position: absolute !important;

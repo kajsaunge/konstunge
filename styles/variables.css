@@ -1,10 +1,10 @@
 :root {
     --page-bg-color: #f1f1f1;
     --text-color: rgb(52, 52, 52);
-    --nav-link-color: grey;
-    --nav-link-color--active: rgb(97, 97, 97);
+    --nav-link-color: rgb(91, 91, 91);
+    --nav-link-color--active: rgb(78, 78, 78);
     --link-color: steelblue;
-    --link-color--active: #003566;
+    --link-color--active: rgb(53, 101, 139);
     --interactive-color: #ffd60a;
     --interactive-color--active: #fdc500;
 }
