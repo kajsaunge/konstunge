@@ -1,39 +1,6 @@
 {
   "pieces": [
     {
-      "slug": "/the-force-within",
-      "path": "/the-force-within",
-      "name": "The force within",
-      "description": "Product description.",
-      "price": "4 500",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
-          "alt": "Tavlan 'The force within' framifrån"
-        },
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
-          "alt": "Tavlan 'The force within' närbild"
-        },
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
-          "alt": "Tavlan 'The force within' från sidan"
-        }
-      ]
-    },
-    {
       "slug": "/newyork",
       "path": "/newyork",
       "name": "New york",
@@ -54,15 +21,15 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/newyork/newyork.jpg",
+          "src": "/static/paintings/newyork/newyork_0.jpg",
           "alt": "Tavlan New york framifrån"
         },
         {
-          "src": "/static/paintings/newyork/newyork-2.jpg",
-          "alt": "Tavlan New york närbild"
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "Tavlan New york framifrån"
         },
         {
-          "src": "/static/paintings/newyork/newyork-3.jpg",
+          "src": "/static/paintings/newyork/newyork_3.jpg",
           "alt": "Tavlan New york från sidan"
         }
       ]
@@ -88,6 +55,10 @@
       "category": "original",
       "images": [
         {
+          "src": "/static/paintings/female/female_0.jpg",
+          "alt": "Tavlan Female framifrån"
+        },
+        {
           "src": "/static/paintings/female/female_1.jpg",
           "alt": "Tavlan Female framifrån"
         },
@@ -102,9 +73,9 @@
       ]
     },
     {
-      "slug": "/untouched",
-      "path": "/untouched",
-      "name": "Untouched",
+      "slug": "/untouchable",
+      "path": "/untouchable",
+      "name": "Untouchable",
       "description": "Product description.",
       "price": "6 500",
       "status": "available",
@@ -121,22 +92,59 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/untouched/untouched_1.jpg",
-          "alt": "Tavlan 'Untouched?' framifrån"
+          "src": "/static/paintings/untouchable/untouchable_0.jpg",
+          "alt": "Tavlan 'Untouchable?' framifrån"
         },
         {
-          "src": "/static/paintings/untouched/untouched_2.jpg",
-          "alt": "Tavlan 'Untouched?' närbild"
+          "src": "/static/paintings/untouchable/untouchable_1.jpg",
+          "alt": "Tavlan 'Untouchable?' framifrån"
         },
         {
-          "src": "/static/paintings/untouched/untouched_3.jpg",
-          "alt": "Tavlan 'Untouched?' från sidan"
+          "src": "/static/paintings/untouchable/untouchable_3.jpg",
+          "alt": "Tavlan 'Untouchable?' från sidan"
         }
       ]
     },
     {
-      "slug": "/the-release",
-      "path": "/the-release",
+      "slug": "/the-force-within",
+      "path": "/the-force-within",
+      "name": "The force within",
+      "description": "Product description.",
+      "price": "4 500",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_0.jpg",
+          "alt": "Tavlan 'The force within' framifrån"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
+          "alt": "Tavlan 'The force within' framifrån"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
+          "alt": "Tavlan 'The force within' närbild"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
+          "alt": "Tavlan 'The force within' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/release",
+      "path": "/release",
       "name": "The release",
       "description": "Product description.",
       "price": "3 500",
@@ -154,23 +162,27 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/the-release/the-release_1.jpg",
-          "alt": "Tavlan 'The release' framifrån"
+          "src": "/static/paintings/release/release_0.jpg",
+          "alt": "Tavlan 'Release' framifrån"
         },
         {
-          "src": "/static/paintings/the-release/the-release_2.jpg",
-          "alt": "Tavlan 'The release' närbild"
+          "src": "/static/paintings/release/release_1.jpg",
+          "alt": "Tavlan 'Release' framifrån"
         },
         {
-          "src": "/static/paintings/the-release/the-release_3.jpg",
-          "alt": "Tavlan 'The release' från sidan"
+          "src": "/static/paintings/release/release_2.jpg",
+          "alt": "Tavlan 'Release' närbild"
+        },
+        {
+          "src": "/static/paintings/release/release_3.jpg",
+          "alt": "Tavlan 'Release' från sidan"
         }
       ]
     },
     {
-      "slug": "/osynlig",
-      "path": "/osynlig",
-      "name": "Osynlig",
+      "slug": "/invisible",
+      "path": "/invisible",
+      "name": "Invisible",
       "description": "Product description.",
       "price": "3 500",
       "status": "available",
@@ -187,23 +199,27 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/osynlig/osynlig_1.jpg",
-          "alt": "Tavlan 'Osynlig' framifrån"
+          "src": "/static/paintings/invisible/invisible_0.jpg",
+          "alt": "Tavlan 'Invisible' framifrån"
         },
         {
-          "src": "/static/paintings/osynlig/sosynlig_2.jpg",
-          "alt": "Tavlan 'Osynlig' närbild"
+          "src": "/static/paintings/invisible/invisible_1.jpg",
+          "alt": "Tavlan 'Invisible' framifrån"
         },
         {
-          "src": "/static/paintings/osynlig/sosynlig_3.jpg",
-          "alt": "Tavlan 'Osynlig' från sidan"
+          "src": "/static/paintings/invisible/invisible_2.jpg",
+          "alt": "Tavlan 'Invisible' närbild"
+        },
+        {
+          "src": "/static/paintings/invisible/invisible_3.jpg",
+          "alt": "Tavlan 'Invisible' från sidan"
         }
       ]
     },
     {
-      "slug": "/var-evighet",
-      "path": "/var-evighet",
-      "name": "Vår evighet",
+      "slug": "/for-evigt",
+      "path": "/for-evigt",
+      "name": "För evigt",
       "description": "Product description.",
       "price": "6 500",
       "status": "available",
@@ -221,53 +237,65 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/var-evighet/var-evighet_1.jpg",
-          "alt": "Tavlan 'Vår evighet' framifrån"
+          "src": "/static/paintings/for-evigt/for-evigt_0.jpg",
+          "alt": "Tavlan 'För evigt' framifrån"
         },
         {
-          "src": "/static/paintings/var-evighet/var-evighet_2.jpg",
-          "alt": "Tavlan 'Vår evighet' närbild"
+          "src": "/static/paintings/for-evigt/for-evigt_1.jpg",
+          "alt": "Tavlan 'För evigt' framifrån"
         },
         {
-          "src": "/static/paintings/var-evighet/var-evighet_4.jpg",
-          "alt": "Tavlan 'Vår evighet' närbild"
+          "src": "/static/paintings/for-evigt/for-evigt_2.jpg",
+          "alt": "Tavlan 'För evigt' närbild"
         },
         {
-          "src": "/static/paintings/var-evighet/var-evighet_5.jpg",
-          "alt": "Tavlan 'Vår evighet' närbild"
-        },
-        {
-          "src": "/static/paintings/var-evighet/var-evighet_3.jpg",
-          "alt": "Tavlan 'Vår evighet' från sidan"
+          "src": "/static/paintings/for-evigt/for-evigt_3.jpg",
+          "alt": "Tavlan 'För evigt' närbild"
         }
       ]
     },
     {
-      "slug": "/the-inhabitat",
-      "path": "/the-inhabitat",
-      "name": "The inhabitat",
+      "slug": "/strong-and",
+      "path": "/strong-and",
+      "name": "Strong and",
       "description": "Product description.",
-      "price": "2 500",
-      "status": "available",
+      "price": "3 500",
+      "status": "sold",
       "material": {
         "medium": "Akryl",
         "base": "Canvas"
       },
-      "width": "40",
-      "height": "40",
+      "width": "50",
+      "height": "70",
       "tags": [
-        "canvas",
+        "plywood",
         "akryl"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_1.jpg",
-          "alt": "Tavlan The inhabitat framifrån"
+          "src": "/static/paintings/strong-and/strong-and_0.jpg",
+          "alt": "Tavlan 'Strong and' framifrån"
         },
         {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_2.jpg",
-          "alt": "Tavlan The inhabitat närbild"
+          "src": "/static/paintings/strong-and/strong-and_1.jpg",
+          "alt": "Tavlan 'Strong and' framifrån"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_2.jpg",
+          "alt": "Tavlan 'Strong and' närbild"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_3.jpg",
+          "alt": "Tavlan 'Strong and' från sidan"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_4.jpg",
+          "alt": "Tavlan 'Strong and' närbild"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_5.jpg",
+          "alt": "Tavlan 'Strong and' närbild"
         }
       ]
     },
@@ -291,6 +319,10 @@
       "category": "original",
       "images": [
         {
+          "src": "/static/paintings/balance/balance_0.jpg",
+          "alt": "Tavlan Balance framifrån"
+        },
+        {
           "src": "/static/paintings/balance/balance_1.jpg",
           "alt": "Tavlan Balance framifrån"
         },
@@ -305,43 +337,35 @@
       ]
     },
     {
-      "slug": "/the-strong-and",
-      "path": "/the-strong-and",
-      "name": "The strong &",
+      "slug": "/the-inhabitat",
+      "path": "/the-inhabitat",
+      "name": "The inhabitat",
       "description": "Product description.",
-      "price": "3 500",
-      "status": "sold",
+      "price": "2 500",
+      "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Canvas"
       },
-      "width": "50",
-      "height": "70",
+      "width": "40",
+      "height": "40",
       "tags": [
-        "plywood",
+        "canvas",
         "akryl"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/the-strong-and/the-strong-and_.jpg",
-          "alt": "Tavlan 'The strong and' framifrån"
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_0.jpg",
+          "alt": "Tavlan The inhabitat framifrån"
         },
         {
-          "src": "/static/paintings/the-strong-and/the-strong-and_2.jpg",
-          "alt": "Tavlan 'The strong and' närbild"
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_1.jpg",
+          "alt": "Tavlan The inhabitat framifrån"
         },
         {
-          "src": "/static/paintings/the-strong-and/the-strong-and_3.jpg",
-          "alt": "Tavlan 'The strong and' från sidan"
-        },
-        {
-          "src": "/static/paintings/the-strong-and/the-strong-and_4.jpg",
-          "alt": "Tavlan 'The strong and' närbild"
-        },
-        {
-          "src": "/static/paintings/the-strong-and/the-strong-and_5.jpg",
-          "alt": "Tavlan 'The strong and' närbild"
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_2.jpg",
+          "alt": "Tavlan The inhabitat närbild"
         }
       ]
     },
@@ -365,6 +389,10 @@
       "category": "original",
       "images": [
         {
+          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "alt": "Tavlan Leaving framifrån"
+        },
+        {
           "src": "/static/paintings/leaving/leaving_1.jpg",
           "alt": "Tavlan Leaving framifrån"
         },
@@ -373,7 +401,7 @@
           "alt": "Tavlan Leaving närbild"
         },
         {
-          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "src": "/static/paintings/leaving/leaving_0.jpg",
           "alt": "Tavlan Leaving från sidan"
         }
       ]
