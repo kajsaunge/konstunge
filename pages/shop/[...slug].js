@@ -36,6 +36,8 @@ const Product = ({ piece }) => {
                 <p className={styles.artPieceDetails}>
                   {piece.material.medium} på {piece.material.base}
                 </p>
+                <h3 className={styles.artPieceSubTitle}>Beskrivning</h3>
+                <p className={styles.artPieceDetails}>{piece.description}</p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
                 <p className={styles.artPieceDetails}>Storlek: {piece.width}x{piece.height} cm</p>
                 <p className={styles.artPieceDetails}>Pris: {piece.price} kr</p>
