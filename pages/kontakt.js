@@ -13,7 +13,7 @@ const Kontakt = () => {
       <main className="main">
         <div className="main-intro">
           <h1 className="main-intro__title">Kontakt</h1>
-          <p className="main-intro__description">&nbsp;</p>
+          <h2 className="main-intro__description">&nbsp;</h2>
         </div>
 
         <div className={styles.mainContent}>

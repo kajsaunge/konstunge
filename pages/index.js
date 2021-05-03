@@ -56,7 +56,7 @@ const Home = () => {
       <main className="main">
         <div className="main-intro">
           <h1 className="main-intro__title">Välkommen</h1>
-          <p className="main-intro__description">Unik konst för unika hem</p>
+          <h2 className="main-intro__description">Unik konst för unika hem</h2>
         </div>
         <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
         <section className={styles.artPiecesWrapper}>
