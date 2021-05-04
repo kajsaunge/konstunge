@@ -16,7 +16,6 @@
 }
 
 .artPiece {
-  min-width: 310px;
   max-width: 400px;
   transition: .3s;
   background-color: var(--page-bg-color);
