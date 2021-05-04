@@ -17,7 +17,7 @@
 
 .artPiece {
   max-width: 400px;
-  transition: .3s;
+  transition: box-shadow .3s;
   background-color: var(--page-bg-color);
   box-shadow: rgba(0, 0, 0, 0.14) 0px 2px 5px;
 }
