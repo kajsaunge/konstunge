@@ -1,9 +1,17 @@
-Art portfolio built with react and next.js (npx create-next-app).
-Increamental build and improvements; starting off with hard coded data to integrate with Instagram Basic Display API later. Same goes with design and user engagements; first build and release the portfolio, then implement improved ux and functinaliy.
+Art portfolio built with react and next.js (npx create-next-app). Deployed and hosted on Vercel with automatic builds and deployments on push to master.
+Increamental build and improvements; hard coded json data will be integrated with Instagram Basic Display API. Design and user experience; first build and release the portfolio, then implement improved ux and functinaliy.
 
 ## Getting Started
 
-First, run the development server:
+First, install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
