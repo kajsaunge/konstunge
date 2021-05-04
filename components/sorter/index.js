@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 import styles from "./Sorter.module.css";
 
-const Sorter = ({ toggleBy, getSortValue }) => {
+const Sorter = ({ toggleBy = ['storlek', 'pris'], getSortValue }) => {
   const [toggled, setToggled] = useState('');
 
   useEffect(() => {
