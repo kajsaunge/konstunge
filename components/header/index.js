@@ -1,11 +1,16 @@
 import NextLink from 'next/link'
 
 import styles from "./Header.module.css";
+import Logo from '@/icons/logo'
 
 const Header = () => {
   return (
     <header className={styles.header}>
-      <span className={styles.logo}><NextLink href='/'>Konstunge</NextLink></span>
+      <NextLink href='/'>
+        <a className={styles.homeLink} href='/'>
+          <Logo />
+        </a>
+      </NextLink>
       <nav>
         <ul className={styles.navList}>
           <li className={styles.navListItem}><NextLink href='/om'>Om</NextLink></li>
