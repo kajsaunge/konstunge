@@ -24,11 +24,11 @@ body {
   font-size: 16px;
   line-height: 1.6;
   margin: 8px 0;
-  transition: .3s;
+  transition: 0.3s;
 }
 
 .link {
-  transition: .3s;
+  transition: 0.3s;
   color: var(--link-color);
 }
 .link:hover,
@@ -39,7 +39,7 @@ body {
 }
 .visually-hidden {
   position: absolute !important;
-  height: 1px; 
+  height: 1px;
   width: 1px;
   overflow: hidden;
   clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
@@ -53,9 +53,26 @@ body {
   position: absolute;
   clip: rect(0 0 0 0);
   border: 0;
-  height: 1px; margin: -1px;
+  height: 1px;
+  margin: -1px;
   overflow: hidden;
   padding: 0;
   width: 1px;
   white-space: nowrap;
+}
+
+.icon-logo {
+  width: 50px;
+  height: 50px;
+}
+.icon-linkedin {
+  font-size: 140.72px;
+  font-family: Helvetica Neue-Bold, Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+.icon-kajsaunge {
+  stroke: #342d29;
+  stroke-miterlimit: 10;
+  stroke-width: 2px;
 }
