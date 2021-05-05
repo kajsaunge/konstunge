@@ -389,11 +389,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/leaving/leaving_3.jpg",
-          "alt": "Tavlan Leaving framifrån"
-        },
-        {
-          "src": "/static/paintings/leaving/leaving_1.jpg",
+          "src": "/static/paintings/leaving/leaving_0.jpg",
           "alt": "Tavlan Leaving framifrån"
         },
         {
@@ -401,7 +397,7 @@
           "alt": "Tavlan Leaving närbild"
         },
         {
-          "src": "/static/paintings/leaving/leaving_0.jpg",
+          "src": "/static/paintings/leaving/leaving_3.jpg",
           "alt": "Tavlan Leaving från sidan"
         }
       ]
