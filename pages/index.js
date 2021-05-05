@@ -58,7 +58,9 @@ const Home = () => {
           <h1 className="main-intro__title"><span className='main-intro__subtitle'>Galleri</span> Konstunge</h1>
           <h2 className="main-intro__description">Unik konst för unika hem</h2>
         </div>
-        <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
+        <div className='hide-on-mobile'>
+          <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
+        </div>
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
             {content &&
@@ -87,10 +89,10 @@ const Home = () => {
                             </h3>
                             <div className={styles.artPieceDescription}>
                             <p className={styles.artPieceDescriptionText}>
-                              <b>Pris:</b> {piece.price} kr
+                              <b>Storlek:</b> {piece.width}x{piece.height} cm
                             </p>
                             <p className={styles.artPieceDescriptionText}>
-                              <b>Storlek:</b> {piece.width}x{piece.height} cm
+                              <b>Pris:</b> {piece.price} kr
                             </p>
                             </div>
                           </div>
