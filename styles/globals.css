@@ -51,6 +51,12 @@ body {
   clip: rect(1px, 1px, 1px, 1px);
   white-space: nowrap; /* added line */
 }
+@media screen and (max-width: 380px) {
+  .hide-on-mobile {
+    display: none;
+  }    
+}
+
 *::selection {
   background: var(--interactive-color--active);
 }
