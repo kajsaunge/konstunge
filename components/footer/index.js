@@ -8,8 +8,8 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.content}>
-        <h3 className={styles.logo}>Konstunge®</h3>
-        <nav>
+        <h2 className={styles.logo}>Konstunge®</h2>
+        <nav aria-label='Extern länklista' role='navigation'>
           <ul className={styles.footerNavList}>
             <li>
               <a

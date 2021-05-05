@@ -11,7 +11,7 @@ const Header = () => {
           <Logo />
         </a>
       </NextLink>
-      <nav>
+      <nav aria-label='Hemsidans sidor' role='navigation'>
         <ul className={styles.navList}>
           <li className={styles.navListItem}><NextLink href='/om'>Om</NextLink></li>
           <li className={styles.navListItem}><NextLink href='/kontakt'>Kontakt</NextLink></li>

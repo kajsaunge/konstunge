@@ -12,7 +12,7 @@ const Om = () => {
         <link rel="icon" href="/favicon.ico" />
         <meta description="Konst portfolio för Kajsa Unge, svensk konstnär och designer" />
       </Head>
-      <main className="main">
+      <main aria-label='Om Konstunge' role='main' className="main">
         <div className="main-intro">
           <h1 className="main-intro__title">Om konstnären</h1>
           <h2 className="main-intro__description">Kajsa Unge</h2>

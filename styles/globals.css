@@ -17,7 +17,12 @@ body {
 }
 .main-intro__title {
   font-size: 24px;
+  margin-top: 4px;
   margin-bottom: 0;
+  display: inline;
+}
+.main-intro__subtitle {
+  font-weight: normal;
 }
 .main-intro__description {
   font-weight: normal;

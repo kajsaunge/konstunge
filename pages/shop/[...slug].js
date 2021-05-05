@@ -19,9 +19,9 @@ const Product = ({ piece }) => {
         <link rel="icon" href="/favicon.ico" />
         <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
-      <main className="main">
-        <nav className={styles.backNavWrapper}>
-        <button className={styles.backNav} onClick={() => router.back()}>Back</button>
+      <main aria-label={`Tavlan ${piece.name}`} role='main' className="main">
+        <nav aria-label='Till galleriet' role='navigation' className={styles.backNavWrapper}>
+        <button className={styles.backNav} onClick={() => router.back()}>Till galleriet</button>
         </nav>
         <div className="main-intro">
           <h1 className="main-intro__title">{piece.name}</h1>
