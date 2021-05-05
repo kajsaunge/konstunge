@@ -51,11 +51,11 @@ const Home = () => {
       <Head>
         <title>Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta description="Konst portfolio med original av konstnären Kajsa Unge" />
+        <meta description="Konst portfolio med original av konstnären Kajsa Unge. Unik konst för unika hem" />
       </Head>
-      <main className="main">
+      <main aria-label='Galleri Konstunge' role='main' className="main">
         <div className="main-intro">
-          <h1 className="main-intro__title">Välkommen</h1>
+          <h1 className="main-intro__title"><span className='main-intro__subtitle'>Galleri</span> Konstunge</h1>
           <h2 className="main-intro__description">Unik konst för unika hem</h2>
         </div>
         <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />

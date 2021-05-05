@@ -10,10 +10,10 @@ const Kontakt = () => {
         <link rel="icon" href="/favicon.ico" />
         <meta description="Kontaktinformation till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
-      <main className="main">
+      <main aria-label='Kontaktinformation' role='main' className="main">
         <div className="main-intro">
           <h1 className="main-intro__title">Kontakt</h1>
-          <h2 className="main-intro__description">&nbsp;</h2>
+          <h2 aria-hidden='true' className="main-intro__description">&nbsp;</h2>
         </div>
 
         <div className={styles.mainContent}>
