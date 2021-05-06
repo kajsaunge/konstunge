@@ -3,6 +3,7 @@ import Head from "next/head";
 import Image from "next/image";
 import NextLink from "next/link";
 
+import PageIntro from '@/pageIntro'
 import Sorter from "@/sorter";
 
 import content from "./api/content.json";
@@ -54,10 +55,7 @@ const Home = () => {
         <meta description="Konst portfolio med original av konstnären Kajsa Unge. Unik konst för unika hem" />
       </Head>
       <main aria-label='Galleri Konstunge' role='main' className="main">
-        <div className="main-intro">
-          <h1 className="main-intro__title"><span className='main-intro__subtitle'>Galleri</span> Konstunge</h1>
-          <h2 className="main-intro__description">Unik konst för unika hem</h2>
-        </div>
+        <PageIntro subtitle='Galleri' title='Konstunge' desciption='Unik konst för unika hem' />
         <div className='hide-on-mobile'>
           <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
         </div>

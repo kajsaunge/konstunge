@@ -1,5 +1,8 @@
 import Head from "next/head";
-import From from "../components/form";
+import From from "@/form";
+
+import PageIntro from "@/pageIntro";
+
 import styles from "../styles/Kontakt.module.css";
 
 const Kontakt = () => {
@@ -10,12 +13,8 @@ const Kontakt = () => {
         <link rel="icon" href="/favicon.ico" />
         <meta description="Kontaktinformation till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
-      <main aria-label='Kontaktinformation' role='main' className="main">
-        <div className="main-intro">
-          <h1 className="main-intro__title">Kontakt</h1>
-          <h2 aria-hidden='true' className="main-intro__description">&nbsp;</h2>
-        </div>
-
+      <main aria-label="Kontaktinformation" role="main" className="main">
+        <PageIntro title="Kontakt" />
         <div className={styles.mainContent}>
           <div className={styles.mainContentTextBlock}>
             <h2 className={styles.mainContentTitle}>Hör gärna av dig</h2>
