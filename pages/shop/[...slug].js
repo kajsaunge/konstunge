@@ -3,7 +3,9 @@ import { useRouter } from "next/router";
 import NextLink from "next/link";
 
 import content from "../api/content.json";
-import ImageGallery from "components/imageGallery";
+import ImageGallery from "@/imageGallery";
+import PageIntro from "@/pageIntro";
+
 import styles from "../../styles/Produkt.module.css";
 
 {
@@ -19,14 +21,17 @@ const Product = ({ piece }) => {
         <link rel="icon" href="/favicon.ico" />
         <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
-      <main aria-label={`Tavlan ${piece.name}`} role='main' className="main">
-        <nav aria-label='Till galleriet' role='navigation' className={styles.backNavWrapper}>
-        <button className={styles.backNav} onClick={() => router.back()}>Till galleriet</button>
+      <main aria-label={`Tavlan ${piece.name}`} role="main" className="main">
+        <nav
+          aria-label="Till galleriet"
+          role="navigation"
+          className={styles.backNavWrapper}
+        >
+          <button className={styles.backNav} onClick={() => router.back()}>
+            Till galleriet
+          </button>
         </nav>
-        <div className="main-intro">
-          <h1 className="main-intro__title">{piece.name}</h1>
-          <h2 className="main-intro__description">Unik konst för unika hem</h2>
-        </div>
+        <PageIntro title={piece.name} description="Unik konst för unika hem" />
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
             <ul className={styles.artPieces}>
@@ -39,7 +44,9 @@ const Product = ({ piece }) => {
                 <h3 className={styles.artPieceSubTitle}>Beskrivning</h3>
                 <p className={styles.artPieceDetails}>{piece.description}</p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
-                <p className={styles.artPieceDetails}>Storlek: {piece.width}x{piece.height} cm</p>
+                <p className={styles.artPieceDetails}>
+                  Storlek: {piece.width}x{piece.height} cm
+                </p>
                 <p className={styles.artPieceDetails}>Pris: {piece.price} kr</p>
                 <h3 className={styles.artPieceSubTitle}>Beställning</h3>
                 <p className={styles.artPieceDetails}>
