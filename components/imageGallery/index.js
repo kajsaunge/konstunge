@@ -8,12 +8,18 @@ import {
   galleryListItemButton,
   galleryListItemImage,
   galleryListItem,
+  itemSold,
 } from "./ImageGallery.module.css";
 
-const ImageGallery = ({ images }) => {
+const ImageGallery = ({ images, notAvailable }) => {
   const [selectedImage, setSelectedImage] = useState(images[0]);
   return (
     <div className={gallery}>
+      {notAvailable && (
+        <div className={itemSold}>
+          <p>SÅLD</p>
+        </div>
+      )}
       <Image
         loading="lazy"
         src={selectedImage.src}

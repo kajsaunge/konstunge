@@ -3,7 +3,7 @@ import Head from "next/head";
 import Image from "next/image";
 import NextLink from "next/link";
 
-import PageIntro from '@/pageIntro'
+import PageIntro from "@/pageIntro";
 import Sorter from "@/sorter";
 
 import content from "./api/content.json";
@@ -24,11 +24,7 @@ const Home = () => {
     const priceSort = parseInt(el.price);
 
     const sortBy =
-      sortValue !== ""
-        ? (sortValue === "pris"
-          ? priceSort
-          : sizeSort)
-        : "";
+      sortValue !== "" ? (sortValue === "pris" ? priceSort : sizeSort) : "";
 
     return { index: i, value: sortBy };
   });
@@ -54,51 +50,58 @@ const Home = () => {
         <link rel="icon" href="/favicon.ico" />
         <meta description="Konst portfolio med original av konstnären Kajsa Unge. Unik konst för unika hem" />
       </Head>
-      <main aria-label='Galleri Konstunge' role='main' className="main">
-        <PageIntro subtitle='Galleri' title='Konstunge' desciption='Unik konst för unika hem' />
-        <div className='hide-on-mobile'>
+      <main aria-label="Galleri Konstunge" role="main" className="main">
+        <PageIntro
+          subtitle="Galleri"
+          title="Konstunge"
+          desciption="Unik konst för unika hem"
+        />
+        <div className="hide-on-mobile">
           <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
         </div>
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
             {content &&
               sortedContent.map((piece, i) => {
-                  return (
-                    <li key={i} className={styles.artPiece}>
-                      <NextLink
+                return (
+                  <li key={i} className={styles.artPiece}>
+                    {piece.status === "sold" && (
+                      <div className={styles.artPieceSold}>
+                        <p>SÅLD</p>
+                      </div>
+                    )}
+                    <NextLink
+                      href={`/shop${piece.slug}`}
+                      as={`/shop${piece.path}`}
+                    >
+                      <a
+                        className={styles.artPieceLink}
                         href={`/shop${piece.slug}`}
-                        as={`/shop${piece.path}`}
                       >
-                        <a
-                          className={styles.artPieceLink}
-                          href={`/shop${piece.slug}`}
-                        >
-                          <Image
-                            width={372}
-                            height={520}
-                            src={piece.images[0].src}
-                            alt={piece.images[0].alt}
-                            className={styles.artPieceImage}
-                            // style={{ backgroundUrl()}}
-                          />
-                          <div className={styles.artPieceContent}>
-                            <h3 className={styles.artPieceTitle}>
-                              {piece.name}
-                            </h3>
-                            <div className={styles.artPieceDescription}>
+                        <Image
+                          width={372}
+                          height={520}
+                          src={piece.images[0].src}
+                          alt={piece.images[0].alt}
+                          className={styles.artPieceImage}
+                          // style={{ backgroundUrl()}}
+                        />
+                        <div className={styles.artPieceContent}>
+                          <h3 className={styles.artPieceTitle}>{piece.name}</h3>
+                          <div className={styles.artPieceDescription}>
                             <p className={styles.artPieceDescriptionText}>
                               <b>Storlek:</b> {piece.width}x{piece.height} cm
                             </p>
                             <p className={styles.artPieceDescriptionText}>
                               <b>Pris:</b> {piece.price} kr
                             </p>
-                            </div>
                           </div>
-                        </a>
-                      </NextLink>
-                    </li>
-                  );
-                })}
+                        </div>
+                      </a>
+                    </NextLink>
+                  </li>
+                );
+              })}
           </ul>
         </section>
       </main>
