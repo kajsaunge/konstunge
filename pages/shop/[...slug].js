@@ -2,8 +2,9 @@ import Head from "next/head";
 import { useRouter } from "next/router";
 
 import content from "../api/content.json";
-import ImageGallery from "components/imageGallery";
 import Form from "@/form";
+import ImageGallery from "@/imageGallery";
+import PageIntro from "@/pageIntro";
 
 import styles from "../../styles/Produkt.module.css";
 
@@ -26,10 +27,7 @@ const Product = ({ piece }) => {
             Till galleriet
           </button>
         </nav>
-        <div className="main-intro">
-          <h1 className="main-intro__title">{piece.name}</h1>
-          <h2 className="main-intro__description">Unik konst för unika hem</h2>
-        </div>
+        <PageIntro title={piece.name} description="Unik konst för unika hem" />
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
             <div className={styles.artPieces}>
@@ -44,11 +42,9 @@ const Product = ({ piece }) => {
                   {piece.description}
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
+                <p className={styles.artPieceDetails}>Pris: {piece.price} kr</p>
                 <p className={styles.artPieceDetails}>
                   <b>Storlek:</b> {piece.width}x{piece.height} cm
-                </p>
-                <p className={styles.artPieceDetails}>
-                  <b>Pris:</b> {piece.price} kr
                 </p>
               </div>
             </div>
@@ -56,6 +52,7 @@ const Product = ({ piece }) => {
         </div>
         <aside className={styles.artPieceFooter}>
           <div>
+          <h3 className={styles.artPieceFooterTitle}>Beställning</h3>
             <p className={styles.artPieceDetails}>
               För beställning fyller du i formuläret eller skickar ett mail till{" "}
               <a className="link" href="mailto:info@konstunge.se">

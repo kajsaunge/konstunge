@@ -1,5 +1,8 @@
 import Head from "next/head";
-import Form from "../components/form";
+import Form from "@/form";
+
+import PageIntro from "@/pageIntro";
+
 import styles from "../styles/Kontakt.module.css";
 
 const Kontakt = () => {
@@ -11,10 +14,7 @@ const Kontakt = () => {
         <meta description="Kontaktinformation till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
       <main aria-label="Kontaktinformation" role="main" className="main">
-        <div className="main-intro">
-          <h1 className="main-intro__title">Kontakt</h1>
-          <h2 className="main-intro__description">Hör gärna av dig!</h2>
-        </div>
+        <PageIntro title="Kontakt" />
         <div className={styles.mainContentTextBlock}>
           <p className={styles.mainContentText}>
             Har du några som helst frågor kring min konst, ett potentiellt
