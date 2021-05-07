@@ -1,6 +1,6 @@
 import styles from "./Form.module.css";
 
-const Form = () => {
+const Form = ({ messagePlaceholder = 'Din förfrågan'}) => {
   const registerUser = async (event) => {
     event.preventDefault();
 
@@ -65,7 +65,7 @@ const Form = () => {
             id="message"
             name="message"
             type="text"
-            placeholder="Din förfrågan"
+            placeholder={messagePlaceholder}
             required
           />
         </p>

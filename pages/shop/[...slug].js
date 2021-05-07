@@ -1,14 +1,11 @@
 import Head from "next/head";
 import { useRouter } from "next/router";
-import NextLink from "next/link";
 
 import content from "../api/content.json";
 import ImageGallery from "components/imageGallery";
-import styles from "../../styles/Produkt.module.css";
+import Form from "@/form";
 
-{
-  /* TODO add content. Fix styles. Add a page footer */
-}
+import styles from "../../styles/Produkt.module.css";
 
 const Product = ({ piece }) => {
   const router = useRouter();
@@ -19,9 +16,15 @@ const Product = ({ piece }) => {
         <link rel="icon" href="/favicon.ico" />
         <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
-      <main aria-label={`Tavlan ${piece.name}`} role='main' className="main">
-        <nav aria-label='Till galleriet' role='navigation' className={styles.backNavWrapper}>
-        <button className={styles.backNav} onClick={() => router.back()}>Till galleriet</button>
+      <main aria-label={`Tavlan ${piece.name}`} role="main" className="main">
+        <nav
+          aria-label="Till galleriet"
+          role="navigation"
+          className={styles.backNavWrapper}
+        >
+          <button className={styles.backNav} onClick={() => router.back()}>
+            Till galleriet
+          </button>
         </nav>
         <div className="main-intro">
           <h1 className="main-intro__title">{piece.name}</h1>
@@ -29,48 +32,47 @@ const Product = ({ piece }) => {
         </div>
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
-            <ul className={styles.artPieces}>
+            <div className={styles.artPieces}>
               <ImageGallery images={piece.images} />
               <div className={styles.artPieceContent}>
                 <h3 className={styles.artPieceTitle}>{piece.name}</h3>
-                <p className={styles.artPieceDetails}>
+                <p className={styles.artPieceDescription}>
                   {piece.material.medium} på {piece.material.base}
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Beskrivning</h3>
-                <p className={styles.artPieceDetails}>{piece.description}</p>
+                <p className={styles.artPieceDescription}>
+                  {piece.description}
+                </p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
-                <p className={styles.artPieceDetails}>Storlek: {piece.width}x{piece.height} cm</p>
-                <p className={styles.artPieceDetails}>Pris: {piece.price} kr</p>
-                <h3 className={styles.artPieceSubTitle}>Beställning</h3>
                 <p className={styles.artPieceDetails}>
-                  För beställning skickar du ett mail till{" "}
-                  <a className="link" href="mailto:info@konstunge.se">
-                    info@konstunge.se
-                  </a>
-                  .
+                  <b>Storlek:</b> {piece.width}x{piece.height} cm
                 </p>
                 <p className={styles.artPieceDetails}>
-                  Du kan även använda formuläret på{" "}
-                  <NextLink href="/kontakt">
-                    <a className="link">kontaktsidan</a>
-                  </NextLink>
+                  <b>Pris:</b> {piece.price} kr
                 </p>
-                {/* <table className={styles.artPieceTable}>
-                  <tbody className={styles.artPieceTableHead}>
-                    <th>Format:</th>
-                    <th>Material:</th>
-                  </tbody>
-                  <tbody className={styles.artPieceTableData}>
-                    <td>{piece.size}</td>
-                    <td>
-                      {piece.material.medium} på {piece.material.base}
-                    </td>
-                  </tbody>
-                </table> */}
               </div>
-            </ul>
+            </div>
           </section>
         </div>
+        <aside className={styles.artPieceFooter}>
+          <div>
+            <p className={styles.artPieceDetails}>
+              För beställning fyller du i formuläret eller skickar ett mail till{" "}
+              <a className="link" href="mailto:info@konstunge.se">
+                info@konstunge.se
+              </a>
+              . <br /> Skriv i meddelandet hur du vill få din tavle leveread.
+              Många av konstverken går att leverarea via bud eller post medan
+              andra väger en del och eventuellt är för stora för att skickas. I
+              det senare fallet brukar jag och köparen komma överens om leverans
+              i Stockholms-området alternativt upphämtning i studion, det som
+              passar bäst. <br />
+              <br />
+              Min studio ligger ca 40 minuter söder om Stockholm city.
+            </p>
+          </div>
+          <Form messagePlaceholder="Din beställning" />
+        </aside>
       </main>
     </>
   );
