@@ -31,7 +31,7 @@ const Product = ({ piece }) => {
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
             <div className={styles.artPieces}>
-              <ImageGallery images={piece.images} />
+              <ImageGallery images={piece.images} notAvailable={piece.status === 'sold'} />
               <div className={styles.artPieceContent}>
                 <h3 className={styles.artPieceTitle}>{piece.name}</h3>
                 <p className={styles.artPieceDescription}>
@@ -50,7 +50,7 @@ const Product = ({ piece }) => {
             </div>
           </section>
         </div>
-        <aside className={styles.artPieceFooter}>
+        <aside className={piece.status === 'sold' ? styles.artPieceFooterNotAvailable : styles.artPieceFooter}>
           <div>
           <h3 className={styles.artPieceFooterTitle}>Beställning</h3>
             <p className={styles.artPieceDetails}>
