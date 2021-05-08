@@ -21,9 +21,9 @@
   flex-wrap: wrap;
   list-style-type: none;
 }
-.galleryListItem {
+.galleryListItem:not(:last-child) {
   display: inline-block;
-  margin-right: 8px;
+  margin-right: 4px;
 }
 .galleryListItemImage {
   width: 100%;
@@ -31,8 +31,10 @@
   object-fit: cover;
 }
 .galleryListItemButton {
-  width: 80px;
-  height: 80px;
+  max-width: 79px;
+  max-height: 79px;
+  width: 100%;
+  height: auto;
   border: none;
   padding: 0;
   margin: 0;
