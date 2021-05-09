@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
 
-import Arrow from "../icons/Arrow";
+import Arrow from "@/icons/arrow";
 
 import {
   gallery,
