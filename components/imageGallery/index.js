@@ -32,7 +32,7 @@ const ImageGallery = ({ images, notAvailable }) => {
     const currentIndex = images.findIndex((image) => image === selectedImage);
     const prev = currentIndex <= 0 ? arrayLength : currentIndex - 1;
     const next = currentIndex >= arrayLength ? 0 : currentIndex + 1;
-    setSelectedImage(e.target.e === "prev" ? images[prev] : images[next]);
+    return setSelectedImage(e.target.id === "prev" ? images[prev] : images[next]);
   };
 
   return (
