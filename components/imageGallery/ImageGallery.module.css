@@ -108,6 +108,10 @@
   outline: none;
   border: 1px solid var(--interactive-color--active);
 }
+.galleryNavButton:visited div {
+  outline: none;
+  border: none;
+}
 
 .galleryNavList {
   position: absolute;
