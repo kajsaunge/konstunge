@@ -103,6 +103,12 @@
 .galleryNavButton div:hover {
   background: var(--interactive-color);
 }
+.galleryNavButton:focus div,
+.galleryNavButton:active div {
+  outline: none;
+  border: 1px solid var(--interactive-color--active);
+}
+
 .galleryNavList {
   position: absolute;
   z-index: 98;
