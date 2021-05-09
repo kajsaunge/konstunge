@@ -1,18 +1,40 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Image from "next/image";
+
+import Arrow from "@/icons/Arrow";
 
 import {
   gallery,
   galleryList,
-  galleryMainItem,
+  galleryMainWrapper,
   galleryListItemButton,
   galleryListItemImage,
   galleryListItem,
   itemSold,
+  galleryNavList,
+  galleryNavButton,
+  galleryNavPrev,
+  galleryNavNext,
+  galleryMainImageWrapper,
+  galleryMainItemSelected,
 } from "./ImageGallery.module.css";
 
 const ImageGallery = ({ images, notAvailable }) => {
   const [selectedImage, setSelectedImage] = useState(images[0]);
+
+  useEffect(() => {
+    setSelectedImage(selectedImage);
+  }, [selectedImage]);
+
+  const handleImageChange = (e) => {
+    e.preventDefault();
+    const arrayLength = images.length - 1;
+    const currentIndex = images.findIndex((image) => image === selectedImage);
+    const prev = currentIndex <= 0 ? arrayLength : currentIndex - 1;
+    const next = currentIndex >= arrayLength ? 0 : currentIndex + 1;
+    setSelectedImage(e.target.e === "prev" ? images[prev] : images[next]);
+  };
+
   return (
     <div className={gallery}>
       {notAvailable && (
@@ -20,14 +42,40 @@ const ImageGallery = ({ images, notAvailable }) => {
           <p>SÅLD</p>
         </div>
       )}
-      <Image
-        loading="lazy"
-        src={selectedImage.src}
-        alt={selectedImage.alt}
-        width={660}
-        height={800}
-        className={galleryMainItem}
-      />
+      <div className={galleryMainWrapper}>
+        <nav
+          className={galleryNavList}
+          aria-label="Bläddra bland bilderna"
+          role="navigation"
+        >
+          <button
+            id="prev"
+            className={`${galleryNavButton} ${galleryNavPrev}`}
+            onClick={(e) => handleImageChange(e)}
+            aria-label="föregående bild"
+          >
+            <Arrow />
+          </button>
+          <button
+            id="next"
+            className={`${galleryNavButton} ${galleryNavNext}`}
+            onClick={(e) => handleImageChange(e)}
+            aria-label="nästa bild"
+          >
+            <Arrow />
+          </button>
+        </nav>
+        <div className={galleryMainImageWrapper}>
+          <Image
+            loading="lazy"
+            src={selectedImage.src}
+            alt={selectedImage.alt}
+            width={660}
+            height={800}
+            className={galleryMainItemSelected}
+          />
+        </div>
+      </div>
       <ul className={galleryList}>
         {images &&
           images.map((image, i) => (
