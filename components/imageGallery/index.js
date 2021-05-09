@@ -3,21 +3,7 @@ import Image from "next/image";
 
 import Arrow from "@/icons/arrow";
 
-import {
-  gallery,
-  galleryList,
-  galleryMainWrapper,
-  galleryListItemButton,
-  galleryListItemImage,
-  galleryListItem,
-  itemSold,
-  galleryNavList,
-  galleryNavButton,
-  galleryNavPrev,
-  galleryNavNext,
-  galleryMainImageWrapper,
-  galleryMainItemSelected,
-} from "./ImageGallery.module.css";
+import styles from "./ImageGallery.module.css";
 
 const ImageGallery = ({ images, notAvailable }) => {
   const [selectedImage, setSelectedImage] = useState(images[0]);
@@ -36,21 +22,21 @@ const ImageGallery = ({ images, notAvailable }) => {
   };
 
   return (
-    <div className={gallery}>
+    <div className={styles.gallery}>
       {notAvailable && (
-        <div className={itemSold}>
+        <div className={styles.itemSold}>
           <p>SÅLD</p>
         </div>
       )}
-      <div className={galleryMainWrapper}>
+      <div className={styles.galleryMainWrapper}>
         <nav
-          className={galleryNavList}
+          className={styles.galleryNavList}
           aria-label="Bläddra bland bilderna"
           role="navigation"
         >
           <button
             id="prev"
-            className={`${galleryNavButton} ${galleryNavPrev}`}
+            className={`${styles.galleryNavButton} ${styles.galleryNavPrev}`}
             onClick={(e) => handleImageChange(e)}
             aria-label="föregående bild"
           >
@@ -58,30 +44,30 @@ const ImageGallery = ({ images, notAvailable }) => {
           </button>
           <button
             id="next"
-            className={`${galleryNavButton} ${galleryNavNext}`}
+            className={`${styles.galleryNavButton} ${styles.galleryNavNext}`}
             onClick={(e) => handleImageChange(e)}
             aria-label="nästa bild"
           >
             <Arrow />
           </button>
         </nav>
-        <div className={galleryMainImageWrapper}>
+        <div className={styles.galleryMainImageWrapper}>
           <Image
             loading="lazy"
             src={selectedImage.src}
             alt={selectedImage.alt}
             width={660}
             height={800}
-            className={galleryMainItemSelected}
+            className={styles.galleryMainItemSelected}
           />
         </div>
       </div>
-      <ul className={galleryList}>
+      <ul className={styles.galleryList}>
         {images &&
           images.map((image, i) => (
-            <li className={galleryListItem} key={i}>
+            <li className={styles.galleryListItem} key={i}>
               <button
-                className={galleryListItemButton}
+                className={styles.galleryListItemButton}
                 onClick={() => setSelectedImage(image)}
               >
                 <Image
@@ -90,7 +76,7 @@ const ImageGallery = ({ images, notAvailable }) => {
                   alt={image.alt}
                   width={80}
                   height={80}
-                  className={galleryListItemImage}
+                  className={styles.galleryListItemImage}
                 />
               </button>
             </li>
