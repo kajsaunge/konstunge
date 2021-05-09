@@ -1,6 +1,6 @@
 import styles from "./Form.module.css";
 
-const Form = ({ messagePlaceholder = 'Din förfrågan'}) => {
+const Form = ({ messagePlaceholder = 'Din förfrågan', submit = 'Skicka'}) => {
   const registerUser = async (event) => {
     event.preventDefault();
 
@@ -69,7 +69,7 @@ const Form = ({ messagePlaceholder = 'Din förfrågan'}) => {
             required
           />
         </p>
-        <button className={styles.formSubmit}type="submit">Skicka</button>
+        <button className={styles.formSubmit}type="submit">{submit}</button>
       </fieldset>
     </form>
   );

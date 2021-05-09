@@ -42,9 +42,12 @@ const Product = ({ piece }) => {
                   {piece.description}
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
-                <p className={styles.artPieceDetails}>Pris: {piece.price} kr</p>
+                <p className={styles.artPieceDetails}><b>Pris:</b> {piece.price} kr</p>
                 <p className={styles.artPieceDetails}>
                   <b>Storlek:</b> {piece.width}x{piece.height} cm
+                </p>
+                <p className={styles.artPieceDescription}>
+                  Tavlan levereras utan ram men det går så klart att beställa till.
                 </p>
               </div>
             </div>
@@ -58,7 +61,7 @@ const Product = ({ piece }) => {
               <a className="link" href="mailto:info@konstunge.se">
                 info@konstunge.se
               </a>
-              . <br /> Skriv i meddelandet hur du vill få din tavle leveread.
+              . <br /> Skriv i meddelandet hur du vill få din tavle leveread och om du vill köpa till en ram.
               Många av konstverken går att leverarea via bud eller post medan
               andra väger en del och eventuellt är för stora för att skickas. I
               det senare fallet brukar jag och köparen komma överens om leverans
@@ -68,7 +71,7 @@ const Product = ({ piece }) => {
               Min studio ligger ca 40 minuter söder om Stockholm city.
             </p>
           </div>
-          <Form messagePlaceholder="Din beställning" />
+          <Form messagePlaceholder="Din beställning" submit='Beställ' />
         </aside>
       </main>
     </>

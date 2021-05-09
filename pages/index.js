@@ -54,7 +54,7 @@ const Home = () => {
         <PageIntro
           subtitle="Galleri"
           title="Konstunge"
-          desciption="Unik konst för unika hem"
+          description="Unik konst för unika hem"
         />
         <div className="hide-on-mobile">
           <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
