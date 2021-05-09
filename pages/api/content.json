@@ -5,7 +5,7 @@
       "path": "/newyork",
       "name": "New york",
       "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "5 500",
+      "price": "10 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -39,7 +39,7 @@
       "path": "/female",
       "name": "Female",
       "description": "Den stora starka kvinnliga symbolen, omgien av frihetsfåglar gjorda av papper. Det är en skör, nästan förädisk frihet kvinnan har.",
-      "price": "4 500",
+      "price": "8 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -77,7 +77,7 @@
       "path": "/untouchable",
       "name": "Untouchable",
       "description": "Hon går inte att komma åt. Hon har en mur hårdare och högre än det säkraste fängelset. Men de hon släpper in ger hon allt.",
-      "price": "6 500",
+      "price": "12 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -110,7 +110,7 @@
       "path": "/the-force-within",
       "name": "The force within",
       "description": "Beyoncé, vår queen. Hon har skapat makt med kraft, framgång med integritet och glädje av musik.",
-      "price": "4 500",
+      "price": "8 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -147,7 +147,7 @@
       "path": "/release",
       "name": "Release",
       "description": "Släpp taget, gör dig fri. Du är värd mer och bättre. Bestäm dig och du kommer få en energi att klara vad som helst.",
-      "price": "3 500",
+      "price": "6 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -184,7 +184,7 @@
       "path": "/invisible",
       "name": "Invisible",
       "description": "Hon finns i allt. Hon bär ljus och glädje, kraft och styrka.",
-      "price": "3 500",
+      "price": "6 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -221,7 +221,7 @@
       "path": "/for-evigt",
       "name": "För evigt",
       "description": "Vi är som tranor som valt varann, för evigt. Kärleken vinner, vi vinner.",
-      "price": "6 500",
+      "price": "14 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -259,7 +259,7 @@
       "path": "/strong-and",
       "name": "Strong and",
       "description": "Hon är den starkaste man kan tänka sig. Hon står emot de hårdaste vindarna och har den största och varmaste famnen. ",
-      "price": "3 500",
+      "price": "6 500",
       "status": "sold",
       "material": {
         "medium": "Akryl",
@@ -304,7 +304,7 @@
       "path": "/balance",
       "name": "Balance",
       "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
-      "price": "3 500",
+      "price": "6 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -341,7 +341,7 @@
       "path": "/the-inhabitat",
       "name": "The inhabitat",
       "description": "Andas. Låt det komma, känn hur det fyller upp hela dig. Var här och nu, njut.",
-      "price": "2 500",
+      "price": "5 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -374,7 +374,7 @@
       "path": "/leaving",
       "name": "Leaving",
       "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
-      "price": "3 500",
+      "price": "6 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
