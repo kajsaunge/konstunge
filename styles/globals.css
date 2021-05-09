@@ -48,7 +48,7 @@ body {
   width: 1px;
   white-space: nowrap;
 }
-.prevent-interaction {
+.prevent-interaction:active {
   pointer-events: none;
 }
 .icon-logo {
