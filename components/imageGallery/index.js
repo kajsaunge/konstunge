@@ -44,7 +44,7 @@ const ImageGallery = ({ images, notAvailable }) => {
           </button>
           <button
             id="next"
-            className={`${styles.galleryNavButton} ${styles.galleryNavNext}`}
+            className={styles.galleryNavButton}
             onClick={(e) => handleImageChange(e)}
             aria-label="nästa bild"
           >
