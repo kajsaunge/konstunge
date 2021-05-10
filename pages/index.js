@@ -46,7 +46,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Konstunge</title>
+        <title>Konst[galleri] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Konst portfolio med original av konstnären Kajsa Unge. Unik konst för unika hem" />
       </Head>
@@ -71,12 +71,12 @@ const Home = () => {
                       </div>
                     )}
                     <NextLink
-                      href={`/shop${piece.slug}`}
-                      as={`/shop${piece.path}`}
+                      href={`/konst${piece.slug}`}
+                      as={`/konst${piece.path}`}
                     >
                       <a
                         className={styles.artPieceLink}
-                        href={`/shop${piece.slug}`}
+                        href={`/konst${piece.slug}`}
                       >
                         <Image
                           width={372}

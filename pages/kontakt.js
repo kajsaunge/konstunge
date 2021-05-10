@@ -9,12 +9,12 @@ const Kontakt = () => {
   return (
     <>
       <Head>
-        <title>Kontakt | Konstunge</title>
+        <title>Kontakt[beställning] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Kontaktinformation till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
       <main aria-label="Kontaktinformation" role="main" className="main">
-        <PageIntro title="Kontakt" />
+        <PageIntro description='Förfrågning och beställning' title="Kontakt" seo='För köp av konst och konstverk från konstgalleri i stockholm. Samarbete och representation' />
         <div className={styles.mainContentTextBlock}>
           <p className={styles.mainContentText}>
             Har du några som helst frågor kring min konst, ett potentiellt
@@ -26,7 +26,6 @@ const Kontakt = () => {
           </p>
         </div>
         <div className={styles.mainContent}>
-          <aside className={styles.artPieceFooter}>
             <div>
               <h3 className={styles.mainContentTitle}>Beställning</h3>
               <p className={styles.artPieceDetails}>
@@ -35,7 +34,7 @@ const Kontakt = () => {
                 <a className="link" href="mailto:info@konstunge.se">
                   info@konstunge.se
                 </a>
-                . <br /> Skriv i meddelandet hur du vill få din tavle leveread.
+                . <br /> Skriv i meddelandet hur du vill få din tavle leveread och om du vill köpa till en ram.
                 Många av konstverken går att leverarea via bud eller post medan
                 andra väger en del och eventuellt är för stora för att skickas.
                 I det senare fallet brukar jag och köparen komma överens om
@@ -45,9 +44,11 @@ const Kontakt = () => {
                 Min studio ligger ca 40 minuter söder om Stockholm city.
               </p>
             </div>
-          </aside>
           <Form messagePlaceholder="Ditt meddelande" />
         </div>
+        {/* <aside className={styles.artPieceFooter}>
+          <p>link to utvalda konstverk</p>
+        </aside> */}
       </main>
     </>
   );
