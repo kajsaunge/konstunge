@@ -13,6 +13,7 @@ const Header = () => {
       </NextLink>
       <nav aria-label='Hemsidans sidor' role='navigation'>
         <ul className={styles.navList}>
+          <li className={styles.navListItem}><NextLink href='/'>Konst</NextLink></li>
           <li className={styles.navListItem}><NextLink href='/om'>Om</NextLink></li>
           <li className={styles.navListItem}><NextLink href='/kontakt'>Kontakt</NextLink></li>
         </ul>

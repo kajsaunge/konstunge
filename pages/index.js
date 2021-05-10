@@ -71,12 +71,12 @@ const Home = () => {
                       </div>
                     )}
                     <NextLink
-                      href={`/shop${piece.slug}`}
-                      as={`/shop${piece.path}`}
+                      href={`/konst${piece.slug}`}
+                      as={`/konst${piece.path}`}
                     >
                       <a
                         className={styles.artPieceLink}
-                        href={`/shop${piece.slug}`}
+                        href={`/konst${piece.slug}`}
                       >
                         <Image
                           width={372}
