@@ -26,7 +26,6 @@ const Kontakt = () => {
           </p>
         </div>
         <div className={styles.mainContent}>
-          <aside className={styles.artPieceFooter}>
             <div>
               <h3 className={styles.mainContentTitle}>Beställning</h3>
               <p className={styles.artPieceDetails}>
@@ -45,9 +44,11 @@ const Kontakt = () => {
                 Min studio ligger ca 40 minuter söder om Stockholm city.
               </p>
             </div>
-          </aside>
           <Form messagePlaceholder="Ditt meddelande" />
         </div>
+        {/* <aside className={styles.artPieceFooter}>
+          <p>link to utvalda konstverk</p>
+        </aside> */}
       </main>
     </>
   );
