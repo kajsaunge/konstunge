@@ -9,12 +9,12 @@ const Kontakt = () => {
   return (
     <>
       <Head>
-        <title>Kontakt | Konstunge</title>
+        <title>Kontakt[beställning] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Kontaktinformation till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
       <main aria-label="Kontaktinformation" role="main" className="main">
-        <PageIntro title="Kontakt" />
+        <PageIntro description='Förfrågning och beställning' title="Kontakt" seo='För köp av konst och konstverk från konstgalleri i stockholm. Samarbete och representation' />
         <div className={styles.mainContentTextBlock}>
           <p className={styles.mainContentText}>
             Har du några som helst frågor kring min konst, ett potentiellt
@@ -35,7 +35,7 @@ const Kontakt = () => {
                 <a className="link" href="mailto:info@konstunge.se">
                   info@konstunge.se
                 </a>
-                . <br /> Skriv i meddelandet hur du vill få din tavle leveread.
+                . <br /> Skriv i meddelandet hur du vill få din tavle leveread och om du vill köpa till en ram.
                 Många av konstverken går att leverarea via bud eller post medan
                 andra väger en del och eventuellt är för stora för att skickas.
                 I det senare fallet brukar jag och köparen komma överens om

@@ -5,7 +5,7 @@ const Logo = () => {
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 222 222.09"
     >
-      <title>Konstunge logo</title>
+      <title>Konstunge galleri, en konstbutik med unika konstverk att köpa online</title>
       <path fill="#342d29" d="M214,8.09v206H8V8.09H214m8-8H0v222H222V.09Z" />
       <polygon
         fill="#342d29"

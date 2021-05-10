@@ -46,7 +46,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Konstunge</title>
+        <title>Konst[galleri] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Konst portfolio med original av konstnären Kajsa Unge. Unik konst för unika hem" />
       </Head>

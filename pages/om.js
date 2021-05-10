@@ -11,7 +11,7 @@ const Om = () => {
   return (
     <>
       <Head>
-        <title>Om | Konstunge</title>
+        <title>Om[konst] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Konst portfolio för Kajsa Unge, svensk konstnär och designer" />
       </Head>
@@ -39,17 +39,17 @@ const Om = () => {
             <p
               className={`${styles.mainContentText} ${styles.mainContentTextExtraSpace}`}
             >
-              Drivet och passionen för att skapa har följt med sedan barndomen
+              Drivet och passionen för att skapa konst har följt med sedan barndomen
               där mamma Lisa spelat en stor och viktig roll. Hon var en stark
               kvinna som följde sin passion och sina drömmar, trots
               samhällsnormerna som regerade under 80-talet. Ursprungdet av de
               starka feminina krafterna genomsyrar konstverken och får blandas
               med fascinationen av djur och natur, människa och samhälle.
             </p>
-            <p className={styles.mainContentText}>
+            {/* <p className={styles.mainContentText}>
               Vid sidan av konsten spenderas tiden som mjukvaruutvecklare och
               designer på ett av Finlands främsta full service byråer.
-            </p>
+            </p> */}
             <p className={styles.mainContentText}>
               Sidan växer i takt med skapandet där mer info och konst läggs till
               allteftersom. Hör gärna av dig till{" "}

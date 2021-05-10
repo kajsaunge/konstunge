@@ -13,7 +13,7 @@ const Product = ({ piece }) => {
   return (
     <>
       <Head>
-        <title>{piece.name} | Konstunge</title>
+        <title>Konstverk: {piece.name}[{piece.width}x{piece.height} cm] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
@@ -27,7 +27,7 @@ const Product = ({ piece }) => {
             Till galleriet
           </button>
         </nav>
-        <PageIntro title={piece.name} description="Unik konst för unika hem" />
+        <PageIntro title={`Konstverk: ${piece.name}`} description="Unik konst för unika hem" />
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
             <div className={styles.artPieces}>
