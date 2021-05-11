@@ -15,6 +15,7 @@ const Product = ({ piece }) => {
       <Head>
         <title>Konstverk: {piece.name}[{piece.width}x{piece.height} cm] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta description="Produktsida till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
       <main aria-label={`Tavlan ${piece.name}`} role="main" className="main">
