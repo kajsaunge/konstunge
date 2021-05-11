@@ -11,6 +11,7 @@ const Kontakt = () => {
       <Head>
         <title>Kontakt[beställning] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta description="Kontaktinformation till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
       </Head>
       <main aria-label="Kontaktinformation" role="main" className="main">

@@ -48,6 +48,7 @@ const Home = () => {
       <Head>
         <title>Konst[galleri] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta description="Konst portfolio med original av konstnären Kajsa Unge. Unik konst för unika hem" />
       </Head>
       <main aria-label="Galleri Konstunge" role="main" className="main">
