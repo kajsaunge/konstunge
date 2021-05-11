@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import { motion } from "framer-motion";
 
 import PageIntro from "@/pageIntro";
 
@@ -13,18 +14,21 @@ const Om = () => {
       <Head>
         <title>Om[konst] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta description="Konst portfolio för Kajsa Unge, svensk konstnär och designer" />
       </Head>
       <main aria-label="Om Konstunge" role="main" className="main">
         <PageIntro title="Om konstnären" description="Kajsa Unge" />
         <div className={styles.mainContent}>
-          <Image
-            src={profile}
-            alt="Portrait of the artist Kajsa Unge"
-            width={400}
-            height={400}
-            className={styles.mainContentImage}
-          />
+          <div className={styles.imageBackground}>
+            <Image
+              src={profile}
+              alt="Portrait of the artist Kajsa Unge"
+              width={400}
+              height={400}
+              className={styles.mainContentImage}
+            />
+          </div>
           <div className={styles.mainContentTextBlock}>
             <p className={styles.mainContentText}>
               Skapandet är främst inspirerat av intryck, känslor och tankar. Men
@@ -32,14 +36,18 @@ const Om = () => {
               delar av världen och vårt underbara Stockholm. Materialen varierar
               och oftast är det akryl som får landa vilt på stora plywoodskivor.
             </p>
-            <blockquote className={styles.mainContentQuote}>
-              "Motiven får växa fram organiskt utan någon direkt plan, vilket
-              skapar flow både för skaparen och i konstverken."
-            </blockquote>
-            <p
-              className={`${styles.mainContentText} ${styles.mainContentTextExtraSpace}`}
+            <motion.div
+              initial={{ opacity: 0, scale: 0.9 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.3 }}
             >
-              Drivet och passionen för att skapa konst har följt med sedan barndomen
+              <blockquote className={styles.mainContentQuote}>
+                "Motiven får växa fram organiskt utan någon direkt plan, vilket
+                skapar flow både för skaparen och i konstverken."
+              </blockquote>
+            </motion.div>
+            <p className={`${styles.mainContentText} ${styles.mainContentTextExtraSpace}`}>
+              Drivet och passionen för att skapa har följt med sedan barndomen
               där mamma Lisa spelat en stor och viktig roll. Hon var en stark
               kvinna som följde sin passion och sina drömmar, trots
               samhällsnormerna som regerade under 80-talet. Ursprungdet av de
