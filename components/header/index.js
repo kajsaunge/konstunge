@@ -26,7 +26,7 @@ const Header = () => {
                   activeLink === "/" ? linkHightlight : ""
                 }`}
                 >
-                Konst
+                Galleri
               </a>
             </NextLink><p className='visually-hidden'>Unika konstverk i ett online galleri med vacker och stilfull konst till billigt pris</p></li>
           <li className={styles.navListItem}>
