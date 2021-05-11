@@ -30,7 +30,7 @@
   margin: 0;
 }
 .navListItem {
-  padding: 8px 12px;
+  padding: 4px;
   text-transform: uppercase;
   border-bottom: 2px solid transparent;
   transition: border .3s;
@@ -45,4 +45,9 @@
 }
 .navListItemLink.linkHightlight {
   border-bottom: 2px solid var(--interactive-color--active);
+}
+@media screen and (min-width: 510px) {
+  .navListItem {
+    padding: 4px 12px;
+  }
 }

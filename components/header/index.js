@@ -23,7 +23,7 @@ const Header = () => {
               <a
                 href="/"
                 className={`${styles.navListItemLink} ${
-                  activeLink === "/konst" ? linkHightlight : ""
+                  activeLink === "/" ? linkHightlight : ""
                 }`}
                 >
                 Konst

@@ -6,14 +6,17 @@
 }
 .mainContentImage {
   object-fit: contain;
-  transform: scale(.99);
+  transform: scale(0.99);
 }
 .imageBackground {
-  background-image: url('static/profile/logo.svg');
+  background-image: url("static/profile/logo.svg");
   background-size: 20%;
+  object-fit: contain;
   margin: 0;
   padding: 0;
   fill: transparent;
+  max-width: 396px;
+  max-height: 396px;
 }
 .mainContentTextBlock {
   max-width: 600px;
@@ -41,5 +44,8 @@
   }
   .mainContentTextBlock {
     margin-top: 0;
+  }
+  .imageBackground {
+    max-height: 381px;
   }
 }
