@@ -114,11 +114,15 @@
 .galleryNavButton div:hover {
   background: var(--interactive-color);
 }
-
+.galleryNavButton:focus,
+.galleryNavButton:active,
+.galleryNavButton:visited,
+.galleryNavButton:focus-visible,
+.galleryNavButton:focus-within,
 .galleryNavButton:focus div,
 .galleryNavButton:active div,
 .galleryNavButton:visited div,
-.galleryNavButton:focus-visible {
+.galleryNavButton:focus-visible div {
   outline: none;
   border: none;
 }
