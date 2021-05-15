@@ -1,4 +1,4 @@
-import styles from './Instagram.module.css'
+import styles from './Insta.module.css'
 
 const Instagram = () => {
   return (

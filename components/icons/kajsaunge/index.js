@@ -1,4 +1,4 @@
-import styles from './Kajsa.module.css'
+import styles from './Ku.module.css'
 
 const Kajsaunge = () => {
   return (
