@@ -34,7 +34,7 @@ const Sorter = ({ toggleBy = ['storlek', 'pris'], getSortValue }) => {
                   : styles.sorterListItem
               }
             >
-              <label htmlFor={`toggle${item}`} value={`Sortera på ${item}`}>
+              <label className={styles.sorterItemLabel} htmlFor={`toggle${item}`} value={`Sortera på ${item}`}>
                 <input
                   id={`toggle${item}`}
                   onChange={(e) => handleToggle(e)}

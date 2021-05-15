@@ -1,0 +1,12 @@
+.linkedInIcon {
+    font-size: 140.72px;
+    font-family: Helvetica Neue-Bold, Helvetica Neue;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+}
+.interactive {
+    transition: .3s;
+}
+.socialIcon:hover .interactive {
+    fill: var(--interactive-color--active);
+}

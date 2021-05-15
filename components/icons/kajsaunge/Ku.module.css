@@ -1,0 +1,11 @@
+.kajsaIcon {
+    stroke: #342d29;
+    stroke-miterlimit: 10;
+    stroke-width: 2px;
+}
+.interactive {
+    transition: .3s;
+}
+.socialIcon:hover .interactive {
+    fill: var(--interactive-color--active);
+}
