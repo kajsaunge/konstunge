@@ -51,14 +51,3 @@ body {
 .prevent-interaction:active {
   pointer-events: none;
 }
-.icon-linkedin {
-  font-size: 140.72px;
-  font-family: Helvetica Neue-Bold, Helvetica Neue;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-}
-.icon-kajsaunge {
-  stroke: #342d29;
-  stroke-miterlimit: 10;
-  stroke-width: 2px;
-}
