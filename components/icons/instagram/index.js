@@ -1,6 +1,6 @@
 const Instagram = () => {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 222">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 222" width='30' height='30' >
       <title>Instagram logo</title>
       <path fill="#342d29" d="M214,8.09v206H8V8.09H214m8-8H0v222H222V.09Z" />
       <rect fill="#342d29" x="0.4" width="222" height="98" />
