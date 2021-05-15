@@ -1,4 +1,4 @@
-import styles from "./Linkedin.module.css";
+import styles from './Linkedin.module.css'
 
 const LinkedIn = () => {
   return (
