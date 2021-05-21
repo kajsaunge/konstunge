@@ -16,6 +16,7 @@ const Footer = () => {
                 className={styles.footerNavLink}
                 href="https://www.instagram.com/konstunge/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <Instagram />
               </a>
@@ -25,6 +26,7 @@ const Footer = () => {
                 className={styles.footerNavLink}
                 href="https://www.linkedin.com/in/kajsaunge/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <Linkedin />
               </a>
@@ -34,6 +36,7 @@ const Footer = () => {
                 className={styles.footerNavLink}
                 href="http://kajsaunge.se/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <Kajsaunge />
               </a>
