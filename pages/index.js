@@ -42,7 +42,7 @@ const Home = () => {
   const sortedContent = mappedContent.map((el) => {
     return content.pieces[el.index];
   });
-  
+  const useCorrectContent = sortValue === '' ? content.pieces : sortedContent
   return (
     <>
       <Head>
@@ -62,8 +62,8 @@ const Home = () => {
         </div>
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
-            {content &&
-              sortedContent.map((piece, i) => {
+            {content && 
+              useCorrectContent.map((piece, i) => {
                 return (
                   <li key={i} className={styles.artPiece}>
                     {piece.status === "sold" && (
