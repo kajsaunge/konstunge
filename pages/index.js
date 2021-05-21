@@ -42,14 +42,14 @@ const Home = () => {
   const sortedContent = mappedContent.map((el) => {
     return content.pieces[el.index];
   });
-
+  
   return (
     <>
       <Head>
         <title>Konst[galleri] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <meta name='description' contnet="Konstgalleri och butik med original av svenska konstnären Kajsa Unge. Unik abstrakt och reell stil i stora och små format." />
+        <meta name='description' content="Konstgalleri och butik med original av svenska konstnären Kajsa Unge. Unik abstrakt och reell stil i stora och små format." />
       </Head>
       <main aria-label="Galleri Konstunge" role="main" className="main">
         <PageIntro
