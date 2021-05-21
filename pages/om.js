@@ -15,7 +15,7 @@ const Om = () => {
         <title>Om[konst] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta description="Konst portfolio för Kajsa Unge, svensk konstnär och designer" />
+        <meta name='description' content="Information om Kajsa Unge, svensk konstnär och designer i stockholm, sverige." />
       </Head>
       <main aria-label="Om Konstunge" role="main" className="main">
         <PageIntro title="Om konstnären" description="Kajsa Unge" />

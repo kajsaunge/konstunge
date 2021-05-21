@@ -12,7 +12,7 @@ const Kontakt = () => {
         <title>Kontakt[beställning] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <meta description="Kontaktinformation till Kajsa Unge, konstnären bakom online portfolio Konstunge" />
+        <meta name='description' content="Kontaktinformation till Kajsa Unge, konstnär baserad i stockholm. Information om beställning och samarbete. Köp konst direkt från ateljen." />
       </Head>
       <main aria-label="Kontaktinformation" role="main" className="main">
         <PageIntro description='Förfrågning och beställning' title="Kontakt" seo='För köp av konst och konstverk från konstgalleri i stockholm. Samarbete och representation' />
