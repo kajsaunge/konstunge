@@ -3,6 +3,7 @@
   max-width: 326px;
   padding: 0;
   margin: 0;
+  position: relative;
 }
 .formfieldset {
   border: none;
@@ -42,9 +43,36 @@
   border: none;
   padding: 10px 16px;
   background: var(--interactive-color);
+  transition: .3s;
 }
+
 .formSubmit:hover,
 .formSubmit:focus,
 .formSubmit:active {
   background: var(--interactive-color--active);
+}
+.forminputTextarea:disabled,
+.forminput:disabled {
+  background: var(--disabled);
+  outline-color: var(--disabled-border);
+}
+.formSubmit:disabled {
+  color: var(--disabled-border);
+  background: var(--disabled);
+}
+.successmsg {
+  position: absolute;
+  bottom: -70px;
+  padding: 4px 8px;
+  /* color: white; */
+  /* background: var(--link-color--active); */
+  border-left: 5px solid var(--interactive-color--active)
+}
+.errormsg {
+  position: absolute;
+  bottom: -70px;
+  padding: 4px 8px;
+  /* color: white; */
+  /* background: var(--link-color--active); */
+  border-left: 5px solid var(--warning-color)
 }
