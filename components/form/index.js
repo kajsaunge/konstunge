@@ -2,7 +2,11 @@ import { useEffect, useState } from "react";
 
 import styles from "./Form.module.css";
 
-const Form = ({ messagePlaceholder = "Din förfrågan", submit = "Skicka", successMsg="Yey! Du får återkoppling inom kort :)" }) => {
+const Form = ({
+  messagePlaceholder = "Din förfrågan",
+  submit = "Skicka",
+  successMsg = "Yey! Du får återkoppling inom kort :)",
+}) => {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
 
@@ -27,14 +31,14 @@ const Form = ({ messagePlaceholder = "Din förfrågan", submit = "Skicka", succe
     });
     try {
       const result = await res.json();
-        setTimeout(() => {
-          event.target.reset();
-          setLoading(false);
-          setSuccess(true);
-        }, 1500);
-        setTimeout(() => {
-          setSuccess(false);
-        }, 4000);
+      setTimeout(() => {
+        event.target.reset();
+        setLoading(false);
+        setSuccess(true);
+      }, 1500);
+      setTimeout(() => {
+        setSuccess(false);
+      }, 4500);
     } catch (error) {
       console.log("ERROR", error);
     }
@@ -42,11 +46,7 @@ const Form = ({ messagePlaceholder = "Din förfrågan", submit = "Skicka", succe
   return (
     <>
       <form className={styles.form} onSubmit={handleSubmit} disabled={loading}>
-        {success &&
-          <p className={styles.successmsg}>
-            {successMsg}
-          </p>
-        }
+        {success && <p className={styles.successmsg}>{successMsg}</p>}
         <fieldset className={styles.formfieldset}>
           <legend className="visually-hidden">Kontakt information</legend>
           <p>
