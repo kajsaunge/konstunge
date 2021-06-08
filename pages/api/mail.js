@@ -12,18 +12,17 @@ export default async (req, res) => {
       pass: process.env.GMAIL_PASSWORD,
     },
   });
-
   try {
     const responseEmail = await transporter.sendMail({
       from: email,
-      to: "kajsaunge@gmail.com",
-      subject: `Kontakt av ${name} via konstunge.se`,
+      to: "info@konstunge.se",
+      subject: `Förfrågan av ${name} via konstunge.se`,
       message: message,
       html: `<p>Meddelande från: ${name}</p>
              <p>Med epost: ${email}</p>
              <p>Message: ${message}</p>`,
     });
-    console.log("Message sent with MeddageID:", responseEmail.messageId);
+    console.log("Message sent with MessageID:", responseEmail.messageId);
   } catch (error) {
     console.log("Nodemailer transporter error: ", error);
   }

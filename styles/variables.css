@@ -8,4 +8,6 @@
     --interactive-color: #ffd60a;
     --interactive-color--active: #fdc500;
     --warning-color: rgb(255, 124, 76);
+    --disabled: #e2e2e2;
+    --disabled-border: rgb(164, 164, 164);
 }

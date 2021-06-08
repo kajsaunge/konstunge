@@ -27,7 +27,7 @@ const Kontakt = () => {
           </p>
         </div>
         <div className={styles.mainContent}>
-            <div>
+            <div className={styles.mainContentWrapper}>
               <h3 className={styles.mainContentTitle}>Beställning</h3>
               <p className={styles.artPieceDetails}>
                 För beställning fyller du i formuläret eller skickar ett mail

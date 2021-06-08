@@ -46,6 +46,9 @@
 .navListItemLink.linkHightlight {
   border-bottom: 2px solid var(--interactive-color--active);
 }
+.linkHightlight {
+  border-bottom: 2px solid var(--interactive-color--active);
+}
 @media screen and (min-width: 510px) {
   .navListItem {
     padding: 4px 12px;
