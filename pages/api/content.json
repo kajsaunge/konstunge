@@ -1,11 +1,79 @@
 {
   "pieces": [
     {
+      "slug": "/full-moon",
+      "path": "/full-moon",
+      "name": "Full moon",
+      "description": "This piece symbolizes the power of the moon and the healing of yoga.",
+      "price": "2 500",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink",
+        "base": "Plywood"
+      },
+      "width": "30",
+      "height": "30",
+      "tags": [
+        "plywood",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/full-moon/full-moon_0.jpg",
+          "alt": "Tavlan Full moon framifrån"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
+          "alt": "Närbild på tavlan Full moon"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
+          "alt": "Tavlan Full moon utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "3 500",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink, crayon, graphite",
+        "base": "Canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_0.jpg",
+          "alt": "Tavlan Garden girl framifrån"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/newyork",
       "path": "/newyork",
       "name": "New york",
       "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "10 500",
+      "price": "8 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -77,7 +145,7 @@
       "path": "/untouchable",
       "name": "Untouchable",
       "description": "Hon går inte att komma åt. Hon har en mur hårdare och högre än det säkraste fängelset. Men de hon släpper in ger hon allt.",
-      "price": "12 500",
+      "price": "7 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -110,7 +178,7 @@
       "path": "/the-force-within",
       "name": "The force within",
       "description": "Beyoncé, vår queen. Hon har skapat makt med kraft, framgång med integritet och glädje av musik.",
-      "price": "8 500",
+      "price": "7 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -147,7 +215,7 @@
       "path": "/release",
       "name": "Release",
       "description": "Släpp taget, gör dig fri. Du är värd mer och bättre. Bestäm dig och du kommer få en energi att klara vad som helst.",
-      "price": "6 500",
+      "price": "5 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -184,7 +252,7 @@
       "path": "/invisible",
       "name": "Invisible",
       "description": "Hon finns i allt. Hon bär ljus och glädje, kraft och styrka.",
-      "price": "6 500",
+      "price": "5 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -221,7 +289,7 @@
       "path": "/for-evigt",
       "name": "För evigt",
       "description": "Vi är som tranor som valt varann, för evigt. Kärleken vinner, vi vinner.",
-      "price": "14 500",
+      "price": "9 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -304,7 +372,7 @@
       "path": "/balance",
       "name": "Balance",
       "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
-      "price": "6 500",
+      "price": "4 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -341,7 +409,7 @@
       "path": "/the-inhabitat",
       "name": "The inhabitat",
       "description": "Andas. Låt det komma, känn hur det fyller upp hela dig. Var här och nu, njut.",
-      "price": "5 500",
+      "price": "4 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -374,7 +442,7 @@
       "path": "/leaving",
       "name": "Leaving",
       "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
-      "price": "6 500",
+      "price": "4 500",
       "status": "available",
       "material": {
         "medium": "Akryl",
