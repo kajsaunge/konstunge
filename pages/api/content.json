@@ -1,6 +1,41 @@
 {
   "pieces": [
     {
+      "slug": "/t-shirt-girl",
+      "path": "/t-shirt-girl",
+      "name": "T-shirt girl",
+      "description": "Be who you are <3",
+      "price": "3 500",
+      "status": "available",
+      "material": {
+        "medium": "Akvarell och akryl",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": [
+        "canvas",
+        "akvarell",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_0.jpg",
+          "alt": "Tavlan T-shirt girl framifrån"
+        },
+        {
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_1.jpeg",
+          "alt": "Närbild på tavlan T-shirt girl"
+        },
+        {
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_2.jpeg",
+          "alt": "Tavlan T-shirt girl utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/deer-her",
       "path": "/deer-her",
       "name": "Deer her",
@@ -70,36 +105,40 @@
       ]
     },
     {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "3 500",
+      "slug": "/for-evigt",
+      "path": "/for-evigt",
+      "name": "För evigt",
+      "description": "Vi är som tranor som valt varann, för evigt. Kärleken vinner, vi vinner.",
+      "price": "9 500",
       "status": "available",
       "material": {
-        "medium": "Akryl, ink, crayon, graphite",
-        "base": "Canvas"
+        "medium": "Akryl",
+        "base": "Plywood"
       },
-      "width": "54",
-      "height": "64",
+      "width": "120",
+      "height": "120",
       "tags": [
-        "canvas",
+        "plywood",
         "akryl",
-        "female"
+        "typografi"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/garden-girl/garden-girl_0.jpg",
-          "alt": "Tavlan Garden girl framifrån"
+          "src": "/static/paintings/for-evigt/for-evigt_0.jpg",
+          "alt": "Tavlan 'För evigt' framifrån"
         },
         {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
+          "src": "/static/paintings/for-evigt/for-evigt_1.jpg",
+          "alt": "Tavlan 'För evigt' framifrån"
         },
         {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
+          "src": "/static/paintings/for-evigt/for-evigt_2.jpg",
+          "alt": "Tavlan 'För evigt' närbild"
+        },
+        {
+          "src": "/static/paintings/for-evigt/for-evigt_3.jpg",
+          "alt": "Tavlan 'För evigt' närbild"
         }
       ]
     },
@@ -208,43 +247,7 @@
         }
       ]
     },
-    {
-      "slug": "/the-force-within",
-      "path": "/the-force-within",
-      "name": "The force within",
-      "description": "Beyoncé, vår queen. Hon har skapat makt med kraft, framgång med integritet och glädje av musik.",
-      "price": "7 500",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_0.jpg",
-          "alt": "Tavlan 'The force within' framifrån"
-        },
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
-          "alt": "Tavlan 'The force within' framifrån"
-        },
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
-          "alt": "Tavlan 'The force within' närbild"
-        },
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
-          "alt": "Tavlan 'The force within' från sidan"
-        }
-      ]
-    },
+
     {
       "slug": "/release",
       "path": "/release",
@@ -320,40 +323,36 @@
       ]
     },
     {
-      "slug": "/for-evigt",
-      "path": "/for-evigt",
-      "name": "För evigt",
-      "description": "Vi är som tranor som valt varann, för evigt. Kärleken vinner, vi vinner.",
-      "price": "9 500",
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "3 500",
       "status": "available",
       "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
+        "medium": "Akryl, ink, crayon, graphite",
+        "base": "Canvas"
       },
-      "width": "120",
-      "height": "120",
+      "width": "54",
+      "height": "64",
       "tags": [
-        "plywood",
+        "canvas",
         "akryl",
-        "typografi"
+        "female"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/for-evigt/for-evigt_0.jpg",
-          "alt": "Tavlan 'För evigt' framifrån"
+          "src": "/static/paintings/garden-girl/garden-girl_0.jpg",
+          "alt": "Tavlan Garden girl framifrån"
         },
         {
-          "src": "/static/paintings/for-evigt/for-evigt_1.jpg",
-          "alt": "Tavlan 'För evigt' framifrån"
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
         },
         {
-          "src": "/static/paintings/for-evigt/for-evigt_2.jpg",
-          "alt": "Tavlan 'För evigt' närbild"
-        },
-        {
-          "src": "/static/paintings/for-evigt/for-evigt_3.jpg",
-          "alt": "Tavlan 'För evigt' närbild"
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
@@ -403,6 +402,43 @@
       ]
     },
     {
+      "slug": "/the-force-within",
+      "path": "/the-force-within",
+      "name": "The force within",
+      "description": "Beyoncé, vår queen. Hon har skapat makt med kraft, framgång med integritet och glädje av musik.",
+      "price": "7 500",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_0.jpg",
+          "alt": "Tavlan 'The force within' framifrån"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
+          "alt": "Tavlan 'The force within' framifrån"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
+          "alt": "Tavlan 'The force within' närbild"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
+          "alt": "Tavlan 'The force within' från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/balance",
       "path": "/balance",
       "name": "Balance",
@@ -444,7 +480,7 @@
       "path": "/the-inhabitat",
       "name": "The inhabitat",
       "description": "Andas. Låt det komma, känn hur det fyller upp hela dig. Var här och nu, njut.",
-      "price": "4 500",
+      "price": "4 000",
       "status": "available",
       "material": {
         "medium": "Akryl",
