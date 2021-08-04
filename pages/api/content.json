@@ -160,30 +160,29 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "width": "80",
-      "height": "120",
+      "width": "70",
+      "height": "100",
       "tags": [
         "plywood",
-        "akryl",
-        "typografi"
+        "akryl"
       ],
       "category": "original",
       "images": [
         {
           "src": "/static/paintings/female/female_0.jpg",
-          "alt": "Tavlan Female framifrån"
+          "alt": "Tavlan 'female' framifrån"
         },
         {
           "src": "/static/paintings/female/female_1.jpg",
-          "alt": "Tavlan Female framifrån"
+          "alt": "Tavlan 'female' framifrån"
         },
         {
           "src": "/static/paintings/female/female_2.jpg",
-          "alt": "Tavlan Female närbild"
+          "alt": "Tavlan 'female' närbild"
         },
         {
           "src": "/static/paintings/female/female_3.jpg",
-          "alt": "Tavlan Female från sidan"
+          "alt": "Tavlan 'female' från sidan"
         }
       ]
     },
