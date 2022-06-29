@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { useRouter } from "next/router";
 
-import content from "../api/content.json";
+import content from "../../api/content.json";
 import Form from "@/form";
 import ImageGallery from "@/imageGallery";
 import PageIntro from "@/pageIntro";
@@ -48,10 +48,15 @@ const Product = ({ piece }) => {
   return (
     <>
       <Head>
-        <title>Konstverk: {piece.name}[{piece.width}x{piece.height} cm] | Konstunge</title>
+        <title>
+          Konstverk: {piece.name}[{piece.width}x{piece.height} cm] | Konstunge
+        </title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <meta name='description' content="Produktsida för konstverk och tavlor av svenska konstnären Kajsa Unge, under namnet konstunge. Information och specifikationer om konsten och tavlorna samt beställning." />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="description"
+          content="Produktsida för konstverk och tavlor av svenska konstnären Kajsa Unge, under namnet konstunge. Information och specifikationer om konsten och tavlorna samt beställning."
+        />
       </Head>
       <main aria-label={`Tavlan ${piece.name}`} role="main" className="main">
         <nav
@@ -63,11 +68,17 @@ const Product = ({ piece }) => {
             Till galleriet
           </button>
         </nav>
-        <PageIntro title={`Konstverk: ${piece.name}`} description="Unik konst för unika hem" />
+        <PageIntro
+          title={`Konstverk: ${piece.name}`}
+          description="Unik konst för unika hem"
+        />
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
             <div className={styles.artPieces}>
-              <ImageGallery images={piece.images} notAvailable={piece.status === 'sold'} />
+              <ImageGallery
+                images={piece.images}
+                notAvailable={piece.status === "sold"}
+              />
               <div className={styles.artPieceContent}>
                 <h3 className={styles.artPieceTitle}>{piece.name}</h3>
                 <p className={styles.artPieceDescription}>
@@ -78,7 +89,9 @@ const Product = ({ piece }) => {
                   {piece.description}
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
-                <p className={styles.artPieceDetails}><b>Pris:</b> {piece.price} kr</p>
+                <p className={styles.artPieceDetails}>
+                  <b>Pris:</b> {piece.price} kr
+                </p>
                 <p className={styles.artPieceDetails}>
                   <b>Storlek:</b> {piece.width}x{piece.height} cm
                 </p>
@@ -89,25 +102,32 @@ const Product = ({ piece }) => {
             </div>
           </section>
         </div>
-        <aside className={piece.status === 'sold' ? styles.artPieceFooterNotAvailable : styles.artPieceFooter}>
+        <aside
+          className={
+            piece.status === "sold"
+              ? styles.artPieceFooterNotAvailable
+              : styles.artPieceFooter
+          }
+        >
           <div>
-          <h3 className={styles.artPieceFooterTitle}>Beställning</h3>
+            <h3 className={styles.artPieceFooterTitle}>Beställning</h3>
             <p className={styles.artPieceDetails}>
               För beställning fyller du i formuläret eller skickar ett mail till{" "}
               <a className="link" href="mailto:info@konstunge.se">
                 info@konstunge.se
               </a>
-              . <br /> Skriv i meddelandet hur du vill få din tavle leveread och om du vill köpa till en ram.
-              Många av konstverken går att leverarea via bud eller post medan
-              andra väger en del och eventuellt är för stora för att skickas. I
-              det senare fallet brukar jag och köparen komma överens om leverans
-              i Stockholms-området alternativt upphämtning i studion, det som
+              . <br /> Skriv i meddelandet hur du vill få din tavle leveread och
+              om du vill köpa till en ram. Många av konstverken går att
+              leverarea via bud eller post medan andra väger en del och
+              eventuellt är för stora för att skickas. I det senare fallet
+              brukar jag och köparen komma överens om leverans i
+              Stockholms-området alternativt upphämtning i studion, det som
               passar bäst. <br />
               <br />
               Min studio ligger ca 40 minuter söder om Stockholm city.
             </p>
           </div>
-          <Form messagePlaceholder="Din beställning" submit='Beställ' />
+          <Form messagePlaceholder="Din beställning" submit="Beställ" />
         </aside>
       </main>
     </>

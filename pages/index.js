@@ -6,7 +6,7 @@ import NextLink from "next/link";
 import PageIntro from "@/pageIntro";
 import Sorter from "@/sorter";
 
-import content from "./api/content.json";
+import content from "../api/content.json";
 import styles from "../styles/Hem.module.css";
 
 const Home = () => {
@@ -42,14 +42,17 @@ const Home = () => {
   const sortedContent = mappedContent.map((el) => {
     return content.pieces[el.index];
   });
-  const useCorrectContent = sortValue === '' ? content.pieces : sortedContent
+  const useCorrectContent = sortValue === "" ? content.pieces : sortedContent;
   return (
     <>
       <Head>
         <title>Konst[galleri] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <meta name='description' content="Konstgalleri och butik med original av svenska konstnären Kajsa Unge. Unik abstrakt och reell stil i stora och små format." />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="description"
+          content="Konstgalleri och butik med original av svenska konstnären Kajsa Unge. Unik abstrakt och reell stil i stora och små format."
+        />
       </Head>
       <main aria-label="Galleri Konstunge" role="main" className="main">
         <PageIntro
@@ -62,7 +65,7 @@ const Home = () => {
         </div>
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
-            {content && 
+            {content &&
               useCorrectContent.map((piece, i) => {
                 return (
                   <li key={i} className={styles.artPiece}>
