@@ -7,6 +7,8 @@ import PageIntro from "@/pageIntro";
 import Sorter from "@/sorter";
 
 import content from "../api/content.json";
+import { attributes, react as HomeContent } from "../content/art.md";
+
 import styles from "../styles/Hem.module.css";
 
 const Home = () => {
@@ -43,6 +45,8 @@ const Home = () => {
     return content.pieces[el.index];
   });
   const useCorrectContent = sortValue === "" ? content.pieces : sortedContent;
+  console.log(attributes);
+  let { title, cats } = attributes;
   return (
     <>
       <Head>
@@ -60,6 +64,8 @@ const Home = () => {
           title="Konstunge"
           description="Unik konst för unika hem"
         />
+        <HomeContent />
+        <p>{title}</p>
         <div className="hide-on-mobile">
           <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
         </div>
