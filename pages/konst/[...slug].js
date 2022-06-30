@@ -8,41 +8,6 @@ import PageIntro from "@/pageIntro";
 
 import styles from "../../styles/Produkt.module.css";
 
-// {
-//   "slug": "/kiss-my",
-//   "path": "/kiss-my",
-//   "name": "Kiss my",
-//   "description": "I take no shit",
-//   "price": "2 500",
-//   "status": "available",
-//   "material": {
-//     "medium": "Akryl and ink",
-//     "base": "Canvas"
-//   },
-//   "width": "30",
-//   "height": "40",
-//   "tags": [
-//     "canvas",
-//     "akryl",
-//     "female"
-//   ],
-//   "category": "original",
-//   "images": [
-//     {
-//       "src": "/static/paintings/kiss-my/kiss-my_0.jpg",
-//       "alt": "Tavlan Kiss my framifrån"
-//     },
-//     {
-//       "src": "/static/paintings/kiss-my/kiss-my_1.jpg",
-//       "alt": "Tavlan Kiss my framifrån"
-//     },
-//     {
-//       "src": "/static/paintings/kiss-my/kiss-my_3.jpg",
-//       "alt": "Tavlan Kiss my från sidan"
-//     }
-//   ]
-// },
-
 const Product = ({ piece }) => {
   const router = useRouter();
   return (
