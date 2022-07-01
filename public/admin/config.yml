@@ -7,8 +7,8 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - label: "Home"
-        name: "home"
+      - label: "Kontakt"
+        name: "kontakt"
         file: "content/art.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
