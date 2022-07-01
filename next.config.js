@@ -1,6 +1,6 @@
 // const sassPlugin = require("@zeit/next-sass");
 // const withCSS = require("@zeit/next-css");
-// const withImages = require("next-images");
+const withImages = require("next-images");
 // const constants = require("./constants");
 // const withPreact = require("next-plugin-preact");
 // const withPlugins = require("next-compose-plugins");
@@ -104,7 +104,7 @@ const nextConfig = {
 // );
 module.exports = {
   webpack: (config, { isServer }) => {
-    console.log("webpackis config", config.context);
+    withImages;
     config.module.rules.push({
       test: /\.md$/,
       loader: "frontmatter-markdown-loader",
