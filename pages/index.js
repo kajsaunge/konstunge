@@ -45,7 +45,7 @@ const Home = () => {
     return content.pieces[el.index];
   });
   const useCorrectContent = sortValue === "" ? content.pieces : sortedContent;
-  console.log(attributes);
+  // console.log(sattributes);
   let { title, cats } = attributes;
   return (
     <>
@@ -64,8 +64,8 @@ const Home = () => {
           title="Konstunge"
           description="Unik konst för unika hem"
         />
-        <HomeContent />
-        <p>{title}</p>
+        {/* <HomeContent /> */}
+        {/* <p>{title}</p> */}
         <div className="hide-on-mobile">
           <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
         </div>
