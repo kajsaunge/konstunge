@@ -41,8 +41,9 @@ const { ANALYZE } = process.env;
 const nextConfig = {
   webpack5: false,
   webpack(config, { isServer }) {
-    console.log("Anal", ANALYZE);
+    console.log("nextConfig", nextConfig);
     if (ANALYZE) {
+      console.log("ANALYZE", ANALYZE);
       const { BundleAnalyzerPlugin } = require("webpack-bundle-analyzer");
       config.plugins.push(
         new BundleAnalyzerPlugin({
@@ -104,23 +105,23 @@ const nextConfig = {
 // );
 module.exports = {
   webpack: (config, { isServer }) => {
-    withImages;
+    nextConfig, withImages;
     config.module.rules.push({
       test: /\.md$/,
       loader: "frontmatter-markdown-loader",
       options: { mode: ["react-component"] },
     });
-    if (ANALYZE) {
-      console.log("Anal", ANALYZE);
-      const { BundleAnalyzerPlugin } = require("webpack-bundle-analyzer");
-      config.plugins.push(
-        new BundleAnalyzerPlugin({
-          analyzerMode: "server",
-          analyzerPort: isServer ? 8888 : 8889,
-          openAnalyzer: true,
-        })
-      );
-    }
+    // if (ANALYZE) {
+    //   console.log("Anal", ANALYZE);
+    //   const { BundleAnalyzerPlugin } = require("webpack-bundle-analyzer");
+    //   config.plugins.push(
+    //     new BundleAnalyzerPlugin({
+    //       analyzerMode: "server",
+    //       analyzerPort: isServer ? 8888 : 8889,
+    //       openAnalyzer: true,
+    //     })
+    //   );
+    // }
     return config;
   },
 };
