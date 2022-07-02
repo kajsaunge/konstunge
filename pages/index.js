@@ -14,10 +14,6 @@ import styles from "../styles/Hem.module.css";
 const Home = () => {
   const [sortValue, setSortValue] = useState("");
 
-  useEffect(() => {
-    setSortValue(sortValue);
-  }, [sortValue]);
-
   const mappedContent = content.pieces.map((el, i) => {
     const elWidth = parseInt(el.width);
     const elHeight = parseInt(el.height);
@@ -47,6 +43,11 @@ const Home = () => {
   const useCorrectContent = sortValue === "" ? content.pieces : sortedContent;
   // console.log(sattributes);
   let { title, cats } = attributes;
+
+  useEffect(() => {
+    setSortValue(sortValue);
+  }, [sortValue]);
+
   return (
     <>
       <Head>

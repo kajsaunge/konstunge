@@ -8,18 +8,20 @@ import styles from "./ImageGallery.module.css";
 const ImageGallery = ({ images, notAvailable }) => {
   const [selectedImage, setSelectedImage] = useState(images[0]);
 
-  useEffect(() => {
-    setSelectedImage(selectedImage);
-  }, [selectedImage]);
-
   const handleImageChange = (e) => {
     e.preventDefault();
     const arrayLength = images.length - 1;
     const currentIndex = images.findIndex((image) => image === selectedImage);
     const prev = currentIndex <= 0 ? arrayLength : currentIndex - 1;
     const next = currentIndex >= arrayLength ? 0 : currentIndex + 1;
-    return setSelectedImage(e.target.id === "prev" ? images[prev] : images[next]);
+    return setSelectedImage(
+      e.target.id === "prev" ? images[prev] : images[next]
+    );
   };
+
+  useEffect(() => {
+    setSelectedImage(selectedImage);
+  }, [selectedImage]);
 
   return (
     <div className={styles.gallery}>
