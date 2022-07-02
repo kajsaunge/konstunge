@@ -1,10 +1,10 @@
 // const sassPlugin = require("@zeit/next-sass");
 // const withCSS = require("@zeit/next-css");
-const withImages = require("next-images");
+// const withImages = require("next-images");
 // const constants = require("./constants");
 // const withPreact = require("next-plugin-preact");
 // const withPlugins = require("next-compose-plugins");
-// const withSourceMaps = require("@zeit/next-source-maps")();
+const withSourceMaps = require("@zeit/next-source-maps")();
 // import frontmatter from "frontmatter-markdown-loader";
 // import Mode from "frontmatter-markdown-loader/mode";
 
@@ -39,7 +39,6 @@ const { ANALYZE } = process.env;
 //   },
 // };
 const nextConfig = {
-  webpack5: false,
   webpack(config, { isServer }) {
     console.log("nextConfig", nextConfig);
     if (ANALYZE) {
@@ -104,8 +103,10 @@ const nextConfig = {
 //   nextConfig
 // );
 module.exports = {
-  webpack: (config, { isServer }) => {
-    nextConfig, withImages;
+  webpack5: false,
+  nextConfig,
+  withSourceMaps,
+  webpack: (config) => {
     config.module.rules.push({
       test: /\.md$/,
       loader: "frontmatter-markdown-loader",
@@ -123,5 +124,9 @@ module.exports = {
     //   );
     // }
     return config;
+  },
+  images: {
+    loader: "akamai",
+    path: "",
   },
 };
