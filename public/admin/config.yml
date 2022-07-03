@@ -5,7 +5,7 @@ backend:
   # site_domain: kajsaunge.github.io
 media_folder: public/img
 public_folder: img
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 collections:
   - name: "pages"
     label: "Pages"
