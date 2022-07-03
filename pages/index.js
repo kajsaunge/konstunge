@@ -59,7 +59,7 @@ const Home = () => {
           content="Konstgalleri och butik med original av svenska konstnären Kajsa Unge. Unik abstrakt och reell stil i stora och små format."
         />
         <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
-        <script>
+        {/* <script>
           if (window.netlifyIdentity){" "}
           {window.netlifyIdentity.on("init", (user) => {
             if (!user) {
@@ -68,7 +68,7 @@ const Home = () => {
               });
             }
           })}
-        </script>
+        </script> */}
       </Head>
       <main aria-label="Galleri Konstunge" role="main" className="main">
         <PageIntro
