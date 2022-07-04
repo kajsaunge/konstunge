@@ -1,7 +1,8 @@
 backend:
   name: git-gateway
+  branch: main
   # repo: konstunge/kajsaunge.github.io
-  branch: master
+  # branch: master
   # site_domain: kajsaunge.github.io
 media_folder: public/img
 public_folder: img
