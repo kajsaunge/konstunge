@@ -1,11 +1,11 @@
 backend:
   name: git-gateway
   repo: konstunge/kajsaunge
-  # branch: master
-  # site_domain: konstunge.github.io
+  branch: master
+  site_domain: konstunge
 media_folder: public/img
 public_folder: img
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 collections:
   - name: "pages"
     label: "Pages"
