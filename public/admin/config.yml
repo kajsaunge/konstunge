@@ -1,5 +1,6 @@
 backend:
-  # name: git-gateway
+  name: github
+  open_authoring: true
   repo: konstunge/kajsaunge.github.io
   branch: master
   site_domain: konstunge.github.io
