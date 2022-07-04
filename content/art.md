@@ -1,13 +1,13 @@
 ---
-title: Awesome kitties
+title: Konstunge
 date: 2019-03-17T19:31:20.591Z
-cats:
+arts:
   - description: 'Maru is a Scottish Fold from Japan, and he loves boxes.'
-    name: Maru (まる)
+    name: T-shirt girl
   - description: Lil Bub is an American celebrity cat known for her unique appearance.
-    name: Lil Bub
+    name: Flower girl
   - description: 'Grumpy cat is an American celebrity cat known for her grumpy appearance.'
-    name: Grumpy cat (Tardar Sauce)
+    name: Eternity
 ---
 Welcome to my awesome page about cats of the internet.
 
