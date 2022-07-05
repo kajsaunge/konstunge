@@ -1,7 +1,6 @@
 backend:
-  name: github
-  open_authoring: true
-  repo: konstunge/kajsaunge.github.io
+  name: git-gateway
+  repo: konstunge/kajsaunge
   branch: master
   site_domain: konstunge.github.io
 media_folder: public/img
