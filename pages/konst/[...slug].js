@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { useRouter } from "next/router";
 
-import content from "../../api/content.json";
+import content from "../api/content.json";
 import Form from "@/form";
 import ImageGallery from "@/imageGallery";
 import PageIntro from "@/pageIntro";
