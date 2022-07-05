@@ -6,7 +6,7 @@ import NextLink from "next/link";
 import PageIntro from "@/pageIntro";
 import Sorter from "@/sorter";
 
-import content from "../api/content.json";
+import content from "./api/content.json";
 import { attributes, react as HomeContent } from "../content/art.md";
 
 import styles from "../styles/Hem.module.css";
