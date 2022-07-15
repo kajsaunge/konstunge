@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Head from "next/head";
 import Image from "next/image";
 import NextLink from "next/link";
-// import CMS from "netlify-cms-app";
+import CMS from "netlify-cms-app";
 
 import PageIntro from "@/pageIntro";
 import Sorter from "@/sorter";
@@ -45,10 +45,10 @@ const Home = () => {
   // console.log(sattributes);
   let { title, cats } = attributes;
 
-  // // Initialize the CMS object
-  // CMS.init();
-  // // Now the registry is available via the CMS object.
-  // CMS.registerPreviewTemplate("my-template", MyTemplate);
+  // Initialize the CMS object
+  CMS.init();
+  // Now the registry is available via the CMS object.
+  CMS.registerPreviewTemplate("my-template", MyTemplate);
 
   useEffect(() => {
     setSortValue(sortValue);
