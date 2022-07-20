@@ -3,8 +3,8 @@ backend:
   repo: konstunge/kajsaunge
   branch: master
   site_domain: konstunge.github.io
-media_folder: public/imgages
-public_folder: imgages
+media_folder: public/images
+public_folder: images
 publish_mode: editorial_workflow
 collections:
   - name: "pages"
