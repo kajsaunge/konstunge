@@ -1,6 +1,4 @@
-import Document, {
-  Html, Head, Main, NextScript,
-} from 'next/document';
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -9,9 +7,9 @@ class MyDocument extends Document {
   }
 
   render() {
-    const GA_MEASUREMENT_ID = 'G-L7LFLTZS4M';
+    const GA_MEASUREMENT_ID = "G-L7LFLTZS4M";
     return (
-      <Html lang='sv'>
+      <Html lang="sv">
         <Head>
           <script
             async
@@ -30,6 +28,17 @@ class MyDocument extends Document {
               `,
             }}
           />
+          <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
+          <script>
+            if (window.netlifyIdentity){" "}
+            {window.netlifyIdentity.on("init", (user) => {
+              if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                  document.location.href = "/admin/";
+                });
+              }
+            })}
+          </script>
         </Head>
         <body>
           <Main />
