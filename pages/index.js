@@ -6,7 +6,7 @@ import NextLink from "next/link";
 import PageIntro from "@/pageIntro";
 import Sorter from "@/sorter";
 
-import content from "../api/content.json";
+import content from "./api/content.json";
 import { attributes, react as HomeContent } from "../content/art.md";
 
 import styles from "../styles/Hem.module.css";
@@ -41,8 +41,8 @@ const Home = () => {
     return content.pieces[el.index];
   });
   const useCorrectContent = sortValue === "" ? content.pieces : sortedContent;
-  // console.log(sattributes);
-  let { title, cats } = attributes;
+  console.log(attributes && attributes);
+  // let { title, cats } = attributes;
 
   useEffect(() => {
     setSortValue(sortValue);
@@ -58,17 +58,6 @@ const Home = () => {
           name="description"
           content="Konstgalleri och butik med original av svenska konstnären Kajsa Unge. Unik abstrakt och reell stil i stora och små format."
         />
-        <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
-        {/* <script>
-          if (window.netlifyIdentity){" "}
-          {window.netlifyIdentity.on("init", (user) => {
-            if (!user) {
-              window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
-              });
-            }
-          })}
-        </script> */}
       </Head>
       <main aria-label="Galleri Konstunge" role="main" className="main">
         <PageIntro
@@ -76,8 +65,6 @@ const Home = () => {
           title="Konstunge"
           description="Unik konst för unika hem"
         />
-        {/* <HomeContent /> */}
-        {/* <p>{title}</p> */}
         <div className="hide-on-mobile">
           <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
         </div>

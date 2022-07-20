@@ -40,9 +40,9 @@ const { ANALYZE } = process.env;
 // };
 const nextConfig = {
   webpack(config, { isServer }) {
-    console.log("nextConfig", nextConfig);
+    // console.log("nextConfig", nextConfig);
     if (ANALYZE) {
-      console.log("ANALYZE", ANALYZE);
+      // console.log("ANALYZE", ANALYZE);
       const { BundleAnalyzerPlugin } = require("webpack-bundle-analyzer");
       config.plugins.push(
         new BundleAnalyzerPlugin({
@@ -130,4 +130,5 @@ module.exports = {
     loader: "akamai",
     path: "",
   },
+  trailingSlash: false,
 };
