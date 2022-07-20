@@ -1,6 +1,6 @@
 // const sassPlugin = require("@zeit/next-sass");
 // const withCSS = require("@zeit/next-css");
-// const withImages = require("next-images");
+const withImages = require("next-images");
 // const constants = require("./constants");
 // const withPreact = require("next-plugin-preact");
 // const withPlugins = require("next-compose-plugins");
@@ -105,6 +105,7 @@ const nextConfig = {
 module.exports = {
   webpack5: false,
   nextConfig,
+  withImages,
   withSourceMaps,
   webpack: (config) => {
     config.module.rules.push({
