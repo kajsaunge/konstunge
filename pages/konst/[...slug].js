@@ -9,7 +9,6 @@ import PageIntro from "@/pageIntro";
 import styles from "../../styles/Produkt.module.css";
 
 const Product = ({ piece }) => {
-  console.log(content && content);
   const router = useRouter();
   return (
     <>
