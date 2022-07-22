@@ -7,15 +7,11 @@ class MyDocument extends Document {
   }
 
   render() {
-    const GA_MEASUREMENT_ID = "G-L7LFLTZS4M";
+    // const GA_MEASUREMENT_ID = "G-L7LFLTZS4M";
     return (
       <Html lang="sv">
         <Head>
-          <script
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
-          />
-          <script
+          {/* <script
             // eslint-disable-next-line react/no-danger
             dangerouslySetInnerHTML={{
               __html: `
@@ -27,7 +23,7 @@ class MyDocument extends Document {
                 });
               `,
             }}
-          />
+          /> */}
         </Head>
         <body>
           <Main />

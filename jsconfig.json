@@ -5,6 +5,5 @@
       "@/*": ["components/*"],
       "~/*": ["./*"]
     }
-  },
-    "trailingSlash": false
+  }
 }
