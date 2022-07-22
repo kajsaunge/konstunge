@@ -7,7 +7,6 @@ import PageIntro from "@/pageIntro";
 import Sorter from "@/sorter";
 
 import content from "./api/content.json";
-// import { attributes, react as HomeContent } from "../content/art.md";
 
 import styles from "../styles/Hem.module.css";
 
@@ -41,8 +40,6 @@ const Home = () => {
     return content.pieces[el.index];
   });
   const useCorrectContent = sortValue === "" ? content.pieces : sortedContent;
-  console.log(content && content);
-  // let { title, cats } = attributes;
 
   useEffect(() => {
     setSortValue(sortValue);
