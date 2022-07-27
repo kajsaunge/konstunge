@@ -1,4 +1,4 @@
-import Document, { Html, Head, Main, NextScript } from "next/document";
+import Document, { Html, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -7,24 +7,8 @@ class MyDocument extends Document {
   }
 
   render() {
-    // const GA_MEASUREMENT_ID = "G-L7LFLTZS4M";
     return (
       <Html lang="sv">
-        <Head>
-          {/* <script
-            // eslint-disable-next-line react/no-danger
-            dangerouslySetInnerHTML={{
-              __html: `
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
-                gtag('config', '${GA_MEASUREMENT_ID}', {
-                  page_path: window.location.pathname,
-                });
-              `,
-            }}
-          /> */}
-        </Head>
         <body>
           <Main />
           <NextScript />
