@@ -2,8 +2,8 @@ import { useState, useEffect } from "react";
 
 import styles from "./Sorter.module.css";
 
-const Sorter = ({ toggleBy = ['storlek', 'pris'], getSortValue }) => {
-  const [toggled, setToggled] = useState('');
+const Sorter = ({ toggleBy = ["storlek", "pris"], getSortValue }) => {
+  const [toggled, setToggled] = useState("");
 
   useEffect(() => {
     setToggled(toggled);
@@ -13,17 +13,16 @@ const Sorter = ({ toggleBy = ['storlek', 'pris'], getSortValue }) => {
     e.stopPropagation();
     if (toggled !== e.target.name) {
       setToggled(e.target.name);
-      getSortValue(e.target.name)
-    } else if (toggled === e.target.name && toggled !== '') {
-      setToggled('');
-      getSortValue('')
+      getSortValue(e.target.name);
+    } else if (toggled === e.target.name && toggled !== "") {
+      setToggled("");
+      getSortValue("");
     }
   };
 
   return (
     <div className={styles.sorter}>
       <form className={styles.sorterForm}>
-        <formfield className={styles.sorterFormField}>Sortera</formfield>
         <ul className={styles.sorterList}>
           {toggleBy.map((item, i) => (
             <li
@@ -34,7 +33,11 @@ const Sorter = ({ toggleBy = ['storlek', 'pris'], getSortValue }) => {
                   : styles.sorterListItem
               }
             >
-              <label className={styles.sorterItemLabel} htmlFor={`toggle${item}`} value={`Sortera på ${item}`}>
+              <label
+                className={styles.sorterItemLabel}
+                htmlFor={`toggle${item}`}
+                value={`Sortera på ${item}`}
+              >
                 <input
                   id={`toggle${item}`}
                   onChange={(e) => handleToggle(e)}
@@ -42,7 +45,7 @@ const Sorter = ({ toggleBy = ['storlek', 'pris'], getSortValue }) => {
                   type="checkbox"
                   value={item}
                   name={item}
-                  className='visually-hidden'
+                  className="visually-hidden"
                 />
                 {item}
               </label>
