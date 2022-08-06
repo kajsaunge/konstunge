@@ -55,10 +55,20 @@
 .artPieceSold {
   position: absolute;
   z-index: 99;
-  top: 16px;
-  right: 16px;
+  top: -6px;
+  right: -6px;
   color: white;
   background-color: var(--warning-color);
+  padding: 2px 10px;
+  margin: 0;
+  line-height: 0;
+}
+.artPieceNew {
+  position: absolute;
+  z-index: 99;
+  top: -6px;
+  right: -6px;
+  background-color: var(--interactive-color);
   padding: 2px 10px;
   margin: 0;
   line-height: 0;

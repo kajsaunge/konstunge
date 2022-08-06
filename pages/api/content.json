@@ -1,6 +1,35 @@
 {
   "pieces": [
     {
+      "slug": "/her-truth",
+      "path": "/her-truth",
+      "name": "Her truth",
+      "description": "Vårt autentiska jag finns inom oss, ibland djupt därinne. Blunda, länge och ge henne möjlighet att få komma fram.",
+      "price": "4 500",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "60",
+      "height": "80",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/her-truth/her-truth_0.jpg",
+          "alt": "Tavlan 'Her truth' i ram"
+        },
+        {
+          "src": "/static/paintings/her-truth/her-truth_1.jpg",
+          "alt": "'Her truth' från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/t-shirt-girl",
       "path": "/t-shirt-girl",
       "name": "T-shirt girl",
@@ -117,12 +146,12 @@
       "name": "För evigt",
       "description": "Vi är som tranor som valt varann, för evigt. Kärleken vinner, vi vinner.",
       "price": "6 500",
-      "status": "available",
+      "status": "sold",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "width": "120",
+      "width": "197",
       "height": "120",
       "tags": [
         "plywood",
@@ -383,7 +412,7 @@
       "height": "80",
       "tags": [
         "plywood",
-        "Mixed media"
+        "mixed media"
       ],
       "category": "original",
       "images": [

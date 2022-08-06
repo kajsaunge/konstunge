@@ -76,6 +76,11 @@ const Home = () => {
                         <p>SÅLD</p>
                       </div>
                     )}
+                    {piece.status === "new" && (
+                      <div className={styles.artPieceNew}>
+                        <p>NY</p>
+                      </div>
+                    )}
                     <NextLink
                       href={`/konst${piece.slug}`}
                       as={`/konst${piece.path}`}
