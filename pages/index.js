@@ -41,6 +41,10 @@ const Home = () => {
   });
   const useCorrectContent = sortValue === "" ? content.pieces : sortedContent;
 
+  const shouldBeShown = useCorrectContent.filter((el) =>
+    el.status !== "hide" ? el : ""
+  );
+
   useEffect(() => {
     setSortValue(sortValue);
   }, [sortValue]);
@@ -68,7 +72,7 @@ const Home = () => {
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
             {content &&
-              useCorrectContent.map((piece, i) => {
+              shouldBeShown.map((piece, i) => {
                 return (
                   <li key={i} className={styles.artPiece}>
                     {piece.status === "sold" && (

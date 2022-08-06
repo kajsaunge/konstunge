@@ -11,8 +11,8 @@
         "medium": "Mixed media",
         "base": "Plywood"
       },
-      "width": "60",
-      "height": "80",
+      "width": "70",
+      "height": "100",
       "tags": [
         "plywood",
         "mixed media"
@@ -26,6 +26,88 @@
         {
           "src": "/static/paintings/her-truth/her-truth_1.jpg",
           "alt": "'Her truth' från sidan"
+        },
+        {
+          "src": "/static/paintings/her-truth/her-truth_2.jpg",
+          "alt": "'Her truth' detaljbild"
+        }
+      ]
+    },
+    {
+      "slug": "/security",
+      "path": "/security",
+      "name": "Security",
+      "description": "När allt bara stämmer, när livet är mjukt och tryggt.",
+      "price": "4 500",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/security/security_0.jpg",
+          "alt": "Tavlan 'Security' i ram"
+        },
+        {
+          "src": "/static/paintings/security/security_1.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_2.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_3.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_4.jpeg",
+          "alt": "Tavlan 'Security' framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/owl",
+      "path": "/owl",
+      "name": "Owl",
+      "description": "Who is staring you right in the face, is it an owl?",
+      "price": "4 500",
+      "status": "hide",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/owl/owl_0.jpg",
+          "alt": "Tavlan 'Owl' i ram"
+        },
+        {
+          "src": "/static/paintings/owl/owl_1.jpg",
+          "alt": "'Owl' från sidan"
+        },
+        {
+          "src": "/static/paintings/owl/owl_2.jpg",
+          "alt": "'Owl' detaljbild"
+        },
+        {
+          "src": "/static/paintings/owl/owl_3.jpg",
+          "alt": "'Owl' detaljbild"
         }
       ]
     },
@@ -189,8 +271,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "width": "70",
-      "height": "100",
+      "width": "80",
+      "height": "120",
       "tags": [
         "plywood",
         "akryl"
@@ -394,47 +476,6 @@
         {
           "src": "/static/paintings/strong-and/strong-and_5.jpg",
           "alt": "Tavlan 'Strong and' närbild"
-        }
-      ]
-    },
-    {
-      "slug": "/security",
-      "path": "/security",
-      "name": "Security",
-      "description": "När allt bara stämmer, när livet är mjukt och tryggt.",
-      "price": "4 500",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "60",
-      "height": "80",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/security/security_0.jpg",
-          "alt": "Tavlan 'Security' i ram"
-        },
-        {
-          "src": "/static/paintings/security/security_1.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_2.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_3.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_4.jpeg",
-          "alt": "Tavlan 'Security' framifrån"
         }
       ]
     },
