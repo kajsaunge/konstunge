@@ -1,6 +1,43 @@
 {
   "pieces": [
     {
+      "slug": "/owl",
+      "path": "/owl",
+      "name": "The compass",
+      "description": "Ugglan står för intelligens och vägledning. Kanske var det det som fick mig att göra henne, som en hjälp att välja, någon som står vid ens sida och ser till att man inte lurar sig själv. Som en trygg påminnelse.",
+      "price": "4 500",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/owl/owl_0.jpg",
+          "alt": "Tavlan 'Owl' i ram"
+        },
+        {
+          "src": "/static/paintings/owl/owl_1.jpg",
+          "alt": "'Owl' från sidan"
+        },
+        {
+          "src": "/static/paintings/owl/owl_2.jpg",
+          "alt": "'Owl' detaljbild"
+        },
+        {
+          "src": "/static/paintings/owl/owl_3.jpg",
+          "alt": "'Owl' detaljbild"
+        }
+      ]
+    },
+    {
       "slug": "/her-truth",
       "path": "/her-truth",
       "name": "Her truth",
@@ -71,43 +108,6 @@
         {
           "src": "/static/paintings/security/security_4.jpeg",
           "alt": "Tavlan 'Security' framifrån"
-        }
-      ]
-    },
-    {
-      "slug": "/owl",
-      "path": "/owl",
-      "name": "The compass",
-      "description": "Ugglan står för intelligens och vägledning. Kanske var det det som fick mig att göra henne, som en hjälp att välja, någon som står vid ens sida och ser till att man inte lurar sig själv. Som en trygg påminnelse.",
-      "price": "4 500",
-      "status": "new",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/owl/owl_0.jpg",
-          "alt": "Tavlan 'Owl' i ram"
-        },
-        {
-          "src": "/static/paintings/owl/owl_1.jpg",
-          "alt": "'Owl' från sidan"
-        },
-        {
-          "src": "/static/paintings/owl/owl_2.jpg",
-          "alt": "'Owl' detaljbild"
-        },
-        {
-          "src": "/static/paintings/owl/owl_3.jpg",
-          "alt": "'Owl' detaljbild"
         }
       ]
     },
