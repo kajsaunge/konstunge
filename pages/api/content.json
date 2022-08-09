@@ -4,7 +4,7 @@
       "slug": "/her-truth",
       "path": "/her-truth",
       "name": "Her truth",
-      "description": "Vårt autentiska jag finns inom oss, ibland djupt därinne. Blunda, länge och ge henne möjlighet att få komma fram.",
+      "description": "Vårt autentiska jag finns inom oss, ibland djupt därinne, svår att se. Blunda, länge och ge henne möjlighet att få komma fram.",
       "price": "4 500",
       "status": "new",
       "material": {
@@ -37,7 +37,7 @@
       "slug": "/security",
       "path": "/security",
       "name": "Security",
-      "description": "När allt bara stämmer, när livet är mjukt och tryggt.",
+      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
       "price": "4 500",
       "status": "available",
       "material": {
@@ -77,10 +77,10 @@
     {
       "slug": "/owl",
       "path": "/owl",
-      "name": "Owl",
-      "description": "Who is staring you right in the face, is it an owl?",
+      "name": "The compass",
+      "description": "Ugglan står för intelligens och vägledning. Kanske var det det som fick mig att göra henne, som en hjälp att välja, någon som står vid ens sida och ser till att man inte lurar sig själv. Som en trygg påminnelse.",
       "price": "4 500",
-      "status": "hide",
+      "status": "new",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -191,7 +191,7 @@
       "slug": "/deer-her",
       "path": "/deer-her",
       "name": "Deer her",
-      "description": "Femininity is increadibly powerful. It's beyond my understanding how we've let us be run over. It's as society has put a crown on our heads, making us a target to hunt for.",
+      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
       "price": "2 500",
       "status": "available",
       "material": {
@@ -438,7 +438,7 @@
       "slug": "/strong-and",
       "path": "/strong-and",
       "name": "Strong and",
-      "description": "Hon är den starkaste man kan tänka sig. Hon står emot de hårdaste vindarna och har den största och varmaste famnen. ",
+      "description": "Hon är den starkaste man kan tänka sig. Hon står emot de hårdaste vindarna och har den största och varmaste famnen.",
       "price": "6 500",
       "status": "sold",
       "material": {
@@ -483,7 +483,7 @@
       "slug": "/full-moon",
       "path": "/full-moon",
       "name": "Full moon",
-      "description": "This piece symbolizes the power of the moon and the healing of yoga.",
+      "description": "Den här tavlan symboliserar månens dragningskraft och yogans läkande kraft.",
       "price": "2 000",
       "status": "available",
       "material": {
@@ -654,7 +654,7 @@
       "slug": "/audrey",
       "path": "/audrey",
       "name": "Audrey",
-      "description": "Hon är den starkaste man kan tänka sig. Hon står emot de hårdaste vindarna och har den största och varmaste famnen. ",
+      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
       "price": "3 500",
       "status": "available",
       "material": {
@@ -688,7 +688,7 @@
       "slug": "/shut",
       "path": "/shut",
       "name": "Shut",
-      "description": "And then she learned she is the president of her own life.",
+      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
       "price": "2 000",
       "status": "available",
       "material": {
