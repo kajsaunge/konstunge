@@ -1,8 +1,7 @@
 import nodemailer from "nodemailer";
 
 export default async (req, res) => {
-  const { name, email, message } = req.body;
-
+  const { name, email, message, path } = req.body;
   const transporter = nodemailer.createTransport({
     host: "smtp.gmail.com",
     port: 465,
@@ -16,11 +15,12 @@ export default async (req, res) => {
     const responseEmail = await transporter.sendMail({
       from: email,
       to: "info@konstunge.se",
-      subject: `Förfrågan av ${name} via konstunge.se`,
+      subject: `${name} via konstunge.se`,
       message: message,
-      html: `<p>Meddelande från: ${name}</p>
-             <p>Med epost: ${email}</p>
-             <p>Message: ${message}</p>`,
+      path: path,
+      html: `<p>Från: ${name} med epost: ${email}</p>
+             <p>Meddelande: ${message}</p>
+             <p>Tavla: ${path}</p>`,
     });
     console.log("Message sent with MessageID:", responseEmail.messageId);
   } catch (error) {
@@ -30,5 +30,6 @@ export default async (req, res) => {
     user: req.body.name,
     email: req.body.email,
     message: req.body.message,
+    path: req.body.path,
   });
 };

@@ -8,12 +8,12 @@ const Form = ({
   successMsg = "Yey! Du får återkoppling inom kort :)",
 }) => {
   const [loading, setLoading] = useState(false);
-  const [success, setSuccess] = useState(false);
+  const [successMsg, setSuccessMsg] = useState(false);
 
   useEffect(() => {
     setLoading(loading);
-    setSuccess(success);
-  }, [setLoading, setSuccess]);
+    setSuccessMsg(successMsg);
+  }, [setLoading, setSuccessMsg]);
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -23,6 +23,7 @@ const Form = ({
         name: event.target.name.value,
         email: event.target.email.value,
         message: event.target.message.value,
+        path: window.location.pathname,
       }),
       headers: {
         "Content-Type": "application/json",
@@ -34,11 +35,12 @@ const Form = ({
       setTimeout(() => {
         event.target.reset();
         setLoading(false);
-        setSuccess(true);
+        setSuccessMsg(true);
       }, 1500);
       setTimeout(() => {
-        setSuccess(false);
+        setSuccessMsg(false);
       }, 4500);
+      return result;
     } catch (error) {
       console.log("ERROR", error);
     }
@@ -46,7 +48,7 @@ const Form = ({
   return (
     <>
       <form className={styles.form} onSubmit={handleSubmit} disabled={loading}>
-        {success && <p className={styles.successmsg}>{successMsg}</p>}
+        {successMsg && <p className={styles.successmsg}>{successMsg}</p>}
         <fieldset className={styles.formfieldset}>
           <legend className="visually-hidden">Kontakt information</legend>
           <p>
