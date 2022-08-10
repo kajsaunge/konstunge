@@ -50,7 +50,7 @@ const Form = ({
       <form className={styles.form} onSubmit={handleSubmit} disabled={loading}>
         {success && <p className={styles.successmsg}>{successMsg}</p>}
         <fieldset className={styles.formfieldset}>
-          <legend className="visually-hidden">Kontakt information</legend>
+          <legend className="visually-hidden">Kontaktinformation</legend>
           <p>
             <label className={styles.formlabel} htmlFor="name">
               Namn
