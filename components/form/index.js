@@ -8,12 +8,12 @@ const Form = ({
   successMsg = "Yey! Du får återkoppling inom kort :)",
 }) => {
   const [loading, setLoading] = useState(false);
-  const [successMsg, setSuccessMsg] = useState(false);
+  const [success, setSuccess] = useState(false);
 
   useEffect(() => {
     setLoading(loading);
-    setSuccessMsg(successMsg);
-  }, [setLoading, setSuccessMsg]);
+    setSuccess(success);
+  }, [setLoading, setSuccess]);
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -35,10 +35,10 @@ const Form = ({
       setTimeout(() => {
         event.target.reset();
         setLoading(false);
-        setSuccessMsg(true);
+        setSuccess(true);
       }, 1500);
       setTimeout(() => {
-        setSuccessMsg(false);
+        setSuccess(false);
       }, 4500);
       return result;
     } catch (error) {
@@ -48,7 +48,7 @@ const Form = ({
   return (
     <>
       <form className={styles.form} onSubmit={handleSubmit} disabled={loading}>
-        {successMsg && <p className={styles.successmsg}>{successMsg}</p>}
+        {success && <p className={styles.successmsg}>{successMsg}</p>}
         <fieldset className={styles.formfieldset}>
           <legend className="visually-hidden">Kontakt information</legend>
           <p>
