@@ -81,15 +81,15 @@ const Product = ({ piece }) => {
               <a className="link" href="mailto:info@konstunge.se">
                 info@konstunge.se
               </a>
-              . <br /> Skriv i meddelandet hur du vill få din tavle leveread och
-              om du vill köpa till en ram. Många av konstverken går att
-              leverarea via bud eller post medan andra väger en del och
-              eventuellt är för stora för att skickas. I det senare fallet
-              brukar jag och köparen komma överens om leverans i
-              Stockholms-området alternativt upphämtning i studion, det som
+              . <br /> Skriv i meddelandet hur du vill få din tavle leveread.
+              Många av konstverken går att leverarea via bud eller post medan
+              andra väger en del och eventuellt är för stora för att skickas. I
+              det senare fallet brukar jag och köparen komma överens om leverans
+              i Stockholms-området alternativt upphämtning i studion, det som
               passar bäst. <br />
               <br />
-              Min studio ligger ca 40 minuter söder om Stockholm city.
+              Min studio ligger i Grödinge, ca 40 minuter söder om Stockholm
+              city.
             </p>
           </div>
           <Form messagePlaceholder="Din beställning" submit="Beställ" />
