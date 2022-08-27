@@ -1,12 +1,57 @@
 {
   "pieces": [
     {
+      "slug": "/spellbound",
+      "path": "/spellbound",
+      "name": "Spellbound",
+      "description": "Släpp taget om vår påhittade värld och tillåt den minsta blomman bli hela din värld. Kanske för bara en stund eller så länge du vill. Låt dess skönhet fylla hela dig, låt doften ta dig till främmande platser, låt storleken vara obetydlig. Tillåt den.",
+      "price": "4 500",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/spellbound/spellbound_0.jpg",
+          "alt": "Tavlan 'Spellbound' i ram"
+        },
+        {
+          "src": "/static/paintings/spellbound/spellbound_1.jpeg",
+          "alt": "'Spellbound' från sidan"
+        },
+        {
+          "src": "/static/paintings/spellbound/spellbound_2.jpeg",
+          "alt": "'Spellbound' detaljbild"
+        },
+        {
+          "src": "/static/paintings/spellbound/spellbound_3.jpeg",
+          "alt": "'Spellbound' detaljbild"
+        },
+        {
+          "src": "/static/paintings/spellbound/spellbound_4.jpeg",
+          "alt": "'Spellbound' work in progress"
+        },
+        {
+          "src": "/static/paintings/spellbound/spellbound_5.jpeg",
+          "alt": "'Spellbound' utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/owl",
       "path": "/owl",
       "name": "The compass",
       "description": "Ugglan står för intelligens och vägledning. Kanske var det det som fick mig att göra henne, som en hjälp att välja, någon som står vid ens sida och ser till att man inte lurar sig själv. Som en trygg påminnelse.",
       "price": "4 500",
-      "status": "new",
+      "status": "sold",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -38,10 +83,10 @@
       ]
     },
     {
-      "slug": "/her-truth",
-      "path": "/her-truth",
-      "name": "Her truth",
-      "description": "Vårt autentiska jag finns inom oss, ibland djupt därinne, svår att se. Blunda, länge och ge henne möjlighet att få komma fram.",
+      "slug": "/sense",
+      "path": "/sense",
+      "name": "Sense",
+      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
       "price": "4 500",
       "status": "new",
       "material": {
@@ -57,16 +102,16 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/her-truth/her-truth_0.jpg",
-          "alt": "Tavlan 'Her truth' i ram"
+          "src": "/static/paintings/sense/sense_0.jpg",
+          "alt": "Tavlan 'Sense' i ram"
         },
         {
-          "src": "/static/paintings/her-truth/her-truth_1.jpg",
-          "alt": "'Her truth' från sidan"
+          "src": "/static/paintings/sense/sense_1.jpg",
+          "alt": "'Sense' från sidan"
         },
         {
-          "src": "/static/paintings/her-truth/her-truth_2.jpg",
-          "alt": "'Her truth' detaljbild"
+          "src": "/static/paintings/sense/sense_2.jpg",
+          "alt": "'Sense' detaljbild"
         }
       ]
     },
