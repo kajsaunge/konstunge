@@ -24,24 +24,16 @@
           "alt": "Tavlan 'Spellbound' i ram"
         },
         {
-          "src": "/static/paintings/spellbound/spellbound_1.jpeg",
+          "src": "/static/paintings/spellbound/spellbound_1.jpg",
           "alt": "'Spellbound' från sidan"
         },
         {
-          "src": "/static/paintings/spellbound/spellbound_2.jpeg",
+          "src": "/static/paintings/spellbound/spellbound_2.jpg",
           "alt": "'Spellbound' detaljbild"
         },
         {
-          "src": "/static/paintings/spellbound/spellbound_3.jpeg",
+          "src": "/static/paintings/spellbound/spellbound_3.jpg",
           "alt": "'Spellbound' detaljbild"
-        },
-        {
-          "src": "/static/paintings/spellbound/spellbound_4.jpeg",
-          "alt": "'Spellbound' work in progress"
-        },
-        {
-          "src": "/static/paintings/spellbound/spellbound_5.jpeg",
-          "alt": "'Spellbound' utan ram"
         }
       ]
     },
