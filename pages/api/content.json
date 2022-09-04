@@ -6,7 +6,7 @@
       "name": "Blue Hope",
       "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
       "price": "3 500",
-      "status": "new",
+      "status": "hide",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
