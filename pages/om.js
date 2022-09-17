@@ -15,7 +15,10 @@ const Om = () => {
         <title>Om[konst] | Konstunge</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name='description' content="Information om Kajsa Unge, svensk konstnär och designer i stockholm, sverige." />
+        <meta
+          name="description"
+          content="Information om Kajsa Unge, svensk konstnär och designer i stockholm, sverige."
+        />
       </Head>
       <main aria-label="Om Konstunge" role="main" className="main">
         <PageIntro title="Om konstnären" description="Kajsa Unge" />
@@ -43,10 +46,12 @@ const Om = () => {
             >
               <blockquote className={styles.mainContentQuote}>
                 "Motiven får växa fram organiskt utan någon direkt plan, vilket
-                skapar flow både för skaparen och i konstverken."
+                skapar flow i skapandet och i konstverken."
               </blockquote>
             </motion.div>
-            <p className={`${styles.mainContentText} ${styles.mainContentTextExtraSpace}`}>
+            <p
+              className={`${styles.mainContentText} ${styles.mainContentTextExtraSpace}`}
+            >
               Drivet och passionen för att skapa har följt med sedan barndomen
               där mamma Lisa spelat en stor och viktig roll. Hon var en stark
               kvinna som följde sin passion och sina drömmar, trots
@@ -67,6 +72,47 @@ const Om = () => {
               med förfrågningar.
             </p>
           </div>
+          {/* Text + bilder */}
+          {/* <div className={styles.horizontalLine}></div>
+          <div className={styles.horizontalLine}></div>
+          <div className={styles.mainContentAtelje}>
+            <h3>Ateljen</h3>
+            <p>Studio hittar ni ca 40 minuter söder om Stockholm city.</p>
+          </div>
+          <div className={styles.ateljeImages}>
+            <div className={styles.ateljeImageWrapper}>
+              <Image
+                src={profile}
+                alt="Portrait of the artist Kajsa Unge"
+                width={400}
+                height={400}
+              />
+            </div>
+            <div className={styles.ateljeImageWrapper}>
+              <Image
+                src={profile}
+                alt="Portrait of the artist Kajsa Unge"
+                width={400}
+                height={400}
+              />
+            </div>
+            <div className={styles.ateljeImageWrapper}>
+              <Image
+                src={profile}
+                alt="Portrait of the artist Kajsa Unge"
+                width={400}
+                height={400}
+              />
+            </div>
+            <div className={styles.ateljeImageWrapper}>
+              <Image
+                src={profile}
+                alt="Portrait of the artist Kajsa Unge"
+                width={400}
+                height={400}
+              />
+            </div>
+          </div> */}
         </div>
       </main>
     </>

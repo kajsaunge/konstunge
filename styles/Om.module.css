@@ -18,10 +18,6 @@
   max-width: 396px;
   max-height: 396px;
 }
-.mainContentTextBlock {
-  max-width: 600px;
-  margin-top: 36px;
-}
 .mainContentText {
   margin-top: 0;
   line-height: 1.6;
@@ -38,6 +34,27 @@
   padding: 9px;
   line-height: 2;
 }
+
+.horizontalLine {
+  border-top: 0 solid var(--interactive-color);
+}
+.mainContentAtelje {
+  display: grid;
+  grid-template-rows: 1fr;
+  align-items: start;
+}
+.ateljeImages {
+  display: flex;
+  flex-wrap: wrap;
+}
+.ateljeImageWrapper {
+  margin-right: 20px;
+}
+.mainContentTextBlock {
+  max-width: 600px;
+  margin-top: 36px;
+}
+
 @media screen and (min-width: 1100px) {
   .mainContent {
     grid-template-columns: 1fr 2fr;
@@ -47,5 +64,12 @@
   }
   .imageBackground {
     max-height: 381px;
+  }
+  .ateljeImages {
+    margin-top: 30px;
+  flex-wrap: nowrap;
+  }
+  .horizontalLine {
+    border-top: 2px solid var(--interactive-color);
   }
 }
