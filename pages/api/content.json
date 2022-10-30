@@ -6,7 +6,7 @@
       "name": "Emma",
       "description": "Hennes hjärta slår, det slår så hårt. Hon är virveln som får dammet att yra och knopparna att slå ut. Emma, min Emma.",
       "price": "4 500",
-      "status": "new",
+      "status": "sold",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -377,7 +377,7 @@
       "name": "Sense",
       "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
       "price": "4 500",
-      "status": "available",
+      "status": "reserved",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -410,7 +410,7 @@
       "name": "Security",
       "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
       "price": "4 500",
-      "status": "available",
+      "status": "reserved",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"

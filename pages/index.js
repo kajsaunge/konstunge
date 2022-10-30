@@ -85,6 +85,11 @@ const Home = () => {
                         <p>NY</p>
                       </div>
                     )}
+                    {piece.status === "reserved" && (
+                      <div className={styles.artPieceReserved}>
+                        <p>Reserverad</p>
+                      </div>
+                    )}
                     <NextLink
                       href={`/konst${piece.slug}`}
                       as={`/konst${piece.path}`}
