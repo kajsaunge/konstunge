@@ -1,43 +1,6 @@
 {
   "pieces": [
     {
-      "slug": "/emma",
-      "path": "/emma",
-      "name": "Emma",
-      "description": "Hennes hjärta slår, det slår så hårt. Hon är virveln som får dammet att yra och knopparna att slå ut. Emma, min Emma.",
-      "price": "4 500",
-      "status": "sold",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/emma/emma_0.png",
-          "alt": "Tavlan 'Emma' i ram"
-        },
-        {
-          "src": "/static/paintings/emma/emma_1.png",
-          "alt": "'Emma' detaljbild"
-        },
-        {
-          "src": "/static/paintings/emma/emma_2.png",
-          "alt": "'Emma' detaljbild"
-        },
-        {
-          "src": "/static/paintings/emma/emma_3.png",
-          "alt": "'Emma' framifrån"
-        }
-      ]
-    },
-    {
       "slug": "/blue-hope",
       "path": "/blue-hope",
       "name": "Blue Hope",
@@ -71,6 +34,43 @@
         {
           "src": "/static/paintings/blue-hope/blue-hope_3.png",
           "alt": "'Blue Hope' framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/emma",
+      "path": "/emma",
+      "name": "Emma",
+      "description": "Hennes hjärta slår, det slår så hårt. Hon är virveln som får dammet att yra och knopparna att slå ut. Emma, min Emma.",
+      "price": "4 500",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/emma/emma_0.png",
+          "alt": "Tavlan 'Emma' i ram"
+        },
+        {
+          "src": "/static/paintings/emma/emma_1.png",
+          "alt": "'Emma' detaljbild"
+        },
+        {
+          "src": "/static/paintings/emma/emma_2.png",
+          "alt": "'Emma' detaljbild"
+        },
+        {
+          "src": "/static/paintings/emma/emma_3.png",
+          "alt": "'Emma' framifrån"
         }
       ]
     },
