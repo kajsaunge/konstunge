@@ -11,7 +11,7 @@ import content from "./api/content.json";
 import styles from "../styles/Hem.module.css";
 
 const Home = () => {
-  const [sortValue, setSortValue] = useState("");
+  const [sortValue, setSortValue] = useState("status");
 
   const mappedContent = content.pieces.map((el, i) => {
     const elWidth = parseInt(el.width);
@@ -19,9 +19,16 @@ const Home = () => {
 
     const sizeSort = elWidth < elHeight ? elWidth : elHeight;
     const priceSort = parseInt(el.price);
+    const statusSort = el.status === "new" || el.status === "available";
 
     const sortBy =
-      sortValue !== "" ? (sortValue === "pris" ? priceSort : sizeSort) : "";
+      sortValue !== ""
+        ? sortValue === "pris"
+          ? priceSort
+          : sortValue === "status"
+          ? statusSort
+          : sizeSort
+        : "";
 
     return { index: i, value: sortBy };
   });
@@ -67,7 +74,10 @@ const Home = () => {
           description="Unik konst för unika hem"
         />
         <div className="hide-on-mobile">
-          <Sorter getSortValue={setSortValue} toggleBy={["storlek", "pris"]} />
+          <Sorter
+            getSortValue={setSortValue}
+            toggleBy={["storlek", "pris", "status"]}
+          />
         </div>
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
