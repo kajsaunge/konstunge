@@ -38,6 +38,78 @@
       ]
     },
     {
+      "slug": "/deer-her",
+      "path": "/deer-her",
+      "name": "Deer her",
+      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
+      "price": "2 500",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "34",
+      "height": "34",
+      "tags": [
+        "plywood",
+        "akryl",
+        "female",
+        "animal"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/deer-her/deer-her_0.jpg",
+          "alt": "Tavlan Deer her framifrån"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
+          "alt": "Närbild på tavlan Deer her"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
+          "alt": "Tavlan Deer her utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/balance",
+      "path": "/balance",
+      "name": "Balance",
+      "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
+      "price": "4 000",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plexiglas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "plexiglas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/balance/balance_0.jpg",
+          "alt": "Tavlan Balance framifrån"
+        },
+        {
+          "src": "/static/paintings/balance/balance_1.jpg",
+          "alt": "Tavlan Balance framifrån"
+        },
+        {
+          "src": "/static/paintings/balance/balance_2.jpg",
+          "alt": "Tavlan Balance närbild"
+        },
+        {
+          "src": "/static/paintings/balance/balance_3.jpg",
+          "alt": "Tavlan Balance från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/emma",
       "path": "/emma",
       "name": "Emma",
@@ -149,39 +221,36 @@
       ]
     },
     {
-      "slug": "/release",
-      "path": "/release",
-      "name": "Release",
-      "description": "Släpp taget, gör dig fri. Du är värd mer och bättre. Bestäm dig och du kommer få en energi att klara vad som helst.",
-      "price": "2 500",
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
+      "price": "6 000",
       "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "width": "60",
-      "height": "80",
+      "width": "80",
+      "height": "120",
       "tags": [
         "plywood",
-        "akryl"
+        "akryl",
+        "typografi"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/release/release_0.png",
-          "alt": "Tavlan 'Release' framifrån"
+          "src": "/static/paintings/newyork/newyork_0.jpg",
+          "alt": "Tavlan New york framifrån"
         },
         {
-          "src": "/static/paintings/release/release_1.jpg",
-          "alt": "Tavlan 'Release' framifrån"
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "Tavlan New york framifrån"
         },
         {
-          "src": "/static/paintings/release/release_2.jpg",
-          "alt": "Tavlan 'Release' närbild"
-        },
-        {
-          "src": "/static/paintings/release/release_3.jpg",
-          "alt": "Tavlan 'Release' från sidan"
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "Tavlan New york från sidan"
         }
       ]
     },
@@ -258,41 +327,6 @@
         {
           "src": "/static/paintings/flowers-above/flowers-above_4.jpeg",
           "alt": "Tavlan 'Flowers above' utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/deer-her",
-      "path": "/deer-her",
-      "name": "Deer her",
-      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
-      "price": "2 500",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "34",
-      "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female",
-        "animal"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/deer-her/deer-her_0.jpg",
-          "alt": "Tavlan Deer her framifrån"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
-          "alt": "Närbild på tavlan Deer her"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
-          "alt": "Tavlan Deer her utan ram"
         }
       ]
     },
@@ -520,77 +554,6 @@
       ]
     },
     {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "6 000",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "80",
-      "height": "120",
-      "tags": [
-        "plywood",
-        "akryl",
-        "typografi"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/newyork/newyork_0.jpg",
-          "alt": "Tavlan New york framifrån"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "Tavlan New york framifrån"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "Tavlan New york från sidan"
-        }
-      ]
-    },
-    {
-      "slug": "/balance",
-      "path": "/balance",
-      "name": "Balance",
-      "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
-      "price": "4 000",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plexiglas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": [
-        "plexiglas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/balance/balance_0.jpg",
-          "alt": "Tavlan Balance framifrån"
-        },
-        {
-          "src": "/static/paintings/balance/balance_1.jpg",
-          "alt": "Tavlan Balance framifrån"
-        },
-        {
-          "src": "/static/paintings/balance/balance_2.jpg",
-          "alt": "Tavlan Balance närbild"
-        },
-        {
-          "src": "/static/paintings/balance/balance_3.jpg",
-          "alt": "Tavlan Balance från sidan"
-        }
-      ]
-    },
-    {
       "slug": "/female",
       "path": "/female",
       "name": "Female",
@@ -628,6 +591,76 @@
       ]
     },
     {
+      "slug": "/release",
+      "path": "/release",
+      "name": "Release",
+      "description": "Släpp taget, gör dig fri. Du är värd mer och bättre. Bestäm dig och du kommer få en energi att klara vad som helst.",
+      "price": "2 500",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "60",
+      "height": "80",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/release/release_0.png",
+          "alt": "Tavlan 'Release' framifrån"
+        },
+        {
+          "src": "/static/paintings/release/release_1.jpg",
+          "alt": "Tavlan 'Release' framifrån"
+        },
+        {
+          "src": "/static/paintings/release/release_2.jpg",
+          "alt": "Tavlan 'Release' närbild"
+        },
+        {
+          "src": "/static/paintings/release/release_3.jpg",
+          "alt": "Tavlan 'Release' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/leaving",
+      "path": "/leaving",
+      "name": "Leaving",
+      "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
+      "price": "4 000",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Glas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": [
+        "glas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/leaving/leaving_0.png",
+          "alt": "Tavlan Leaving framifrån"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_2.jpg",
+          "alt": "Tavlan Leaving närbild"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "alt": "Tavlan Leaving från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/the-inhabitat",
       "path": "/the-inhabitat",
       "name": "The inhabitat",
@@ -657,40 +690,6 @@
         {
           "src": "/static/paintings/the-inhabitat/the-inhabitat_2.jpg",
           "alt": "Tavlan The inhabitat närbild"
-        }
-      ]
-    },
-    {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "3 000",
-      "status": "available",
-      "material": {
-        "medium": "Akryl, ink, crayon, graphite",
-        "base": "Canvas"
-      },
-      "width": "54",
-      "height": "64",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_0.jpg",
-          "alt": "Tavlan Garden girl framifrån"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
@@ -763,35 +762,36 @@
       ]
     },
     {
-      "slug": "/leaving",
-      "path": "/leaving",
-      "name": "Leaving",
-      "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
-      "price": "4 000",
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "3 000",
       "status": "available",
       "material": {
-        "medium": "Akryl",
-        "base": "Glas"
+        "medium": "Akryl, ink, crayon, graphite",
+        "base": "Canvas"
       },
-      "width": "30",
-      "height": "40",
+      "width": "54",
+      "height": "64",
       "tags": [
-        "glas",
-        "akryl"
+        "canvas",
+        "akryl",
+        "female"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/leaving/leaving_0.png",
-          "alt": "Tavlan Leaving framifrån"
+          "src": "/static/paintings/garden-girl/garden-girl_0.jpg",
+          "alt": "Tavlan Garden girl framifrån"
         },
         {
-          "src": "/static/paintings/leaving/leaving_2.jpg",
-          "alt": "Tavlan Leaving närbild"
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
         },
         {
-          "src": "/static/paintings/leaving/leaving_3.jpg",
-          "alt": "Tavlan Leaving från sidan"
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
