@@ -38,78 +38,6 @@
       ]
     },
     {
-      "slug": "/deer-her",
-      "path": "/deer-her",
-      "name": "Deer her",
-      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
-      "price": "2 500",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "34",
-      "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female",
-        "animal"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/deer-her/deer-her_0.jpg",
-          "alt": "Tavlan Deer her framifrån"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
-          "alt": "Närbild på tavlan Deer her"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
-          "alt": "Tavlan Deer her utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/balance",
-      "path": "/balance",
-      "name": "Balance",
-      "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
-      "price": "4 000",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plexiglas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": [
-        "plexiglas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/balance/balance_0.jpg",
-          "alt": "Tavlan Balance framifrån"
-        },
-        {
-          "src": "/static/paintings/balance/balance_1.jpg",
-          "alt": "Tavlan Balance framifrån"
-        },
-        {
-          "src": "/static/paintings/balance/balance_2.jpg",
-          "alt": "Tavlan Balance närbild"
-        },
-        {
-          "src": "/static/paintings/balance/balance_3.jpg",
-          "alt": "Tavlan Balance från sidan"
-        }
-      ]
-    },
-    {
       "slug": "/emma",
       "path": "/emma",
       "name": "Emma",
@@ -180,6 +108,78 @@
         {
           "src": "/static/paintings/spellbound/spellbound_3.jpg",
           "alt": "'Spellbound' detaljbild"
+        }
+      ]
+    },
+    {
+      "slug": "/deer-her",
+      "path": "/deer-her",
+      "name": "Deer her",
+      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
+      "price": "2 500",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "34",
+      "height": "34",
+      "tags": [
+        "plywood",
+        "akryl",
+        "female",
+        "animal"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/deer-her/deer-her_0.jpg",
+          "alt": "Tavlan Deer her framifrån"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
+          "alt": "Närbild på tavlan Deer her"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
+          "alt": "Tavlan Deer her utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/balance",
+      "path": "/balance",
+      "name": "Balance",
+      "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
+      "price": "4 000",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plexiglas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "plexiglas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/balance/balance_0.jpg",
+          "alt": "Tavlan Balance framifrån"
+        },
+        {
+          "src": "/static/paintings/balance/balance_1.jpg",
+          "alt": "Tavlan Balance framifrån"
+        },
+        {
+          "src": "/static/paintings/balance/balance_2.jpg",
+          "alt": "Tavlan Balance närbild"
+        },
+        {
+          "src": "/static/paintings/balance/balance_3.jpg",
+          "alt": "Tavlan Balance från sidan"
         }
       ]
     },
