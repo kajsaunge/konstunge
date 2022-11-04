@@ -1,12 +1,45 @@
 {
   "pieces": [
     {
+      "slug": "/you-first",
+      "path": "/you-first",
+      "name": "You first",
+      "description": "Det är något förunderligt över en förälders outsinliga omtanke och kärlek. Vilken gåva att få uppleva det. Tänk om vi förlängde den till andra runtomkring oss, kända och okända - hur skulle världen kunna se ut då?",
+      "price": "2 000",
+      "status": "available",
+      "material": {
+        "medium": "Akryl och bläck",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": [
+        "canvas",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/you-first/you-first_0.jpg",
+          "alt": "Tavlan 'You first' i ram"
+        },
+        {
+          "src": "/static/paintings/you-first/you-first_1.png",
+          "alt": "'You first' från sidan"
+        },
+        {
+          "src": "/static/paintings/you-first/you-first_2.png",
+          "alt": "'You first' detaljbild"
+        }
+      ]
+    },
+    {
       "slug": "/blue-hope",
       "path": "/blue-hope",
       "name": "Blue Hope",
       "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
       "price": "3 500",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
