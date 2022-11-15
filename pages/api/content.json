@@ -185,7 +185,7 @@
       "name": "Balance",
       "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
       "price": "4 000",
-      "status": "available",
+      "status": "sold",
       "material": {
         "medium": "Akryl",
         "base": "Plexiglas"
