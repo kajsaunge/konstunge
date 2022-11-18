@@ -137,39 +137,77 @@
       ]
     },
     {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
-      "price": "3 500",
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "3 000",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
+        "medium": "Akryl, ink, crayon, graphite",
+        "base": "Canvas"
+      },
+      "width": "54",
+      "height": "64",
+      "tags": [
+        "canvas",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_0.jpg",
+          "alt": "Tavlan Garden girl framifrån"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/flowers-above",
+      "path": "/flowers-above",
+      "name": "Flowers above",
+      "description": "Den här tavlan kom som en dans. Som ett utforskande och en lek. Femininitet, styrka och lust.",
+      "price": "7 500",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media: akryl, krita, tusch, bläck",
         "base": "Plywood"
       },
       "width": "70",
       "height": "100",
       "tags": [
         "plywood",
-        "mixed media"
+        "akryl, mixed media"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/blue-hope/blue-hope_0.jpg",
-          "alt": "Tavlan 'Blue Hope' i ram"
+          "src": "/static/paintings/flowers-above/flowers-above_0.jpg",
+          "alt": "Tavlan 'Flowers above' i ram"
         },
         {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' detaljbild"
+          "src": "/static/paintings/flowers-above/flowers-above_1.jpeg",
+          "alt": "Tavlan 'Flowers above' närbild"
         },
         {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' detaljbild"
+          "src": "/static/paintings/flowers-above/flowers-above_2.jpeg",
+          "alt": "Tavlan 'Flowers above' detaljbild"
         },
         {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' framifrån"
+          "src": "/static/paintings/flowers-above/flowers-above_3.jpeg",
+          "alt": "Tavlan 'Flowers above' från sidan"
+        },
+        {
+          "src": "/static/paintings/flowers-above/flowers-above_4.jpeg",
+          "alt": "Tavlan 'Flowers above' utan ram"
         }
       ]
     },
@@ -282,43 +320,6 @@
       ]
     },
     {
-      "slug": "/balance",
-      "path": "/balance",
-      "name": "Balance",
-      "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
-      "price": "4 000",
-      "status": "sold",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plexiglas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": [
-        "plexiglas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/balance/balance_0.jpg",
-          "alt": "Tavlan Balance framifrån"
-        },
-        {
-          "src": "/static/paintings/balance/balance_1.jpg",
-          "alt": "Tavlan Balance framifrån"
-        },
-        {
-          "src": "/static/paintings/balance/balance_2.jpg",
-          "alt": "Tavlan Balance närbild"
-        },
-        {
-          "src": "/static/paintings/balance/balance_3.jpg",
-          "alt": "Tavlan Balance från sidan"
-        }
-      ]
-    },
-    {
       "slug": "/owl",
       "path": "/owl",
       "name": "The compass",
@@ -356,6 +357,43 @@
       ]
     },
     {
+      "slug": "/female",
+      "path": "/female",
+      "name": "Female",
+      "description": "Den stora starka kvinnliga symbolen, omgien av frihetsfåglar gjorda av papper. Det är en skör, nästan förädisk frihet kvinnan har.",
+      "price": "5 500",
+      "status": "sold",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/female/female_0.jpg",
+          "alt": "Tavlan 'female' framifrån"
+        },
+        {
+          "src": "/static/paintings/female/female_1.jpg",
+          "alt": "Tavlan 'female' framifrån"
+        },
+        {
+          "src": "/static/paintings/female/female_2.jpg",
+          "alt": "Tavlan 'female' närbild"
+        },
+        {
+          "src": "/static/paintings/female/female_3.jpg",
+          "alt": "Tavlan 'female' från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/the-inhabitat",
       "path": "/the-inhabitat",
       "name": "The inhabitat",
@@ -389,36 +427,39 @@
       ]
     },
     {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "3 000",
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
+      "price": "3 500",
       "status": "available",
       "material": {
-        "medium": "Akryl, ink, crayon, graphite",
-        "base": "Canvas"
+        "medium": "Mixed media",
+        "base": "Plywood"
       },
-      "width": "54",
-      "height": "64",
+      "width": "70",
+      "height": "100",
       "tags": [
-        "canvas",
-        "akryl",
-        "female"
+        "plywood",
+        "mixed media"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/garden-girl/garden-girl_0.jpg",
-          "alt": "Tavlan Garden girl framifrån"
+          "src": "/static/paintings/blue-hope/blue-hope_0.jpg",
+          "alt": "Tavlan 'Blue Hope' i ram"
         },
         {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' detaljbild"
         },
         {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' framifrån"
         }
       ]
     },
@@ -460,37 +501,36 @@
       ]
     },
     {
-      "slug": "/deer-her",
-      "path": "/deer-her",
-      "name": "Deer her",
-      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
-      "price": "2 500",
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
+      "price": "3 500",
       "status": "available",
       "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
+        "medium": "Mixed media",
+        "base": "Canvas"
       },
-      "width": "34",
-      "height": "34",
+      "width": "50",
+      "height": "70",
       "tags": [
         "plywood",
         "akryl",
-        "female",
-        "animal"
+        "mixed media"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/deer-her/deer-her_0.jpg",
-          "alt": "Tavlan Deer her framifrån"
+          "src": "/static/paintings/audrey/audrey_0.jpg",
+          "alt": "Tavlan 'Audrey' framifrån i ram"
         },
         {
-          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
-          "alt": "Närbild på tavlan Deer her"
+          "src": "/static/paintings/audrey/audrey_1.jpeg",
+          "alt": "Tavlan 'Audrey' utan ram framifrån"
         },
         {
-          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
-          "alt": "Tavlan Deer her utan ram"
+          "src": "/static/paintings/audrey/audrey_2.jpg",
+          "alt": "Tavlan 'Audrey' i närbild"
         }
       ]
     },
@@ -525,82 +565,6 @@
         {
           "src": "/static/paintings/newyork/newyork_3.jpg",
           "alt": "Tavlan New york från sidan"
-        }
-      ]
-    },
-    {
-      "slug": "/t-shirt-girl",
-      "path": "/t-shirt-girl",
-      "name": "T-shirt girl",
-      "description": "Be who you are <3",
-      "price": "2 000",
-      "status": "hide",
-      "material": {
-        "medium": "Akvarell och akryl",
-        "base": "Canvas"
-      },
-      "width": "50",
-      "height": "50",
-      "tags": [
-        "canvas",
-        "akvarell",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_0.jpg",
-          "alt": "Tavlan T-shirt girl framifrån"
-        },
-        {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_1.jpeg",
-          "alt": "Närbild på tavlan T-shirt girl"
-        },
-        {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_2.jpeg",
-          "alt": "Tavlan T-shirt girl utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/flowers-above",
-      "path": "/flowers-above",
-      "name": "Flowers above",
-      "description": "Den här tavlan kom som en dans. Som ett utforskande och en lek. Femininitet, styrka och lust.",
-      "price": "7 500",
-      "status": "sold",
-      "material": {
-        "medium": "Mixed media: akryl, krita, tusch, bläck",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "akryl, mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/flowers-above/flowers-above_0.jpg",
-          "alt": "Tavlan 'Flowers above' i ram"
-        },
-        {
-          "src": "/static/paintings/flowers-above/flowers-above_1.jpeg",
-          "alt": "Tavlan 'Flowers above' närbild"
-        },
-        {
-          "src": "/static/paintings/flowers-above/flowers-above_2.jpeg",
-          "alt": "Tavlan 'Flowers above' detaljbild"
-        },
-        {
-          "src": "/static/paintings/flowers-above/flowers-above_3.jpeg",
-          "alt": "Tavlan 'Flowers above' från sidan"
-        },
-        {
-          "src": "/static/paintings/flowers-above/flowers-above_4.jpeg",
-          "alt": "Tavlan 'Flowers above' utan ram"
         }
       ]
     },
@@ -725,39 +689,39 @@
       ]
     },
     {
-      "slug": "/female",
-      "path": "/female",
-      "name": "Female",
-      "description": "Den stora starka kvinnliga symbolen, omgien av frihetsfåglar gjorda av papper. Det är en skör, nästan förädisk frihet kvinnan har.",
-      "price": "5 500",
+      "slug": "/balance",
+      "path": "/balance",
+      "name": "Balance",
+      "description": "Hon var så skör och nu är hon så stark. Hur tog hon sig igenom, hur bröt hon alla väggar?",
+      "price": "4 000",
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "Plexiglas"
       },
-      "width": "80",
-      "height": "120",
+      "width": "50",
+      "height": "70",
       "tags": [
-        "plywood",
+        "plexiglas",
         "akryl"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/female/female_0.jpg",
-          "alt": "Tavlan 'female' framifrån"
+          "src": "/static/paintings/balance/balance_0.jpg",
+          "alt": "Tavlan Balance framifrån"
         },
         {
-          "src": "/static/paintings/female/female_1.jpg",
-          "alt": "Tavlan 'female' framifrån"
+          "src": "/static/paintings/balance/balance_1.jpg",
+          "alt": "Tavlan Balance framifrån"
         },
         {
-          "src": "/static/paintings/female/female_2.jpg",
-          "alt": "Tavlan 'female' närbild"
+          "src": "/static/paintings/balance/balance_2.jpg",
+          "alt": "Tavlan Balance närbild"
         },
         {
-          "src": "/static/paintings/female/female_3.jpg",
-          "alt": "Tavlan 'female' från sidan"
+          "src": "/static/paintings/balance/balance_3.jpg",
+          "alt": "Tavlan Balance från sidan"
         }
       ]
     },
@@ -795,36 +759,72 @@
       ]
     },
     {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
-      "price": "3 500",
+      "slug": "/deer-her",
+      "path": "/deer-her",
+      "name": "Deer her",
+      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
+      "price": "2 500",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
+        "medium": "Akryl",
+        "base": "Plywood"
       },
-      "width": "50",
-      "height": "70",
+      "width": "34",
+      "height": "34",
       "tags": [
         "plywood",
         "akryl",
-        "mixed media"
+        "female",
+        "animal"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/audrey/audrey_0.jpg",
-          "alt": "Tavlan 'Audrey' framifrån i ram"
+          "src": "/static/paintings/deer-her/deer-her_0.jpg",
+          "alt": "Tavlan Deer her framifrån"
         },
         {
-          "src": "/static/paintings/audrey/audrey_1.jpeg",
-          "alt": "Tavlan 'Audrey' utan ram framifrån"
+          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
+          "alt": "Närbild på tavlan Deer her"
         },
         {
-          "src": "/static/paintings/audrey/audrey_2.jpg",
-          "alt": "Tavlan 'Audrey' i närbild"
+          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
+          "alt": "Tavlan Deer her utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/t-shirt-girl",
+      "path": "/t-shirt-girl",
+      "name": "T-shirt girl",
+      "description": "Be who you are <3",
+      "price": "2 000",
+      "status": "available",
+      "material": {
+        "medium": "Akvarell och akryl",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": [
+        "canvas",
+        "akvarell",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_0.jpg",
+          "alt": "Tavlan T-shirt girl framifrån"
+        },
+        {
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_1.jpeg",
+          "alt": "Närbild på tavlan T-shirt girl"
+        },
+        {
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_2.jpeg",
+          "alt": "Tavlan T-shirt girl utan ram"
         }
       ]
     },
