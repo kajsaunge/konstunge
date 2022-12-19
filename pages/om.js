@@ -35,9 +35,10 @@ const Om = () => {
           <div className={styles.mainContentTextBlock}>
             <p className={styles.mainContentText}>
               Skapandet är främst inspirerat av intryck, känslor och tankar. Men
-              även av uppväxten på vackra Gotland, mixad med intryck från andra
-              delar av världen och vårt underbara Stockholm. Materialen varierar
-              och oftast är det akryl som får landa vilt på stora plywoodskivor.
+              även av uppväxten på vackra Gotland, blandad med intryck från
+              andra delar av världen och vårt underbara Stockholm. Materialen
+              varierar och oftast är det akryl som får landa vilt på stora
+              plywoodskivor.
             </p>
             <motion.div
               initial={{ opacity: 0, scale: 0.98 }}
@@ -46,7 +47,7 @@ const Om = () => {
             >
               <blockquote className={styles.mainContentQuote}>
                 "Motiven får växa fram organiskt utan någon direkt plan, vilket
-                skapar flow i skapandet och i konstverken."
+                skapar flow i skapandet och konstverken."
               </blockquote>
             </motion.div>
             <p

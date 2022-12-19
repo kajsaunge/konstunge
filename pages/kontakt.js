@@ -25,7 +25,7 @@ const Kontakt = () => {
         />
         <div className={styles.mainContentTextBlock}>
           <p className={styles.mainContentText}>
-            Har du några som helst frågor kring min konst, ett potentiellt
+            Har du några som helst frågor kring konsten, ett potentiellt
             samarbete eller bara vill snacka lite når du mig enklast på{" "}
             <a className="link" href="mailto:info@konstunge.se">
               info@konstunge.se
@@ -48,7 +48,7 @@ const Kontakt = () => {
               i Stockholms-området alternativt upphämtning i studion, det som
               passar bäst. <br />
               <br />
-              Studio hittar ni ca 40 minuter söder om Stockholm city.
+              Studion hittar ni ca 35 minuter söder om Stockholm city.
             </p>
           </div>
           <Form messagePlaceholder="Ditt meddelande" />

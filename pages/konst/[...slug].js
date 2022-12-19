@@ -34,7 +34,7 @@ const Product = ({ piece }) => {
           </button>
         </nav>
         <PageIntro
-          title={`Konstverk: ${piece.name}`}
+          title={`Originalmålning: ${piece.name}`}
           description="Unik konst för unika hem"
         />
         <div className={styles.grid}>
@@ -47,21 +47,30 @@ const Product = ({ piece }) => {
               <div className={styles.artPieceContent}>
                 <h3 className={styles.artPieceTitle}>{piece.name}</h3>
                 <p className={styles.artPieceDescription}>
-                  {piece.material.medium} på {piece.material.base}
-                </p>
-                <h3 className={styles.artPieceSubTitle}>Beskrivning</h3>
-                <p className={styles.artPieceDescription}>
                   {piece.description}
                 </p>
                 <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
+                <p className={styles.artPieceDetails}>
+                  <b>Årtal:</b> {piece.year}
+                </p>
                 <p className={styles.artPieceDetails}>
                   <b>Pris:</b> {piece.price} kr
                 </p>
                 <p className={styles.artPieceDetails}>
                   <b>Storlek:</b> {piece.width}x{piece.height} cm
                 </p>
-                <p className={styles.artPieceDescription}>
-                  Tavlan levereras utan ram.
+                <p className={styles.artPieceDetails}>
+                  <b>Material:</b> {piece.material.medium} på{" "}
+                  {piece.material.base}
+                </p>
+                <p className={styles.artPieceDetails}>
+                  <b>Certifikat:</b> Inkluderat
+                </p>
+                <p className={styles.artPieceDetails}>
+                  <b>Ram:</b> Tillgänglig vid förfrågan
+                </p>
+                <p className={styles.artPieceDetails}>
+                  <b>Leverans:</b> Upphämtning i Stockholm
                 </p>
               </div>
             </div>
@@ -82,14 +91,13 @@ const Product = ({ piece }) => {
                 info@konstunge.se
               </a>
               . <br /> Skriv i meddelandet hur du vill få din tavle leveread.
-              Många av konstverken går att leverarea via bud eller post medan
+              Många av konstverken går att leverara via bud eller post medan
               andra väger en del och eventuellt är för stora för att skickas. I
               det senare fallet brukar jag och köparen komma överens om leverans
               i Stockholms-området alternativt upphämtning i studion, det som
               passar bäst. <br />
               <br />
-              Min studio ligger i Grödinge, ca 40 minuter söder om Stockholm
-              city.
+              Studion ligger i Grödinge, ca 40 minuter söder om Stockholm city.
             </p>
           </div>
           <Form messagePlaceholder="Din beställning" submit="Beställ" />
