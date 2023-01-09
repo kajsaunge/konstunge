@@ -1,6 +1,44 @@
 {
   "pieces": [
     {
+      "slug": "/radio-girl",
+      "path": "/radio-girl",
+      "name": "Radio girl",
+      "description": "From the days when the radio dressed rooms in vibrations, she was the audio princess",
+      "price": "6 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "canvas",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/radio-girl/radio-girl_0.png",
+          "alt": "Tavlan 'Radio girl' i ram"
+        },
+        {
+          "src": "/static/paintings/radio-girl/radio-girl_1.jpeg",
+          "alt": "'Radio girl' från sidan"
+        },
+        {
+          "src": "/static/paintings/radio-girl/radio-girl_4.jpeg",
+          "alt": "'Radio girl' närbild"
+        },
+        {
+          "src": "/static/paintings/radio-girl/radio-girl_5.jpeg",
+          "alt": "'Radio girl' på staffli"
+        }
+      ]
+    },
+    {
       "slug": "/rearview",
       "path": "/rearview",
       "name": "Rearview",
@@ -22,7 +60,7 @@
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/rearview/rearview_0.png",
+          "src": "/static/paintings/rearview/rearview-0.png",
           "alt": "Tavlan 'Rearview' i ram"
         },
         {
