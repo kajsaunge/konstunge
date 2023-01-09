@@ -1,6 +1,41 @@
 {
   "pieces": [
     {
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
+      "price": "7 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/rearview/rearview_0.png",
+          "alt": "Tavlan 'Rearview' i ram"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' utan ram"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-2.jpeg",
+          "alt": "'Rearview' från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/sense",
       "path": "/sense",
       "name": "Sense",

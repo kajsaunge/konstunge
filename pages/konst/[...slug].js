@@ -10,6 +10,7 @@ import styles from "../../styles/Produkt.module.css";
 
 const Product = ({ piece }) => {
   const router = useRouter();
+  const hasFrame = piece.frame ? piece.frame : "Tillgänglig vid förfrågan";
   return (
     <>
       <Head>
@@ -67,7 +68,7 @@ const Product = ({ piece }) => {
                   <b>Certifikat:</b> Inkluderat
                 </p>
                 <p className={styles.artPieceDetails}>
-                  <b>Ram:</b> Tillgänglig vid förfrågan
+                  <b>Ram:</b> {hasFrame}
                 </p>
                 <p className={styles.artPieceDetails}>
                   <b>Leverans:</b> Upphämtning i Stockholm
