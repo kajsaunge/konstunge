@@ -1,44 +1,6 @@
 {
   "pieces": [
     {
-      "slug": "/radio-girl",
-      "path": "/radio-girl",
-      "name": "Radio girl",
-      "description": "From the days when the radio dressed rooms in vibrations, she was the audio princess",
-      "price": "6 500",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": [
-        "canvas",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/radio-girl/radio-girl_0.png",
-          "alt": "Tavlan 'Radio girl' i ram"
-        },
-        {
-          "src": "/static/paintings/radio-girl/radio-girl_1.jpeg",
-          "alt": "'Radio girl' från sidan"
-        },
-        {
-          "src": "/static/paintings/radio-girl/radio-girl_4.jpeg",
-          "alt": "'Radio girl' närbild"
-        },
-        {
-          "src": "/static/paintings/radio-girl/radio-girl_5.jpeg",
-          "alt": "'Radio girl' på staffli"
-        }
-      ]
-    },
-    {
       "slug": "/rearview",
       "path": "/rearview",
       "name": "Rearview",
@@ -150,36 +112,6 @@
       ]
     },
     {
-      "slug": "/untouchable",
-      "path": "/untouchable",
-      "name": "Untouchable",
-      "description": "Hon går inte att komma åt. Hon har en mur hårdare och högre än det säkraste fängelset. Men de hon släpper in ger hon allt.",
-      "price": "5 000",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/untouchable/untouchable_0.jpg",
-          "alt": "Tavlan 'Untouchable?' framifrån"
-        },
-        {
-          "src": "/static/paintings/untouchable/untouchable_1.jpeg",
-          "alt": "Tavlan 'Untouchable?' framifrån"
-        }
-      ]
-    },
-    {
       "slug": "/you-first",
       "path": "/you-first",
       "name": "You first",
@@ -210,6 +142,44 @@
         {
           "src": "/static/paintings/you-first/you-first_2.png",
           "alt": "'You first' detaljbild"
+        }
+      ]
+    },
+    {
+      "slug": "/radio-girl",
+      "path": "/radio-girl",
+      "name": "Radio girl",
+      "description": "From the days when the radio dressed rooms in vibrations, she was the audio princess",
+      "price": "6 500",
+      "year": "2023",
+      "status": "hide",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "canvas",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/radio-girl/radio-girl_0.png",
+          "alt": "Tavlan 'Radio girl' i ram"
+        },
+        {
+          "src": "/static/paintings/radio-girl/radio-girl_1.jpeg",
+          "alt": "'Radio girl' från sidan"
+        },
+        {
+          "src": "/static/paintings/radio-girl/radio-girl_4.jpeg",
+          "alt": "'Radio girl' närbild"
+        },
+        {
+          "src": "/static/paintings/radio-girl/radio-girl_5.jpeg",
+          "alt": "'Radio girl' på staffli"
         }
       ]
     },
@@ -367,41 +337,6 @@
       ]
     },
     {
-      "slug": "/shut",
-      "path": "/shut",
-      "name": "Shut",
-      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
-      "price": "2 000",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Akryl, ink, crayon, graphite",
-        "base": "Canvas"
-      },
-      "width": "30",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/shut/shut_0.jpg",
-          "alt": "Tavlan Shut framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/shut/shut_1.jpeg",
-          "alt": "Tavlan Shut utan ram"
-        },
-        {
-          "src": "/static/paintings/shut/shut_2.jpg",
-          "alt": "Närbild på del av tavlan Shut"
-        }
-      ]
-    },
-    {
       "slug": "/owl",
       "path": "/owl",
       "name": "The compass",
@@ -478,6 +413,41 @@
       ]
     },
     {
+      "slug": "/shut",
+      "path": "/shut",
+      "name": "Shut",
+      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
+      "price": "2 000",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink, crayon, graphite",
+        "base": "Canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/shut/shut_0.jpg",
+          "alt": "Tavlan Shut framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/shut/shut_1.jpeg",
+          "alt": "Tavlan Shut utan ram"
+        },
+        {
+          "src": "/static/paintings/shut/shut_2.jpg",
+          "alt": "Närbild på del av tavlan Shut"
+        }
+      ]
+    },
+    {
       "slug": "/the-inhabitat",
       "path": "/the-inhabitat",
       "name": "The inhabitat",
@@ -508,6 +478,41 @@
         {
           "src": "/static/paintings/the-inhabitat/the-inhabitat_2.jpg",
           "alt": "Tavlan The inhabitat närbild"
+        }
+      ]
+    },
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
+      "price": "3 500",
+      "year": "2021",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "plywood",
+        "akryl",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_0.jpg",
+          "alt": "Tavlan 'Audrey' framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_1.jpeg",
+          "alt": "Tavlan 'Audrey' utan ram framifrån"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_2.jpg",
+          "alt": "Tavlan 'Audrey' i närbild"
         }
       ]
     },
@@ -588,37 +593,32 @@
       ]
     },
     {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
-      "price": "3 500",
-      "year": "2021",
+      "slug": "/untouchable",
+      "path": "/untouchable",
+      "name": "Untouchable",
+      "description": "Hon går inte att komma åt. Hon har en mur hårdare och högre än det säkraste fängelset. Men de hon släpper in ger hon allt.",
+      "price": "5 000",
+      "year": "2019",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
+        "medium": "Akryl",
+        "base": "Plywood"
       },
-      "width": "50",
-      "height": "70",
+      "width": "70",
+      "height": "100",
       "tags": [
         "plywood",
-        "akryl",
-        "mixed media"
+        "akryl"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/audrey/audrey_0.jpg",
-          "alt": "Tavlan 'Audrey' framifrån i ram"
+          "src": "/static/paintings/untouchable/untouchable_0.jpg",
+          "alt": "Tavlan 'Untouchable?' framifrån"
         },
         {
-          "src": "/static/paintings/audrey/audrey_1.jpeg",
-          "alt": "Tavlan 'Audrey' utan ram framifrån"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_2.jpg",
-          "alt": "Tavlan 'Audrey' i närbild"
+          "src": "/static/paintings/untouchable/untouchable_1.jpeg",
+          "alt": "Tavlan 'Untouchable?' framifrån"
         }
       ]
     },
