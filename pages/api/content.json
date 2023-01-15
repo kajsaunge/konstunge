@@ -167,7 +167,7 @@
       "images": [
         {
           "src": "/static/paintings/radio-girl/radio-girl_0.png",
-          "alt": "Tavlan 'Radio girl' i ram"
+          "alt": "Tavlan 'Radio girl' i galleriet"
         },
         {
           "src": "/static/paintings/radio-girl/radio-girl_1.jpeg",
@@ -468,7 +468,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_0.jpg",
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_0.png",
           "alt": "Tavlan The inhabitat framifrån"
         },
         {
@@ -911,7 +911,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_0.jpg",
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_00.png",
           "alt": "Tavlan T-shirt girl framifrån"
         },
         {
