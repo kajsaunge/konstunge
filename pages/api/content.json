@@ -561,7 +561,7 @@
       "description": "Släpp taget, gör dig fri. Du är värd mer och bättre. Bestäm dig och du kommer få en energi att klara vad som helst.",
       "price": "2 500",
       "year": "2020",
-      "status": "available",
+      "status": "hide",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
