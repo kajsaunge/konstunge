@@ -1,7 +1,5 @@
 import { useState, useEffect } from "react";
 import Head from "next/head";
-import Image from "next/image";
-import NextLink from "next/link";
 
 import PageIntro from "@/pageIntro";
 import Sorter from "@/sorter";
@@ -9,6 +7,7 @@ import Sorter from "@/sorter";
 import content from "./api/content.json";
 
 import styles from "../styles/Hem.module.css";
+import Card from "@/Card";
 
 const Home = () => {
   const [sortValue, setSortValue] = useState("status");
@@ -77,52 +76,8 @@ const Home = () => {
             {content &&
               shouldBeShown.map((piece, i) => {
                 return (
-                  <li key={i} className={styles.artPiece}>
-                    {piece.status === "sold" && (
-                      <div className={styles.artPieceSold}>
-                        <p>SÅLD</p>
-                      </div>
-                    )}
-                    {piece.status === "new" && (
-                      <div className={styles.artPieceNew}>
-                        <p>NY</p>
-                      </div>
-                    )}
-                    {piece.status === "reserved" && (
-                      <div className={styles.artPieceReserved}>
-                        <p>Reserverad</p>
-                      </div>
-                    )}
-                    <NextLink
-                      href={`/konst${piece.slug}`}
-                      as={`/konst${piece.path}`}
-                    >
-                      <a
-                        className={styles.artPieceLink}
-                        href={`/konst${piece.slug}`}
-                      >
-                        <Image
-                          width={372}
-                          height={520}
-                          src={piece.images[0].src}
-                          alt={piece.images[0].alt}
-                          className={styles.artPieceImage}
-                          // style={{ backgroundUrl()}}
-                        />
-                        <div className={styles.artPieceContent}>
-                          <h3 className={styles.artPieceTitle}>{piece.name}</h3>
-                          <div className={styles.artPieceDescription}>
-                            <p className={styles.artPieceDescriptionText}>
-                              <b>Storlek:</b> {piece.width}x{piece.height} cm
-                            </p>
-                            <p className={styles.artPieceDescriptionText}>
-                              <b>Pris:</b> {piece.price} kr{" "}
-                              {piece.frame && "(ram ingår)"}
-                            </p>
-                          </div>
-                        </div>
-                      </a>
-                    </NextLink>
+                  <li key={i}>
+                    <Card item={piece} />
                   </li>
                 );
               })}
