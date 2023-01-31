@@ -1,14 +1,23 @@
 import Head from "next/head";
 import Image from "next/image";
+import NextLink from "next/link";
 import { motion } from "framer-motion";
 
 import PageIntro from "@/pageIntro";
+import content from "./api/content.json";
+import Card from "@/Card";
 
 import styles from "../styles/Om.module.css";
 
 const profile = "/static/profile/kajsaunge.jpg";
 
 const Om = () => {
+  const selectedPieces = [];
+  content.pieces.map((item) => {
+    if (item.name === "The inner" || item.name === "Shut") {
+      selectedPieces.push(item);
+    }
+  });
   return (
     <>
       <Head>
@@ -21,7 +30,7 @@ const Om = () => {
         />
       </Head>
       <main aria-label="Om Konstunge" role="main" className="main">
-        <PageIntro title="Om konstnären" description="Kajsa Unge" />
+        <PageIntro level={1} title="Om konstnären" description="Kajsa Unge" />
         <div className={styles.mainContent}>
           <div className={styles.imageBackground}>
             <Image
@@ -78,7 +87,7 @@ const Om = () => {
           <div className={styles.horizontalLine}></div>
           <div className={styles.mainContentAtelje}>
             <h3>Ateljen</h3>
-            <p>Studio hittar ni ca 40 minuter söder om Stockholm city.</p>
+            <p>Studion hittar ni ca 40 minuter söder om Stockholm city.</p>
           </div>
           <div className={styles.ateljeImages}>
             <div className={styles.ateljeImageWrapper}>
@@ -113,7 +122,26 @@ const Om = () => {
                 height={400}
               />
             </div>
-          </div> */}
+          </div>*/}
+        </div>
+        <div className={styles.gallery}>
+          <PageIntro title="Mina favoriter" description="Utvalda konstverk" />
+          <ul className={styles.artPieces}>
+            {selectedPieces.map((item, i) => (
+              <li key={i} className={styles.artPiece}>
+                <Card item={item} />
+              </li>
+            ))}
+          </ul>
+          <nav
+            aria-label="Till galleriet"
+            role="navigation"
+            className={styles.backNavWrapper}
+          >
+            <NextLink href="/" as="/">
+              Se fler
+            </NextLink>
+          </nav>
         </div>
       </main>
     </>

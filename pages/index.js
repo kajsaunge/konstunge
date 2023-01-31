@@ -61,6 +61,7 @@ const Home = () => {
       </Head>
       <main aria-label="Galleri Konstunge" role="main" className="main">
         <PageIntro
+          level={1}
           subtitle="Galleri"
           title="Konstunge"
           description="Unik konst för unika hem"

@@ -1,11 +1,20 @@
 import Head from "next/head";
 import Form from "@/form";
+import NextLink from "next/link";
+
+import content from "./api/content.json";
 
 import PageIntro from "@/pageIntro";
-
+import Card from "@/Card";
 import styles from "../styles/Kontakt.module.css";
 
 const Kontakt = () => {
+  const selectedPieces = [];
+  content.pieces.map((item) => {
+    if (item.name === "Sense" || item.name === "Security") {
+      selectedPieces.push(item);
+    }
+  });
   return (
     <>
       <Head>
@@ -19,6 +28,7 @@ const Kontakt = () => {
       </Head>
       <main aria-label="Kontaktinformation" role="main" className="main">
         <PageIntro
+          level={1}
           description="Förfrågning och beställning"
           title="Kontakt"
           seo="För köp av konst och konstverk från konstgalleri i stockholm. Samarbete och representation"
@@ -53,9 +63,25 @@ const Kontakt = () => {
           </div>
           <Form messagePlaceholder="Ditt meddelande" />
         </div>
-        {/* <aside className={styles.artPieceFooter}>
-          <p>link to utvalda konstverk</p>
-        </aside> */}
+        <div className={styles.gallery}>
+          <PageIntro title="Galleri" description="Stora konstverk" />
+          <ul className={styles.artPieces}>
+            {selectedPieces.map((item, i) => (
+              <li key={i} className={styles.artPiece}>
+                <Card item={item} />
+              </li>
+            ))}
+          </ul>
+          <nav
+            aria-label="Till galleriet"
+            role="navigation"
+            className={styles.backNavWrapper}
+          >
+            <NextLink href="/" as="/">
+              Se fler
+            </NextLink>
+          </nav>
+        </div>
       </main>
     </>
   );

@@ -29,16 +29,25 @@
   }
 }
 
-/* .artPieceFooter {
+.gallery {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 2px dashed var(--disabled-border);
+}
+.artPieces {
   display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 32px;
-  margin: 24px 0;
-  border-top: 2px solid var(--interactive-color);
+  grid-template-columns: repeat(auto-fit, minmax(172px, 372px));
+  justify-content: center;
+  grid-gap: 16px;
+  list-style-type: none;
+  padding-left: 0;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+.backNavWrapper {
+  margin-top: 36px;
+  text-align: center;
+  color: var(--pine);
 }
 
-@media screen and (min-width: 1100px) {
-  .artPieceFooter {
-    grid-template-columns: 660px 1fr;
-  }
-} */

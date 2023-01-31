@@ -35,6 +35,7 @@ const Product = ({ piece }) => {
           </button>
         </nav>
         <PageIntro
+          level={1}
           title={`Originalmålning: ${piece.name}`}
           description="Unik konst för unika hem"
         />
