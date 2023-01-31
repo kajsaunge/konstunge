@@ -18,17 +18,10 @@ const Home = () => {
     const elHeight = parseInt(el.height);
 
     const sizeSort = elWidth < elHeight ? elWidth : elHeight;
-    const priceSort = parseInt(el.price);
     const statusSort = el.status === "new" || el.status === "available";
 
     const sortBy =
-      sortValue !== ""
-        ? sortValue === "pris"
-          ? priceSort
-          : sortValue === "status"
-          ? statusSort
-          : sizeSort
-        : "";
+      sortValue !== "" ? (sortValue === "status" ? statusSort : sizeSort) : "";
 
     return { index: i, value: sortBy };
   });
@@ -76,7 +69,7 @@ const Home = () => {
         <div className="hide-on-mobile">
           <Sorter
             getSortValue={setSortValue}
-            toggleBy={["storlek", "pris", "status"]}
+            toggleBy={["status", "storlek"]}
           />
         </div>
         <section className={styles.artPiecesWrapper}>
@@ -123,7 +116,8 @@ const Home = () => {
                               <b>Storlek:</b> {piece.width}x{piece.height} cm
                             </p>
                             <p className={styles.artPieceDescriptionText}>
-                              <b>Pris:</b> {piece.price} kr
+                              <b>Pris:</b> {piece.price} kr{" "}
+                              {piece.frame && "(ram ingår)"}
                             </p>
                           </div>
                         </div>
