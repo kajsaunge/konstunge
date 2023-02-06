@@ -1,13 +1,14 @@
 {
   "pieces": [
     {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "12 500",
-      "year": "2023",
-      "status": "hide",
+      "slug": "/sense",
+      "path": "/sense",
+      "name": "Sense",
+      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
+      "price": "7 500",
+      "year": "2022",
+      "status": "available",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -19,19 +20,18 @@
         "mixed media"
       ],
       "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/curiosity/curiosity_0.png",
-          "alt": "Tavlan 'Curiosity' i ram"
+          "src": "/static/paintings/sense/sense-shadowbox_0.png",
+          "alt": "Tavlan 'Sense' i ram"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity-1.jpeg",
-          "alt": "'Curiosity' utan ram"
+          "src": "/static/paintings/sense/sense_1.jpg",
+          "alt": "'Sense' från sidan"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity-2.jpeg",
-          "alt": "'Curiosity' från sidan"
+          "src": "/static/paintings/sense/sense_2.jpg",
+          "alt": "'Sense' detaljbild"
         }
       ]
     },
@@ -67,41 +67,6 @@
         {
           "src": "/static/paintings/rearview/rearview-2.jpeg",
           "alt": "'Rearview' från sidan"
-        }
-      ]
-    },
-    {
-      "slug": "/sense",
-      "path": "/sense",
-      "name": "Sense",
-      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
-      "price": "7 500",
-      "year": "2022",
-      "status": "available",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/sense/sense-shadowbox_0.png",
-          "alt": "Tavlan 'Sense' i ram"
-        },
-        {
-          "src": "/static/paintings/sense/sense_1.jpg",
-          "alt": "'Sense' från sidan"
-        },
-        {
-          "src": "/static/paintings/sense/sense_2.jpg",
-          "alt": "'Sense' detaljbild"
         }
       ]
     },
@@ -235,7 +200,7 @@
       "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
       "price": "6 500",
       "year": "2023",
-      "status": "hide",
+      "status": "available",
       "material": {
         "medium": "Mixed media",
         "base": "Canvas"
@@ -838,44 +803,6 @@
       ]
     },
     {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
-      "price": "4 500",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_0.jpg",
-          "alt": "Tavlan 'Blue Hope' i ram"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' framifrån"
-        }
-      ]
-    },
-    {
       "slug": "/release",
       "path": "/release",
       "name": "Release",
@@ -944,6 +871,44 @@
       ]
     },
     {
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
+      "price": "4 500",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_0.jpg",
+          "alt": "Tavlan 'Blue Hope' i ram"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' framifrån"
+        }
+      ]
+    },
+    {
       "slug": "/newyork",
       "path": "/newyork",
       "name": "New york",
@@ -975,42 +940,6 @@
         {
           "src": "/static/paintings/newyork/newyork_3.jpg",
           "alt": "Tavlan New york från sidan"
-        }
-      ]
-    },
-    {
-      "slug": "/full-moon",
-      "path": "/full-moon",
-      "name": "Full moon",
-      "description": "Den här tavlan symboliserar månens dragningskraft och yogans läkande kraft.",
-      "price": "4 000",
-      "year": "2021",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, ink",
-        "base": "Plywood"
-      },
-      "width": "34",
-      "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
-          "alt": "Tavlan Full moon framifrån"
-        },
-        {
-          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
-          "alt": "Närbild på tavlan Full moon"
-        },
-        {
-          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
-          "alt": "Tavlan Full moon utan ram"
         }
       ]
     },
@@ -1051,13 +980,49 @@
       ]
     },
     {
+      "slug": "/full-moon",
+      "path": "/full-moon",
+      "name": "Full moon",
+      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
+      "price": "4 000",
+      "year": "2021",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink",
+        "base": "Plywood"
+      },
+      "width": "34",
+      "height": "34",
+      "tags": [
+        "plywood",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
+          "alt": "Tavlan Full moon framifrån"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
+          "alt": "Närbild på tavlan Full moon"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
+          "alt": "Tavlan Full moon utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/blood-moon",
       "path": "/blood-moon",
       "name": "Blood moon",
-      "description": "",
+      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
       "price": "3 500",
-      "year": "2019",
-      "status": "hide",
+      "year": "2022",
+      "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Canvas"
@@ -1073,14 +1038,37 @@
         {
           "src": "/static/paintings/blood-moon/blood-moon_0.png",
           "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
+      "price": "12 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_0.png",
+          "alt": "Tavlan 'Curiosity' i ram"
         },
         {
-          "src": "/static/paintings/blood-moon/blood-moon_1.jpg",
-          "alt": "Tavlan Blood moon framifrån"
-        },
-        {
-          "src": "/static/paintings/blood-moon/blood-moon_2.jpg",
-          "alt": "Tavlan Blood moon närbild"
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' utan ram"
         }
       ]
     }
