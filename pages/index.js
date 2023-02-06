@@ -64,7 +64,7 @@ const Home = () => {
           level={1}
           subtitle="Galleri"
           title="Konstunge"
-          description="Unik konst för unika hem"
+          description="Unik konst för unika rum"
         />
         <div className="hide-on-mobile">
           <Sorter
