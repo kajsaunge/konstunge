@@ -1,14 +1,13 @@
 {
   "pieces": [
     {
-      "slug": "/sense",
-      "path": "/sense",
-      "name": "Sense",
-      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
-      "price": "7 500",
-      "year": "2022",
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
+      "price": "12 500",
+      "year": "2023",
       "status": "available",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -20,18 +19,47 @@
         "mixed media"
       ],
       "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/sense/sense-shadowbox_0.png",
-          "alt": "Tavlan 'Sense' i ram"
+          "src": "/static/paintings/curiosity/curiosity_0.png",
+          "alt": "Tavlan 'Curiosity' i ram"
         },
         {
-          "src": "/static/paintings/sense/sense_1.jpg",
-          "alt": "'Sense' från sidan"
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/furilden",
+      "path": "/furilden",
+      "name": "Furilden",
+      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår, eller i alla fall min fantasi förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
+      "price": "6 900",
+      "year": "2023",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": [
+        "canvas",
+        "akryl",
+        "gotland"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/furilden/furilden_00.png",
+          "alt": "Tavlan Furilden framifrån i ram"
         },
         {
-          "src": "/static/paintings/sense/sense_2.jpg",
-          "alt": "'Sense' detaljbild"
+          "src": "/static/paintings/furilden/furilden_01.jpg",
+          "alt": "Tavlan Furilden utan ram"
         }
       ]
     },
@@ -71,12 +99,12 @@
       ]
     },
     {
-      "slug": "/security",
-      "path": "/security",
-      "name": "Security",
-      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
+      "slug": "/sense",
+      "path": "/sense",
+      "name": "Sense",
+      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
       "price": "7 500",
-      "year": "2021",
+      "year": "2022",
       "status": "available",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "material": {
@@ -92,24 +120,16 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/security/security-shadowbox_0.png",
-          "alt": "Tavlan 'Security' i ram"
+          "src": "/static/paintings/sense/sense-shadowbox_0.png",
+          "alt": "Tavlan 'Sense' i ram"
         },
         {
-          "src": "/static/paintings/security/security_1.jpg",
-          "alt": "Detaljbild av 'Security'"
+          "src": "/static/paintings/sense/sense_1.jpg",
+          "alt": "'Sense' från sidan"
         },
         {
-          "src": "/static/paintings/security/security_2.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_3.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_4.jpeg",
-          "alt": "Tavlan 'Security' framifrån"
+          "src": "/static/paintings/sense/sense_2.jpg",
+          "alt": "'Sense' detaljbild"
         }
       ]
     },
@@ -156,6 +176,49 @@
         {
           "src": "/static/paintings/the-inner/the-inner_5.jpeg",
           "alt": "'The inner'"
+        }
+      ]
+    },
+    {
+      "slug": "/security",
+      "path": "/security",
+      "name": "Security",
+      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
+      "price": "7 500",
+      "year": "2021",
+      "status": "available",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/security/security-shadowbox_0.png",
+          "alt": "Tavlan 'Security' i ram"
+        },
+        {
+          "src": "/static/paintings/security/security_1.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_2.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_3.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_4.jpeg",
+          "alt": "Tavlan 'Security' framifrån"
         }
       ]
     },
@@ -434,7 +497,7 @@
       "year": "2019",
       "status": "available",
       "material": {
-        "medium": "Akryl, ink, crayon, graphite",
+        "medium": "Akryl, ink, krita, grafit",
         "base": "Canvas"
       },
       "width": "54",
@@ -795,6 +858,38 @@
       ]
     },
     {
+      "slug": "/shut",
+      "path": "/shut",
+      "name": "Shut",
+      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
+      "price": "5 500",
+      "year": "2020",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "Canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/shut/shut-shadowbox_00.png",
+          "alt": "Tavlan Shut framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/shut/shut_1.jpeg",
+          "alt": "Tavlan Shut utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/release",
       "path": "/release",
       "name": "Release",
@@ -936,38 +1031,6 @@
       ]
     },
     {
-      "slug": "/shut",
-      "path": "/shut",
-      "name": "Shut",
-      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
-      "price": "5 500",
-      "year": "2020",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, ink, crayon, graphite",
-        "base": "Canvas"
-      },
-      "width": "30",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/shut/shut-shadowbox_00.png",
-          "alt": "Tavlan Shut framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/shut/shut_1.jpeg",
-          "alt": "Tavlan Shut utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/full-moon",
       "path": "/full-moon",
       "name": "Full moon",
@@ -1026,37 +1089,6 @@
         {
           "src": "/static/paintings/blood-moon/blood-moon_0.png",
           "alt": "Tavlan Blood moon framifrån"
-        }
-      ]
-    },
-    {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "12 500",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/curiosity/curiosity_0.png",
-          "alt": "Tavlan 'Curiosity' i ram"
-        },
-        {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' utan ram"
         }
       ]
     }
