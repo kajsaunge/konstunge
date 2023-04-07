@@ -180,16 +180,12 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_0.png",
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_00.png",
           "alt": "Tavlan The inhabitat framifrån"
         },
         {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_1.jpg",
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_01.jpg",
           "alt": "Tavlan The inhabitat framifrån"
-        },
-        {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_2.jpg",
-          "alt": "Tavlan The inhabitat närbild"
         }
       ]
     },
@@ -451,7 +447,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/garden-girl/garden-girl-noframe_0.png",
+          "src": "/static/paintings/garden-girl/garden-girl_0.png",
           "alt": "Tavlan Garden girl framifrån"
         },
         {
@@ -734,7 +730,7 @@
       "path": "/deer-her",
       "name": "Deer her",
       "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
-      "price": "4 000",
+      "price": "5 000",
       "year": "2020",
       "status": "available",
       "frame": "ingår",
@@ -753,7 +749,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/deer-her/deer-her-shadowbox_0.png",
+          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
           "alt": "Tavlan Deer her framifrån"
         },
         {
@@ -769,9 +765,9 @@
     {
       "slug": "/t-shirt-girl",
       "path": "/t-shirt-girl",
-      "name": "T-shirt girl",
-      "description": "Be who you are <3",
-      "price": "2 000",
+      "name": "Give",
+      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Give feedback. Give up. Give me! And so on",
+      "price": "3 500",
       "year": "2019",
       "status": "available",
       "material": {
@@ -793,12 +789,8 @@
           "alt": "Tavlan T-shirt girl framifrån"
         },
         {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_1.jpeg",
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_01.jpg",
           "alt": "Närbild på tavlan T-shirt girl"
-        },
-        {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_2.jpeg",
-          "alt": "Tavlan T-shirt girl utan ram"
         }
       ]
     },
@@ -966,16 +958,12 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/shut/shut-shadowbox_0.png",
+          "src": "/static/paintings/shut/shut-shadowbox_00.png",
           "alt": "Tavlan Shut framifrån i ram"
         },
         {
           "src": "/static/paintings/shut/shut_1.jpeg",
           "alt": "Tavlan Shut utan ram"
-        },
-        {
-          "src": "/static/paintings/shut/shut_2.jpg",
-          "alt": "Närbild på del av tavlan Shut"
         }
       ]
     },
@@ -984,7 +972,7 @@
       "path": "/full-moon",
       "name": "Full moon",
       "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
-      "price": "4 000",
+      "price": "5 000",
       "year": "2021",
       "status": "available",
       "frame": "ingår",
