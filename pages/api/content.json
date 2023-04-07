@@ -223,6 +223,193 @@
       ]
     },
     {
+      "slug": "/blood-moon",
+      "path": "/blood-moon",
+      "name": "Blood moon",
+      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
+      "price": "4 500",
+      "year": "2022",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blood-moon/blood-moon_0.png",
+          "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/over-this",
+      "path": "/over-this",
+      "name": "Over this",
+      "description": "Hon är klar, det räcker nu. Inget kan få henne att ändra sig.",
+      "price": "4 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink",
+        "base": "Canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/over-this/over-this_00.png",
+          "alt": "Tavlan Over this framifrån"
+        },
+        {
+          "src": "/static/paintings/over-this/over-this_01.jpg",
+          "alt": "Tavlan Over this"
+        }
+      ]
+    },
+    {
+      "slug": "/dare-me",
+      "path": "/dare-me",
+      "name": "Dare me",
+      "description": "Bakom alla lager och nivår finns den riktiga. Den som äntligen är redo att ta plats och komma ut.",
+      "price": "4 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dare-me/dare-me_00.png",
+          "alt": "Tavlan Dare me framifrån"
+        },
+        {
+          "src": "/static/paintings/dare-me/dare-me_01.jpg",
+          "alt": "Tavlan Dare me"
+        }
+      ]
+    },
+    {
+      "slug": "/deer-her",
+      "path": "/deer-her",
+      "name": "Deer her",
+      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
+      "price": "5 000",
+      "year": "2020",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "34",
+      "height": "34",
+      "tags": [
+        "plywood",
+        "akryl",
+        "female",
+        "animal"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
+          "alt": "Tavlan Deer her framifrån"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
+          "alt": "Närbild på tavlan Deer her"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
+          "alt": "Tavlan Deer her utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/t-shirt-girl",
+      "path": "/t-shirt-girl",
+      "name": "Give",
+      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Give feedback. Give up. Give me! And so on",
+      "price": "3 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "Akvarell och akryl",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": [
+        "canvas",
+        "akvarell",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_00.png",
+          "alt": "Tavlan T-shirt girl framifrån"
+        },
+        {
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_01.jpg",
+          "alt": "Närbild på tavlan T-shirt girl"
+        }
+      ]
+    },
+    {
+      "slug": "/shut",
+      "path": "/shut",
+      "name": "Shut",
+      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
+      "price": "5 500",
+      "year": "2020",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "Canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/shut/shut-shadowbox_00.png",
+          "alt": "Tavlan Shut framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/shut/shut_1.jpeg",
+          "alt": "Tavlan Shut utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/the-inhabitat",
       "path": "/the-inhabitat",
       "name": "The inhabitat",
@@ -489,41 +676,6 @@
       ]
     },
     {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "2 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
-      },
-      "width": "54",
-      "height": "64",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_0.png",
-          "alt": "Tavlan Garden girl framifrån"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/audrey",
       "path": "/audrey",
       "name": "Audrey",
@@ -555,6 +707,41 @@
         {
           "src": "/static/paintings/audrey/audrey_2.jpg",
           "alt": "Tavlan 'Audrey' i närbild"
+        }
+      ]
+    },
+    {
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "2 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "Canvas"
+      },
+      "width": "54",
+      "height": "64",
+      "tags": [
+        "canvas",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_0.png",
+          "alt": "Tavlan Garden girl framifrån"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
@@ -789,107 +976,6 @@
       ]
     },
     {
-      "slug": "/deer-her",
-      "path": "/deer-her",
-      "name": "Deer her",
-      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
-      "price": "5 000",
-      "year": "2020",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "34",
-      "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female",
-        "animal"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
-          "alt": "Tavlan Deer her framifrån"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
-          "alt": "Närbild på tavlan Deer her"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
-          "alt": "Tavlan Deer her utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/t-shirt-girl",
-      "path": "/t-shirt-girl",
-      "name": "Give",
-      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Give feedback. Give up. Give me! And so on",
-      "price": "3 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Akvarell och akryl",
-        "base": "Canvas"
-      },
-      "width": "50",
-      "height": "50",
-      "tags": [
-        "canvas",
-        "akvarell",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_00.png",
-          "alt": "Tavlan T-shirt girl framifrån"
-        },
-        {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_01.jpg",
-          "alt": "Närbild på tavlan T-shirt girl"
-        }
-      ]
-    },
-    {
-      "slug": "/shut",
-      "path": "/shut",
-      "name": "Shut",
-      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
-      "price": "5 500",
-      "year": "2020",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
-      },
-      "width": "30",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/shut/shut-shadowbox_00.png",
-          "alt": "Tavlan Shut framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/shut/shut_1.jpeg",
-          "alt": "Tavlan Shut utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/release",
       "path": "/release",
       "name": "Release",
@@ -1063,32 +1149,6 @@
         {
           "src": "/static/paintings/full-moon/full-moon_2.jpeg",
           "alt": "Tavlan Full moon utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/blood-moon",
-      "path": "/blood-moon",
-      "name": "Blood moon",
-      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
-      "price": "4 000",
-      "year": "2022",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blood-moon/blood-moon_0.png",
-          "alt": "Tavlan Blood moon framifrån"
         }
       ]
     }

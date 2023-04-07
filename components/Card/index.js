@@ -40,7 +40,7 @@ const Card = ({ item }) => {
                 </p>
                 <p className={styles.artPieceDescriptionText}>
                   <b>Pris:</b> {item.price} kr
-                  {item.frame && "(ram ingår)"}
+                  {item.frame && " (ram ingår)"}
                 </p>
               </div>
             </div>
