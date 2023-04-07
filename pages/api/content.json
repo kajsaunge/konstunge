@@ -54,7 +54,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/furilden/furilden_00.png",
+          "src": "/static/paintings/furilden/furilden_00.jpg",
           "alt": "Tavlan Furilden framifrån i ram"
         },
         {
@@ -368,7 +368,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_00.png",
+          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_00.jpg",
           "alt": "Tavlan T-shirt girl framifrån"
         },
         {
