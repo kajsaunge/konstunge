@@ -28,6 +28,14 @@
         {
           "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
           "alt": "'Curiosity' utan ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
         }
       ]
     },
@@ -89,12 +97,12 @@
           "alt": "Tavlan 'Rearview' i ram"
         },
         {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' utan ram"
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "Tavlan 'Rearview' i miljö"
         },
         {
-          "src": "/static/paintings/rearview/rearview-2.jpeg",
-          "alt": "'Rearview' från sidan"
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' utan ram"
         }
       ]
     },
@@ -217,8 +225,8 @@
           "alt": "Detaljbild av 'Security'"
         },
         {
-          "src": "/static/paintings/security/security_4.jpeg",
-          "alt": "Tavlan 'Security' framifrån"
+          "src": "/static/paintings/security/security_5.jpg",
+          "alt": "Tavlan 'Security' i miljö"
         }
       ]
     },
@@ -473,11 +481,19 @@
         },
         {
           "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' från sidan"
+          "alt": "'Dimensions' närbild"
         },
         {
           "src": "/static/paintings/dimensions/dimensions_5.jpeg",
           "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' i miljö"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' i miljö"
         }
       ]
     },
