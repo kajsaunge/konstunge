@@ -1,5 +1,6 @@
 import Header from "@/header";
 import Footer from "@/footer";
+import { Analytics } from "@vercel/analytics/react";
 
 import "../styles/normalize.css";
 import "../styles/variables.css";
@@ -12,6 +13,7 @@ function MyApp({ Component, pageProps }) {
       <Header />
       <div className="page-container">
         <Component {...pageProps} />
+        <Analytics />
       </div>
       <Footer />
     </>
