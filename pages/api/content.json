@@ -1,143 +1,77 @@
 {
   "pieces": [
     {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "12 500",
+      "slug": "/starksarbar",
+      "path": "/starksarbar",
+      "name": "Stark och sårbar",
+      "description": "\"Jag är det vackra i naturen, jag är det söta i ett bär. Jag är det mystiska i natten. Jag är den utsikt du har kär. Jag är den lena ljumma brisen. Jag är det sköna i en kväll ,jag är den ljuvaste av morgon. Och den vildaste av eld.\"\n- Moonica Mac",
+      "price": "4 500",
       "year": "2023",
       "status": "available",
       "material": {
         "medium": "Mixed media",
-        "base": "Plywood"
+        "base": "MDF"
       },
       "width": "70",
-      "height": "100",
+      "height": "50",
       "tags": [
-        "plywood",
+        "mdf",
         "mixed media"
       ],
       "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/curiosity/curiosity_0.png",
-          "alt": "Tavlan 'Curiosity' i ram"
+          "src": "/static/paintings/starksarbar/starksarbar_0.jpg",
+          "alt": "Tavlan 'Stark och sårbar' i galleri"
         },
         {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' utan ram"
+          "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
+          "alt": "Tavlan 'Stark och sårbar'"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity_1.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
+          "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
+          "alt": "'Stark och sårbar' från sidan"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity_2.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
+          "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
+          "alt": "'Stark och sårbar' i miljö"
         }
       ]
     },
     {
-      "slug": "/furilden",
-      "path": "/furilden",
-      "name": "Furilden",
-      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår, eller i alla fall min fantasi förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
-      "price": "6 900",
-      "year": "2023",
+      "slug": "/deer-her",
+      "path": "/deer-her",
+      "name": "Deer her",
+      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
+      "price": "5 000",
+      "year": "2020",
       "status": "available",
       "frame": "ingår",
       "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
+        "medium": "Akryl",
+        "base": "Plywood"
       },
-      "width": "40",
-      "height": "50",
+      "width": "34",
+      "height": "34",
       "tags": [
-        "canvas",
+        "plywood",
         "akryl",
-        "gotland"
+        "female",
+        "animal"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/furilden/furilden_00.jpg",
-          "alt": "Tavlan Furilden framifrån i ram"
+          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
+          "alt": "Tavlan Deer her framifrån"
         },
         {
-          "src": "/static/paintings/furilden/furilden_01.jpg",
-          "alt": "Tavlan Furilden utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/rearview",
-      "path": "/rearview",
-      "name": "Rearview",
-      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "7 500",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/rearview/rearview-shadowbox_0.png",
-          "alt": "Tavlan 'Rearview' i ram"
+          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
+          "alt": "Närbild på tavlan Deer her"
         },
         {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "Tavlan 'Rearview' i miljö"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/sense",
-      "path": "/sense",
-      "name": "Sense",
-      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
-      "price": "7 500",
-      "year": "2022",
-      "status": "available",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/sense/sense-shadowbox_0.png",
-          "alt": "Tavlan 'Sense' i ram"
-        },
-        {
-          "src": "/static/paintings/sense/sense_1.jpg",
-          "alt": "'Sense' från sidan"
-        },
-        {
-          "src": "/static/paintings/sense/sense_2.jpg",
-          "alt": "'Sense' detaljbild"
+          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
+          "alt": "Tavlan Deer her utan ram"
         }
       ]
     },
@@ -184,6 +118,147 @@
         {
           "src": "/static/paintings/the-inner/the-inner_5.jpeg",
           "alt": "'The inner'"
+        }
+      ]
+    },
+    {
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
+      "price": "7 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.png",
+          "alt": "Tavlan 'Rearview' i ram"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "Tavlan 'Rearview' i miljö"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/furilden",
+      "path": "/furilden",
+      "name": "Furilden",
+      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår, eller i alla fall min fantasi förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
+      "price": "6 900",
+      "year": "2023",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": [
+        "canvas",
+        "akryl",
+        "gotland"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/furilden/furilden_00.jpg",
+          "alt": "Tavlan Furilden framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/furilden/furilden_01.jpg",
+          "alt": "Tavlan Furilden utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
+      "price": "9 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_0.png",
+          "alt": "Tavlan 'Curiosity' i ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' utan ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
+        }
+      ]
+    },
+    {
+      "slug": "/sense",
+      "path": "/sense",
+      "name": "Sense",
+      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
+      "price": "7 500",
+      "year": "2022",
+      "status": "available",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/sense/sense-shadowbox_0.png",
+          "alt": "Tavlan 'Sense' i ram"
+        },
+        {
+          "src": "/static/paintings/sense/sense_1.jpg",
+          "alt": "'Sense' från sidan"
+        },
+        {
+          "src": "/static/paintings/sense/sense_2.jpg",
+          "alt": "'Sense' detaljbild"
         }
       ]
     },
@@ -313,43 +388,6 @@
         {
           "src": "/static/paintings/dare-me/dare-me_01.jpg",
           "alt": "Tavlan Dare me"
-        }
-      ]
-    },
-    {
-      "slug": "/deer-her",
-      "path": "/deer-her",
-      "name": "Deer her",
-      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
-      "price": "5 000",
-      "year": "2020",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "34",
-      "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female",
-        "animal"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
-          "alt": "Tavlan Deer her framifrån"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
-          "alt": "Närbild på tavlan Deer her"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
-          "alt": "Tavlan Deer her utan ram"
         }
       ]
     },
