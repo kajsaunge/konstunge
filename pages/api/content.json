@@ -234,7 +234,7 @@
       "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
       "price": "7 500",
       "year": "2022",
-      "status": "available",
+      "status": "hide",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "material": {
         "medium": "Mixed media",
@@ -328,6 +328,56 @@
         {
           "src": "/static/paintings/blood-moon/blood-moon_0.png",
           "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
+      "price": "6 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "canvas",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dimensions/dimensions_0.png",
+          "alt": "Tavlan 'Dimensions' i galleriet"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
+          "alt": "'Dimensions' i ateljen"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' närbild"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' närbild"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
+          "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' i miljö"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' i miljö"
         }
       ]
     },
@@ -482,56 +532,6 @@
         {
           "src": "/static/paintings/the-inhabitat/the-inhabitat_01.jpg",
           "alt": "Tavlan The inhabitat framifrån"
-        }
-      ]
-    },
-    {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
-      "price": "6 500",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": [
-        "canvas",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/dimensions/dimensions_0.png",
-          "alt": "Tavlan 'Dimensions' i galleriet"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
-          "alt": "'Dimensions' i ateljen"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
-          "alt": "'Dimensions'"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' i miljö"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' i miljö"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
       "description": "Hon går inte att komma åt. Hon har en mur hårdare och högre än det säkraste fängelset. Men de hon släpper in ger hon allt.",
       "price": "5 000",
       "year": "2019",
-      "status": "available",
+      "status": "hide",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
