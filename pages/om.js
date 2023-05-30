@@ -14,7 +14,7 @@ const profile = "/static/profile/kajsaunge.jpg";
 const Om = () => {
   const selectedPieces = [];
   content.pieces.map((item) => {
-    if (item.name === "The inner" || item.name === "Shut") {
+    if (item.name === "The inner" || item.name === "Stark och sårbar") {
       selectedPieces.push(item);
     }
   });

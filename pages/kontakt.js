@@ -11,7 +11,7 @@ import styles from "../styles/Kontakt.module.css";
 const Kontakt = () => {
   const selectedPieces = [];
   content.pieces.map((item) => {
-    if (item.name === "Sense" || item.name === "Security") {
+    if (item.name === "Rearview" || item.name === "Security") {
       selectedPieces.push(item);
     }
   });
