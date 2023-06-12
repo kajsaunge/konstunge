@@ -1,6 +1,40 @@
 {
   "pieces": [
     {
+      "slug": "/untouchable",
+      "path": "/untouchable",
+      "name": "Untouchable",
+      "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
+      "price": "4 500",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/untouchable/untouchable.png",
+          "alt": "Tavlan 'Untouchable' framifrån"
+        },
+        {
+          "src": "/static/paintings/untouchable/untouchable-homesetting.png",
+          "alt": "Tavlan 'Untouchable' i hemmiljö"
+        },
+        {
+          "src": "/static/paintings/untouchable/untouchable-closeup.png",
+          "alt": "Tavlan 'Untouchable' i närbild"
+        }
+      ]
+    },
+    {
       "slug": "/starksarbar",
       "path": "/starksarbar",
       "name": "Stark och sårbar",
@@ -1064,36 +1098,6 @@
         {
           "src": "/static/paintings/release/release_3.jpg",
           "alt": "Tavlan 'Release' från sidan"
-        }
-      ]
-    },
-    {
-      "slug": "/untouchable",
-      "path": "/untouchable",
-      "name": "Untouchable",
-      "description": "Hon går inte att komma åt. Hon har en mur hårdare och högre än det säkraste fängelset. Men de hon släpper in ger hon allt.",
-      "price": "5 000",
-      "year": "2019",
-      "status": "hide",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/untouchable/untouchable_0.jpg",
-          "alt": "Tavlan 'Untouchable?' framifrån"
-        },
-        {
-          "src": "/static/paintings/untouchable/untouchable_1.jpeg",
-          "alt": "Tavlan 'Untouchable?' framifrån"
         }
       ]
     },
