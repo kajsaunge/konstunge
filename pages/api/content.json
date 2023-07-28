@@ -7,7 +7,7 @@
       "description": "Hon är. Hon är så mycket. Den visaste, finaste, snällaste, sötaste, busigaste, snyggaste, generösaste, omtänksammaste. Med henne är världen rik.",
       "price": "4 000",
       "year": "2023",
-      "status": "new",
+      "status": "sold",
       "frame": "ingår",
       "material": {
         "medium": "Akryl",
@@ -42,7 +42,7 @@
       "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
       "price": "4 500",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
