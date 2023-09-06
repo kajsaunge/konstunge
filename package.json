@@ -9,7 +9,6 @@
     "export": "npm run build && next export"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "^4.11.1",
     "@vercel/analytics": "^1.0.1",
     "@zeit/next-source-maps": "^0.0.3",
     "framer-motion": "^4.1.11",
