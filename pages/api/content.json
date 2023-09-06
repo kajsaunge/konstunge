@@ -1,6 +1,40 @@
 {
   "pieces": [
     {
+      "slug": "/elden",
+      "path": "/elden",
+      "name": "Elden",
+      "description": "Hon som brinner. Hon som varit med, hon som sett. Hon som inte slösar med sin energi på att förklara det självklara. Hon som har ett hjärta fyllt till bredden med tveklös kärlek även till sig själv.",
+      "price": "3 000",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Akryl",
+        "base": "Pannå"
+      },
+      "width": "22",
+      "height": "27",
+      "tags": [
+        "pannå",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/elden/elden_0.jpg",
+          "alt": "Tavlan 'Elden' framifrån"
+        },
+        {
+          "src": "/static/paintings/elden/elden.jpg",
+          "alt": "Tavlan 'Elden' i galleri"
+        },
+        {
+          "src": "/static/paintings/elden/elden_1.jpg",
+          "alt": "Tavlan 'Elden' i hemmiljö"
+        }
+      ]
+    },
+    {
       "slug": "/iam",
       "path": "/iam",
       "name": "I am",
@@ -40,7 +74,7 @@
       "path": "/untouchable",
       "name": "Untouchable",
       "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
-      "price": "4 500",
+      "price": "6 000",
       "year": "2023",
       "status": "available",
       "material": {
@@ -138,7 +172,7 @@
       "path": "/the-inner",
       "name": "The inner",
       "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
-      "price": "6 500",
+      "price": "5 000",
       "year": "2023",
       "status": "available",
       "material": {
@@ -221,7 +255,7 @@
       "path": "/rearview",
       "name": "Rearview",
       "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "7 500",
+      "price": "8 000",
       "year": "2023",
       "status": "available",
       "material": {
@@ -256,7 +290,7 @@
       "path": "/furilden",
       "name": "Furilden",
       "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår, eller i alla fall min fantasi förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
-      "price": "6 900",
+      "price": "6 500",
       "year": "2023",
       "status": "available",
       "frame": "ingår",
@@ -288,7 +322,7 @@
       "path": "/curiosity",
       "name": "Curiosity",
       "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "9 000",
+      "price": "8 000",
       "year": "2023",
       "status": "available",
       "material": {
@@ -362,7 +396,7 @@
       "path": "/security",
       "name": "Security",
       "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
-      "price": "7 500",
+      "price": "8 000",
       "year": "2021",
       "status": "available",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
@@ -609,7 +643,7 @@
       "path": "/flowers-above",
       "name": "Flowers above",
       "description": "Den här tavlan kom som en dans. Som ett utforskande och en lek. Femininitet, styrka och lust.",
-      "price": "7 500",
+      "price": "4 500",
       "year": "2019",
       "status": "sold",
       "material": {
@@ -946,7 +980,7 @@
       "path": "/the-force-within",
       "name": "The force within",
       "description": "Beyoncé, vår queen. Hon har skapat makt med kraft, framgång med integritet och glädje av musik.",
-      "price": "7 500",
+      "price": "4 500",
       "year": "2019",
       "status": "sold",
       "material": {
@@ -984,7 +1018,7 @@
       "path": "/strong-and",
       "name": "Strong and",
       "description": "Hon är den starkaste man kan tänka sig. Hon står emot de hårdaste vindarna och har den största och varmaste famnen.",
-      "price": "6 500",
+      "price": "3 500",
       "year": "2018",
       "status": "sold",
       "material": {
@@ -1179,7 +1213,7 @@
       "path": "/newyork",
       "name": "New york",
       "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "6 000",
+      "price": "7 000",
       "year": "2020",
       "status": "available",
       "material": {
