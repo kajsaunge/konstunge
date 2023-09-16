@@ -643,7 +643,7 @@
       "path": "/flowers-above",
       "name": "Flowers above",
       "description": "Den här tavlan kom som en dans. Som ett utforskande och en lek. Femininitet, styrka och lust.",
-      "price": "4 500",
+      "price": "6 000",
       "year": "2019",
       "status": "sold",
       "material": {
@@ -685,7 +685,7 @@
       "path": "/emma",
       "name": "Emma",
       "description": "Hennes hjärta slår, det slår så hårt. Hon är virveln som får dammet att yra och knopparna att slå ut. Emma, min Emma.",
-      "price": "4 500",
+      "price": "6 000",
       "year": "2022",
       "status": "sold",
       "material": {
@@ -723,7 +723,7 @@
       "path": "/spellbound",
       "name": "Spellbound",
       "description": "Släpp taget om vår påhittade värld och tillåt den minsta blomman bli hela din värld. Kanske för bara en stund eller så länge du vill. Låt dess skönhet fylla hela dig, låt doften ta dig till främmande platser, låt storleken vara obetydlig. Tillåt den.",
-      "price": "4 500",
+      "price": "6 000",
       "year": "2022",
       "status": "sold",
       "material": {
@@ -761,7 +761,7 @@
       "path": "/owl",
       "name": "The compass",
       "description": "Ugglan står för intelligens och vägledning. Kanske var det det som fick mig att göra henne, som en hjälp att välja, någon som står vid ens sida och ser till att man inte lurar sig själv. Som en trygg påminnelse.",
-      "price": "4 500",
+      "price": "6 000",
       "year": "2021",
       "status": "sold",
       "material": {
@@ -799,7 +799,7 @@
       "path": "/female",
       "name": "Female",
       "description": "Den stora starka kvinnliga symbolen, omgien av frihetsfåglar gjorda av papper. Det är en skör, nästan förädisk frihet kvinnan har.",
-      "price": "5 500",
+      "price": "6 500",
       "year": "2020",
       "status": "sold",
       "material": {
@@ -941,7 +941,7 @@
       "path": "/for-evigt",
       "name": "För evigt",
       "description": "Vi är som tranor som valt varann, för evigt. Kärleken vinner, vi vinner.",
-      "price": "6 500",
+      "price": "7 500",
       "year": "2020",
       "status": "sold",
       "material": {
@@ -980,7 +980,7 @@
       "path": "/the-force-within",
       "name": "The force within",
       "description": "Beyoncé, vår queen. Hon har skapat makt med kraft, framgång med integritet och glädje av musik.",
-      "price": "4 500",
+      "price": "6 000",
       "year": "2019",
       "status": "sold",
       "material": {
@@ -1175,7 +1175,7 @@
       "path": "/blue-hope",
       "name": "Blue Hope",
       "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
-      "price": "4 500",
+      "price": "6 000",
       "year": "2020",
       "status": "available",
       "material": {
