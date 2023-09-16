@@ -7,7 +7,7 @@
       "description": "Hon som brinner. Hon som varit med, hon som sett. Hon som inte slösar med sin energi på att förklara det självklara. Hon som har ett hjärta fyllt till bredden med tveklös kärlek även till sig själv.",
       "price": "3 000",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "Pannå"
@@ -31,41 +31,6 @@
         {
           "src": "/static/paintings/elden/elden_1.jpg",
           "alt": "Tavlan 'Elden' i hemmiljö"
-        }
-      ]
-    },
-    {
-      "slug": "/iam",
-      "path": "/iam",
-      "name": "I am",
-      "description": "Hon är. Hon är så mycket. Den visaste, finaste, snällaste, sötaste, busigaste, snyggaste, generösaste, omtänksammaste. Med henne är världen rik.",
-      "price": "4 000",
-      "year": "2023",
-      "status": "sold",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl",
-        "base": "Glas"
-      },
-      "width": "50",
-      "height": "50",
-      "tags": [
-        "glas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/iam/iam_00.jpg",
-          "alt": "Tavlan 'I am' i galleri"
-        },
-        {
-          "src": "/static/paintings/iam/iam_0.jpg",
-          "alt": "Tavlan 'I am' framifrån"
-        },
-        {
-          "src": "/static/paintings/iam/iam_1.jpg",
-          "alt": "Tavlan 'I am' i hemmiljö"
         }
       ]
     },
@@ -582,8 +547,8 @@
       "name": "Shut",
       "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
       "price": "5 500",
-      "year": "2020",
-      "status": "available",
+      "year": "2021",
+      "status": "sold",
       "frame": "ingår",
       "material": {
         "medium": "Akryl, ink, krita, grafit",
@@ -605,6 +570,41 @@
         {
           "src": "/static/paintings/shut/shut_1.jpeg",
           "alt": "Tavlan Shut utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/iam",
+      "path": "/iam",
+      "name": "I am",
+      "description": "Hon är. Hon är så mycket. Den visaste, finaste, snällaste, sötaste, busigaste, snyggaste, generösaste, omtänksammaste. Med henne är världen rik.",
+      "price": "4 000",
+      "year": "2023",
+      "status": "sold",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl",
+        "base": "Glas"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": [
+        "glas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/iam/iam_00.jpg",
+          "alt": "Tavlan 'I am' i galleri"
+        },
+        {
+          "src": "/static/paintings/iam/iam_0.jpg",
+          "alt": "Tavlan 'I am' framifrån"
+        },
+        {
+          "src": "/static/paintings/iam/iam_1.jpg",
+          "alt": "Tavlan 'I am' i hemmiljö"
         }
       ]
     },

@@ -37,7 +37,7 @@ const Product = ({ piece }) => {
         <PageIntro
           level={1}
           title={`Originalmålning: ${piece.name}`}
-          description="Unik konst för unika rum"
+          description="Konst för unika rum"
         />
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
