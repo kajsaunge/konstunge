@@ -17,7 +17,10 @@ const Home = () => {
     const elHeight = parseInt(el.height);
 
     const sizeSort = elWidth < elHeight ? elWidth : elHeight;
-    const statusSort = el.status === "new" || el.status === "available";
+    const statusSort =
+      el.status === "new" ||
+      el.status === "available" ||
+      el.status === "reserved";
 
     const sortBy =
       sortValue !== "" ? (sortValue === "status" ? statusSort : sizeSort) : "";

@@ -19,7 +19,7 @@ const Card = ({ item }) => {
         )}
         {item.status === "reserved" && (
           <div className={styles.artPieceReserved}>
-            <p>Reserverad</p>
+            <p>BOKAD</p>
           </div>
         )}
         <NextLink href={`/konst${item.slug}`} as={`/konst${item.path}`}>

@@ -1,6 +1,87 @@
 {
   "pieces": [
     {
+      "slug": "/the-inner",
+      "path": "/the-inner",
+      "name": "The inner",
+      "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
+      "price": "5 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "60",
+      "tags": [
+        "canvas",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-inner/the-inner_0.png",
+          "alt": "Tavlan 'The inner' i galleriet"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
+          "alt": "'The inner' i ateljen"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
+          "alt": "'The inner' närbild"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
+          "alt": "'The inner' från sidan"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
+          "alt": "'The inner'"
+        }
+      ]
+    },
+    {
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.png",
+          "alt": "Tavlan 'Rearview' i ram"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "Tavlan 'Rearview' i miljö"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/elden",
       "path": "/elden",
       "name": "Elden",
@@ -31,40 +112,6 @@
         {
           "src": "/static/paintings/elden/elden_1.jpg",
           "alt": "Tavlan 'Elden' i hemmiljö"
-        }
-      ]
-    },
-    {
-      "slug": "/untouchable",
-      "path": "/untouchable",
-      "name": "Untouchable",
-      "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
-      "price": "6 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/untouchable/untouchable.png",
-          "alt": "Tavlan 'Untouchable' framifrån"
-        },
-        {
-          "src": "/static/paintings/untouchable/untouchable-homesetting.png",
-          "alt": "Tavlan 'Untouchable' i hemmiljö"
-        },
-        {
-          "src": "/static/paintings/untouchable/untouchable-closeup.png",
-          "alt": "Tavlan 'Untouchable' i närbild"
         }
       ]
     },
@@ -133,48 +180,101 @@
       ]
     },
     {
-      "slug": "/the-inner",
-      "path": "/the-inner",
-      "name": "The inner",
-      "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
-      "price": "5 000",
+      "slug": "/untouchable",
+      "path": "/untouchable",
+      "name": "Untouchable",
+      "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
+      "price": "6 000",
       "year": "2023",
+      "status": "reserved",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/untouchable/untouchable.png",
+          "alt": "Tavlan 'Untouchable' framifrån"
+        },
+        {
+          "src": "/static/paintings/untouchable/untouchable-homesetting.png",
+          "alt": "Tavlan 'Untouchable' i hemmiljö"
+        },
+        {
+          "src": "/static/paintings/untouchable/untouchable-closeup.png",
+          "alt": "Tavlan 'Untouchable' i närbild"
+        }
+      ]
+    },
+    {
+      "slug": "/over-this",
+      "path": "/over-this",
+      "name": "Over this",
+      "description": "Hon är klar, det räcker nu. Inget kan få henne att ändra sig.",
+      "price": "4 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink",
+        "base": "Canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/over-this/over-this_00.png",
+          "alt": "Tavlan Over this framifrån"
+        },
+        {
+          "src": "/static/paintings/over-this/over-this_01.jpg",
+          "alt": "Tavlan Over this"
+        }
+      ]
+    },
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
+      "price": "3 000",
+      "year": "2021",
       "status": "available",
       "material": {
         "medium": "Mixed media",
         "base": "Canvas"
       },
       "width": "50",
-      "height": "60",
+      "height": "70",
       "tags": [
-        "canvas",
+        "plywood",
+        "akryl",
         "mixed media"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/the-inner/the-inner_0.png",
-          "alt": "Tavlan 'The inner' i galleriet"
+          "src": "/static/paintings/audrey/audrey_0.jpg",
+          "alt": "Tavlan 'Audrey' framifrån i ram"
         },
         {
-          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
-          "alt": "'The inner' i ateljen"
+          "src": "/static/paintings/audrey/audrey_1.jpeg",
+          "alt": "Tavlan 'Audrey' utan ram framifrån"
         },
         {
-          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
-          "alt": "'The inner' närbild"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
-          "alt": "'The inner' från sidan"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
-          "alt": "'The inner'"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
-          "alt": "'The inner'"
+          "src": "/static/paintings/audrey/audrey_2.jpg",
+          "alt": "Tavlan 'Audrey' i närbild"
         }
       ]
     },
@@ -185,7 +285,7 @@
       "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
       "price": "5 000",
       "year": "2020",
-      "status": "available",
+      "status": "reserved",
       "frame": "ingår",
       "material": {
         "medium": "Akryl",
@@ -212,41 +312,6 @@
         {
           "src": "/static/paintings/deer-her/deer-her_2.jpeg",
           "alt": "Tavlan Deer her utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/rearview",
-      "path": "/rearview",
-      "name": "Rearview",
-      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "8 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/rearview/rearview-shadowbox_0.png",
-          "alt": "Tavlan 'Rearview' i ram"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "Tavlan 'Rearview' i miljö"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' utan ram"
         }
       ]
     },
@@ -283,41 +348,32 @@
       ]
     },
     {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "8 000",
+      "slug": "/dare-me",
+      "path": "/dare-me",
+      "name": "Dare me",
+      "description": "Bakom alla lager och nivår finns den riktiga. Den som äntligen är redo att ta plats och komma ut.",
+      "price": "4 500",
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Akryl",
+        "base": "Canvas"
       },
-      "width": "70",
-      "height": "100",
+      "width": "40",
+      "height": "40",
       "tags": [
-        "plywood",
-        "mixed media"
+        "canvas",
+        "akryl"
       ],
       "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/curiosity/curiosity_0.png",
-          "alt": "Tavlan 'Curiosity' i ram"
+          "src": "/static/paintings/dare-me/dare-me_00.png",
+          "alt": "Tavlan Dare me framifrån"
         },
         {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' utan ram"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_1.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_2.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
+          "src": "/static/paintings/dare-me/dare-me_01.jpg",
+          "alt": "Tavlan Dare me"
         }
       ]
     },
@@ -400,112 +456,37 @@
       ]
     },
     {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
-      "price": "6 500",
-      "year": "2023",
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "2 500",
+      "year": "2019",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
+        "medium": "Akryl, ink, krita, grafit",
         "base": "Canvas"
       },
-      "width": "50",
-      "height": "70",
+      "width": "54",
+      "height": "64",
       "tags": [
         "canvas",
-        "mixed media"
+        "akryl",
+        "female"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/dimensions/dimensions_0.png",
-          "alt": "Tavlan 'Dimensions' i galleriet"
+          "src": "/static/paintings/garden-girl/garden-girl_0.png",
+          "alt": "Tavlan Garden girl framifrån"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
-          "alt": "'Dimensions' i ateljen"
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
-          "alt": "'Dimensions'"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' i miljö"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' i miljö"
-        }
-      ]
-    },
-    {
-      "slug": "/over-this",
-      "path": "/over-this",
-      "name": "Over this",
-      "description": "Hon är klar, det räcker nu. Inget kan få henne att ändra sig.",
-      "price": "4 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Akryl, ink",
-        "base": "Canvas"
-      },
-      "width": "30",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/over-this/over-this_00.png",
-          "alt": "Tavlan Over this framifrån"
-        },
-        {
-          "src": "/static/paintings/over-this/over-this_01.jpg",
-          "alt": "Tavlan Over this"
-        }
-      ]
-    },
-    {
-      "slug": "/dare-me",
-      "path": "/dare-me",
-      "name": "Dare me",
-      "description": "Bakom alla lager och nivår finns den riktiga. Den som äntligen är redo att ta plats och komma ut.",
-      "price": "4 500",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/dare-me/dare-me_00.png",
-          "alt": "Tavlan Dare me framifrån"
-        },
-        {
-          "src": "/static/paintings/dare-me/dare-me_01.jpg",
-          "alt": "Tavlan Dare me"
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
@@ -538,6 +519,45 @@
         {
           "src": "/static/paintings/t-shirt-girl/t-shirt-girl_01.jpg",
           "alt": "Närbild på tavlan T-shirt girl"
+        }
+      ]
+    },
+    {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_0.png",
+          "alt": "Tavlan 'Curiosity' i ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' utan ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
         }
       ]
     },
@@ -833,12 +853,12 @@
       ]
     },
     {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
-      "price": "3 000",
-      "year": "2021",
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
+      "price": "6 500",
+      "year": "2023",
       "status": "available",
       "material": {
         "medium": "Mixed media",
@@ -847,92 +867,109 @@
       "width": "50",
       "height": "70",
       "tags": [
-        "plywood",
-        "akryl",
+        "canvas",
         "mixed media"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/audrey/audrey_0.jpg",
-          "alt": "Tavlan 'Audrey' framifrån i ram"
+          "src": "/static/paintings/dimensions/dimensions_0.png",
+          "alt": "Tavlan 'Dimensions' i galleriet"
         },
         {
-          "src": "/static/paintings/audrey/audrey_1.jpeg",
-          "alt": "Tavlan 'Audrey' utan ram framifrån"
+          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
+          "alt": "'Dimensions' i ateljen"
         },
         {
-          "src": "/static/paintings/audrey/audrey_2.jpg",
-          "alt": "Tavlan 'Audrey' i närbild"
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' närbild"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' närbild"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
+          "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' i miljö"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' i miljö"
         }
       ]
     },
     {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "2 500",
-      "year": "2019",
+      "slug": "/leaving",
+      "path": "/leaving",
+      "name": "Leaving",
+      "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
+      "price": "4 000",
+      "year": "2020",
       "status": "available",
+      "frame": "ingår",
       "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
+        "medium": "Akryl",
+        "base": "Glas"
       },
-      "width": "54",
-      "height": "64",
+      "width": "30",
+      "height": "40",
       "tags": [
-        "canvas",
+        "glas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/leaving/leaving_0.png",
+          "alt": "Tavlan Leaving framifrån"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_2.jpg",
+          "alt": "Tavlan Leaving närbild"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "alt": "Tavlan Leaving från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/full-moon",
+      "path": "/full-moon",
+      "name": "Full moon",
+      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
+      "price": "5 000",
+      "year": "2021",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink",
+        "base": "Plywood"
+      },
+      "width": "34",
+      "height": "34",
+      "tags": [
+        "plywood",
         "akryl",
         "female"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/garden-girl/garden-girl_0.png",
-          "alt": "Tavlan Garden girl framifrån"
+          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
+          "alt": "Tavlan Full moon framifrån"
         },
         {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
+          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
+          "alt": "Närbild på tavlan Full moon"
         },
         {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/you-first",
-      "path": "/you-first",
-      "name": "You first",
-      "description": "Det är något förunderligt över en förälders outsinliga omtanke och kärlek. Vilken gåva att få uppleva det. Tänk om vi förlängde den till andra runtomkring oss, kända och okända - hur skulle världen kunna se ut då?",
-      "price": "2 000",
-      "year": "2018",
-      "status": "available",
-      "material": {
-        "medium": "Akryl och bläck",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "50",
-      "tags": [
-        "canvas",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/you-first/you-first_0.jpg",
-          "alt": "Tavlan 'You first' i ram"
-        },
-        {
-          "src": "/static/paintings/you-first/you-first_1.png",
-          "alt": "'You first' från sidan"
-        },
-        {
-          "src": "/static/paintings/you-first/you-first_2.png",
-          "alt": "'You first' detaljbild"
+          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
+          "alt": "Tavlan Full moon utan ram"
         }
       ]
     },
@@ -1098,41 +1135,6 @@
       ]
     },
     {
-      "slug": "/leaving",
-      "path": "/leaving",
-      "name": "Leaving",
-      "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
-      "price": "4 000",
-      "year": "2020",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl",
-        "base": "Glas"
-      },
-      "width": "30",
-      "height": "40",
-      "tags": [
-        "glas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/leaving/leaving_0.png",
-          "alt": "Tavlan Leaving framifrån"
-        },
-        {
-          "src": "/static/paintings/leaving/leaving_2.jpg",
-          "alt": "Tavlan Leaving närbild"
-        },
-        {
-          "src": "/static/paintings/leaving/leaving_3.jpg",
-          "alt": "Tavlan Leaving från sidan"
-        }
-      ]
-    },
-    {
       "slug": "/release",
       "path": "/release",
       "name": "Release",
@@ -1244,38 +1246,36 @@
       ]
     },
     {
-      "slug": "/full-moon",
-      "path": "/full-moon",
-      "name": "Full moon",
-      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
-      "price": "5 000",
-      "year": "2021",
-      "status": "available",
-      "frame": "ingår",
+      "slug": "/you-first",
+      "path": "/you-first",
+      "name": "You first",
+      "description": "Det är något förunderligt över en förälders outsinliga omtanke och kärlek. Vilken gåva att få uppleva det. Tänk om vi förlängde den till andra runtomkring oss, kända och okända - hur skulle världen kunna se ut då?",
+      "price": "2 000",
+      "year": "2018",
+      "status": "reserved",
       "material": {
-        "medium": "Akryl, ink",
-        "base": "Plywood"
+        "medium": "Akryl och bläck",
+        "base": "Canvas"
       },
-      "width": "34",
-      "height": "34",
+      "width": "40",
+      "height": "50",
       "tags": [
-        "plywood",
-        "akryl",
-        "female"
+        "canvas",
+        "mixed media"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
-          "alt": "Tavlan Full moon framifrån"
+          "src": "/static/paintings/you-first/you-first_0.jpg",
+          "alt": "Tavlan 'You first' i ram"
         },
         {
-          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
-          "alt": "Närbild på tavlan Full moon"
+          "src": "/static/paintings/you-first/you-first_1.png",
+          "alt": "'You first' från sidan"
         },
         {
-          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
-          "alt": "Tavlan Full moon utan ram"
+          "src": "/static/paintings/you-first/you-first_2.png",
+          "alt": "'You first' detaljbild"
         }
       ]
     }
