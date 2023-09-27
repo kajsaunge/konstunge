@@ -102,7 +102,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/elden/elden_0.jpg",
+          "src": "/static/paintings/elden/elden_00.jpg",
           "alt": "Tavlan 'Elden' framifrån"
         },
         {
@@ -496,7 +496,7 @@
       "name": "Give",
       "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Give feedback. Give up. Give me! And so on",
       "price": "4 500",
-      "year": "2019",
+      "year": "2020",
       "status": "available",
       "material": {
         "medium": "Akvarell och akryl",
