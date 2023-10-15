@@ -184,9 +184,10 @@
       "path": "/untouchable",
       "name": "Untouchable",
       "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
-      "price": "6 000",
-      "year": "2023",
-      "status": "reserved",
+      "price": "8 000",
+      "year": "2021",
+      "frame": "ingår",
+      "status": "sold",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
