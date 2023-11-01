@@ -1,6 +1,148 @@
 {
   "pieces": [
     {
+      "slug": "/theally",
+      "path": "/theally",
+      "name": "The ally",
+      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
+      "price": "6 000",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/theally/theally_00.jpg",
+          "alt": "Tavlan 'The inner' i galleriet"
+        },
+        {
+          "src": "/static/paintings/theally/20231101_091353-01.jpeg",
+          "alt": "'The inner' i ateljen"
+        },
+        {
+          "src": "/static/paintings/theally/20231101_091429-01-01.jpg",
+          "alt": "'The inner' närbild"
+        },
+        {
+          "src": "/static/paintings/theally/20231101_091342-01.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/theally/20231101_091522-01.jpeg",
+          "alt": "'The inner'"
+        }
+      ]
+    },
+    {
+      "slug": "/everseeing",
+      "path": "/everseeing",
+      "name": "Ever seeing",
+      "description": "Hon vet så mycket mer. Hon ser. Hon är starkare. Hon kommer stå kvar. Om hon vill. För behövs det så vänder hon utan att se sig om.",
+      "price": "6 500",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "canvas",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/everseeing/everseeing_00.jpg",
+          "alt": "Tavlan 'The inner' i galleriet"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_091010-02.jpeg",
+          "alt": "'The inner' i ateljen"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090902-01.jpeg",
+          "alt": "'The inner' närbild"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090854-01.jpeg",
+          "alt": "'The inner' från sidan"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_091032-01.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090824-01.jpeg",
+          "alt": "'The inner'"
+        }
+      ]
+    },
+    {
+      "slug": "/theadvocates",
+      "path": "/theadvocates",
+      "name": "The advocates",
+      "description": "Hon är inte ensam. Har aldrig varit det. I den omgivande kylan står hon stolt och trygg med backning som tar henne mot nya vyer och äventyr.",
+      "price": "6 000",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/theadvocates/theadvocates_00.jpg",
+          "alt": "Tavlan 'The inner' i galleriet"
+        },
+        {
+          "src": "/static/paintings/theadvocates/20231101_091626-01.jpeg",
+          "alt": "'The inner' i ateljen"
+        },
+        {
+          "src": "/static/paintings/theadvocates/20231101_091607-01.jpeg",
+          "alt": "'The inner' närbild"
+        },
+        {
+          "src": "/static/paintings/theadvocates/20231101_091600-01.jpeg",
+          "alt": "'The inner' från sidan"
+        },
+        {
+          "src": "/static/paintings/theadvocates/20231101_091620.jpg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/theadvocates/20231101_091637-01.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/theadvocates/20231101_091644-01.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/theadvocates/20231101_091547-01.jpeg",
+          "alt": "'The inner'"
+        }
+      ]
+    },
+    {
       "slug": "/the-inner",
       "path": "/the-inner",
       "name": "The inner",
@@ -21,7 +163,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/the-inner/the-inner_0.png",
+          "src": "/static/paintings/the-inner/the-inner_0.jpg",
           "alt": "Tavlan 'The inner' i galleriet"
         },
         {
@@ -68,7 +210,7 @@
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/rearview/rearview-shadowbox_0.png",
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
           "alt": "Tavlan 'Rearview' i ram"
         },
         {
@@ -116,32 +258,6 @@
       ]
     },
     {
-      "slug": "/blood-moon",
-      "path": "/blood-moon",
-      "name": "Blood moon",
-      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
-      "price": "4 500",
-      "year": "2022",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blood-moon/blood-moon_0.png",
-          "alt": "Tavlan Blood moon framifrån"
-        }
-      ]
-    },
-    {
       "slug": "/starksarbar",
       "path": "/starksarbar",
       "name": "Stark och sårbar",
@@ -162,7 +278,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/starksarbar/starksarbar_0.jpg",
+          "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
           "alt": "Tavlan 'Stark och sårbar' i galleri"
         },
         {
@@ -201,7 +317,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/untouchable/untouchable.png",
+          "src": "/static/paintings/untouchable/untouchable.jpg",
           "alt": "Tavlan 'Untouchable' framifrån"
         },
         {
@@ -317,6 +433,36 @@
       ]
     },
     {
+      "slug": "/dare-me",
+      "path": "/dare-me",
+      "name": "Dare me",
+      "description": "Bakom alla lager och nivår finns den riktiga. Den som äntligen är redo att ta plats och komma ut.",
+      "price": "4 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dare-me/dare-me_00.jpg",
+          "alt": "Tavlan Dare me framifrån"
+        },
+        {
+          "src": "/static/paintings/dare-me/dare-me_01.jpg",
+          "alt": "Tavlan Dare me"
+        }
+      ]
+    },
+    {
       "slug": "/furilden",
       "path": "/furilden",
       "name": "Furilden",
@@ -345,36 +491,6 @@
         {
           "src": "/static/paintings/furilden/furilden_01.jpg",
           "alt": "Tavlan Furilden utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/dare-me",
-      "path": "/dare-me",
-      "name": "Dare me",
-      "description": "Bakom alla lager och nivår finns den riktiga. Den som äntligen är redo att ta plats och komma ut.",
-      "price": "4 500",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/dare-me/dare-me_00.png",
-          "alt": "Tavlan Dare me framifrån"
-        },
-        {
-          "src": "/static/paintings/dare-me/dare-me_01.jpg",
-          "alt": "Tavlan Dare me"
         }
       ]
     },
@@ -414,6 +530,82 @@
       ]
     },
     {
+      "slug": "/blood-moon",
+      "path": "/blood-moon",
+      "name": "Blood moon",
+      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
+      "price": "4 500",
+      "year": "2022",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
+          "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
+      "price": "6 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "canvas",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dimensions/dimensions_0.jpg",
+          "alt": "Tavlan 'Dimensions' i galleriet"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
+          "alt": "'Dimensions' i ateljen"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' närbild"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' närbild"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
+          "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' i miljö"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' i miljö"
+        }
+      ]
+    },
+    {
       "slug": "/security",
       "path": "/security",
       "name": "Security",
@@ -435,7 +627,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/security/security-shadowbox_0.png",
+          "src": "/static/paintings/security/security_00.jpg",
           "alt": "Tavlan 'Security' i ram"
         },
         {
@@ -453,41 +645,6 @@
         {
           "src": "/static/paintings/security/security_5.jpg",
           "alt": "Tavlan 'Security' i miljö"
-        }
-      ]
-    },
-    {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "2 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
-      },
-      "width": "54",
-      "height": "64",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_0.png",
-          "alt": "Tavlan Garden girl framifrån"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
@@ -520,45 +677,6 @@
         {
           "src": "/static/paintings/t-shirt-girl/t-shirt-girl_01.jpg",
           "alt": "Närbild på tavlan T-shirt girl"
-        }
-      ]
-    },
-    {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "8 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/curiosity/curiosity_0.png",
-          "alt": "Tavlan 'Curiosity' i ram"
-        },
-        {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' utan ram"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_1.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_2.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
         }
       ]
     },
@@ -650,12 +768,51 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_00.png",
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_0.jpg",
           "alt": "Tavlan The inhabitat framifrån"
         },
         {
           "src": "/static/paintings/the-inhabitat/the-inhabitat_01.jpg",
           "alt": "Tavlan The inhabitat framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_00.jpg",
+          "alt": "Tavlan 'Curiosity' i ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' utan ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
         }
       ]
     },
@@ -854,52 +1011,37 @@
       ]
     },
     {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
-      "price": "6 500",
-      "year": "2023",
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "2 500",
+      "year": "2019",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
+        "medium": "Akryl, ink, krita, grafit",
         "base": "Canvas"
       },
-      "width": "50",
-      "height": "70",
+      "width": "54",
+      "height": "64",
       "tags": [
         "canvas",
-        "mixed media"
+        "akryl",
+        "female"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/dimensions/dimensions_0.png",
-          "alt": "Tavlan 'Dimensions' i galleriet"
+          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
+          "alt": "Tavlan Garden girl framifrån"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
-          "alt": "'Dimensions' i ateljen"
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
-          "alt": "'Dimensions'"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' i miljö"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' i miljö"
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
@@ -935,6 +1077,44 @@
         {
           "src": "/static/paintings/leaving/leaving_3.jpg",
           "alt": "Tavlan Leaving från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
+      "price": "6 000",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "Tavlan 'Blue Hope' i ram"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' framifrån"
         }
       ]
     },
@@ -1174,44 +1354,6 @@
       ]
     },
     {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
-      "price": "6 000",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_0.jpg",
-          "alt": "Tavlan 'Blue Hope' i ram"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' framifrån"
-        }
-      ]
-    },
-    {
       "slug": "/newyork",
       "path": "/newyork",
       "name": "New york",
@@ -1233,7 +1375,7 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/newyork/newyork_0.jpg",
+          "src": "/static/paintings/newyork/newyork_00.jpg",
           "alt": "Tavlan New york framifrån"
         },
         {
