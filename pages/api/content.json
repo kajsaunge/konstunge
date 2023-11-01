@@ -22,23 +22,23 @@
       "images": [
         {
           "src": "/static/paintings/theally/theally_00.jpg",
-          "alt": "Tavlan 'The inner' i galleriet"
+          "alt": "Tavlan 'The ally' i galleriet"
         },
         {
           "src": "/static/paintings/theally/20231101_091353-01.jpeg",
-          "alt": "'The inner' i ateljen"
+          "alt": "'The ally' i ateljen"
         },
         {
           "src": "/static/paintings/theally/20231101_091429-01-01.jpg",
-          "alt": "'The inner' närbild"
+          "alt": "'The ally' närbild"
         },
         {
           "src": "/static/paintings/theally/20231101_091342-01.jpeg",
-          "alt": "'The inner'"
+          "alt": "'The ally'"
         },
         {
           "src": "/static/paintings/theally/20231101_091522-01.jpeg",
-          "alt": "'The inner'"
+          "alt": "'The ally'"
         }
       ]
     },
@@ -64,27 +64,27 @@
       "images": [
         {
           "src": "/static/paintings/everseeing/everseeing_00.jpg",
-          "alt": "Tavlan 'The inner' i galleriet"
+          "alt": "Tavlan 'Ever seeing' i galleriet"
         },
         {
           "src": "/static/paintings/everseeing/20231101_091010-02.jpeg",
-          "alt": "'The inner' i ateljen"
+          "alt": "'Ever seeing' i ateljen"
         },
         {
           "src": "/static/paintings/everseeing/20231101_090902-01.jpeg",
-          "alt": "'The inner' närbild"
+          "alt": "'Ever seeing' närbild"
         },
         {
           "src": "/static/paintings/everseeing/20231101_090854-01.jpeg",
-          "alt": "'The inner' från sidan"
+          "alt": "'Ever seeing' från sidan"
         },
         {
           "src": "/static/paintings/everseeing/20231101_091032-01.jpeg",
-          "alt": "'The inner'"
+          "alt": "'Ever seeing'"
         },
         {
           "src": "/static/paintings/everseeing/20231101_090824-01.jpeg",
-          "alt": "'The inner'"
+          "alt": "'Ever seeing'"
         }
       ]
     },
@@ -110,35 +110,35 @@
       "images": [
         {
           "src": "/static/paintings/theadvocates/theadvocates_00.jpg",
-          "alt": "Tavlan 'The inner' i galleriet"
+          "alt": "Tavlan 'The advocates' i galleriet"
         },
         {
           "src": "/static/paintings/theadvocates/20231101_091626-01.jpeg",
-          "alt": "'The inner' i ateljen"
+          "alt": "'The advocates' i ateljen"
         },
         {
           "src": "/static/paintings/theadvocates/20231101_091607-01.jpeg",
-          "alt": "'The inner' närbild"
+          "alt": "'The advocates' närbild"
         },
         {
           "src": "/static/paintings/theadvocates/20231101_091600-01.jpeg",
-          "alt": "'The inner' från sidan"
+          "alt": "'The advocates' från sidan"
         },
         {
           "src": "/static/paintings/theadvocates/20231101_091620.jpg",
-          "alt": "'The inner'"
+          "alt": "'The advocates'"
         },
         {
           "src": "/static/paintings/theadvocates/20231101_091637-01.jpeg",
-          "alt": "'The inner'"
+          "alt": "'The advocates'"
         },
         {
           "src": "/static/paintings/theadvocates/20231101_091644-01.jpeg",
-          "alt": "'The inner'"
+          "alt": "'The advocates'"
         },
         {
           "src": "/static/paintings/theadvocates/20231101_091547-01.jpeg",
-          "alt": "'The inner'"
+          "alt": "'The advocates'"
         }
       ]
     },
