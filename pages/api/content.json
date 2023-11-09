@@ -138,6 +138,43 @@
       ]
     },
     {
+      "slug": "/deer-her",
+      "path": "/deer-her",
+      "name": "Deer her",
+      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
+      "price": "5 000",
+      "year": "2020",
+      "status": "reserved",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "34",
+      "height": "34",
+      "tags": [
+        "plywood",
+        "akryl",
+        "female",
+        "animal"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
+          "alt": "Tavlan Deer her framifrån"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
+          "alt": "Närbild på tavlan Deer her"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
+          "alt": "Tavlan Deer her utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/theadvocates",
       "path": "/theadvocates",
       "name": "The advocates",
@@ -238,39 +275,37 @@
       ]
     },
     {
-      "slug": "/deer-her",
-      "path": "/deer-her",
-      "name": "Deer her",
-      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
-      "price": "5 000",
-      "year": "2020",
-      "status": "reserved",
-      "frame": "ingår",
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "available",
       "material": {
-        "medium": "Akryl",
+        "medium": "Mixed media",
         "base": "Plywood"
       },
-      "width": "34",
-      "height": "34",
+      "width": "70",
+      "height": "100",
       "tags": [
         "plywood",
-        "akryl",
-        "female",
-        "animal"
+        "mixed media"
       ],
       "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
-          "alt": "Tavlan Deer her framifrån"
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
+          "alt": "Tavlan 'Rearview' i ram"
         },
         {
-          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
-          "alt": "Närbild på tavlan Deer her"
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "Tavlan 'Rearview' i miljö"
         },
         {
-          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
-          "alt": "Tavlan Deer her utan ram"
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' utan ram"
         }
       ]
     },
@@ -347,41 +382,6 @@
       ]
     },
     {
-      "slug": "/rearview",
-      "path": "/rearview",
-      "name": "Rearview",
-      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "8 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
-          "alt": "Tavlan 'Rearview' i ram"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "Tavlan 'Rearview' i miljö"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/untouchable",
       "path": "/untouchable",
       "name": "Untouchable",
@@ -417,6 +417,32 @@
       ]
     },
     {
+      "slug": "/blood-moon",
+      "path": "/blood-moon",
+      "name": "Blood moon",
+      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
+      "price": "4 500",
+      "year": "2022",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
+          "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+    {
       "slug": "/over-this",
       "path": "/over-this",
       "name": "Over this",
@@ -443,41 +469,6 @@
         {
           "src": "/static/paintings/over-this/over-this_01.jpg",
           "alt": "Tavlan Over this"
-        }
-      ]
-    },
-    {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
-      "price": "3 000",
-      "year": "2021",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": [
-        "plywood",
-        "akryl",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/audrey/audrey_0.jpg",
-          "alt": "Tavlan 'Audrey' framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_1.jpeg",
-          "alt": "Tavlan 'Audrey' utan ram framifrån"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_2.jpg",
-          "alt": "Tavlan 'Audrey' i närbild"
         }
       ]
     },
@@ -595,32 +586,6 @@
       ]
     },
     {
-      "slug": "/blood-moon",
-      "path": "/blood-moon",
-      "name": "Blood moon",
-      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
-      "price": "4 500",
-      "year": "2022",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
-          "alt": "Tavlan Blood moon framifrån"
-        }
-      ]
-    },
-    {
       "slug": "/security",
       "path": "/security",
       "name": "Security",
@@ -660,6 +625,41 @@
         {
           "src": "/static/paintings/security/security_5.jpg",
           "alt": "Tavlan 'Security' i miljö"
+        }
+      ]
+    },
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
+      "price": "3 000",
+      "year": "2021",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": [
+        "plywood",
+        "akryl",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_0.jpg",
+          "alt": "Tavlan 'Audrey' framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_1.jpeg",
+          "alt": "Tavlan 'Audrey' utan ram framifrån"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_2.jpg",
+          "alt": "Tavlan 'Audrey' i närbild"
         }
       ]
     },
@@ -710,6 +710,45 @@
         {
           "src": "/static/paintings/dimensions/dimensions_7.jpg",
           "alt": "'Dimensions' i miljö"
+        }
+      ]
+    },
+    {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_00.jpg",
+          "alt": "Tavlan 'Curiosity' i ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' utan ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
         }
       ]
     },
@@ -809,45 +848,6 @@
         {
           "src": "/static/paintings/iam/iam_1.jpg",
           "alt": "Tavlan 'I am' i hemmiljö"
-        }
-      ]
-    },
-    {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "8 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/curiosity/curiosity_00.jpg",
-          "alt": "Tavlan 'Curiosity' i ram"
-        },
-        {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' utan ram"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_1.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_2.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
         }
       ]
     },
@@ -1076,41 +1076,6 @@
       ]
     },
     {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "2 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
-      },
-      "width": "54",
-      "height": "64",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
-          "alt": "Tavlan Garden girl framifrån"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/blue-hope",
       "path": "/blue-hope",
       "name": "Blue Hope",
@@ -1145,6 +1110,41 @@
         {
           "src": "/static/paintings/blue-hope/blue-hope_3.png",
           "alt": "'Blue Hope' framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "2 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "Canvas"
+      },
+      "width": "54",
+      "height": "64",
+      "tags": [
+        "canvas",
+        "akryl",
+        "female"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
+          "alt": "Tavlan Garden girl framifrån"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
