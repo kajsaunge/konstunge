@@ -753,8 +753,8 @@
       ]
     },
     {
-      "slug": "/t-shirt-girl",
-      "path": "/t-shirt-girl",
+      "slug": "/give",
+      "path": "/give",
       "name": "Give",
       "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Give feedback. Give up. Give me! And so on",
       "price": "4 500",
@@ -775,11 +775,11 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_00.jpg",
+          "src": "/static/paintings/give/give_00.jpg",
           "alt": "Tavlan T-shirt girl framifrån"
         },
         {
-          "src": "/static/paintings/t-shirt-girl/t-shirt-girl_01.jpg",
+          "src": "/static/paintings/give/give_01.jpg",
           "alt": "Närbild på tavlan T-shirt girl"
         }
       ]
@@ -1184,6 +1184,41 @@
       ]
     },
     {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
+      "price": "7 000",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": [
+        "plywood",
+        "akryl",
+        "typografi"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "Tavlan New york från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/full-moon",
       "path": "/full-moon",
       "name": "Full moon",
@@ -1415,41 +1450,6 @@
         {
           "src": "/static/paintings/release/release_3.jpg",
           "alt": "Tavlan 'Release' från sidan"
-        }
-      ]
-    },
-    {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "7 000",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "80",
-      "height": "120",
-      "tags": [
-        "plywood",
-        "akryl",
-        "typografi"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "Tavlan New york framifrån"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "Tavlan New york framifrån"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "Tavlan New york från sidan"
         }
       ]
     },
