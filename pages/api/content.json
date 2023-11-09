@@ -1,6 +1,55 @@
 {
   "pieces": [
     {
+      "slug": "/dear-deer",
+      "path": "/dear-deer",
+      "name": "Dear deer",
+      "description": "En hyllning till det vilda och vackra. En ödmjuk ursäkt för otryggheten. Ett bevis på den blinda medvetenheten. Även från mig.",
+      "price": "3 000",
+      "year": "2020",
+      "status": "new",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "23.5",
+      "height": "32",
+      "tags": [
+        "plywood",
+        "akryl",
+        "female",
+        "animal"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_0.jpg",
+          "alt": "Tavlan Dear deer framifrån"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_1.jpg",
+          "alt": "Närbild på tavlan Dear deer"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_2.jpeg",
+          "alt": "Tavlan Dear deer utan ram"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_3.jpg",
+          "alt": "Tavlan Dear deer utan ram"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_4.jpeg",
+          "alt": "Tavlan Dear deer utan ram"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
+          "alt": "Tavlan Dear deer utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/theally",
       "path": "/theally",
       "name": "The ally",
