@@ -1,6 +1,48 @@
 {
   "pieces": [
     {
+      "slug": "/theally",
+      "path": "/theally",
+      "name": "The ally",
+      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
+      "price": "6 000",
+      "year": "2023",
+      "status": "hide",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/theally/theally_00.jpg",
+          "alt": "Tavlan 'The ally' i galleriet"
+        },
+        {
+          "src": "/static/paintings/theally/20231101_091353-01.jpeg",
+          "alt": "'The ally' i ateljen"
+        },
+        {
+          "src": "/static/paintings/theally/20231101_091429-01-01.jpg",
+          "alt": "'The ally' närbild"
+        },
+        {
+          "src": "/static/paintings/theally/20231101_091342-01.jpeg",
+          "alt": "'The ally'"
+        },
+        {
+          "src": "/static/paintings/theally/20231101_091522-01.jpeg",
+          "alt": "'The ally'"
+        }
+      ]
+    },
+    {
       "slug": "/dear-deer",
       "path": "/dear-deer",
       "name": "Dear deer",
@@ -46,48 +88,6 @@
         {
           "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
           "alt": "Tavlan Dear deer utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/theally",
-      "path": "/theally",
-      "name": "The ally",
-      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
-      "price": "6 000",
-      "year": "2023",
-      "status": "hide",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/theally/theally_00.jpg",
-          "alt": "Tavlan 'The ally' i galleriet"
-        },
-        {
-          "src": "/static/paintings/theally/20231101_091353-01.jpeg",
-          "alt": "'The ally' i ateljen"
-        },
-        {
-          "src": "/static/paintings/theally/20231101_091429-01-01.jpg",
-          "alt": "'The ally' närbild"
-        },
-        {
-          "src": "/static/paintings/theally/20231101_091342-01.jpeg",
-          "alt": "'The ally'"
-        },
-        {
-          "src": "/static/paintings/theally/20231101_091522-01.jpeg",
-          "alt": "'The ally'"
         }
       ]
     },
@@ -238,37 +238,39 @@
       ]
     },
     {
-      "slug": "/rearview",
-      "path": "/rearview",
-      "name": "Rearview",
-      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "8 000",
-      "year": "2023",
-      "status": "available",
+      "slug": "/deer-her",
+      "path": "/deer-her",
+      "name": "Deer her",
+      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
+      "price": "5 000",
+      "year": "2020",
+      "status": "reserved",
+      "frame": "ingår",
       "material": {
-        "medium": "Mixed media",
+        "medium": "Akryl",
         "base": "Plywood"
       },
-      "width": "70",
-      "height": "100",
+      "width": "34",
+      "height": "34",
       "tags": [
         "plywood",
-        "mixed media"
+        "akryl",
+        "female",
+        "animal"
       ],
       "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
-          "alt": "Tavlan 'Rearview' i ram"
+          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
+          "alt": "Tavlan Deer her framifrån"
         },
         {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "Tavlan 'Rearview' i miljö"
+          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
+          "alt": "Närbild på tavlan Deer her"
         },
         {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' utan ram"
+          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
+          "alt": "Tavlan Deer her utan ram"
         }
       ]
     },
@@ -341,6 +343,41 @@
         {
           "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
           "alt": "'Stark och sårbar' i miljö"
+        }
+      ]
+    },
+    {
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
+          "alt": "Tavlan 'Rearview' i ram"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "Tavlan 'Rearview' i miljö"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' utan ram"
         }
       ]
     },
@@ -445,43 +482,6 @@
       ]
     },
     {
-      "slug": "/deer-her",
-      "path": "/deer-her",
-      "name": "Deer her",
-      "description": "Den feminina makten, mjuk, intuitiv och förförande. Med kronan på våra huvuden gör samhället oss samtidigt till åtråvärda byten.",
-      "price": "5 000",
-      "year": "2020",
-      "status": "reserved",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "34",
-      "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female",
-        "animal"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
-          "alt": "Tavlan Deer her framifrån"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
-          "alt": "Närbild på tavlan Deer her"
-        },
-        {
-          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
-          "alt": "Tavlan Deer her utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/dare-me",
       "path": "/dare-me",
       "name": "Dare me",
@@ -544,12 +544,12 @@
       ]
     },
     {
-      "slug": "/sense",
-      "path": "/sense",
-      "name": "Sense",
-      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Stanna här.",
+      "slug": "/unity",
+      "path": "/unity",
+      "name": "Unity",
+      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Var dig själv fullt ut. Följ DIN väg.",
       "price": "7 500",
-      "year": "2022",
+      "year": "2023",
       "status": "hide",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "material": {
@@ -565,16 +565,32 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/sense/sense-shadowbox_0.png",
-          "alt": "Tavlan 'Sense' i ram"
+          "src": "/static/paintings/unity/unity_0.jpg",
+          "alt": "Tavlan 'Unity' i ram"
         },
         {
-          "src": "/static/paintings/sense/sense_1.jpg",
-          "alt": "'Sense' från sidan"
+          "src": "/static/paintings/unity/unity_1.jpeg",
+          "alt": "'Unity' från sidan"
         },
         {
-          "src": "/static/paintings/sense/sense_2.jpg",
-          "alt": "'Sense' detaljbild"
+          "src": "/static/paintings/unity/unity_2.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_3.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_4.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_5.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_6.jpeg",
+          "alt": "'Unity' detaljbild"
         }
       ]
     },
@@ -601,6 +617,49 @@
         {
           "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
           "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/security",
+      "path": "/security",
+      "name": "Security",
+      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
+      "price": "8 000",
+      "year": "2021",
+      "status": "available",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/security/security_00.jpg",
+          "alt": "Tavlan 'Security' i ram"
+        },
+        {
+          "src": "/static/paintings/security/security_1.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_2.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_3.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_5.jpg",
+          "alt": "Tavlan 'Security' i miljö"
         }
       ]
     },
@@ -651,49 +710,6 @@
         {
           "src": "/static/paintings/dimensions/dimensions_7.jpg",
           "alt": "'Dimensions' i miljö"
-        }
-      ]
-    },
-    {
-      "slug": "/security",
-      "path": "/security",
-      "name": "Security",
-      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
-      "price": "8 000",
-      "year": "2021",
-      "status": "available",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/security/security_00.jpg",
-          "alt": "Tavlan 'Security' i ram"
-        },
-        {
-          "src": "/static/paintings/security/security_1.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_2.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_3.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_5.jpg",
-          "alt": "Tavlan 'Security' i miljö"
         }
       ]
     },
@@ -797,36 +813,6 @@
       ]
     },
     {
-      "slug": "/the-inhabitat",
-      "path": "/the-inhabitat",
-      "name": "The inhabitat",
-      "description": "Andas. Låt det komma, känn hur det fyller upp hela dig. Var här och nu, njut.",
-      "price": "2 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_0.jpg",
-          "alt": "Tavlan The inhabitat framifrån"
-        },
-        {
-          "src": "/static/paintings/the-inhabitat/the-inhabitat_01.jpg",
-          "alt": "Tavlan The inhabitat framifrån"
-        }
-      ]
-    },
-    {
       "slug": "/curiosity",
       "path": "/curiosity",
       "name": "Curiosity",
@@ -862,6 +848,36 @@
         {
           "src": "/static/paintings/curiosity/curiosity_2.jpg",
           "alt": "Tavlan 'Curiosity' i miljö"
+        }
+      ]
+    },
+    {
+      "slug": "/the-inhabitat",
+      "path": "/the-inhabitat",
+      "name": "The inhabitat",
+      "description": "Andas. Låt det komma, känn hur det fyller upp hela dig. Var här och nu, njut.",
+      "price": "2 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_0.jpg",
+          "alt": "Tavlan The inhabitat framifrån"
+        },
+        {
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_01.jpg",
+          "alt": "Tavlan The inhabitat framifrån"
         }
       ]
     },
@@ -1095,41 +1111,6 @@
       ]
     },
     {
-      "slug": "/leaving",
-      "path": "/leaving",
-      "name": "Leaving",
-      "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
-      "price": "4 000",
-      "year": "2020",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl",
-        "base": "Glas"
-      },
-      "width": "30",
-      "height": "40",
-      "tags": [
-        "glas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/leaving/leaving_0.png",
-          "alt": "Tavlan Leaving framifrån"
-        },
-        {
-          "src": "/static/paintings/leaving/leaving_2.jpg",
-          "alt": "Tavlan Leaving närbild"
-        },
-        {
-          "src": "/static/paintings/leaving/leaving_3.jpg",
-          "alt": "Tavlan Leaving från sidan"
-        }
-      ]
-    },
-    {
       "slug": "/blue-hope",
       "path": "/blue-hope",
       "name": "Blue Hope",
@@ -1164,6 +1145,41 @@
         {
           "src": "/static/paintings/blue-hope/blue-hope_3.png",
           "alt": "'Blue Hope' framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/leaving",
+      "path": "/leaving",
+      "name": "Leaving",
+      "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
+      "price": "4 000",
+      "year": "2020",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl",
+        "base": "Glas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": [
+        "glas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/leaving/leaving_0.png",
+          "alt": "Tavlan Leaving framifrån"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_2.jpg",
+          "alt": "Tavlan Leaving närbild"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "alt": "Tavlan Leaving från sidan"
         }
       ]
     },
