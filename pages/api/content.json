@@ -1,6 +1,57 @@
 {
   "pieces": [
     {
+      "slug": "/unity",
+      "path": "/unity",
+      "name": "Unity",
+      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga att expandera. Var dig själv fullt ut. Följ DIN väg.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "new",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/unity/unity_0.jpg",
+          "alt": "Tavlan 'Unity' i ram"
+        },
+        {
+          "src": "/static/paintings/unity/unity_1.jpeg",
+          "alt": "'Unity' från sidan"
+        },
+        {
+          "src": "/static/paintings/unity/unity_2.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_3.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_4.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_5.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_6.jpeg",
+          "alt": "'Unity' detaljbild"
+        }
+      ]
+    },
+    {
       "slug": "/theally",
       "path": "/theally",
       "name": "The ally",
@@ -49,7 +100,7 @@
       "description": "En hyllning till det vilda och vackra. En ödmjuk ursäkt för otryggheten. Ett bevis på den blinda medvetenheten. Även från mig.",
       "price": "3 000",
       "year": "2020",
-      "status": "new",
+      "status": "available",
       "frame": "ingår",
       "material": {
         "medium": "Akryl",
@@ -98,7 +149,7 @@
       "description": "Hon vet så mycket mer. Hon ser. Hon är starkare. Hon kommer stå kvar. Om hon vill. För behövs det så vänder hon utan att se sig om.",
       "price": "6 500",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media",
         "base": "Canvas"
@@ -228,52 +279,7 @@
         }
       ]
     },
-    {
-      "slug": "/the-inner",
-      "path": "/the-inner",
-      "name": "The inner",
-      "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
-      "price": "5 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
-      },
-      "width": "50",
-      "height": "60",
-      "tags": [
-        "canvas",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-inner/the-inner_0.jpg",
-          "alt": "Tavlan 'The inner' i galleriet"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
-          "alt": "'The inner' i ateljen"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
-          "alt": "'The inner' närbild"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
-          "alt": "'The inner' från sidan"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
-          "alt": "'The inner'"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
-          "alt": "'The inner'"
-        }
-      ]
-    },
+    
     {
       "slug": "/rearview",
       "path": "/rearview",
@@ -344,43 +350,82 @@
       ]
     },
     {
-      "slug": "/starksarbar",
-      "path": "/starksarbar",
-      "name": "Stark och sårbar",
-      "description": "\"Jag är det vackra i naturen, jag är det söta i ett bär. Jag är det mystiska i natten. Jag är den utsikt du har kär. Jag är den lena ljumma brisen. Jag är det sköna i en kväll, jag är den ljuvaste av morgon. Och den vildaste av eld.\"\n- Moonica Mac",
-      "price": "4 500",
+      "slug": "/the-inner",
+      "path": "/the-inner",
+      "name": "The inner",
+      "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
+      "price": "5 000",
       "year": "2023",
       "status": "available",
       "material": {
         "medium": "Mixed media",
-        "base": "MDF"
+        "base": "Canvas"
       },
-      "width": "70",
-      "height": "50",
+      "width": "50",
+      "height": "60",
       "tags": [
-        "mdf",
+        "canvas",
         "mixed media"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
-          "alt": "Tavlan 'Stark och sårbar' i galleri"
+          "src": "/static/paintings/the-inner/the-inner_0.jpg",
+          "alt": "Tavlan 'The inner' i galleriet"
         },
         {
-          "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
-          "alt": "Tavlan 'Stark och sårbar'"
+          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
+          "alt": "'The inner' i ateljen"
         },
         {
-          "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
-          "alt": "'Stark och sårbar' från sidan"
+          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
+          "alt": "'The inner' närbild"
         },
         {
-          "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
-          "alt": "'Stark och sårbar' i miljö"
+          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
+          "alt": "'The inner' från sidan"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
+          "alt": "'The inner'"
         }
       ]
     },
+    {
+      "slug": "/dare-me",
+      "path": "/dare-me",
+      "name": "Dare me",
+      "description": "Bakom alla lager och nivår finns den riktiga. Den som äntligen är redo att ta plats och komma ut.",
+      "price": "4 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": [
+        "canvas",
+        "akryl"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dare-me/dare-me_00.jpg",
+          "alt": "Tavlan Dare me framifrån"
+        },
+        {
+          "src": "/static/paintings/dare-me/dare-me_01.jpg",
+          "alt": "Tavlan Dare me"
+        }
+      ]
+    },
+    
     {
       "slug": "/untouchable",
       "path": "/untouchable",
@@ -417,32 +462,6 @@
       ]
     },
     {
-      "slug": "/blood-moon",
-      "path": "/blood-moon",
-      "name": "Blood moon",
-      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
-      "price": "4 500",
-      "year": "2022",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
-          "alt": "Tavlan Blood moon framifrån"
-        }
-      ]
-    },
-    {
       "slug": "/over-this",
       "path": "/over-this",
       "name": "Over this",
@@ -473,12 +492,12 @@
       ]
     },
     {
-      "slug": "/dare-me",
-      "path": "/dare-me",
-      "name": "Dare me",
-      "description": "Bakom alla lager och nivår finns den riktiga. Den som äntligen är redo att ta plats och komma ut.",
+      "slug": "/blood-moon",
+      "path": "/blood-moon",
+      "name": "Blood moon",
+      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
       "price": "4 500",
-      "year": "2023",
+      "year": "2022",
       "status": "available",
       "material": {
         "medium": "Akryl",
@@ -493,15 +512,13 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/dare-me/dare-me_00.jpg",
-          "alt": "Tavlan Dare me framifrån"
-        },
-        {
-          "src": "/static/paintings/dare-me/dare-me_01.jpg",
-          "alt": "Tavlan Dare me"
+          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
+          "alt": "Tavlan Blood moon framifrån"
         }
       ]
     },
+   
+    
     {
       "slug": "/furilden",
       "path": "/furilden",
@@ -531,57 +548,6 @@
         {
           "src": "/static/paintings/furilden/furilden_01.jpg",
           "alt": "Tavlan Furilden utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/unity",
-      "path": "/unity",
-      "name": "Unity",
-      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga nuet att expandera. Var dig själv fullt ut. Följ DIN väg.",
-      "price": "7 500",
-      "year": "2023",
-      "status": "hide",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/unity/unity_0.jpg",
-          "alt": "Tavlan 'Unity' i ram"
-        },
-        {
-          "src": "/static/paintings/unity/unity_1.jpeg",
-          "alt": "'Unity' från sidan"
-        },
-        {
-          "src": "/static/paintings/unity/unity_2.jpeg",
-          "alt": "'Unity' detaljbild"
-        },
-        {
-          "src": "/static/paintings/unity/unity_3.jpeg",
-          "alt": "'Unity' detaljbild"
-        },
-        {
-          "src": "/static/paintings/unity/unity_4.jpeg",
-          "alt": "'Unity' detaljbild"
-        },
-        {
-          "src": "/static/paintings/unity/unity_5.jpeg",
-          "alt": "'Unity' detaljbild"
-        },
-        {
-          "src": "/static/paintings/unity/unity_6.jpeg",
-          "alt": "'Unity' detaljbild"
         }
       ]
     },
@@ -1450,6 +1416,44 @@
         {
           "src": "/static/paintings/release/release_3.jpg",
           "alt": "Tavlan 'Release' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/starksarbar",
+      "path": "/starksarbar",
+      "name": "Stark och sårbar",
+      "description": "\"Jag är det vackra i naturen, jag är det söta i ett bär. Jag är det mystiska i natten. Jag är den utsikt du har kär. Jag är den lena ljumma brisen. Jag är det sköna i en kväll, jag är den ljuvaste av morgon. Och den vildaste av eld.\"\n- Moonica Mac",
+      "price": "4 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "MDF"
+      },
+      "width": "70",
+      "height": "50",
+      "tags": [
+        "mdf",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
+          "alt": "Tavlan 'Stark och sårbar' i galleri"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
+          "alt": "Tavlan 'Stark och sårbar'"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
+          "alt": "'Stark och sårbar' från sidan"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
+          "alt": "'Stark och sårbar' i miljö"
         }
       ]
     },
