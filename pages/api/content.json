@@ -1,6 +1,60 @@
 {
   "pieces": [
     {
+      "slug": "/aldrig-ensam",
+      "path": "/aldrig-ensam",
+      "name": "Aldrig ensam",
+      "description": "Hon är inte ensam. Har aldrig varit det. Och i världen som så kyligt omger henne står hon stadig, varm och trygg. Nu mot nya äventyr. Aldrig ensam.",
+      "price": "6 000",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": [
+        "plywood",
+        "mixed media"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
+          "alt": "Tavlan 'Aldrig ensam' i galleriet"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpeg",
+          "alt": "'Aldrig ensam' i ateljen"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpeg",
+          "alt": "'Aldrig ensam' närbild"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpeg",
+          "alt": "'Aldrig ensam' från sidan"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpeg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpeg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpeg",
+          "alt": "'Aldrig ensam'"
+        }
+      ]
+    },
+    {
       "slug": "/unity",
       "path": "/unity",
       "name": "Unity",
@@ -52,13 +106,13 @@
       ]
     },
     {
-      "slug": "/theally",
-      "path": "/theally",
-      "name": "The ally",
+      "slug": "/alltid-hopp",
+      "path": "/alltid-hopp",
+      "name": "Alltid hopp",
       "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
       "price": "6 000",
       "year": "2023",
-      "status": "hide",
+      "status": "new",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -72,24 +126,24 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/theally/theally_00.jpg",
-          "alt": "Tavlan 'The ally' i galleriet"
+          "src": "/static/paintings/alltid-hopp/alltid-hopp_00.jpg",
+          "alt": "Tavlan 'Alltid hopp' i galleriet"
         },
         {
-          "src": "/static/paintings/theally/20231101_091353-01.jpeg",
-          "alt": "'The ally' i ateljen"
+          "src": "/static/paintings/alltid-hopp/20231101_091353-01.jpeg",
+          "alt": "'Alltid hopp' i ateljen"
         },
         {
-          "src": "/static/paintings/theally/20231101_091429-01-01.jpg",
-          "alt": "'The ally' närbild"
+          "src": "/static/paintings/alltid-hopp/20231101_091429-01-01.jpg",
+          "alt": "'Alltid hopp' närbild"
         },
         {
-          "src": "/static/paintings/theally/20231101_091342-01.jpeg",
-          "alt": "'The ally'"
+          "src": "/static/paintings/alltid-hopp/20231101_091342-01.jpeg",
+          "alt": "'Alltid hopp'"
         },
         {
-          "src": "/static/paintings/theally/20231101_091522-01.jpeg",
-          "alt": "'The ally'"
+          "src": "/static/paintings/alltid-hopp/20231101_091522-01.jpeg",
+          "alt": "'Alltid hopp'"
         }
       ]
     },
@@ -226,61 +280,6 @@
       ]
     },
     {
-      "slug": "/theadvocates",
-      "path": "/theadvocates",
-      "name": "The advocates",
-      "description": "Hon är inte ensam. Har aldrig varit det. I den omgivande kylan står hon stolt och trygg med backning som tar henne mot nya vyer och äventyr.",
-      "price": "6 000",
-      "year": "2023",
-      "status": "hide",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/theadvocates/theadvocates_00.jpg",
-          "alt": "Tavlan 'The advocates' i galleriet"
-        },
-        {
-          "src": "/static/paintings/theadvocates/20231101_091626-01.jpeg",
-          "alt": "'The advocates' i ateljen"
-        },
-        {
-          "src": "/static/paintings/theadvocates/20231101_091607-01.jpeg",
-          "alt": "'The advocates' närbild"
-        },
-        {
-          "src": "/static/paintings/theadvocates/20231101_091600-01.jpeg",
-          "alt": "'The advocates' från sidan"
-        },
-        {
-          "src": "/static/paintings/theadvocates/20231101_091620.jpg",
-          "alt": "'The advocates'"
-        },
-        {
-          "src": "/static/paintings/theadvocates/20231101_091637-01.jpeg",
-          "alt": "'The advocates'"
-        },
-        {
-          "src": "/static/paintings/theadvocates/20231101_091644-01.jpeg",
-          "alt": "'The advocates'"
-        },
-        {
-          "src": "/static/paintings/theadvocates/20231101_091547-01.jpeg",
-          "alt": "'The advocates'"
-        }
-      ]
-    },
-    
-    {
       "slug": "/rearview",
       "path": "/rearview",
       "name": "Rearview",
@@ -392,6 +391,37 @@
         {
           "src": "/static/paintings/the-inner/the-inner_5.jpeg",
           "alt": "'The inner'"
+        }
+      ]
+    },{
+      "slug": "/furilden",
+      "path": "/furilden",
+      "name": "Furilden",
+      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår, eller i alla fall min fantasi förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
+      "price": "6 500",
+      "year": "2023",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": [
+        "canvas",
+        "akryl",
+        "gotland"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/furilden/furilden_00.jpg",
+          "alt": "Tavlan Furilden framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/furilden/furilden_01.jpg",
+          "alt": "Tavlan Furilden utan ram"
         }
       ]
     },
@@ -514,40 +544,6 @@
         {
           "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
           "alt": "Tavlan Blood moon framifrån"
-        }
-      ]
-    },
-   
-    
-    {
-      "slug": "/furilden",
-      "path": "/furilden",
-      "name": "Furilden",
-      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår, eller i alla fall min fantasi förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
-      "price": "6 500",
-      "year": "2023",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "50",
-      "tags": [
-        "canvas",
-        "akryl",
-        "gotland"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/furilden/furilden_00.jpg",
-          "alt": "Tavlan Furilden framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/furilden/furilden_01.jpg",
-          "alt": "Tavlan Furilden utan ram"
         }
       ]
     },
@@ -1042,43 +1038,42 @@
       ]
     },
     {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
-      "price": "6 000",
-      "year": "2020",
+      "slug": "/full-moon",
+      "path": "/full-moon",
+      "name": "Full moon",
+      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
+      "price": "5 000",
+      "year": "2021",
       "status": "available",
+      "frame": "ingår",
       "material": {
-        "medium": "Mixed media",
+        "medium": "Akryl, ink",
         "base": "Plywood"
       },
-      "width": "70",
-      "height": "100",
+      "width": "34",
+      "height": "34",
       "tags": [
         "plywood",
-        "mixed media"
+        "akryl",
+        "female"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
-          "alt": "Tavlan 'Blue Hope' i ram"
+          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
+          "alt": "Tavlan Full moon framifrån"
         },
         {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' detaljbild"
+          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
+          "alt": "Närbild på tavlan Full moon"
         },
         {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' framifrån"
+          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
+          "alt": "Tavlan Full moon utan ram"
         }
       ]
     },
+
     {
       "slug": "/garden-girl",
       "path": "/garden-girl",
@@ -1150,76 +1145,44 @@
       ]
     },
     {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "7 000",
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
+      "price": "6 000",
       "year": "2020",
       "status": "available",
       "material": {
-        "medium": "Akryl",
+        "medium": "Mixed media",
         "base": "Plywood"
       },
-      "width": "80",
-      "height": "120",
+      "width": "70",
+      "height": "100",
       "tags": [
         "plywood",
-        "akryl",
-        "typografi"
+        "mixed media"
       ],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "Tavlan New york framifrån"
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "Tavlan 'Blue Hope' i ram"
         },
         {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "Tavlan New york framifrån"
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' detaljbild"
         },
         {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "Tavlan New york från sidan"
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' framifrån"
         }
       ]
     },
-    {
-      "slug": "/full-moon",
-      "path": "/full-moon",
-      "name": "Full moon",
-      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
-      "price": "5 000",
-      "year": "2021",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, ink",
-        "base": "Plywood"
-      },
-      "width": "34",
-      "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
-          "alt": "Tavlan Full moon framifrån"
-        },
-        {
-          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
-          "alt": "Närbild på tavlan Full moon"
-        },
-        {
-          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
-          "alt": "Tavlan Full moon utan ram"
-        }
-      ]
-    },
+    
     {
       "slug": "/for-evigt",
       "path": "/for-evigt",
@@ -1382,44 +1345,6 @@
       ]
     },
     {
-      "slug": "/release",
-      "path": "/release",
-      "name": "Release",
-      "description": "Släpp taget, gör dig fri. Du är värd mer och bättre. Bestäm dig och du kommer få en energi att klara vad som helst.",
-      "price": "2 500",
-      "year": "2020",
-      "status": "hide",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "60",
-      "height": "80",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/release/release_0.png",
-          "alt": "Tavlan 'Release' framifrån"
-        },
-        {
-          "src": "/static/paintings/release/release_1.jpg",
-          "alt": "Tavlan 'Release' framifrån"
-        },
-        {
-          "src": "/static/paintings/release/release_2.jpg",
-          "alt": "Tavlan 'Release' närbild"
-        },
-        {
-          "src": "/static/paintings/release/release_3.jpg",
-          "alt": "Tavlan 'Release' från sidan"
-        }
-      ]
-    },
-    {
       "slug": "/starksarbar",
       "path": "/starksarbar",
       "name": "Stark och sårbar",
@@ -1454,6 +1379,41 @@
         {
           "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
           "alt": "'Stark och sårbar' i miljö"
+        }
+      ]
+    },
+    {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
+      "price": "7 000",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": [
+        "plywood",
+        "akryl",
+        "typografi"
+      ],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "Tavlan New york från sidan"
         }
       ]
     },
