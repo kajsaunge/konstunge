@@ -7,17 +7,14 @@
       "description": "Hon är inte ensam. Har aldrig varit det. Och i världen som så kyligt omger henne står hon stadig, varm och trygg. Nu mot nya äventyr. Aldrig ensam.",
       "price": "6 000",
       "year": "2023",
-      "status": "new",
+      "status": "hide",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
       },
       "width": "43",
       "height": "70",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -54,6 +51,50 @@
         }
       ]
     },
+
+    {
+      "slug": "/hoppet",
+      "path": "/hoppet",
+      "name": "Hoppet",
+      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
+      "price": "6 000",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["plywood", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/hoppet/hoppet_00.jpg",
+          "alt": "Tavlan 'Hoppet' i galleriet"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091353-01.jpeg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063631.jpg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
+          "alt": "'Hoppet' närbild"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091342-01.jpeg",
+          "alt": "'Hoppet'"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091522-01.jpeg",
+          "alt": "'Hoppet'"
+        }
+      ]
+    },
     {
       "slug": "/unity",
       "path": "/unity",
@@ -69,10 +110,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -106,48 +144,6 @@
       ]
     },
     {
-      "slug": "/alltid-hopp",
-      "path": "/alltid-hopp",
-      "name": "Alltid hopp",
-      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
-      "price": "6 000",
-      "year": "2023",
-      "status": "new",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/alltid-hopp/alltid-hopp_00.jpg",
-          "alt": "Tavlan 'Alltid hopp' i galleriet"
-        },
-        {
-          "src": "/static/paintings/alltid-hopp/20231101_091353-01.jpeg",
-          "alt": "'Alltid hopp' i ateljen"
-        },
-        {
-          "src": "/static/paintings/alltid-hopp/20231101_091429-01-01.jpg",
-          "alt": "'Alltid hopp' närbild"
-        },
-        {
-          "src": "/static/paintings/alltid-hopp/20231101_091342-01.jpeg",
-          "alt": "'Alltid hopp'"
-        },
-        {
-          "src": "/static/paintings/alltid-hopp/20231101_091522-01.jpeg",
-          "alt": "'Alltid hopp'"
-        }
-      ]
-    },
-    {
       "slug": "/dear-deer",
       "path": "/dear-deer",
       "name": "Dear deer",
@@ -162,12 +158,7 @@
       },
       "width": "23.5",
       "height": "32",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female",
-        "animal"
-      ],
+      "tags": ["plywood", "akryl", "female", "animal"],
       "category": "original",
       "images": [
         {
@@ -210,10 +201,7 @@
       },
       "width": "50",
       "height": "70",
-      "tags": [
-        "canvas",
-        "mixed media"
-      ],
+      "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -257,12 +245,7 @@
       },
       "width": "34",
       "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female",
-        "animal"
-      ],
+      "tags": ["plywood", "akryl", "female", "animal"],
       "category": "original",
       "images": [
         {
@@ -293,10 +276,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
@@ -328,10 +308,7 @@
       },
       "width": "22",
       "height": "27",
-      "tags": [
-        "pannå",
-        "akryl"
-      ],
+      "tags": ["pannå", "akryl"],
       "category": "original",
       "images": [
         {
@@ -362,10 +339,7 @@
       },
       "width": "50",
       "height": "60",
-      "tags": [
-        "canvas",
-        "mixed media"
-      ],
+      "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -393,7 +367,8 @@
           "alt": "'The inner'"
         }
       ]
-    },{
+    },
+    {
       "slug": "/furilden",
       "path": "/furilden",
       "name": "Furilden",
@@ -408,11 +383,7 @@
       },
       "width": "40",
       "height": "50",
-      "tags": [
-        "canvas",
-        "akryl",
-        "gotland"
-      ],
+      "tags": ["canvas", "akryl", "gotland"],
       "category": "original",
       "images": [
         {
@@ -439,10 +410,7 @@
       },
       "width": "40",
       "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
+      "tags": ["canvas", "akryl"],
       "category": "original",
       "images": [
         {
@@ -455,7 +423,7 @@
         }
       ]
     },
-    
+
     {
       "slug": "/untouchable",
       "path": "/untouchable",
@@ -471,10 +439,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
+      "tags": ["plywood", "akryl"],
       "category": "original",
       "images": [
         {
@@ -505,10 +470,7 @@
       },
       "width": "30",
       "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
+      "tags": ["canvas", "akryl"],
       "category": "original",
       "images": [
         {
@@ -535,10 +497,7 @@
       },
       "width": "40",
       "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
+      "tags": ["canvas", "akryl"],
       "category": "original",
       "images": [
         {
@@ -562,10 +521,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -604,11 +560,7 @@
       },
       "width": "50",
       "height": "70",
-      "tags": [
-        "plywood",
-        "akryl",
-        "mixed media"
-      ],
+      "tags": ["plywood", "akryl", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -639,10 +591,7 @@
       },
       "width": "50",
       "height": "70",
-      "tags": [
-        "canvas",
-        "mixed media"
-      ],
+      "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -689,10 +638,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
@@ -728,12 +674,7 @@
       },
       "width": "50",
       "height": "50",
-      "tags": [
-        "canvas",
-        "akvarell",
-        "akryl",
-        "female"
-      ],
+      "tags": ["canvas", "akvarell", "akryl", "female"],
       "category": "original",
       "images": [
         {
@@ -761,11 +702,7 @@
       },
       "width": "30",
       "height": "40",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
+      "tags": ["canvas", "akryl", "female"],
       "category": "original",
       "images": [
         {
@@ -793,10 +730,7 @@
       },
       "width": "50",
       "height": "50",
-      "tags": [
-        "glas",
-        "akryl"
-      ],
+      "tags": ["glas", "akryl"],
       "category": "original",
       "images": [
         {
@@ -827,10 +761,7 @@
       },
       "width": "40",
       "height": "40",
-      "tags": [
-        "canvas",
-        "akryl"
-      ],
+      "tags": ["canvas", "akryl"],
       "category": "original",
       "images": [
         {
@@ -857,10 +788,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "akryl, mixed media"
-      ],
+      "tags": ["plywood", "akryl, mixed media"],
       "category": "original",
       "images": [
         {
@@ -899,10 +827,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -937,10 +862,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -975,10 +897,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -1013,10 +932,7 @@
       },
       "width": "80",
       "height": "120",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
+      "tags": ["plywood", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1052,11 +968,7 @@
       },
       "width": "34",
       "height": "34",
-      "tags": [
-        "plywood",
-        "akryl",
-        "female"
-      ],
+      "tags": ["plywood", "akryl", "female"],
       "category": "original",
       "images": [
         {
@@ -1088,11 +1000,7 @@
       },
       "width": "54",
       "height": "64",
-      "tags": [
-        "canvas",
-        "akryl",
-        "female"
-      ],
+      "tags": ["canvas", "akryl", "female"],
       "category": "original",
       "images": [
         {
@@ -1124,10 +1032,7 @@
       },
       "width": "30",
       "height": "40",
-      "tags": [
-        "glas",
-        "akryl"
-      ],
+      "tags": ["glas", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1158,10 +1063,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "mixed media"
-      ],
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -1182,7 +1084,7 @@
         }
       ]
     },
-    
+
     {
       "slug": "/for-evigt",
       "path": "/for-evigt",
@@ -1197,11 +1099,7 @@
       },
       "width": "100",
       "height": "120",
-      "tags": [
-        "plywood",
-        "akryl",
-        "typografi"
-      ],
+      "tags": ["plywood", "akryl", "typografi"],
       "category": "original",
       "images": [
         {
@@ -1236,10 +1134,7 @@
       },
       "width": "70",
       "height": "100",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
+      "tags": ["plywood", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1274,10 +1169,7 @@
       },
       "width": "50",
       "height": "70",
-      "tags": [
-        "plywood",
-        "akryl"
-      ],
+      "tags": ["plywood", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1320,10 +1212,7 @@
       },
       "width": "50",
       "height": "70",
-      "tags": [
-        "plexiglas",
-        "akryl"
-      ],
+      "tags": ["plexiglas", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1358,10 +1247,7 @@
       },
       "width": "70",
       "height": "50",
-      "tags": [
-        "mdf",
-        "mixed media"
-      ],
+      "tags": ["mdf", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -1396,11 +1282,7 @@
       },
       "width": "80",
       "height": "120",
-      "tags": [
-        "plywood",
-        "akryl",
-        "typografi"
-      ],
+      "tags": ["plywood", "akryl", "typografi"],
       "category": "original",
       "images": [
         {
@@ -1431,10 +1313,7 @@
       },
       "width": "40",
       "height": "50",
-      "tags": [
-        "canvas",
-        "mixed media"
-      ],
+      "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
