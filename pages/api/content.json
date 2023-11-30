@@ -4,10 +4,10 @@
       "slug": "/aldrig-ensam",
       "path": "/aldrig-ensam",
       "name": "Aldrig ensam",
-      "description": "Hon är inte ensam. Har aldrig varit det. Och i världen som så kyligt omger henne står hon stadig, varm och trygg. Nu mot nya äventyr. Aldrig ensam.",
+      "description": "Hon är inte ensam. Har aldrig varit det. I den kyliga världen som omger henne står hon stadig, varm och trygg. Tveklöst rör hon sig mot nya äventyr. Aldrig ensam.",
       "price": "6 000",
       "year": "2023",
-      "status": "hide",
+      "status": "new",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -48,50 +48,6 @@
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpeg",
           "alt": "'Aldrig ensam'"
-        }
-      ]
-    },
-
-    {
-      "slug": "/hoppet",
-      "path": "/hoppet",
-      "name": "Hoppet",
-      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
-      "price": "6 000",
-      "year": "2023",
-      "status": "new",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["plywood", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/hoppet/hoppet_00.jpg",
-          "alt": "Tavlan 'Hoppet' i galleriet"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091353-01.jpeg",
-          "alt": "'Hoppet' i ateljen"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231123_063631.jpg",
-          "alt": "'Hoppet' i ateljen"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
-          "alt": "'Hoppet' närbild"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091342-01.jpeg",
-          "alt": "'Hoppet'"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091522-01.jpeg",
-          "alt": "'Hoppet'"
         }
       ]
     },
@@ -143,6 +99,50 @@
         }
       ]
     },
+    {
+      "slug": "/hoppet",
+      "path": "/hoppet",
+      "name": "Hoppet",
+      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
+      "price": "6 000",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["plywood", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/hoppet/hoppet_00.jpg",
+          "alt": "Tavlan 'Hoppet' i galleriet"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091353-01.jpeg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063631.jpg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
+          "alt": "'Hoppet' närbild"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091342-01.jpeg",
+          "alt": "'Hoppet'"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091522-01.jpeg",
+          "alt": "'Hoppet'"
+        }
+      ]
+    },
+
     {
       "slug": "/dear-deer",
       "path": "/dear-deer",
