@@ -1,6 +1,37 @@
 {
   "pieces": [
     {
+      "slug": "/annanhorisont",
+      "path": "/annanhorisont",
+      "name": "Annan horisont",
+      "description": "Den röda blicken ljusnar, inifrån och ut. Åter väcks glädjen, lugnet och friheten. Det som alltid funnits där men tappats bort. Nu jävlar",
+      "price": "2 000",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "20",
+      "height": "30",
+      "tags": ["Canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/annanhorisont/annanhorisont.jpg",
+          "alt": "Tavlan 'Aldrig ensam' i galleriet"
+        },
+        {
+          "src": "/static/paintings/annanhorisont/20231102_103205.jpg",
+          "alt": "'Aldrig ensam' från vinkel"
+        },
+        {
+          "src": "/static/paintings/annanhorisont/20231102_103340.jpg",
+          "alt": "'Aldrig ensam' närbild"
+        }
+      ]
+    },
+    {
       "slug": "/aldrig-ensam",
       "path": "/aldrig-ensam",
       "name": "Aldrig ensam",
@@ -58,7 +89,7 @@
       "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga att expandera. Var dig själv fullt ut. Följ DIN väg.",
       "price": "8 000",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "material": {
         "medium": "Mixed media",
@@ -106,7 +137,7 @@
       "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
       "price": "6 000",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
