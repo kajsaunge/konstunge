@@ -1,6 +1,41 @@
 {
   "pieces": [
     {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "Men inte längre",
+      "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
+      "price": "7 000",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["Canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "Tavlan 'Men inte längre' i galleriet"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'Men inte längre' från vinkel"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'Men inte längre' närbild"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'Men inte längre' närbild"
+        }
+      ]
+    },
+    {
       "slug": "/annanhorisont",
       "path": "/annanhorisont",
       "name": "Annan horisont",
@@ -32,13 +67,49 @@
       ]
     },
     {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["plywood", "mixed media"],
+      "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_00.jpg",
+          "alt": "Tavlan 'Curiosity' i ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' utan ram"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
+        }
+      ]
+    },
+    {
       "slug": "/aldrig-ensam",
       "path": "/aldrig-ensam",
       "name": "Aldrig ensam",
       "description": "Hon är inte ensam. Har aldrig varit det. I den kyliga världen som omger henne står hon stadig, varm och trygg. Tveklöst rör hon sig mot nya äventyr. Aldrig ensam.",
       "price": "6 000",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -655,42 +726,7 @@
         }
       ]
     },
-    {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "8 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["plywood", "mixed media"],
-      "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/curiosity/curiosity_00.jpg",
-          "alt": "Tavlan 'Curiosity' i ram"
-        },
-        {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' utan ram"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_1.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_2.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
-        }
-      ]
-    },
+
     {
       "slug": "/give",
       "path": "/give",
@@ -1337,7 +1373,7 @@
       "description": "Det är något förunderligt över en förälders outsinliga omtanke och kärlek. Vilken gåva att få uppleva det. Tänk om vi förlängde den till andra runtomkring oss, kända och okända - hur skulle världen kunna se ut då?",
       "price": "2 000",
       "year": "2018",
-      "status": "reserved",
+      "status": "sold",
       "material": {
         "medium": "Akryl och bläck",
         "base": "Canvas"
