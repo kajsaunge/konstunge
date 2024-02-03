@@ -42,7 +42,7 @@
       "description": "Den röda blicken ljusnar, inifrån och ut. Åter väcks glädjen, lugnet och friheten. Det som alltid funnits där men tappats bort. Nu jävlar",
       "price": "2 000",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media",
         "base": "Canvas"
@@ -525,39 +525,6 @@
         }
       ]
     },
-
-    {
-      "slug": "/untouchable",
-      "path": "/untouchable",
-      "name": "Untouchable",
-      "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
-      "price": "8 000",
-      "year": "2021",
-      "frame": "ingår",
-      "status": "sold",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["plywood", "akryl"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/untouchable/untouchable.jpg",
-          "alt": "Tavlan 'Untouchable' framifrån"
-        },
-        {
-          "src": "/static/paintings/untouchable/untouchable-homesetting.png",
-          "alt": "Tavlan 'Untouchable' i hemmiljö"
-        },
-        {
-          "src": "/static/paintings/untouchable/untouchable-closeup.png",
-          "alt": "Tavlan 'Untouchable' i närbild"
-        }
-      ]
-    },
     {
       "slug": "/over-this",
       "path": "/over-this",
@@ -565,7 +532,7 @@
       "description": "Hon är klar, det räcker nu. Inget kan få henne att ändra sig.",
       "price": "4 000",
       "year": "2023",
-      "status": "available",
+      "status": "hide",
       "material": {
         "medium": "Akryl, ink",
         "base": "Canvas"
@@ -582,29 +549,6 @@
         {
           "src": "/static/paintings/over-this/over-this_01.jpg",
           "alt": "Tavlan Over this"
-        }
-      ]
-    },
-    {
-      "slug": "/blood-moon",
-      "path": "/blood-moon",
-      "name": "Blood moon",
-      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
-      "price": "4 500",
-      "year": "2022",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": ["canvas", "akryl"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
-          "alt": "Tavlan Blood moon framifrån"
         }
       ]
     },
@@ -649,13 +593,37 @@
       ]
     },
     {
+      "slug": "/blood-moon",
+      "path": "/blood-moon",
+      "name": "Blood moon",
+      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
+      "price": "4 500",
+      "year": "2022",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": ["canvas", "akryl"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
+          "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+
+    {
       "slug": "/audrey",
       "path": "/audrey",
       "name": "Audrey",
       "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
       "price": "3 000",
       "year": "2021",
-      "status": "available",
+      "status": "hide",
       "material": {
         "medium": "Mixed media",
         "base": "Canvas"
@@ -726,7 +694,38 @@
         }
       ]
     },
-
+    {
+      "slug": "/full-moon",
+      "path": "/full-moon",
+      "name": "Full moon",
+      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
+      "price": "5 000",
+      "year": "2021",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink",
+        "base": "Plywood"
+      },
+      "width": "34",
+      "height": "34",
+      "tags": ["plywood", "akryl", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
+          "alt": "Tavlan Full moon framifrån"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
+          "alt": "Närbild på tavlan Full moon"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
+          "alt": "Tavlan Full moon utan ram"
+        }
+      ]
+    },
     {
       "slug": "/give",
       "path": "/give",
@@ -783,6 +782,38 @@
       ]
     },
     {
+      "slug": "/untouchable",
+      "path": "/untouchable",
+      "name": "Untouchable",
+      "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
+      "price": "8 000",
+      "year": "2021",
+      "frame": "ingår",
+      "status": "sold",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["plywood", "akryl"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/untouchable/untouchable.jpg",
+          "alt": "Tavlan 'Untouchable' framifrån"
+        },
+        {
+          "src": "/static/paintings/untouchable/untouchable-homesetting.png",
+          "alt": "Tavlan 'Untouchable' i hemmiljö"
+        },
+        {
+          "src": "/static/paintings/untouchable/untouchable-closeup.png",
+          "alt": "Tavlan 'Untouchable' i närbild"
+        }
+      ]
+    },
+    {
       "slug": "/iam",
       "path": "/iam",
       "name": "I am",
@@ -821,7 +852,7 @@
       "description": "Andas. Låt det komma, känn hur det fyller upp hela dig. Var här och nu, njut.",
       "price": "2 500",
       "year": "2019",
-      "status": "available",
+      "status": "hide",
       "material": {
         "medium": "Akryl",
         "base": "Canvas"
@@ -1021,39 +1052,6 @@
       ]
     },
     {
-      "slug": "/full-moon",
-      "path": "/full-moon",
-      "name": "Full moon",
-      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
-      "price": "5 000",
-      "year": "2021",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, ink",
-        "base": "Plywood"
-      },
-      "width": "34",
-      "height": "34",
-      "tags": ["plywood", "akryl", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
-          "alt": "Tavlan Full moon framifrån"
-        },
-        {
-          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
-          "alt": "Närbild på tavlan Full moon"
-        },
-        {
-          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
-          "alt": "Tavlan Full moon utan ram"
-        }
-      ]
-    },
-
-    {
       "slug": "/garden-girl",
       "path": "/garden-girl",
       "name": "Garden girl",
@@ -1081,6 +1079,37 @@
         {
           "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
           "alt": "Tavlan Garden girl utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
+      "price": "7 000",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["plywood", "akryl", "typografi"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "Tavlan New york från sidan"
         }
       ]
     },
@@ -1116,42 +1145,6 @@
         }
       ]
     },
-    {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
-      "price": "6 000",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["plywood", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
-          "alt": "Tavlan 'Blue Hope' i ram"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' framifrån"
-        }
-      ]
-    },
-
     {
       "slug": "/for-evigt",
       "path": "/for-evigt",
@@ -1336,33 +1329,37 @@
       ]
     },
     {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "7 000",
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
+      "price": "6 000",
       "year": "2020",
       "status": "available",
       "material": {
-        "medium": "Akryl",
+        "medium": "Mixed media",
         "base": "Plywood"
       },
-      "width": "80",
-      "height": "120",
-      "tags": ["plywood", "akryl", "typografi"],
+      "width": "70",
+      "height": "100",
+      "tags": ["plywood", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "Tavlan New york framifrån"
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "Tavlan 'Blue Hope' i ram"
         },
         {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "Tavlan New york framifrån"
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' detaljbild"
         },
         {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "Tavlan New york från sidan"
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' framifrån"
         }
       ]
     },
