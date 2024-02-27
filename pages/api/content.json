@@ -1,13 +1,65 @@
 {
   "pieces": [
     {
+      "slug": "/frankie",
+      "path": "/frankie",
+      "name": "Frankie",
+      "description": "Att skapa sig själv. Att tillslut bestämma sig för att faktiskt se de där bra bitarna och typ ignorera de lite \"sämre\". Att släppa de som inte duger, de som tar, kanske utan att veta. Att va ok med det. Och sen senare långt mer än ok.",
+      "price": "6 500",
+      "year": "2024",
+      "status": "new",
+      "frame": "Verket har klargula kanter och en 2,5cm list på baksidan vilket skapar en distans från väggen och agerar upphängning.",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "60",
+      "height": "90",
+      "tags": ["plywood", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/frankie/frankie_0.jpg",
+          "alt": "Tavlan 'Frankie' i galleriet"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_1.jpg",
+          "alt": "'Frankie' full storlek"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_2.jpg",
+          "alt": "'Frankie' närbild"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_3.jpg",
+          "alt": "'Frankie' närbild"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_4.jpg",
+          "alt": "'Frankie' närbild"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_5.jpg",
+          "alt": "'Frankie' närbild"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_6.jpg",
+          "alt": "'Frankie' närbild"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_7.jpg",
+          "alt": "'Frankie' närbild"
+        }
+      ]
+    },
+    {
       "slug": "/men-inte-langre",
       "path": "/men-inte-langre",
       "name": "Men inte längre",
       "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
       "price": "7 000",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media",
         "base": "Canvas"
