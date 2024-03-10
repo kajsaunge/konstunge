@@ -1,22 +1,22 @@
-import Instagram from "@/icons/instagram";
-import Facebook from "../icons/facebook";
-import Kajsaunge from "@/icons/kajsaunge";
+import Instagram from '@/icons/instagram';
+import Facebook from '../icons/facebook';
+import Kajsaunge from '@/icons/kajsaunge';
 
-import styles from "./Footer.module.css";
+import styles from './Footer.module.css';
 
 const Footer = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.content}>
-        <h2 className={styles.copyright}>© Konstunge 2023</h2>
-        <nav aria-label="Extern länklista" role="navigation">
+        <h2 className={styles.copyright}>©kajsaunge 2024</h2>
+        <nav aria-label='Extern länklista' role='navigation'>
           <ul className={styles.footerNavList}>
             <li>
               <a
                 className={styles.footerNavLink}
-                href="https://www.instagram.com/konstunge"
-                target="_blank"
-                rel="noreferrer"
+                href='https://www.instagram.com/konst.kajsaunge'
+                target='_blank'
+                rel='noreferrer'
               >
                 <Instagram />
               </a>
@@ -24,9 +24,9 @@ const Footer = () => {
             <li>
               <a
                 className={styles.footerNavLink}
-                href="https://www.facebook.com/konstunge"
-                target="_blank"
-                rel="noreferrer"
+                href='https://www.facebook.com/konstunge'
+                target='_blank'
+                rel='noreferrer'
               >
                 <Facebook />
               </a>
@@ -34,9 +34,9 @@ const Footer = () => {
             <li>
               <a
                 className={styles.footerNavLink}
-                href="http://kajsaunge.se/"
-                target="_blank"
-                rel="noreferrer"
+                href='http://kajsaunge.se/'
+                target='_blank'
+                rel='noreferrer'
               >
                 <Kajsaunge />
               </a>

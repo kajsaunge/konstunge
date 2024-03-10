@@ -1,41 +1,41 @@
-import Head from "next/head";
-import Image from "next/image";
-import NextLink from "next/link";
-import { motion } from "framer-motion";
+import Head from 'next/head';
+import Image from 'next/image';
+import NextLink from 'next/link';
+import { motion } from 'framer-motion';
 
-import PageIntro from "@/pageIntro";
-import content from "./api/content.json";
-import Card from "@/Card";
+import PageIntro from '@/pageIntro';
+import content from './api/content.json';
+import Card from '@/Card';
 
-import styles from "../styles/Om.module.css";
+import styles from '../styles/Om.module.css';
 
-const profile = "/static/profile/kajsaunge.jpg";
+const profile = '/static/profile/kajsaunge.jpg';
 
 const Om = () => {
   const selectedPieces = [];
   content.pieces.map((item) => {
-    if (item.name === "The inner" || item.name === "Stark och sårbar") {
+    if (item.name === 'The inner' || item.name === 'Stark och sårbar') {
       selectedPieces.push(item);
     }
   });
   return (
     <>
       <Head>
-        <title>Om[konst] | Konstunge</title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Om[konst] | Kajsa Unge</title>
+        <link rel='icon' href='/favicon.ico' />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta
-          name="description"
-          content="Information om Kajsa Unge, svensk konstnär och designer i stockholm, sverige."
+          name='description'
+          content='Information om Kajsa Unge, svensk konstnär och designer i stockholm, sverige.'
         />
       </Head>
-      <main aria-label="Om Konstunge" role="main" className="main">
-        <PageIntro level={1} title="Om konstnären" description="Kajsa Unge" />
+      <main aria-label='Om Kajsa Unge' role='main' className='main'>
+        <PageIntro level={1} title='Om konstnären' description='Kajsa Unge' />
         <div className={styles.mainContent}>
           <div className={styles.imageBackground}>
             <Image
               src={profile}
-              alt="Portrait of the artist Kajsa Unge"
+              alt='Portrait of the artist Kajsa Unge'
               width={400}
               height={400}
               className={styles.mainContentImage}
@@ -75,10 +75,10 @@ const Om = () => {
             </p> */}
             <p className={styles.mainContentText}>
               Sidan växer i takt med skapandet där mer info och konst läggs till
-              allteftersom. Hör gärna av dig till{" "}
-              <a className="link" href="mailto:info@konstunge.se">
-                info@konstunge.se
-              </a>{" "}
+              allteftersom. Hör gärna av dig till{' '}
+              <a className='link' href='mailto:hej@kajsaunge.se'>
+                hej@kajsaunge.se
+              </a>{' '}
               med förfrågningar.
             </p>
           </div>
@@ -125,7 +125,7 @@ const Om = () => {
           </div>*/}
         </div>
         <div className={styles.gallery}>
-          <PageIntro title="Mina favoriter" description="Utvalda konstverk" />
+          <PageIntro title='Mina favoriter' description='Utvalda konstverk' />
           <ul className={styles.artPieces}>
             {selectedPieces.map((item, i) => (
               <li key={i} className={styles.artPiece}>
@@ -134,11 +134,11 @@ const Om = () => {
             ))}
           </ul>
           <nav
-            aria-label="Till galleriet"
-            role="navigation"
+            aria-label='Till galleriet'
+            role='navigation'
             className={styles.backNavWrapper}
           >
-            <NextLink href="/" as="/">
+            <NextLink href='/' as='/'>
               Se fler
             </NextLink>
           </nav>

@@ -1,16 +1,16 @@
-import { useState, useEffect } from "react";
-import Head from "next/head";
+import { useState, useEffect } from 'react';
+import Head from 'next/head';
 
-import PageIntro from "@/pageIntro";
-import Sorter from "@/sorter";
+import PageIntro from '@/pageIntro';
+import Sorter from '@/sorter';
 
-import content from "./api/content.json";
+import content from './api/content.json';
 
-import styles from "../styles/Hem.module.css";
-import Card from "@/Card";
+import styles from '../styles/Hem.module.css';
+import Card from '@/Card';
 
 const Home = () => {
-  const [sortValue, setSortValue] = useState("status");
+  const [sortValue, setSortValue] = useState('status');
 
   const mappedContent = content.pieces.map((el, i) => {
     const elWidth = parseInt(el.width);
@@ -18,12 +18,12 @@ const Home = () => {
 
     const sizeSort = elWidth < elHeight ? elWidth : elHeight;
     const statusSort =
-      el.status === "new" ||
-      el.status === "available" ||
-      el.status === "reserved";
+      el.status === 'new' ||
+      el.status === 'available' ||
+      el.status === 'reserved';
 
     const sortBy =
-      sortValue !== "" ? (sortValue === "status" ? statusSort : sizeSort) : "";
+      sortValue !== '' ? (sortValue === 'status' ? statusSort : sizeSort) : '';
 
     return { index: i, value: sortBy };
   });
@@ -41,10 +41,10 @@ const Home = () => {
   const sortedContent = mappedContent.map((el) => {
     return content.pieces[el.index];
   });
-  const useCorrectContent = sortValue === "" ? content.pieces : sortedContent;
+  const useCorrectContent = sortValue === '' ? content.pieces : sortedContent;
 
   const shouldBeShown = useCorrectContent.filter((el) =>
-    el.status !== "hide" ? el : ""
+    el.status !== 'hide' ? el : ''
   );
 
   useEffect(() => {
@@ -54,25 +54,25 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Konst[galleri] | Konstunge</title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Konst[galleri] | Kajsa Unge</title>
+        <link rel='icon' href='/favicon.ico' />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta
-          name="description"
-          content="Konstgalleri och butik med original av svenska konstnären Kajsa Unge. Unik abstrakt och reell stil i stora och små format."
+          name='description'
+          content='Konstgalleri och butik med original av svenska konstnären Kajsa Unge. Unik abstrakt och reell stil i stora och små format.'
         />
       </Head>
-      <main aria-label="Galleri Konstunge" role="main" className="main">
+      <main aria-label='Galleri Kajsa Unge' role='main' className='main'>
         <PageIntro
           level={1}
-          subtitle="Galleri"
-          title="Konstunge"
-          description="Konst för unika rum"
+          subtitle='Galleri'
+          title='Kajsa Unge'
+          description='Konst för unika rum'
         />
-        <div className="hide-on-mobile">
+        <div className='hide-on-mobile'>
           <Sorter
             getSortValue={setSortValue}
-            toggleBy={["status", "storlek"]}
+            toggleBy={['status', 'storlek']}
           />
         </div>
         <section className={styles.artPiecesWrapper}>

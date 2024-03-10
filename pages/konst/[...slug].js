@@ -15,13 +15,13 @@ const Product = ({ piece }) => {
     <>
       <Head>
         <title>
-          Konstverk: {piece.name}[{piece.width}x{piece.height} cm] | Konstunge
+          Konstverk: {piece.name}[{piece.width}x{piece.height} cm] | Kajsa Unge
         </title>
         <link rel='icon' href='/favicon.ico' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta
           name='description'
-          content='Produktsida för konstverk och tavlor av svenska konstnären Kajsa Unge, under namnet konstunge. Information och specifikationer om konsten och tavlorna samt beställning.'
+          content='Produktsida för konstverk och tavlor av svenska konstnären Kajsa Unge. Information och specifikationer om konsten och tavlorna samt beställning.'
         />
       </Head>
       <main aria-label={`Tavlan ${piece.name}`} role='main' className='main'>
@@ -89,8 +89,8 @@ const Product = ({ piece }) => {
             <h3 className={styles.artPieceFooterTitle}>Beställning</h3>
             <p className={styles.artPieceDetails}>
               För beställning fyller du i formuläret eller skickar ett mail till{' '}
-              <a className='link' href='mailto:info@konstunge.se'>
-                info@konstunge.se
+              <a className='link' href='mailto:hej@kajsaunge.se'>
+                hej@kajsaunge.se
               </a>
               . <br /> Skriv i meddelandet hur du vill få din tavle levererad.
               Många av konstverken går att leverara via bud eller post medan
