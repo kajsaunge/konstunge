@@ -76,8 +76,8 @@ const Om = () => {
             <p className={styles.mainContentText}>
               Sidan växer i takt med skapandet där mer info och konst läggs till
               allteftersom. Hör gärna av dig till{' '}
-              <a className='link' href='mailto:hej@kajsaunge.se'>
-                hej@kajsaunge.se
+              <a className='link' href='mailto:konst@kajsaunge.se'>
+                konst@kajsaunge.se
               </a>{' '}
               med förfrågningar.
             </p>

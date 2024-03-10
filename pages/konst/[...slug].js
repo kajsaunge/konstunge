@@ -89,8 +89,8 @@ const Product = ({ piece }) => {
             <h3 className={styles.artPieceFooterTitle}>Beställning</h3>
             <p className={styles.artPieceDetails}>
               För beställning fyller du i formuläret eller skickar ett mail till{' '}
-              <a className='link' href='mailto:hej@kajsaunge.se'>
-                hej@kajsaunge.se
+              <a className='link' href='mailto:konst@kajsaunge.se'>
+                konst@kajsaunge.se
               </a>
               . <br /> Skriv i meddelandet hur du vill få din tavle levererad.
               Många av konstverken går att leverara via bud eller post medan
