@@ -20,19 +20,19 @@
       "images": [
         {
           "src": "/static/paintings/q/q_0.jpg",
-          "alt": "Tavlan Q framifrån"
+          "alt": "Tavlan Q i galleriet"
         },
         {
           "src": "/static/paintings/q/q_1.jpg",
-          "alt": "Närbild på tavlan Q"
-        },
-        {
-          "src": "/static/paintings/q/q_2.jpg",
-          "alt": "Tavlan Q utan ram"
+          "alt": "Tavlan Q i ram"
         },
         {
           "src": "/static/paintings/q/q_3.jpg",
-          "alt": "Tavlan Q utan ram"
+          "alt": "Tavlan Q från sidan"
+        },
+        {
+          "src": "/static/paintings/q/q_2.jpg",
+          "alt": "Närbild på tavlan Q"
         }
       ]
     },
