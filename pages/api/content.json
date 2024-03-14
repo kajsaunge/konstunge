@@ -1,13 +1,49 @@
 {
   "pieces": [
     {
+      "slug": "/q",
+      "path": "/q",
+      "name": "Q",
+      "description": "Jaa, vad finns det att säga om detta verk? Vad tycker du? För mig symboliserar den det vackra i att inte veta, det fina i att vara frågandes och nyfiken. Att det stökiga kan vara förtjusande.",
+      "price": "3 000",
+      "year": "2020",
+      "status": "new",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "24",
+      "height": "33",
+      "tags": ["plywood", "akryl", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/q/q_0.jpg",
+          "alt": "Tavlan Q framifrån"
+        },
+        {
+          "src": "/static/paintings/q/q_1.jpg",
+          "alt": "Närbild på tavlan Q"
+        },
+        {
+          "src": "/static/paintings/q/q_2.jpg",
+          "alt": "Tavlan Q utan ram"
+        },
+        {
+          "src": "/static/paintings/q/q_3.jpg",
+          "alt": "Tavlan Q utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/frankie",
       "path": "/frankie",
       "name": "Frankie",
       "description": "Att skapa sig själv. Att tillslut bestämma sig för att faktiskt se de där bra bitarna och typ ignorera de lite \"sämre\". Att släppa de som inte duger, de som tar, kanske utan att veta. Att va ok med det. Och sen senare långt mer än ok.",
       "price": "6 500",
       "year": "2024",
-      "status": "new",
+      "status": "available",
       "frame": "Verket har klargula kanter och en 2,5cm list på baksidan vilket skapar en distans från väggen och agerar upphängning.",
       "material": {
         "medium": "Mixed media",
@@ -296,7 +332,6 @@
         }
       ]
     },
-
     {
       "slug": "/dear-deer",
       "path": "/dear-deer",
@@ -310,8 +345,8 @@
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "width": "23.5",
-      "height": "32",
+      "width": "24",
+      "height": "33",
       "tags": ["plywood", "akryl", "female", "animal"],
       "category": "original",
       "images": [
