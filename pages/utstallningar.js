@@ -115,7 +115,9 @@ const Utstallningar = () => {
             <p className={styles.mainContentText}>
               Tillsammans med fantastiskt duktiga{' '}
               <span className='link'>
-                <Link href='https://www.konst.se/mogford'>Raven Mogford</Link>
+                <Link passHref href='https://www.konst.se/mogford'>
+                  <a target='_blank'>Raven Mogford</a>
+                </Link>
               </span>{' '}
               skapar jag en härlig duoutställning i kvinnans tecken. Varmt
               välkommen att njuta och minga med oss!
