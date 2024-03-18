@@ -19,6 +19,18 @@ const Header = () => {
       <nav aria-label='Hemsidans sidor' role='navigation'>
         <ul className={styles.navList}>
           <li className={styles.navListItem}>
+            <NextLink href='/utstallningar'>
+              <a
+                href='/utstallningar'
+                className={`${styles.navListItemLink} ${
+                  activeLink === '/utstallningar' ? linkHightlight : ''
+                }`}
+              >
+                Utställningar
+              </a>
+            </NextLink>
+          </li>
+          <li className={styles.navListItem}>
             <NextLink href='/'>
               <a
                 href='/'

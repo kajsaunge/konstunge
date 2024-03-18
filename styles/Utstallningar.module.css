@@ -1,0 +1,127 @@
+/* mobile first */
+.mainContent {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 14px;
+  align-items: start;
+  margin-bottom: 40px;
+}
+.mainContentImage {
+  width: 90%;
+  height: auto;
+  object-fit: contain;
+  transform: scale(0.99);
+}
+
+.mainContentImage {
+  align-self: flex-start;
+}
+
+.imageBackground {
+  background-image: url('static/profile/logo.svg');
+  background-size: 20%;
+  object-fit: contain;
+  margin: 0;
+  padding: 0;
+  fill: transparent;
+  max-width: 396px;
+  max-height: 396px;
+}
+.mainContentText {
+  line-height: 1.6;
+}
+.mainContentTextExtraSpace {
+  margin-top: 20px;
+}
+.mainContentQuote {
+  color: black;
+  background-color: var(--interactive-color);
+  font-weight: bold;
+  font-size: 20px;
+  display: inline;
+  padding: 9px;
+  line-height: 2;
+}
+
+.horizontalLine {
+  border-top: 0 solid var(--interactive-color);
+}
+.mainContentAtelje {
+  display: grid;
+  grid-template-rows: 1fr;
+  align-items: start;
+}
+.ateljeImages {
+  display: flex;
+  flex-wrap: wrap;
+}
+.ateljeImageWrapper {
+  margin-right: 20px;
+}
+.mainContentTextBlock {
+  max-width: 600px;
+  margin-top: 6px;
+}
+.mainContentTextBlock h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.gallery {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 2px dashed var(--disabled-border);
+}
+.artPieces {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(172px, 372px));
+  justify-content: center;
+  grid-gap: 16px;
+  list-style-type: none;
+  padding-left: 0;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+@media screen and (min-width: 1100px) {
+  .mainContent {
+    grid-template-columns: 1fr 2fr;
+    margin-bottom: 20px;
+    grid-gap: 24px;
+  }
+  .mainContentTextBlock {
+    margin-top: 36px;
+  }
+  .imageBackground {
+    max-height: 381px;
+  }
+  .ateljeImages {
+    margin-top: 30px;
+    flex-wrap: nowrap;
+  }
+  .horizontalLine {
+    border-top: 2px solid var(--interactive-color);
+  }
+  .mainContentImage {
+    width: 100%;
+  }
+}
+
+.backNavWrapper {
+  margin-top: 36px;
+  text-align: center;
+  color: var(--pine);
+}
+
+.artPieceSubTitle {
+  margin-bottom: 8px;
+}
+.artPieceDetails {
+  margin: 2px 0;
+  font-size: 16px;
+}
+.hrLine {
+  border-top: 2px dashed var(--disabled-border);
+  margin: 30px 0;
+}
