@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import Head from 'next/head';
 
 import PageIntro from '@/pageIntro';
-import Sorter from '@/sorter';
+// import Sorter from '@/sorter';
 
 import content from './api/content.json';
 
@@ -69,12 +69,12 @@ const Home = () => {
           title='Kajsa Unge'
           description='Konst för unika rum'
         />
-        <div className='hide-on-mobile'>
+        {/* <div className='hide-on-mobile'>
           <Sorter
             getSortValue={setSortValue}
             toggleBy={['status', 'storlek']}
           />
-        </div>
+        </div> */}
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
             {content &&
