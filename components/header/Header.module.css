@@ -41,7 +41,7 @@
   border-bottom: 2px solid var(--interactive-color--active);
 }
 .navListItemLink {
-  padding: 8px 12px;
+  padding: 8px 4px;
   font-size: 14px;
 }
 .navListItemLink.linkHightlight {
@@ -55,6 +55,7 @@
     padding: 4px 12px;
   }
   .navListItemLink {
+    padding: 8px 12px;
     font-size: 16px;
   }
 }
