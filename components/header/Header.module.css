@@ -15,7 +15,7 @@
 }
 .homeLink {
   cursor: default;
-  transition: fill .3s;
+  transition: fill 0.3s;
 }
 .logo {
   width: 60px;
@@ -33,7 +33,7 @@
   padding: 4px;
   text-transform: uppercase;
   border-bottom: 2px solid transparent;
-  transition: border .3s;
+  transition: border 0.3s;
 }
 .navListItem:hover,
 .navListItem:focus,
@@ -42,6 +42,7 @@
 }
 .navListItemLink {
   padding: 8px 12px;
+  font-size: 14px;
 }
 .navListItemLink.linkHightlight {
   border-bottom: 2px solid var(--interactive-color--active);
@@ -52,5 +53,8 @@
 @media screen and (min-width: 510px) {
   .navListItem {
     padding: 4px 12px;
+  }
+  .navListItemLink {
+    font-size: 16px;
   }
 }
