@@ -1,14 +1,14 @@
 :root {
-    --page-bg-color: #f1f1f1;
-    --text-color: rgb(52, 52, 52);
-    --nav-link-color: rgb(91, 91, 91);
-    --nav-link-color--active: rgb(78, 78, 78);
-    --link-color: steelblue;
-    --link-color--active: rgb(53, 101, 139);
-    --interactive-color: #ffd60a;
-    --interactive-color--active: #fdc500;
-    --warning-color: rgb(255, 124, 76);
-    --disabled: #e2e2e2;
-    --disabled-border: rgb(164, 164, 164);
-    --pine: #18ad93;
+  --page-bg-color: #f1f1f1;
+  --text-color: rgb(52, 52, 52);
+  --nav-link-color: rgb(91, 91, 91);
+  --nav-link-color--active: rgb(78, 78, 78);
+  --link-color: #10957f;
+  --link-color--active: #18ad93;
+  --interactive-color: #ffd60a;
+  --interactive-color--active: #fdc500;
+  --warning-color: rgb(255, 124, 76);
+  --disabled: #e2e2e2;
+  --disabled-border: rgb(164, 164, 164);
+  --pine: #18ad93;
 }
