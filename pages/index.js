@@ -8,6 +8,9 @@ import content from './api/content.json';
 
 import styles from '../styles/Hem.module.css';
 import Card from '@/Card';
+import Link from 'next/link';
+
+const galleri86 = '/static/news/insta-post.png';
 
 const Home = () => {
   const [sortValue, setSortValue] = useState('status');
@@ -86,6 +89,25 @@ const Home = () => {
                 );
               })}
           </ul>
+        </section>
+        <section className={styles.exhibitions}>
+          <div className={styles.hrLine}></div>
+          <PageIntro
+            level={1}
+            title='Utställningar'
+            description='Pågång just nu'
+          />
+          <Link href='/utstallningar'>
+            <a className={styles.exhibitionsLink}>
+              <img
+                width={372}
+                height={520}
+                src={galleri86}
+                alt={galleri86}
+                className={styles.exhibitionsImage}
+              />
+            </a>
+          </Link>
         </section>
       </main>
     </>

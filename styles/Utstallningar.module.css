@@ -11,9 +11,6 @@
   height: auto;
   object-fit: contain;
   transform: scale(0.99);
-}
-
-.mainContentImage {
   align-self: flex-start;
 }
 
