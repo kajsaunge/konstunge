@@ -120,7 +120,7 @@ const Utstallningar = () => {
                 </Link>
               </span>{' '}
               skapar jag en härlig duoutställning i kvinnans tecken. Varmt
-              välkommen att njuta och minga med oss!
+              välkommen att njuta och mingla med oss!
             </p>
           </div>
         </div>
