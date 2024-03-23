@@ -1,6 +1,49 @@
 {
   "pieces": [
     {
+      "slug": "/spool-of-thread",
+      "path": "/spool-of-thread",
+      "name": "Spool of thread",
+      "description": "Livet är som en lång tråd. Ibland brister den och vi skarvar med en annan, kanske i en annan färg, tjocklek och kvalité. Vi virar och virar och med åren blir vi rikare och rikare och ingen är den andra lik. Eller är det tvärtom? Är det vi som är den långa tråden och för varje år gör vi oss av med onödiga delar, spar de gillar. Kanske, kanske inte eller både och.",
+      "price": "5 500",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["canvas", "akryl", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_0.jpg",
+          "alt": "Tavlan Spool of thread i galleriet"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_1.jpg",
+          "alt": "Närbild på tavlan Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_2.jpg",
+          "alt": "Närbild på tavlan Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_3.jpg",
+          "alt": "Närbild på tavlan Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_5.jpg",
+          "alt": "Tavlan Spool of thread utan ram"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_0-black.jpg",
+          "alt": "Tavlan Spool of thread i svart ram"
+        }
+      ]
+    },
+    {
       "slug": "/q",
       "path": "/q",
       "name": "Q",
