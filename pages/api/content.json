@@ -48,7 +48,7 @@
       "path": "/q",
       "name": "Q",
       "description": "Jaa, vad finns det att säga om detta verk? Vad tycker du? För mig symboliserar den det vackra i att inte veta, det fina i att vara frågandes och nyfiken. Att det stökiga kan vara förtjusande.",
-      "price": "3 000",
+      "price": "3 400",
       "year": "2020",
       "status": "new",
       "frame": "ingår",
@@ -171,9 +171,10 @@
       "path": "/annanhorisont",
       "name": "Annan horisont",
       "description": "Den röda blicken ljusnar, inifrån och ut. Åter väcks glädjen, lugnet och friheten. Det som alltid funnits där men tappats bort. Nu jävlar",
-      "price": "2 000",
+      "price": "2 400",
       "year": "2023",
       "status": "available",
+      "frame": "Mörkbrun träram i klassisk stil",
       "material": {
         "medium": "Mixed media",
         "base": "Canvas"
@@ -340,6 +341,7 @@
       "price": "6 000",
       "year": "2023",
       "status": "available",
+      "frame": "Mörkbrun träram i klassisk stil",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -380,7 +382,7 @@
       "path": "/dear-deer",
       "name": "Dear deer",
       "description": "En hyllning till det vilda och vackra. En ödmjuk ursäkt för otryggheten. Ett bevis på den blinda medvetenheten. Även från mig.",
-      "price": "3 000",
+      "price": "3 400",
       "year": "2020",
       "status": "available",
       "frame": "ingår",
@@ -562,7 +564,7 @@
       "path": "/the-inner",
       "name": "The inner",
       "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
-      "price": "5 000",
+      "price": "5 400",
       "year": "2023",
       "status": "available",
       "material": {
@@ -1248,7 +1250,7 @@
       "path": "/leaving",
       "name": "Leaving",
       "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
-      "price": "4 000",
+      "price": "4 400",
       "year": "2020",
       "status": "available",
       "frame": "ingår",
