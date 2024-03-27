@@ -1,11 +1,55 @@
 {
   "pieces": [
     {
+      "slug": "/no-promises",
+      "path": "/no-promises",
+      "name": "No promises",
+      "description": "Allt är föränderligt. Man kan ha en plan och en tanke, men ofta blir det lite annorlunda, eller helt. Att vara öppen och mottaglig för det som kommer längs vägen behöver inte betyda att man ska svälja allt med hull och hår (blä) men det kan leda till fantastiska saker. Vem vet, kanske och plötsligt växer en oväntad knopp upp och skjuter iväg. Vart ska den?",
+      "price": "4 900",
+      "year": "2024",
+      "frame": "ingår",
+      "status": "new",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "38",
+      "height": "38",
+      "tags": ["plywood", "akryl", "floral"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/no-promises/no-promises_0.jpg",
+          "alt": "Tavlan No promises i galleriet"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_2.jpg",
+          "alt": "Närbild på tavlan No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_3.jpg",
+          "alt": "Närbild på tavlan No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_4.jpg",
+          "alt": "Närbild på tavlan No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_5.jpg",
+          "alt": "Närbild på tavlan No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_1.jpg",
+          "alt": "Tavlan No promises i sin helhet"
+        }
+      ]
+    },
+    {
       "slug": "/spool-of-thread",
       "path": "/spool-of-thread",
       "name": "Spool of thread",
       "description": "Livet är som en lång tråd. Ibland brister den och vi skarvar med en annan, kanske i en annan färg, tjocklek och kvalité. Vi virar och virar och med åren blir vi rikare och rikare och ingen är den andra lik. Eller är det tvärtom? Är det vi som är den långa tråden och för varje år gör vi oss av med onödiga delar, spar de gillar. Kanske, kanske inte eller både och.",
-      "price": "5 500",
+      "price": "5 900",
       "year": "2024",
       "status": "new",
       "material": {
@@ -50,7 +94,7 @@
       "description": "Jaa, vad finns det att säga om detta verk? Vad tycker du? För mig symboliserar den det vackra i att inte veta, det fina i att vara frågandes och nyfiken. Att det stökiga kan vara förtjusande.",
       "price": "3 400",
       "year": "2020",
-      "status": "new",
+      "status": "available",
       "frame": "ingår",
       "material": {
         "medium": "Akryl",
@@ -76,6 +120,41 @@
         {
           "src": "/static/paintings/q/q_2.jpg",
           "alt": "Närbild på tavlan Q"
+        }
+      ]
+    },
+    {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "Men inte längre",
+      "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
+      "price": "7 200",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["Canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "Tavlan 'Men inte längre' i galleriet"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'Men inte längre' från vinkel"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'Men inte längre' närbild"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'Men inte längre' närbild"
         }
       ]
     },
@@ -132,78 +211,11 @@
       ]
     },
     {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "Men inte längre",
-      "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
-      "price": "7 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["Canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "Tavlan 'Men inte längre' i galleriet"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'Men inte längre' från vinkel"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'Men inte längre' närbild"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'Men inte längre' närbild"
-        }
-      ]
-    },
-    {
-      "slug": "/annanhorisont",
-      "path": "/annanhorisont",
-      "name": "Annan horisont",
-      "description": "Den röda blicken ljusnar, inifrån och ut. Åter väcks glädjen, lugnet och friheten. Det som alltid funnits där men tappats bort. Nu jävlar",
-      "price": "2 400",
-      "year": "2023",
-      "status": "available",
-      "frame": "Mörkbrun träram i klassisk stil",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
-      },
-      "width": "20",
-      "height": "30",
-      "tags": ["Canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/annanhorisont/annanhorisont.jpg",
-          "alt": "Tavlan 'Aldrig ensam' i galleriet"
-        },
-        {
-          "src": "/static/paintings/annanhorisont/20231102_103205.jpg",
-          "alt": "'Aldrig ensam' från vinkel"
-        },
-        {
-          "src": "/static/paintings/annanhorisont/20231102_103340.jpg",
-          "alt": "'Aldrig ensam' närbild"
-        }
-      ]
-    },
-    {
       "slug": "/curiosity",
       "path": "/curiosity",
       "name": "Curiosity",
       "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "8 000",
+      "price": "8 900",
       "year": "2023",
       "status": "available",
       "material": {
@@ -239,9 +251,10 @@
       "path": "/aldrig-ensam",
       "name": "Aldrig ensam",
       "description": "Hon är inte ensam. Har aldrig varit det. I den kyliga världen som omger henne står hon stadig, varm och trygg. Tveklöst rör hon sig mot nya äventyr. Aldrig ensam.",
-      "price": "6 000",
+      "price": "6 900",
       "year": "2023",
       "status": "available",
+      "frame": "ingår",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -290,7 +303,7 @@
       "path": "/unity",
       "name": "Unity",
       "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga att expandera. Var dig själv fullt ut. Följ DIN väg.",
-      "price": "8 000",
+      "price": "8 900",
       "year": "2023",
       "status": "available",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
@@ -338,10 +351,10 @@
       "path": "/hoppet",
       "name": "Hoppet",
       "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
-      "price": "6 000",
+      "price": "6 900",
       "year": "2023",
       "status": "available",
-      "frame": "Mörkbrun träram i klassisk stil",
+      "frame": "ingår",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -501,7 +514,7 @@
       "path": "/rearview",
       "name": "Rearview",
       "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "8 000",
+      "price": "8 900",
       "year": "2023",
       "status": "available",
       "material": {
@@ -564,7 +577,7 @@
       "path": "/the-inner",
       "name": "The inner",
       "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
-      "price": "5 400",
+      "price": "6 000",
       "year": "2023",
       "status": "available",
       "material": {
@@ -685,11 +698,34 @@
       ]
     },
     {
+      "slug": "/blood-moon",
+      "path": "/blood-moon",
+      "name": "Blood moon",
+      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
+      "price": "4 500",
+      "year": "2022",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": ["canvas", "akryl"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
+          "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+    {
       "slug": "/security",
       "path": "/security",
       "name": "Security",
       "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
-      "price": "8 000",
+      "price": "8 900",
       "year": "2021",
       "status": "available",
       "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
@@ -725,30 +761,6 @@
       ]
     },
     {
-      "slug": "/blood-moon",
-      "path": "/blood-moon",
-      "name": "Blood moon",
-      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
-      "price": "4 500",
-      "year": "2022",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "40",
-      "tags": ["canvas", "akryl"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
-          "alt": "Tavlan Blood moon framifrån"
-        }
-      ]
-    },
-
-    {
       "slug": "/audrey",
       "path": "/audrey",
       "name": "Audrey",
@@ -776,6 +788,37 @@
         {
           "src": "/static/paintings/audrey/audrey_2.jpg",
           "alt": "Tavlan 'Audrey' i närbild"
+        }
+      ]
+    },
+    {
+      "slug": "/annanhorisont",
+      "path": "/annanhorisont",
+      "name": "Annan horisont",
+      "description": "Den röda blicken ljusnar, inifrån och ut. Åter väcks glädjen, lugnet och friheten. Det som alltid funnits där men tappats bort. Nu jävlar",
+      "price": "3 400",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "20",
+      "height": "30",
+      "tags": ["Canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/annanhorisont/annanhorisont.jpg",
+          "alt": "Tavlan 'Annan horisont' i galleriet"
+        },
+        {
+          "src": "/static/paintings/annanhorisont/20231102_103205.jpg",
+          "alt": "'Annan horisont' från vinkel"
+        },
+        {
+          "src": "/static/paintings/annanhorisont/20231102_103340.jpg",
+          "alt": "'Annan horisont' närbild"
         }
       ]
     },
@@ -839,8 +882,8 @@
         "medium": "Akryl, ink",
         "base": "Plywood"
       },
-      "width": "34",
-      "height": "34",
+      "width": "38",
+      "height": "38",
       "tags": ["plywood", "akryl", "female"],
       "category": "original",
       "images": [
@@ -1188,7 +1231,7 @@
       "path": "/garden-girl",
       "name": "Garden girl",
       "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "2 500",
+      "price": "4 500",
       "year": "2019",
       "status": "available",
       "material": {
@@ -1219,7 +1262,7 @@
       "path": "/newyork",
       "name": "New york",
       "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "7 000",
+      "price": "7 500",
       "year": "2020",
       "status": "available",
       "material": {
@@ -1430,7 +1473,7 @@
       "path": "/starksarbar",
       "name": "Stark och sårbar",
       "description": "\"Jag är det vackra i naturen, jag är det söta i ett bär. Jag är det mystiska i natten. Jag är den utsikt du har kär. Jag är den lena ljumma brisen. Jag är det sköna i en kväll, jag är den ljuvaste av morgon. Och den vildaste av eld.\"\n- Moonica Mac",
-      "price": "4 500",
+      "price": "6 500",
       "year": "2023",
       "status": "available",
       "material": {
@@ -1465,7 +1508,7 @@
       "path": "/blue-hope",
       "name": "Blue Hope",
       "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
-      "price": "6 000",
+      "price": "6 900",
       "year": "2020",
       "status": "available",
       "material": {
