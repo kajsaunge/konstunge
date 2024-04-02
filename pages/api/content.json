@@ -51,7 +51,7 @@
       "description": "Livet är som en lång tråd. Ibland brister den och vi skarvar med en annan, kanske i en annan färg, tjocklek och kvalité. Vi virar och virar och med åren blir vi rikare och rikare och ingen är den andra lik. Eller är det tvärtom? Är det vi som är den långa tråden och för varje år gör vi oss av med onödiga delar, spar de gillar. Kanske, kanske inte eller både och.",
       "price": "5 900",
       "year": "2024",
-      "status": "new",
+      "status": "sold",
       "material": {
         "medium": "Akryl",
         "base": "Canvas"
@@ -84,77 +84,6 @@
         {
           "src": "/static/paintings/spool-of-thread/spool-of-thread_0-black.jpg",
           "alt": "Tavlan Spool of thread i svart ram"
-        }
-      ]
-    },
-    {
-      "slug": "/q",
-      "path": "/q",
-      "name": "Q",
-      "description": "Jaa, vad finns det att säga om detta verk? Vad tycker du? För mig symboliserar den det vackra i att inte veta, det fina i att vara frågandes och nyfiken. Att det stökiga kan vara förtjusande.",
-      "price": "3 400",
-      "year": "2020",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl",
-        "base": "Plywood"
-      },
-      "width": "24",
-      "height": "33",
-      "tags": ["plywood", "akryl", "female", "animal"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/q/q_0.jpg",
-          "alt": "Tavlan Q i galleriet"
-        },
-        {
-          "src": "/static/paintings/q/q_1.jpg",
-          "alt": "Tavlan Q i ram"
-        },
-        {
-          "src": "/static/paintings/q/q_3.jpg",
-          "alt": "Tavlan Q från sidan"
-        },
-        {
-          "src": "/static/paintings/q/q_2.jpg",
-          "alt": "Närbild på tavlan Q"
-        }
-      ]
-    },
-    {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "Men inte längre",
-      "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
-      "price": "7 200",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["Canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "Tavlan 'Men inte längre' i galleriet"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'Men inte längre' från vinkel"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'Men inte längre' närbild"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'Men inte längre' närbild"
         }
       ]
     },
@@ -211,38 +140,38 @@
       ]
     },
     {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "8 900",
-      "year": "2023",
+      "slug": "/q",
+      "path": "/q",
+      "name": "Q",
+      "description": "Jaa, vad finns det att säga om detta verk? Vad tycker du? För mig symboliserar den det vackra i att inte veta, det fina i att vara frågandes och nyfiken. Att det stökiga kan vara förtjusande.",
+      "price": "3 400",
+      "year": "2020",
       "status": "available",
+      "frame": "ingår",
       "material": {
-        "medium": "Mixed media",
+        "medium": "Akryl",
         "base": "Plywood"
       },
-      "width": "70",
-      "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "width": "24",
+      "height": "33",
+      "tags": ["plywood", "akryl", "female", "animal"],
       "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/curiosity/curiosity_00.jpg",
-          "alt": "Tavlan 'Curiosity' i ram"
+          "src": "/static/paintings/q/q_0.jpg",
+          "alt": "Tavlan Q i galleriet"
         },
         {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' utan ram"
+          "src": "/static/paintings/q/q_1.jpg",
+          "alt": "Tavlan Q i ram"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity_1.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
+          "src": "/static/paintings/q/q_3.jpg",
+          "alt": "Tavlan Q från sidan"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity_2.jpg",
-          "alt": "Tavlan 'Curiosity' i miljö"
+          "src": "/static/paintings/q/q_2.jpg",
+          "alt": "Närbild på tavlan Q"
         }
       ]
     },
@@ -299,14 +228,13 @@
       ]
     },
     {
-      "slug": "/unity",
-      "path": "/unity",
-      "name": "Unity",
-      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga att expandera. Var dig själv fullt ut. Följ DIN väg.",
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
       "price": "8 900",
       "year": "2023",
       "status": "available",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "material": {
         "medium": "Mixed media",
         "base": "Plywood"
@@ -315,34 +243,23 @@
       "height": "100",
       "tags": ["plywood", "mixed media"],
       "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/unity/unity_0.jpg",
-          "alt": "Tavlan 'Unity' i ram"
+          "src": "/static/paintings/curiosity/curiosity_00.jpg",
+          "alt": "Tavlan 'Curiosity' i ram"
         },
         {
-          "src": "/static/paintings/unity/unity_1.jpeg",
-          "alt": "'Unity' från sidan"
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' utan ram"
         },
         {
-          "src": "/static/paintings/unity/unity_2.jpeg",
-          "alt": "'Unity' detaljbild"
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
         },
         {
-          "src": "/static/paintings/unity/unity_3.jpeg",
-          "alt": "'Unity' detaljbild"
-        },
-        {
-          "src": "/static/paintings/unity/unity_4.jpeg",
-          "alt": "'Unity' detaljbild"
-        },
-        {
-          "src": "/static/paintings/unity/unity_5.jpeg",
-          "alt": "'Unity' detaljbild"
-        },
-        {
-          "src": "/static/paintings/unity/unity_6.jpeg",
-          "alt": "'Unity' detaljbild"
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "Tavlan 'Curiosity' i miljö"
         }
       ]
     },
@@ -391,46 +308,34 @@
       ]
     },
     {
-      "slug": "/dear-deer",
-      "path": "/dear-deer",
-      "name": "Dear deer",
-      "description": "En hyllning till det vilda och vackra. En ödmjuk ursäkt för otryggheten. Ett bevis på den blinda medvetenheten. Även från mig.",
-      "price": "3 400",
-      "year": "2020",
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
+      "price": "8 900",
+      "year": "2023",
       "status": "available",
-      "frame": "ingår",
       "material": {
-        "medium": "Akryl",
+        "medium": "Mixed media",
         "base": "Plywood"
       },
-      "width": "24",
-      "height": "33",
-      "tags": ["plywood", "akryl", "female", "animal"],
+      "width": "70",
+      "height": "100",
+      "tags": ["plywood", "mixed media"],
       "category": "original",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
       "images": [
         {
-          "src": "/static/paintings/dear-deer/dear-deer_0.jpg",
-          "alt": "Tavlan Dear deer framifrån"
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
+          "alt": "Tavlan 'Rearview' i ram"
         },
         {
-          "src": "/static/paintings/dear-deer/dear-deer_1.jpg",
-          "alt": "Närbild på tavlan Dear deer"
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "Tavlan 'Rearview' i miljö"
         },
         {
-          "src": "/static/paintings/dear-deer/dear-deer_2.jpeg",
-          "alt": "Tavlan Dear deer utan ram"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_3.jpg",
-          "alt": "Tavlan Dear deer utan ram"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_4.jpeg",
-          "alt": "Tavlan Dear deer utan ram"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
-          "alt": "Tavlan Dear deer utan ram"
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' utan ram"
         }
       ]
     },
@@ -478,6 +383,41 @@
       ]
     },
     {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "Men inte längre",
+      "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
+      "price": "7 200",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["Canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "Tavlan 'Men inte längre' i galleriet"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'Men inte längre' från vinkel"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'Men inte längre' närbild"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'Men inte längre' närbild"
+        }
+      ]
+    },
+    {
       "slug": "/deer-her",
       "path": "/deer-her",
       "name": "Deer her",
@@ -509,38 +449,7 @@
         }
       ]
     },
-    {
-      "slug": "/rearview",
-      "path": "/rearview",
-      "name": "Rearview",
-      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "8 900",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["plywood", "mixed media"],
-      "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
-          "alt": "Tavlan 'Rearview' i ram"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "Tavlan 'Rearview' i miljö"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' utan ram"
-        }
-      ]
-    },
+
     {
       "slug": "/elden",
       "path": "/elden",
@@ -616,34 +525,6 @@
       ]
     },
     {
-      "slug": "/furilden",
-      "path": "/furilden",
-      "name": "Furilden",
-      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår, eller i alla fall min fantasi förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
-      "price": "6 500",
-      "year": "2023",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
-      },
-      "width": "40",
-      "height": "50",
-      "tags": ["canvas", "akryl", "gotland"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/furilden/furilden_00.jpg",
-          "alt": "Tavlan Furilden framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/furilden/furilden_01.jpg",
-          "alt": "Tavlan Furilden utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/dare-me",
       "path": "/dare-me",
       "name": "Dare me",
@@ -667,6 +548,54 @@
         {
           "src": "/static/paintings/dare-me/dare-me_01.jpg",
           "alt": "Tavlan Dare me"
+        }
+      ]
+    },
+    {
+      "slug": "/unity",
+      "path": "/unity",
+      "name": "Unity",
+      "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga att expandera. Var dig själv fullt ut. Följ DIN väg.",
+      "price": "8 900",
+      "year": "2023",
+      "status": "available",
+      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Plywood"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["plywood", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/unity/unity_0.jpg",
+          "alt": "Tavlan 'Unity' i ram"
+        },
+        {
+          "src": "/static/paintings/unity/unity_1.jpeg",
+          "alt": "'Unity' från sidan"
+        },
+        {
+          "src": "/static/paintings/unity/unity_2.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_3.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_4.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_5.jpeg",
+          "alt": "'Unity' detaljbild"
+        },
+        {
+          "src": "/static/paintings/unity/unity_6.jpeg",
+          "alt": "'Unity' detaljbild"
         }
       ]
     },
@@ -698,6 +627,66 @@
       ]
     },
     {
+      "slug": "/furilden",
+      "path": "/furilden",
+      "name": "Furilden",
+      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår, eller i alla fall min fantasi förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
+      "price": "6 500",
+      "year": "2023",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "Canvas"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": ["canvas", "akryl", "gotland"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/furilden/furilden_00.jpg",
+          "alt": "Tavlan Furilden framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/furilden/furilden_01.jpg",
+          "alt": "Tavlan Furilden utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/full-moon",
+      "path": "/full-moon",
+      "name": "Full moon",
+      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
+      "price": "5 000",
+      "year": "2021",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, ink",
+        "base": "Plywood"
+      },
+      "width": "38",
+      "height": "38",
+      "tags": ["plywood", "akryl", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
+          "alt": "Tavlan Full moon framifrån"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
+          "alt": "Närbild på tavlan Full moon"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
+          "alt": "Tavlan Full moon utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/blood-moon",
       "path": "/blood-moon",
       "name": "Blood moon",
@@ -717,6 +706,37 @@
         {
           "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
           "alt": "Tavlan Blood moon framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
+      "price": "3 000",
+      "year": "2021",
+      "status": "hide",
+      "material": {
+        "medium": "Mixed media",
+        "base": "Canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["plywood", "akryl", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_0.jpg",
+          "alt": "Tavlan 'Audrey' framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_1.jpeg",
+          "alt": "Tavlan 'Audrey' utan ram framifrån"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_2.jpg",
+          "alt": "Tavlan 'Audrey' i närbild"
         }
       ]
     },
@@ -757,37 +777,6 @@
         {
           "src": "/static/paintings/security/security_5.jpg",
           "alt": "Tavlan 'Security' i miljö"
-        }
-      ]
-    },
-    {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
-      "price": "3 000",
-      "year": "2021",
-      "status": "hide",
-      "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["plywood", "akryl", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/audrey/audrey_0.jpg",
-          "alt": "Tavlan 'Audrey' framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_1.jpeg",
-          "alt": "Tavlan 'Audrey' utan ram framifrån"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_2.jpg",
-          "alt": "Tavlan 'Audrey' i närbild"
         }
       ]
     },
@@ -869,38 +858,7 @@
         }
       ]
     },
-    {
-      "slug": "/full-moon",
-      "path": "/full-moon",
-      "name": "Full moon",
-      "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
-      "price": "5 000",
-      "year": "2021",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, ink",
-        "base": "Plywood"
-      },
-      "width": "38",
-      "height": "38",
-      "tags": ["plywood", "akryl", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
-          "alt": "Tavlan Full moon framifrån"
-        },
-        {
-          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
-          "alt": "Närbild på tavlan Full moon"
-        },
-        {
-          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
-          "alt": "Tavlan Full moon utan ram"
-        }
-      ]
-    },
+
     {
       "slug": "/give",
       "path": "/give",
@@ -1227,6 +1185,37 @@
       ]
     },
     {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
+      "price": "7 500",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "Plywood"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["plywood", "akryl", "typografi"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "Tavlan New york från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/garden-girl",
       "path": "/garden-girl",
       "name": "Garden girl",
@@ -1258,33 +1247,46 @@
       ]
     },
     {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "7 500",
+      "slug": "/dear-deer",
+      "path": "/dear-deer",
+      "name": "Dear deer",
+      "description": "En hyllning till det vilda och vackra. En ödmjuk ursäkt för otryggheten. Ett bevis på den blinda medvetenheten. Även från mig.",
+      "price": "3 400",
       "year": "2020",
       "status": "available",
+      "frame": "ingår",
       "material": {
         "medium": "Akryl",
         "base": "Plywood"
       },
-      "width": "80",
-      "height": "120",
-      "tags": ["plywood", "akryl", "typografi"],
+      "width": "24",
+      "height": "33",
+      "tags": ["plywood", "akryl", "female", "animal"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "Tavlan New york framifrån"
+          "src": "/static/paintings/dear-deer/dear-deer_0.jpg",
+          "alt": "Tavlan Dear deer framifrån"
         },
         {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "Tavlan New york framifrån"
+          "src": "/static/paintings/dear-deer/dear-deer_1.jpg",
+          "alt": "Närbild på tavlan Dear deer"
         },
         {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "Tavlan New york från sidan"
+          "src": "/static/paintings/dear-deer/dear-deer_2.jpeg",
+          "alt": "Tavlan Dear deer utan ram"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_3.jpg",
+          "alt": "Tavlan Dear deer utan ram"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_4.jpeg",
+          "alt": "Tavlan Dear deer utan ram"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
+          "alt": "Tavlan Dear deer utan ram"
         }
       ]
     },

@@ -12,6 +12,7 @@ import Link from 'next/link';
 
 const galleri86 = '/static/news/insta-post.png';
 const gaStan = '/static/news/ga_stan.jpg';
+const husby = '/static/news/husby-salong.png';
 
 const Utstallningar = () => {
   const selectedPieces = [];
@@ -77,6 +78,51 @@ const Utstallningar = () => {
         </div>
         <div className={styles.mainContent}>
           <div className={styles.mainContentImage}>
+            <a
+              target='_blank'
+              href='https://kulturhusetstadsteatern.se/husby-konstsalong'
+            >
+              <img
+                width={372}
+                height={520}
+                src={husby}
+                alt={husby}
+                className={styles.mainContentImage}
+              />
+            </a>
+          </div>
+          <div className={styles.mainContentTextBlock}>
+            <h2>Husby Konstsalong</h2>
+            <p className={styles.artPieceDetails}>
+              <b>Datum:</b> 27 April - 4 Maj
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Vernissage:</b> 27 April kl 14-20
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Plats:</b> Husby kulturhus, Edvard Griegsgången 11
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Mer info:</b>{' '}
+              <span className='link'>
+                <Link
+                  passHref
+                  href='https://www.instagram.com/kulturhuset_husby/'
+                >
+                  <a target='_blank'>Kulturhusets instagrem</a>
+                </Link>
+              </span>
+            </p>
+            <p className={styles.mainContentText}>
+              Här ställer jag ut ett av mina verk i en samlingsutställning med
+              100 utvalda konstverk. Kommer att vara på plats under vernissaget
+              27:e april - kom och säg hej och se verket Furilden irl 😀 och en
+              hel massa andra verk.
+            </p>
+          </div>
+        </div>
+        <div className={styles.mainContent}>
+          <div className={styles.mainContentImage}>
             <a target='_blank' href='https://fb.me/e/6INFT9A3g'>
               <img
                 width={372}
@@ -88,7 +134,7 @@ const Utstallningar = () => {
             </a>
           </div>
           <div className={styles.mainContentTextBlock}>
-            <h2>Inför ytan</h2>
+            <h2>Inför ytan - en duoutställning</h2>
             <p className={styles.artPieceDetails}>
               <b>Datum:</b> 3-6 Maj
             </p>
@@ -119,7 +165,7 @@ const Utstallningar = () => {
                   <a target='_blank'>Raven Mogford</a>
                 </Link>
               </span>{' '}
-              skapar jag en härlig duoutställning i kvinnans tecken. Varmt
+              skapar vi en härlig duoutställning i kvinnans tecken. Varmt
               välkommen att njuta och mingla med oss!
             </p>
           </div>
