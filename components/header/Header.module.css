@@ -1,18 +1,17 @@
 .header {
+  max-width: 1200px;
   width: 100%;
   height: 100px;
-  margin: 0;
+  margin: 0 auto;
   padding: 16px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  color: black;
   background-color: white;
-  max-width: 1200px;
-  margin: 0 auto;
   color: var(--nav-link-color);
 }
+
 .homeLink {
   cursor: default;
   transition: fill 0.3s;
@@ -24,9 +23,11 @@
 }
 
 .navList {
-  list-style-type: none;
-  padding-left: 0;
   display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  justify-content: flex-end;
+  padding-left: 0;
   margin: 0;
 }
 .navListItem {
@@ -50,7 +51,8 @@
 .linkHightlight {
   border-bottom: 2px solid var(--interactive-color--active);
 }
-@media screen and (min-width: 510px) {
+/* Desktop */
+@media screen and (min-width: 768px) {
   .navListItem {
     padding: 4px 12px;
   }
