@@ -37,7 +37,7 @@ const Kontakt = () => {
           <p className={styles.mainContentText}>
             Har du några som helst frågor kring konsten, ett potentiellt
             samarbete eller bara vill snacka lite når du mig enklast på{' '}
-            <a className='link' href='mailto:kajsa.unge@gmail.com'>
+            <a className='link' href='mailto:konst@kajsaunge.se'>
               konst@kajsaunge.se
             </a>
             . Du kan även använda formuläret här på sidan.
@@ -48,7 +48,7 @@ const Kontakt = () => {
             <h3 className={styles.mainContentTitle}>Beställning</h3>
             <p className={styles.artPieceDetails}>
               För beställning fyller du i formuläret eller skickar ett mail till{' '}
-              <a className='link' href='mailto:kajsa.unge@gmail.com'>
+              <a className='link' href='mailto:konst@kajsaunge.se'>
                 konst@kajsaunge.se
               </a>
               . <br /> Skriv i meddelandet hur du vill få din tavle levererad,
