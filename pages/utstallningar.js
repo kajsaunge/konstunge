@@ -13,6 +13,7 @@ import Link from 'next/link';
 const galleri86 = '/static/news/insta-post.png';
 const gaStan = '/static/news/ga_stan.jpg';
 const husby = '/static/news/husby-salong.png';
+const gtld = '/static/news/gtld-2023.png';
 
 const Utstallningar = () => {
   const selectedPieces = [];
@@ -34,48 +35,7 @@ const Utstallningar = () => {
       </Head>
       <main aria-label='Om Kajsa Unge' role='main' className='main'>
         <PageIntro level={1} title='Utställningar' description='Kommande' />
-        <div className={styles.mainContent}>
-          <div className={styles.mainContentImage}>
-            <a target='_blank' href='https://www.gamlastansgalleri.se/'>
-              <img
-                width={372}
-                height={520}
-                src={gaStan}
-                alt={gaStan}
-                className={styles.mainContentImage}
-              />
-            </a>
-          </div>
-          <div className={styles.mainContentTextBlock}>
-            <h2>Samlingsutställning Gamla stan</h2>
-            <p className={styles.artPieceDetails}>
-              <b>Datum:</b> 2-7 April
-            </p>
-            <p className={styles.artPieceDetails}>
-              <b>Vernissage:</b> 2 April kl 16-19
-            </p>
-            <p className={styles.artPieceDetails}>
-              <b>Övriga tider:</b> Onsdag-fredag kl 12-18, lördag-söndag kl
-              12-16
-            </p>
-            <p className={styles.artPieceDetails}>
-              <b>Plats:</b> Gamla Stans Galleri, Köpmannagatan 22, Stockholm
-            </p>
-            <p className={styles.artPieceDetails}>
-              <b>Mer info:</b>{' '}
-              <span className='link'>
-                <Link passHref href='https://www.gamlastansgalleri.se/'>
-                  <a target='_blank'>Galleriets hemsida</a>
-                </Link>
-              </span>
-            </p>
-            <p className={styles.mainContentText}>
-              En samlingsutställning i sällskap med 10 utvalda konstnärer. Här
-              ställer jag ut tre av mina verk. Kommer att vara på plats under
-              vernissaget 2:a april - kom och säg hej!
-            </p>
-          </div>
-        </div>
+
         <div className={styles.mainContent}>
           <div className={styles.mainContentImage}>
             <a
@@ -170,8 +130,88 @@ const Utstallningar = () => {
             </p>
           </div>
         </div>
-        {/* <div className={styles.hrLine}></div>
-        <PageIntro level={1} title='Utställningar' description='Tidigare' /> */}
+        <div className={styles.hrLine}></div>
+        <PageIntro level={1} title='Tidigare' description='Utställningar' />
+
+        <div className={styles.mainContent}>
+          <div className={styles.outdatedOverlay}></div>
+          <div className={styles.mainContentImage}>
+            <a target='_blank' href='https://www.gamlastansgalleri.se/'>
+              <img
+                width={372}
+                height={520}
+                src={gaStan}
+                alt={gaStan}
+                className={styles.mainContentImage}
+              />
+            </a>
+          </div>
+          <div className={styles.mainContentTextBlock}>
+            <h2>Samlingsutställning Gamla stan</h2>
+            <p className={styles.artPieceDetails}>
+              <b>Datum:</b> 2-7 April
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Vernissage:</b> 2 April kl 16-19
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Övriga tider:</b> Onsdag-fredag kl 12-18, lördag-söndag kl
+              12-16
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Plats:</b> Gamla Stans Galleri, Köpmannagatan 22, Stockholm
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Mer info:</b>{' '}
+              <span className='link'>
+                <Link passHref href='https://www.gamlastansgalleri.se/'>
+                  <a target='_blank'>Galleriets hemsida</a>
+                </Link>
+              </span>
+            </p>
+            <p className={styles.mainContentText}>
+              En samlingsutställning i sällskap med 10 utvalda konstnärer. Här
+              ställer jag ut tre av mina verk. Kommer att vara på plats under
+              vernissaget 2:a april - kom och säg hej!
+            </p>
+          </div>
+        </div>
+        <div className={styles.mainContent}>
+          <div className={styles.outdatedOverlay}></div>
+          <div className={styles.mainContentImage}>
+            <a target='_blank' href='https://www.gamlastansgalleri.se/'>
+              <img
+                width={372}
+                height={520}
+                src={gtld}
+                alt={gtld}
+                className={styles.mainContentImage}
+              />
+            </a>
+          </div>
+          <div className={styles.mainContentTextBlock}>
+            <h2>Vårsalong Gotland 2023</h2>
+            <p className={styles.artPieceDetails}>
+              <b>Datum:</b> 15-18 April
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Vernissage:</b> 15 April kl 12-17
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Övriga tider:</b> 16-18/4 kl 12-17
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Plats:</b> Korsbygården, Lärbro, Gotland
+            </p>
+            <p className={styles.mainContentText}>
+              Gotlands Vårsalong är den största och bredaste konstutställningen
+              på Gotland. Detta var andra året jag var med. Första gången var
+              tillsammans med min mamma, för väldigt många år sedan. Kändes
+              verkligen fint att få vara med igen, som en påminnelse om min
+              mammas outsinliga uppmuntran och tro på mig.
+            </p>
+          </div>
+        </div>
         <div className={styles.gallery}>
           <PageIntro title='Utvalda konstverk' description='Liten och stor' />
           <ul className={styles.artPieces}>

@@ -5,6 +5,18 @@
   grid-gap: 14px;
   align-items: start;
   margin-bottom: 40px;
+  position: relative;
+}
+.outdatedOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+  background-color: var(--page-bg-color);
+  opacity: 40%;
 }
 .mainContentImage {
   width: 100%;
