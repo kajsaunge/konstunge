@@ -198,15 +198,15 @@
           "alt": "Tavlan 'Aldrig ensam' i galleriet"
         },
         {
-          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpeg",
+          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
           "alt": "'Aldrig ensam' i ateljen"
         },
         {
-          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpeg",
+          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
           "alt": "'Aldrig ensam' närbild"
         },
         {
-          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpeg",
+          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
           "alt": "'Aldrig ensam' från sidan"
         },
         {
@@ -214,15 +214,15 @@
           "alt": "'Aldrig ensam'"
         },
         {
-          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpeg",
+          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
           "alt": "'Aldrig ensam'"
         },
         {
-          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpeg",
+          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
           "alt": "'Aldrig ensam'"
         },
         {
-          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpeg",
+          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
           "alt": "'Aldrig ensam'"
         }
       ]
@@ -286,11 +286,11 @@
           "alt": "Tavlan 'Hoppet' i galleriet"
         },
         {
-          "src": "/static/paintings/hoppet/20231101_091353-01.jpeg",
+          "src": "/static/paintings/hoppet/20231123_063631.jpg",
           "alt": "'Hoppet' i ateljen"
         },
         {
-          "src": "/static/paintings/hoppet/20231123_063631.jpg",
+          "src": "/static/paintings/hoppet/20231123_063602.jpg",
           "alt": "'Hoppet' i ateljen"
         },
         {
@@ -298,11 +298,11 @@
           "alt": "'Hoppet' närbild"
         },
         {
-          "src": "/static/paintings/hoppet/20231101_091342-01.jpeg",
+          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
           "alt": "'Hoppet'"
         },
         {
-          "src": "/static/paintings/hoppet/20231101_091522-01.jpeg",
+          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
           "alt": "'Hoppet'"
         }
       ]
@@ -630,7 +630,7 @@
       "slug": "/furilden",
       "path": "/furilden",
       "name": "Furilden",
-      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på Furilden. Vår fantasi, eller i alla fall min, förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Idag är detta ett populärt resmål på Gotland med bla ett fantastiskt snyggt hotell och en vinbar i ett av grustagen. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
+      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på ön Furilden. Vår fantasi, eller i alla fall min, förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Idag är detta ett populärt resmål på Gotland med bla ett fantastiskt snyggt hotell och en vinbar i ett av grustagen. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
       "price": "6 500",
       "year": "2023",
       "status": "available",
