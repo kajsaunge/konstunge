@@ -106,7 +106,7 @@
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "45",
       "height": "55",
@@ -401,7 +401,7 @@
       "status": "available",
       "material": {
         "medium": "Mixed media - akryl mm",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "50",
       "height": "70",
@@ -444,7 +444,7 @@
       "status": "available",
       "material": {
         "medium": "Mixed media - akryl, krita mm",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "80",
       "height": "100",
@@ -543,7 +543,7 @@
       "status": "available",
       "material": {
         "medium": "Mixed media - akryl mm",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "50",
       "height": "60",
@@ -586,7 +586,7 @@
       "status": "available",
       "material": {
         "medium": "Akryl",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "40",
       "height": "40",
@@ -661,7 +661,7 @@
       "status": "hide",
       "material": {
         "medium": "Akryl, bläck",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "30",
       "height": "40",
@@ -689,7 +689,7 @@
       "frame": "ingår",
       "material": {
         "medium": "Akryl, bläck, krita, grafit",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "40",
       "height": "50",
@@ -748,7 +748,7 @@
       "status": "available",
       "material": {
         "medium": "Akryl",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "40",
       "height": "40",
@@ -771,7 +771,7 @@
       "status": "hide",
       "material": {
         "medium": "Mixed media - akryl mm",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "50",
       "height": "70",
@@ -842,7 +842,7 @@
       "status": "available",
       "material": {
         "medium": "Mixed media - akryl mm",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "20",
       "height": "30",
@@ -873,7 +873,7 @@
       "status": "available",
       "material": {
         "medium": "Mixed media - akryl mm",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "50",
       "height": "70",
@@ -921,7 +921,7 @@
       "status": "available",
       "material": {
         "medium": "Akvarell och akryl",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "50",
       "height": "50",
@@ -949,7 +949,7 @@
       "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Akryl, ink, krita, grafit",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "30",
       "height": "40",
@@ -1040,7 +1040,7 @@
       "status": "hide",
       "material": {
         "medium": "Akryl",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "40",
       "height": "40",
@@ -1280,7 +1280,7 @@
       "status": "available",
       "material": {
         "medium": "Akryl, ink, krita, grafit",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "54",
       "height": "64",
@@ -1457,7 +1457,7 @@
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "50",
       "height": "70",
@@ -1605,7 +1605,7 @@
       "status": "sold",
       "material": {
         "medium": "Akryl och bläck",
-        "base": "Duk"
+        "base": "duk"
       },
       "width": "40",
       "height": "50",
