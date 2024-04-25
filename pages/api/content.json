@@ -1,21 +1,73 @@
 {
   "pieces": [
     {
+      "slug": "/ufo",
+      "path": "/ufo",
+      "name": "U.F.O",
+      "description": "Lockelsen, det förföriska. Det insugande, josiga, förvirrande goda. Det som ihärdigt drar i en, det man inte kommer undan, knappt alls. Kärleken, passionen, besattheten - må den aldrig försvinna, må den vara barmhärtig. Så totalt utplånande förgörande. Vad vore livet utan?",
+      "price": "8 900",
+      "year": "2023",
+      "status": "hide",
+      "material": {
+        "medium": "Mixed media - akryl, bläck, krita mm",
+        "base": "pannå"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["pannå", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/ufo/ufo_0.jpg",
+          "alt": "Tavlan 'U.F.O' i ram"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_1.jpg",
+          "alt": "'U.F.O' utan ram"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_2.jpg",
+          "alt": "Tavlan 'U.F.O' i miljö"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_3.jpg",
+          "alt": "Tavlan 'U.F.O' i miljö"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_4.jpg",
+          "alt": "Tavlan 'U.F.O' i miljö"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_5.jpg",
+          "alt": "Tavlan 'U.F.O' i miljö"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_2.jpg",
+          "alt": "Tavlan 'U.F.O' i miljö"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_0.jpg",
+          "alt": "Tavlan 'U.F.O' i ram"
+        }
+      ]
+    },
+    {
       "slug": "/no-promises",
       "path": "/no-promises",
       "name": "No promises",
       "description": "Allt är föränderligt. Man kan ha en plan och en tanke, men ofta blir det lite annorlunda, eller helt. Att vara öppen och mottaglig för det som kommer längs vägen behöver inte betyda att man ska svälja allt med hull och hår (blä) men det kan leda till fantastiska saker. Vem vet, kanske och plötsligt växer en oväntad knopp upp och skjuter iväg. Vart ska den?",
       "price": "4 900",
       "year": "2024",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "status": "new",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "38",
       "height": "38",
-      "tags": ["plywood", "akryl", "floral"],
+      "tags": ["pannå", "akryl", "floral", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -54,11 +106,11 @@
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "45",
       "height": "55",
-      "tags": ["canvas", "akryl", "female", "animal"],
+      "tags": ["duk", "akryl", "female", "animal"],
       "category": "original",
       "images": [
         {
@@ -95,14 +147,14 @@
       "price": "6 500",
       "year": "2024",
       "status": "available",
-      "frame": "Verket har klargula kanter och en 2,5cm list på baksidan vilket skapar en distans från väggen och agerar upphängning.",
+      "frame": "Verket har klargula kanter och en 2,5cm list på baksidan vilket skapar en distans från väggen.",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl, bläck mm",
+        "base": "pannå"
       },
       "width": "60",
       "height": "90",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -147,14 +199,14 @@
       "price": "3 400",
       "year": "2020",
       "status": "available",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "24",
       "height": "33",
-      "tags": ["plywood", "akryl", "female", "animal"],
+      "tags": ["pannå", "akryl", "female", "animal", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -183,14 +235,14 @@
       "price": "6 900",
       "year": "2023",
       "status": "available",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl, sparyfärg mm",
+        "base": "pannå"
       },
       "width": "43",
       "height": "70",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -236,14 +288,14 @@
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "images": [
         {
           "src": "/static/paintings/curiosity/curiosity_00.jpg",
@@ -271,14 +323,14 @@
       "price": "6 900",
       "year": "2023",
       "status": "available",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl, sprayfärg mm",
+        "base": "pannå"
       },
       "width": "43",
       "height": "70",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -316,14 +368,14 @@
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "images": [
         {
           "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
@@ -344,16 +396,16 @@
       "path": "/everseeing",
       "name": "Ever seeing",
       "description": "Hon vet så mycket mer. Hon ser. Hon är starkare. Hon kommer stå kvar. Om hon vill. För behövs det så vänder hon utan att se sig om.",
-      "price": "6 500",
+      "price": "7 500",
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
+        "medium": "Mixed media - akryl mm",
+        "base": "Duk"
       },
       "width": "50",
       "height": "70",
-      "tags": ["canvas", "mixed media"],
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -391,12 +443,12 @@
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
+        "medium": "Mixed media - akryl, krita mm",
+        "base": "Duk"
       },
       "width": "80",
       "height": "100",
-      "tags": ["Canvas", "mixed media"],
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -425,14 +477,14 @@
       "price": "5 000",
       "year": "2020",
       "status": "sold",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "34",
       "height": "34",
-      "tags": ["plywood", "akryl", "female", "animal"],
+      "tags": ["pannå", "akryl", "female", "animal", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -460,7 +512,7 @@
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Pannå"
+        "base": "pannå"
       },
       "width": "22",
       "height": "27",
@@ -490,12 +542,12 @@
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
+        "medium": "Mixed media - akryl mm",
+        "base": "Duk"
       },
       "width": "50",
       "height": "60",
-      "tags": ["canvas", "mixed media"],
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -534,11 +586,11 @@
       "status": "available",
       "material": {
         "medium": "Akryl",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "40",
       "height": "40",
-      "tags": ["canvas", "akryl"],
+      "tags": ["duk", "akryl"],
       "category": "original",
       "images": [
         {
@@ -559,14 +611,14 @@
       "price": "8 900",
       "year": "2023",
       "status": "available",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -608,12 +660,12 @@
       "year": "2023",
       "status": "hide",
       "material": {
-        "medium": "Akryl, ink",
-        "base": "Canvas"
+        "medium": "Akryl, bläck",
+        "base": "Duk"
       },
       "width": "30",
       "height": "40",
-      "tags": ["canvas", "akryl"],
+      "tags": ["duk", "akryl"],
       "category": "original",
       "images": [
         {
@@ -636,12 +688,12 @@
       "status": "available",
       "frame": "ingår",
       "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
+        "medium": "Akryl, bläck, krita, grafit",
+        "base": "Duk"
       },
       "width": "40",
       "height": "50",
-      "tags": ["canvas", "akryl", "gotland"],
+      "tags": ["duk", "akryl", "gotland"],
       "category": "original",
       "images": [
         {
@@ -662,14 +714,14 @@
       "price": "5 000",
       "year": "2021",
       "status": "available",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Akryl, ink",
-        "base": "Plywood"
+        "medium": "Akryl, bläck",
+        "base": "pannå"
       },
       "width": "38",
       "height": "38",
-      "tags": ["plywood", "akryl", "female"],
+      "tags": ["pannå", "akryl", "female", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -696,11 +748,11 @@
       "status": "available",
       "material": {
         "medium": "Akryl",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "40",
       "height": "40",
-      "tags": ["canvas", "akryl"],
+      "tags": ["duk", "akryl"],
       "category": "original",
       "images": [
         {
@@ -718,12 +770,12 @@
       "year": "2021",
       "status": "hide",
       "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
+        "medium": "Mixed media - akryl mm",
+        "base": "Duk"
       },
       "width": "50",
       "height": "70",
-      "tags": ["plywood", "akryl", "mixed media"],
+      "tags": ["duk", "akryl", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -748,14 +800,14 @@
       "price": "8 900",
       "year": "2021",
       "status": "available",
-      "frame": "4.5 cm djup vit träram med 8mm distans mellan tavla och ram",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl, krita, bläck mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -789,12 +841,12 @@
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
+        "medium": "Mixed media - akryl mm",
+        "base": "Duk"
       },
       "width": "20",
       "height": "30",
-      "tags": ["Canvas", "mixed media"],
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -820,12 +872,12 @@
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Canvas"
+        "medium": "Mixed media - akryl mm",
+        "base": "Duk"
       },
       "width": "50",
       "height": "70",
-      "tags": ["canvas", "mixed media"],
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -869,11 +921,11 @@
       "status": "available",
       "material": {
         "medium": "Akvarell och akryl",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "50",
       "height": "50",
-      "tags": ["canvas", "akvarell", "akryl", "female"],
+      "tags": ["duk", "akvarell", "akryl", "female"],
       "category": "original",
       "images": [
         {
@@ -894,14 +946,14 @@
       "price": "5 500",
       "year": "2021",
       "status": "sold",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "30",
       "height": "40",
-      "tags": ["canvas", "akryl", "female"],
+      "tags": ["duk", "akryl", "female", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -921,15 +973,15 @@
       "description": "Med en mur hårdare och högre än den mäktigaste fängelset. Men de hon släpper in ger hon allt.",
       "price": "8 000",
       "year": "2021",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "akryl"],
+      "tags": ["pannå", "akryl", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -988,11 +1040,11 @@
       "status": "hide",
       "material": {
         "medium": "Akryl",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "40",
       "height": "40",
-      "tags": ["canvas", "akryl"],
+      "tags": ["duk", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1014,12 +1066,12 @@
       "year": "2019",
       "status": "sold",
       "material": {
-        "medium": "Mixed media: akryl, krita, tusch, bläck",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl, krita, bläck mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "akryl, mixed media"],
+      "tags": ["pannå", "akryl, mixed media"],
       "category": "original",
       "images": [
         {
@@ -1052,13 +1104,14 @@
       "price": "6 000",
       "year": "2022",
       "status": "sold",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl, bläck mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -1087,13 +1140,14 @@
       "price": "6 000",
       "year": "2022",
       "status": "sold",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -1122,13 +1176,14 @@
       "price": "6 000",
       "year": "2021",
       "status": "sold",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -1159,11 +1214,11 @@
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "80",
       "height": "120",
-      "tags": ["plywood", "akryl"],
+      "tags": ["pannå", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1194,11 +1249,11 @@
       "status": "available",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "80",
       "height": "120",
-      "tags": ["plywood", "akryl", "typografi"],
+      "tags": ["pannå", "akryl", "typografi"],
       "category": "original",
       "images": [
         {
@@ -1225,11 +1280,11 @@
       "status": "available",
       "material": {
         "medium": "Akryl, ink, krita, grafit",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "54",
       "height": "64",
-      "tags": ["canvas", "akryl", "female"],
+      "tags": ["duk", "akryl", "female"],
       "category": "original",
       "images": [
         {
@@ -1254,14 +1309,14 @@
       "price": "3 400",
       "year": "2020",
       "status": "available",
-      "frame": "ingår",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "24",
       "height": "33",
-      "tags": ["plywood", "akryl", "female", "animal"],
+      "tags": ["pannå", "akryl", "female", "animal", "shadowbox"],
       "category": "original",
       "images": [
         {
@@ -1332,11 +1387,11 @@
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "100",
       "height": "120",
-      "tags": ["plywood", "akryl", "typografi"],
+      "tags": ["pannå", "akryl", "typografi"],
       "category": "original",
       "images": [
         {
@@ -1367,11 +1422,11 @@
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Plywood"
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "akryl"],
+      "tags": ["pannå", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1402,11 +1457,11 @@
       "status": "sold",
       "material": {
         "medium": "Akryl",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "50",
       "height": "70",
-      "tags": ["plywood", "akryl"],
+      "tags": ["duk", "akryl"],
       "category": "original",
       "images": [
         {
@@ -1479,7 +1534,7 @@
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
+        "medium": "Mixed media - akryl mm",
         "base": "MDF"
       },
       "width": "70",
@@ -1514,12 +1569,12 @@
       "year": "2020",
       "status": "available",
       "material": {
-        "medium": "Mixed media",
-        "base": "Plywood"
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
       },
       "width": "70",
       "height": "100",
-      "tags": ["plywood", "mixed media"],
+      "tags": ["pannå", "mixed media"],
       "category": "original",
       "images": [
         {
@@ -1550,11 +1605,11 @@
       "status": "sold",
       "material": {
         "medium": "Akryl och bläck",
-        "base": "Canvas"
+        "base": "Duk"
       },
       "width": "40",
       "height": "50",
-      "tags": ["canvas", "mixed media"],
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
