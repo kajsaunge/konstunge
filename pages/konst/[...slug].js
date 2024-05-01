@@ -65,9 +65,9 @@ const Product = ({ piece }) => {
                   <b>Material:</b> {piece.material.medium} på{' '}
                   {piece.material.base}
                 </p>
-                <p className={styles.artPieceDetails}>
+                {/* <p className={styles.artPieceDetails}>
                   <b>Certifikat:</b> Inkluderat
-                </p>
+                </p> */}
                 <p className={styles.artPieceDetails}>
                   <b>Ram:</b> {hasFrame}
                 </p>

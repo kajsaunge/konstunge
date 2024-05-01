@@ -1,6 +1,49 @@
 {
   "pieces": [
     {
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
+      "price": "5 900",
+      "year": "2024",
+      "status": "hide",
+      "material": {
+        "medium": "Akryl",
+        "base": "duk"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["duk", "akryl", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "Tavlan Queen i galleriet"
+        },
+        {
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "Tavlan Queen framifrån"
+        },
+        {
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Närbild på tavlan Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Närbild på tavlan Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen från sidan"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen framifrån"
+        }
+      ]
+    },
+    {
       "slug": "/ufo",
       "path": "/ufo",
       "name": "U.F.O",
@@ -53,6 +96,49 @@
       ]
     },
     {
+      "slug": "/aaaah",
+      "path": "/aaaah",
+      "name": "Aaaah",
+      "description": "En påminnelse om att andas, och leva ut. Att njuta innerligt, att inte bara springa på, att känna lusten och gå på den. Nu, inte sen.",
+      "price": "2 800",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - akryl mm",
+        "base": "duk"
+      },
+      "width": "18",
+      "height": "24",
+      "tags": ["duk", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/aaaah/aaaah_00.jpg",
+          "alt": "Tavlan 'Aaaah' i galleriet"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_01.jpg",
+          "alt": "'Aaaah' framifråm"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_02.jpg",
+          "alt": "'Aaaah' närbild"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_03.jpg",
+          "alt": "'Aaaah' närbild"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_05.jpg",
+          "alt": "'Aaaah' från vinkel"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_01.jpg",
+          "alt": "'Aaaah' framifråm"
+        }
+      ]
+    },
+    {
       "slug": "/no-promises",
       "path": "/no-promises",
       "name": "No promises",
@@ -60,7 +146,7 @@
       "price": "4 900",
       "year": "2024",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Akryl",
         "base": "pannå"
