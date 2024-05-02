@@ -1,45 +1,49 @@
 {
   "pieces": [
     {
-      "slug": "/queen",
-      "path": "/queen",
-      "name": "Queen",
-      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
-      "price": "5 900",
+      "slug": "/feels",
+      "path": "/feels",
+      "name": "Feels",
+      "description": "Jag skiter i om jag ser dum ut, jag vill känna, njuta och leva ut. Att det jag gör även är för mig. Varför sa ingen nåt, tidigare? Värden är min. Och din.",
+      "price": "3 400",
       "year": "2024",
-      "status": "hide",
+      "status": "new",
       "material": {
-        "medium": "Akryl",
+        "medium": "Mixed media - akryl mm",
         "base": "duk"
       },
-      "width": "45",
-      "height": "55",
-      "tags": ["duk", "akryl", "female", "animal"],
+      "width": "20",
+      "height": "30",
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/queen/queen_00.jpg",
-          "alt": "Tavlan Queen i galleriet"
+          "src": "/static/paintings/feels/feels_00.jpg",
+          "alt": "Tavlan 'Feels' i galleriet"
         },
         {
-          "src": "/static/paintings/queen/queen_01.jpg",
-          "alt": "Tavlan Queen framifrån"
+          "src": "/static/paintings/feels/feels_01.jpg",
+          "alt": "'Feels' framifrån"
         },
         {
-          "src": "/static/paintings/queen/queen_02.jpg",
-          "alt": "Närbild på tavlan Queen"
+          "src": "/static/paintings/feels/feels_02.jpg",
+          "alt": "'Feels' detaljbild"
         },
         {
-          "src": "/static/paintings/queen/queen_03.jpg",
-          "alt": "Närbild på tavlan Queen"
+          "src": "/static/paintings/feels/feels_03.jpg",
+          "alt": "'Feels' från vinkel"
         },
         {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "Tavlan Queen från sidan"
+          "src": "/static/paintings/feels/feels_04.jpg",
+          "alt": "'Feels' detaljbild"
         },
         {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "Tavlan Queen framifrån"
+          "src": "/static/paintings/feels/feels_05.jpg",
+          "alt": "'Feels' signatur"
+        },
+        {
+          "src": "/static/paintings/feels/feels_01.jpg",
+          "alt": "'Feels' framifrån"
         }
       ]
     },
@@ -50,7 +54,7 @@
       "description": "Lockelsen, det förföriska. Det insugande, josiga, förvirrande goda. Det som ihärdigt drar i en, det man inte kommer undan, knappt alls. Kärleken, passionen, besattheten - må den aldrig försvinna, må den vara barmhärtig. Så totalt utplånande förgörande. Vad vore livet utan?",
       "price": "8 900",
       "year": "2023",
-      "status": "hide",
+      "status": "new",
       "material": {
         "medium": "Mixed media - akryl, bläck, krita mm",
         "base": "pannå"
@@ -135,6 +139,53 @@
         {
           "src": "/static/paintings/aaaah/aaaah_01.jpg",
           "alt": "'Aaaah' framifråm"
+        }
+      ]
+    },
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "En klassisk superstjärna, tagen ur sin kontext, avklädd och knivskarp. Tiden var en annan men orden är värda att upprepas: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' och 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "price": "7 500",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - akryl mm",
+        "base": "duk"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["duk", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_00.jpg",
+          "alt": "Tavlan 'Audrey' i galleriet"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' framifrån"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_02.jpg",
+          "alt": "'audrey' närbild"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_03.jpg",
+          "alt": "'audrey' närbild"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_04.jpg",
+          "alt": "'audrey'"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_05.jpg",
+          "alt": "'Audrey' med signatur"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' framifrån"
         }
       ]
     },
@@ -226,6 +277,49 @@
       ]
     },
     {
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
+      "price": "5 900",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Akryl",
+        "base": "duk"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["duk", "akryl", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "Tavlan Queen i galleriet"
+        },
+        {
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "Tavlan Queen framifrån"
+        },
+        {
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Närbild på tavlan Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Närbild på tavlan Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen från sidan"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen framifrån"
+        }
+      ]
+    },
+    {
       "slug": "/frankie",
       "path": "/frankie",
       "name": "Frankie",
@@ -313,58 +407,7 @@
         }
       ]
     },
-    {
-      "slug": "/aldrig-ensam",
-      "path": "/aldrig-ensam",
-      "name": "Aldrig ensam",
-      "description": "Hon är inte ensam. Har aldrig varit det. I den kyliga världen som omger henne står hon stadig, varm och trygg. Tveklöst rör hon sig mot nya äventyr. Aldrig ensam.",
-      "price": "6 900",
-      "year": "2023",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media - akryl, sparyfärg mm",
-        "base": "pannå"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["pannå", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
-          "alt": "Tavlan 'Aldrig ensam' i galleriet"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
-          "alt": "'Aldrig ensam' i ateljen"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
-          "alt": "'Aldrig ensam' närbild"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
-          "alt": "'Aldrig ensam' från sidan"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
-          "alt": "'Aldrig ensam'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
-          "alt": "'Aldrig ensam'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
-          "alt": "'Aldrig ensam'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
-          "alt": "'Aldrig ensam'"
-        }
-      ]
-    },
+
     {
       "slug": "/curiosity",
       "path": "/curiosity",
@@ -478,48 +521,58 @@
       ]
     },
     {
-      "slug": "/everseeing",
-      "path": "/everseeing",
-      "name": "Ever seeing",
-      "description": "Hon vet så mycket mer. Hon ser. Hon är starkare. Hon kommer stå kvar. Om hon vill. För behövs det så vänder hon utan att se sig om.",
-      "price": "7 500",
+      "slug": "/aldrig-ensam",
+      "path": "/aldrig-ensam",
+      "name": "Aldrig ensam",
+      "description": "Hon är inte ensam. Har aldrig varit det. I den kyliga världen som omger henne står hon stadig, varm och trygg. Tveklöst rör hon sig mot nya äventyr. Aldrig ensam.",
+      "price": "6 900",
       "year": "2023",
       "status": "available",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Mixed media - akryl mm",
-        "base": "duk"
+        "medium": "Mixed media - akryl, sparyfärg mm",
+        "base": "pannå"
       },
-      "width": "50",
+      "width": "43",
       "height": "70",
-      "tags": ["duk", "mixed media"],
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/everseeing/everseeing_00.jpg",
-          "alt": "Tavlan 'Ever seeing' i galleriet"
+          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
+          "alt": "Tavlan 'Aldrig ensam' i galleriet"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_091010-02.jpeg",
-          "alt": "'Ever seeing' i ateljen"
+          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
+          "alt": "'Aldrig ensam' i ateljen"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_090902-01.jpeg",
-          "alt": "'Ever seeing' närbild"
+          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
+          "alt": "'Aldrig ensam' närbild"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_090854-01.jpeg",
-          "alt": "'Ever seeing' från sidan"
+          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
+          "alt": "'Aldrig ensam' från sidan"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_091032-01.jpeg",
-          "alt": "'Ever seeing'"
+          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
+          "alt": "'Aldrig ensam'"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_090824-01.jpeg",
-          "alt": "'Ever seeing'"
+          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
+          "alt": "'Aldrig ensam'"
         }
       ]
     },
+
     {
       "slug": "/men-inte-langre",
       "path": "/men-inte-langre",
@@ -663,6 +716,62 @@
       ]
     },
     {
+      "slug": "/furilden",
+      "path": "/furilden",
+      "name": "Furilden",
+      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på ön Furilden. Vår fantasi, eller i alla fall min, förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Idag är detta ett populärt resmål på Gotland med bla ett fantastiskt snyggt hotell och en vinbar i ett av grustagen. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
+      "price": "6 500",
+      "year": "2022",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl, bläck, krita, grafit",
+        "base": "duk"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": ["duk", "akryl", "gotland"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/furilden/furilden_00.jpg",
+          "alt": "Tavlan Furilden framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/furilden/furilden_01.jpg",
+          "alt": "Tavlan Furilden utan ram"
+        }
+      ]
+    },
+
+    {
+      "slug": "/over-this",
+      "path": "/over-this",
+      "name": "Over this",
+      "description": "Hon är klar, det räcker nu. Inget kan få henne att ändra sig.",
+      "price": "4 000",
+      "year": "2023",
+      "status": "hide",
+      "material": {
+        "medium": "Akryl, bläck",
+        "base": "duk"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": ["duk", "akryl"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/over-this/over-this_00.png",
+          "alt": "Tavlan Over this framifrån"
+        },
+        {
+          "src": "/static/paintings/over-this/over-this_01.jpg",
+          "alt": "Tavlan Over this"
+        }
+      ]
+    },
+    {
       "slug": "/dare-me",
       "path": "/dare-me",
       "name": "Dare me",
@@ -738,57 +847,25 @@
       ]
     },
     {
-      "slug": "/over-this",
-      "path": "/over-this",
-      "name": "Over this",
-      "description": "Hon är klar, det räcker nu. Inget kan få henne att ändra sig.",
-      "price": "4 000",
-      "year": "2023",
-      "status": "hide",
+      "slug": "/blood-moon",
+      "path": "/blood-moon",
+      "name": "Blood moon",
+      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
+      "price": "4 500",
+      "year": "2022",
+      "status": "available",
       "material": {
-        "medium": "Akryl, bläck",
+        "medium": "Akryl",
         "base": "duk"
       },
-      "width": "30",
+      "width": "40",
       "height": "40",
       "tags": ["duk", "akryl"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/over-this/over-this_00.png",
-          "alt": "Tavlan Over this framifrån"
-        },
-        {
-          "src": "/static/paintings/over-this/over-this_01.jpg",
-          "alt": "Tavlan Over this"
-        }
-      ]
-    },
-    {
-      "slug": "/furilden",
-      "path": "/furilden",
-      "name": "Furilden",
-      "description": "Som barn cyklade jag, min storebror och byns andra barn ut på ön Furilden. Vår fantasi, eller i alla fall min, förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Idag är detta ett populärt resmål på Gotland med bla ett fantastiskt snyggt hotell och en vinbar i ett av grustagen. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
-      "price": "6 500",
-      "year": "2022",
-      "status": "available",
-      "frame": "ingår",
-      "material": {
-        "medium": "Akryl, bläck, krita, grafit",
-        "base": "duk"
-      },
-      "width": "40",
-      "height": "50",
-      "tags": ["duk", "akryl", "gotland"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/furilden/furilden_00.jpg",
-          "alt": "Tavlan Furilden framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/furilden/furilden_01.jpg",
-          "alt": "Tavlan Furilden utan ram"
+          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
+          "alt": "Tavlan Blood moon framifrån"
         }
       ]
     },
@@ -825,28 +902,49 @@
       ]
     },
     {
-      "slug": "/blood-moon",
-      "path": "/blood-moon",
-      "name": "Blood moon",
-      "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
-      "price": "4 500",
-      "year": "2022",
+      "slug": "/everseeing",
+      "path": "/everseeing",
+      "name": "Ever seeing",
+      "description": "Hon vet så mycket mer. Hon ser. Hon är starkare. Hon kommer stå kvar. Om hon vill. För behövs det så vänder hon utan att se sig om.",
+      "price": "7 500",
+      "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Akryl",
+        "medium": "Mixed media - akryl mm",
         "base": "duk"
       },
-      "width": "40",
-      "height": "40",
-      "tags": ["duk", "akryl"],
+      "width": "50",
+      "height": "70",
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
-          "alt": "Tavlan Blood moon framifrån"
+          "src": "/static/paintings/everseeing/everseeing_00.jpg",
+          "alt": "Tavlan 'Ever seeing' i galleriet"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_091010-02.jpeg",
+          "alt": "'Ever seeing' i ateljen"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090902-01.jpeg",
+          "alt": "'Ever seeing' närbild"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090854-01.jpeg",
+          "alt": "'Ever seeing' från sidan"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_091032-01.jpeg",
+          "alt": "'Ever seeing'"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090824-01.jpeg",
+          "alt": "'Ever seeing'"
         }
       ]
     },
+
     {
       "slug": "/audrey",
       "path": "/audrey",
@@ -996,7 +1094,6 @@
         }
       ]
     },
-
     {
       "slug": "/give",
       "path": "/give",
