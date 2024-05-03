@@ -90,10 +90,6 @@
           "alt": "Tavlan 'U.F.O' i miljö"
         },
         {
-          "src": "/static/paintings/ufo/ufo_2.jpg",
-          "alt": "Tavlan 'U.F.O' i miljö"
-        },
-        {
           "src": "/static/paintings/ufo/ufo_0.jpg",
           "alt": "Tavlan 'U.F.O' i ram"
         }
@@ -1021,7 +1017,7 @@
       "path": "/annanhorisont",
       "name": "Annan horisont",
       "description": "Den röda blicken ljusnar, inifrån och ut. Åter väcks glädjen, lugnet och friheten. Det som alltid funnits där men tappats bort. Nu jävlar",
-      "price": "3 400",
+      "price": "2 800",
       "year": "2023",
       "status": "available",
       "material": {
