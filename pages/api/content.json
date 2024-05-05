@@ -7,7 +7,7 @@
       "description": "Jag skiter i om jag ser dum ut, jag vill känna, njuta och leva ut. Att det jag gör även är för mig. Varför sa ingen nåt, tidigare? Värden är min. Och din.",
       "price": "3 400",
       "year": "2024",
-      "status": "new",
+      "status": "sold",
       "material": {
         "medium": "Mixed media - akryl mm",
         "base": "duk"
@@ -102,7 +102,7 @@
       "description": "En påminnelse om att andas, och leva ut. Att njuta innerligt, att inte bara springa på, att känna lusten och gå på den. Nu, inte sen.",
       "price": "2 800",
       "year": "2024",
-      "status": "new",
+      "status": "sold",
       "material": {
         "medium": "Mixed media - akryl mm",
         "base": "duk"
@@ -322,7 +322,7 @@
       "description": "Att skapa sig själv. Att tillslut bestämma sig för att faktiskt se de där bra bitarna och typ ignorera de lite \"sämre\". Att släppa de som inte duger, de som tar, kanske utan att veta. Att va ok med det. Och sen senare långt mer än ok.",
       "price": "7 500",
       "year": "2024",
-      "status": "available",
+      "status": "sold",
       "frame": "Verket har klargula kanter och en 2,5cm list på baksidan vilket skapar en distans från väggen.",
       "material": {
         "medium": "Mixed media - akryl, bläck mm",
@@ -374,7 +374,7 @@
       "description": "Jaa, vad finns det att säga om detta verk? Vad tycker du? För mig symboliserar den det vackra i att inte veta, det fina i att vara frågandes och nyfiken. Att det stökiga kan vara förtjusande.",
       "price": "3 400",
       "year": "2020",
-      "status": "available",
+      "status": "sold",
       "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Akryl",
@@ -801,7 +801,7 @@
       "description": "Slut ögonen. Lyssna. Känn. Pausa. Släpp alla gränser, tillåt det konstant föränderliga att expandera. Var dig själv fullt ut. Följ DIN väg.",
       "price": "8 900",
       "year": "2023",
-      "status": "available",
+      "status": "sold",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Mixed media - akryl mm",
@@ -849,7 +849,7 @@
       "description": "Det är blodet som rinner i hennes kropp, från hjärtat och ut i varenda cell. Det är det som generarar den kärleksfulla kraft och omtänksamma energi det behövs för att skapa en blomstrande sjungande värld.",
       "price": "4 500",
       "year": "2022",
-      "status": "available",
+      "status": "sold",
       "material": {
         "medium": "Akryl",
         "base": "duk"
@@ -872,7 +872,7 @@
       "description": "Månen; påminnelsen om det föränderliga och samtidigt bestående. Den som ibland är hel och ibland halv. Lite som våra sinnliga och kroppsliga upplevelser och förmågor.",
       "price": "5 000",
       "year": "2021",
-      "status": "available",
+      "status": "sold",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Akryl, bläck",
