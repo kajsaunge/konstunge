@@ -1,6 +1,53 @@
 {
   "pieces": [
     {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "En klassisk superstjärna, tagen ur sin kontext, avklädd och knivskarp. Tiden var en annan men orden är värda att upprepas: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' och 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "price": "7 500",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - akryl mm",
+        "base": "duk"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["duk", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_00.jpg",
+          "alt": "Tavlan 'Audrey' i galleriet"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' framifrån"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_02.jpg",
+          "alt": "'audrey' närbild"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_03.jpg",
+          "alt": "'audrey' närbild"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_04.jpg",
+          "alt": "'audrey'"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_05.jpg",
+          "alt": "'Audrey' med signatur"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' framifrån"
+        }
+      ]
+    },
+    {
       "slug": "/feels",
       "path": "/feels",
       "name": "Feels",
@@ -96,6 +143,49 @@
       ]
     },
     {
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
+      "price": "5 900",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Akryl",
+        "base": "duk"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["duk", "akryl", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "Tavlan Queen i galleriet"
+        },
+        {
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "Tavlan Queen framifrån"
+        },
+        {
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Närbild på tavlan Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Närbild på tavlan Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen från sidan"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen framifrån"
+        }
+      ]
+    },
+    {
       "slug": "/aaaah",
       "path": "/aaaah",
       "name": "Aaaah",
@@ -139,96 +229,58 @@
       ]
     },
     {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "En klassisk superstjärna, tagen ur sin kontext, avklädd och knivskarp. Tiden var en annan men orden är värda att upprepas: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' och 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
-      "price": "7 500",
-      "year": "2024",
-      "status": "new",
-      "material": {
-        "medium": "Mixed media - akryl mm",
-        "base": "duk"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["duk", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/audrey/audrey_00.jpg",
-          "alt": "Tavlan 'Audrey' i galleriet"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' framifrån"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_02.jpg",
-          "alt": "'audrey' närbild"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_03.jpg",
-          "alt": "'audrey' närbild"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_04.jpg",
-          "alt": "'audrey'"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_05.jpg",
-          "alt": "'Audrey' med signatur"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' framifrån"
-        }
-      ]
-    },
-    {
-      "slug": "/no-promises",
-      "path": "/no-promises",
-      "name": "No promises",
-      "description": "Allt är föränderligt. Man kan ha en plan och en tanke, men ofta blir det lite annorlunda, eller helt. Att vara öppen och mottaglig för det som kommer längs vägen behöver inte betyda att man ska svälja allt med hull och hår (blä) men det kan leda till fantastiska saker. Vem vet, kanske och plötsligt växer en oväntad knopp upp och skjuter iväg. Vart ska den?",
-      "price": "4 900",
-      "year": "2024",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "slug": "/aldrig-ensam",
+      "path": "/aldrig-ensam",
+      "name": "Aldrig ensam",
+      "description": "Hon är inte ensam. Har aldrig varit det. I den kyliga världen som omger henne står hon stadig, varm och trygg. Tveklöst rör hon sig mot nya äventyr. Aldrig ensam.",
+      "price": "6 900",
+      "year": "2023",
       "status": "available",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
-        "medium": "Akryl",
+        "medium": "Mixed media - akryl, sparyfärg mm",
         "base": "pannå"
       },
-      "width": "38",
-      "height": "38",
-      "tags": ["pannå", "akryl", "floral", "shadowbox"],
+      "width": "43",
+      "height": "70",
+      "tags": ["pannå", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/no-promises/no-promises_0.jpg",
-          "alt": "Tavlan No promises i galleriet"
+          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
+          "alt": "Tavlan 'Aldrig ensam' i galleriet"
         },
         {
-          "src": "/static/paintings/no-promises/no-promises_2.jpg",
-          "alt": "Närbild på tavlan No promises"
+          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
+          "alt": "'Aldrig ensam' i ateljen"
         },
         {
-          "src": "/static/paintings/no-promises/no-promises_3.jpg",
-          "alt": "Närbild på tavlan No promises"
+          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
+          "alt": "'Aldrig ensam' närbild"
         },
         {
-          "src": "/static/paintings/no-promises/no-promises_4.jpg",
-          "alt": "Närbild på tavlan No promises"
+          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
+          "alt": "'Aldrig ensam' från sidan"
         },
         {
-          "src": "/static/paintings/no-promises/no-promises_5.jpg",
-          "alt": "Närbild på tavlan No promises"
+          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
+          "alt": "'Aldrig ensam'"
         },
         {
-          "src": "/static/paintings/no-promises/no-promises_1.jpg",
-          "alt": "Tavlan No promises i sin helhet"
+          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
+          "alt": "'Aldrig ensam'"
         }
       ]
     },
+
     {
       "slug": "/spool-of-thread",
       "path": "/spool-of-thread",
@@ -272,49 +324,7 @@
         }
       ]
     },
-    {
-      "slug": "/queen",
-      "path": "/queen",
-      "name": "Queen",
-      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
-      "price": "5 900",
-      "year": "2024",
-      "status": "new",
-      "material": {
-        "medium": "Akryl",
-        "base": "duk"
-      },
-      "width": "45",
-      "height": "55",
-      "tags": ["duk", "akryl", "female", "animal"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/queen/queen_00.jpg",
-          "alt": "Tavlan Queen i galleriet"
-        },
-        {
-          "src": "/static/paintings/queen/queen_01.jpg",
-          "alt": "Tavlan Queen framifrån"
-        },
-        {
-          "src": "/static/paintings/queen/queen_02.jpg",
-          "alt": "Närbild på tavlan Queen"
-        },
-        {
-          "src": "/static/paintings/queen/queen_03.jpg",
-          "alt": "Närbild på tavlan Queen"
-        },
-        {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "Tavlan Queen från sidan"
-        },
-        {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "Tavlan Queen framifrån"
-        }
-      ]
-    },
+
     {
       "slug": "/frankie",
       "path": "/frankie",
@@ -485,126 +495,6 @@
       ]
     },
     {
-      "slug": "/rearview",
-      "path": "/rearview",
-      "name": "Rearview",
-      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "8 900",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - akryl mm",
-        "base": "pannå"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["pannå", "mixed media", "shadowbox"],
-      "category": "original",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
-          "alt": "Tavlan 'Rearview' i ram"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "Tavlan 'Rearview' i miljö"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/aldrig-ensam",
-      "path": "/aldrig-ensam",
-      "name": "Aldrig ensam",
-      "description": "Hon är inte ensam. Har aldrig varit det. I den kyliga världen som omger henne står hon stadig, varm och trygg. Tveklöst rör hon sig mot nya äventyr. Aldrig ensam.",
-      "price": "6 900",
-      "year": "2023",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media - akryl, sparyfärg mm",
-        "base": "pannå"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["pannå", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
-          "alt": "Tavlan 'Aldrig ensam' i galleriet"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
-          "alt": "'Aldrig ensam' i ateljen"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
-          "alt": "'Aldrig ensam' närbild"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
-          "alt": "'Aldrig ensam' från sidan"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
-          "alt": "'Aldrig ensam'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
-          "alt": "'Aldrig ensam'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
-          "alt": "'Aldrig ensam'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
-          "alt": "'Aldrig ensam'"
-        }
-      ]
-    },
-
-    {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "Men inte längre",
-      "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
-      "price": "8 000",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - akryl, krita mm",
-        "base": "duk"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["duk", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "Tavlan 'Men inte längre' i galleriet"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'Men inte längre' från vinkel"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'Men inte längre' närbild"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'Men inte längre' närbild"
-        }
-      ]
-    },
-    {
       "slug": "/deer-her",
       "path": "/deer-her",
       "name": "Deer her",
@@ -712,6 +602,41 @@
       ]
     },
     {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "Men inte längre",
+      "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
+      "price": "8 000",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - akryl, krita mm",
+        "base": "duk"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["duk", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "Tavlan 'Men inte längre' i galleriet"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'Men inte längre' från vinkel"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'Men inte längre' närbild"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'Men inte längre' närbild"
+        }
+      ]
+    },
+    {
       "slug": "/furilden",
       "path": "/furilden",
       "name": "Furilden",
@@ -739,7 +664,122 @@
         }
       ]
     },
-
+    {
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
+      "price": "8 900",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["pannå", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
+          "alt": "Tavlan 'Rearview' i ram"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "Tavlan 'Rearview' i miljö"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/no-promises",
+      "path": "/no-promises",
+      "name": "No promises",
+      "description": "Allt är föränderligt. Man kan ha en plan och en tanke, men ofta blir det lite annorlunda, eller helt. Att vara öppen och mottaglig för det som kommer längs vägen behöver inte betyda att man ska svälja allt med hull och hår (blä) men det kan leda till fantastiska saker. Vem vet, kanske och plötsligt växer en oväntad knopp upp och skjuter iväg. Vart ska den?",
+      "price": "4 900",
+      "year": "2024",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "pannå"
+      },
+      "width": "38",
+      "height": "38",
+      "tags": ["pannå", "akryl", "floral", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/no-promises/no-promises_0.jpg",
+          "alt": "Tavlan No promises i galleriet"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_2.jpg",
+          "alt": "Närbild på tavlan No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_3.jpg",
+          "alt": "Närbild på tavlan No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_4.jpg",
+          "alt": "Närbild på tavlan No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_5.jpg",
+          "alt": "Närbild på tavlan No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_1.jpg",
+          "alt": "Tavlan No promises i sin helhet"
+        }
+      ]
+    },
+    {
+      "slug": "/security",
+      "path": "/security",
+      "name": "Security",
+      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
+      "price": "8 900",
+      "year": "2021",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media - akryl, krita, bläck mm",
+        "base": "pannå"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["pannå", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/security/security_00.jpg",
+          "alt": "Tavlan 'Security' i ram"
+        },
+        {
+          "src": "/static/paintings/security/security_1.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_2.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_3.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_5.jpg",
+          "alt": "Tavlan 'Security' i miljö"
+        }
+      ]
+    },
     {
       "slug": "/over-this",
       "path": "/over-this",
@@ -972,46 +1012,7 @@
         }
       ]
     },
-    {
-      "slug": "/security",
-      "path": "/security",
-      "name": "Security",
-      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
-      "price": "8 900",
-      "year": "2021",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media - akryl, krita, bläck mm",
-        "base": "pannå"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["pannå", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/security/security_00.jpg",
-          "alt": "Tavlan 'Security' i ram"
-        },
-        {
-          "src": "/static/paintings/security/security_1.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_2.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_3.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_5.jpg",
-          "alt": "Tavlan 'Security' i miljö"
-        }
-      ]
-    },
+
     {
       "slug": "/annanhorisont",
       "path": "/annanhorisont",
