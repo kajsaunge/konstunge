@@ -90,7 +90,7 @@ const Home = () => {
               })}
           </ul>
         </section>
-        <section className={styles.exhibitions}>
+        {/* <section className={styles.exhibitions}>
           <div className={styles.hrLine}></div>
           <PageIntro
             level={1}
@@ -108,7 +108,7 @@ const Home = () => {
               />
             </a>
           </Link>
-        </section>
+        </section> */}
       </main>
     </>
   );

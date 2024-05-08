@@ -10,6 +10,7 @@ import Card from '@/Card';
 import styles from '../styles/Utstallningar.module.css';
 import Link from 'next/link';
 
+const juste = '/static/news/juste.jpg';
 const galleri86 = '/static/news/insta-post.png';
 const gaStan = '/static/news/ga_stan.jpg';
 const husby = '/static/news/husby-salong.png';
@@ -38,6 +39,53 @@ const Utstallningar = () => {
 
         <div className={styles.mainContent}>
           <div className={styles.mainContentImage}>
+            <a target='_blank' href='https://justegallery.com/'>
+              <img
+                width={372}
+                height={520}
+                src={juste}
+                alt={juste}
+                className={styles.mainContentImage}
+              />
+            </a>
+          </div>
+          <div className={styles.mainContentTextBlock}>
+            <h2>Soloutställning - Maj 2025</h2>
+
+            <p className={styles.artPieceDetails}>
+              <b>AW:</b> 9 Maj kl 16-20
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Vernissage:</b> 10 Maj kl 12-20
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Finnisage:</b> Söndag kl 12 -18
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Plats:</b> Juste Gallery, Heleneborgsgatan 14, Hornstull
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>Galleriet:</b>{' '}
+              <span className='link'>
+                <Link passHref href='https://justegallery.com/'>
+                  <a target='_blank'>Juste Gallery</a>
+                </Link>
+              </span>
+            </p>
+            <p className={styles.mainContentText}>
+              Ett varmt event där vi möts för att hylla glädje, frihet och det
+              lustfullda. Varmt välkommen att komma som du är, mingla och fira
+              in våren!
+            </p>
+          </div>
+        </div>
+
+        <div className={styles.hrLine}></div>
+        <PageIntro level={1} title='Tidigare' description='Utställningar' />
+
+        <div className={styles.mainContent}>
+          <div className={styles.outdatedOverlay}></div>
+          <div className={styles.mainContentImage}>
             <a target='_blank' href='https://fb.me/e/6INFT9A3g'>
               <img
                 width={372}
@@ -60,7 +108,7 @@ const Utstallningar = () => {
               <b>Vernissage:</b> 4 Maj kl 12-20
             </p>
             <p className={styles.artPieceDetails}>
-              <b>Övriga tider:</b> Söndag kl 12 -18, måndag kl 12-18
+              <b>Övriga tider:</b> Söndag + måndag kl 12 -18
             </p>
             <p className={styles.artPieceDetails}>
               <b>Plats:</b> Galleri86Stockholm, Skånegatan 86, Stockholm
@@ -85,8 +133,6 @@ const Utstallningar = () => {
             </p>
           </div>
         </div>
-        <div className={styles.hrLine}></div>
-        <PageIntro level={1} title='Tidigare' description='Utställningar' />
 
         <div className={styles.mainContent}>
           <div className={styles.outdatedOverlay}></div>
