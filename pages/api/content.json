@@ -5,7 +5,7 @@
       "path": "/audrey",
       "name": "Audrey",
       "description": "En klassisk superstjärna, tagen ur sin kontext, avklädd och knivskarp. Tiden var en annan men orden är värda att upprepas: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' och 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
-      "price": "7 500",
+      "price": "7 300",
       "year": "2024",
       "status": "new",
       "material": {
@@ -99,7 +99,7 @@
       "path": "/ufo",
       "name": "U.F.O",
       "description": "Lockelsen, det förföriska. Det insugande, josiga, förvirrande goda. Det som ihärdigt drar i en, det man inte kommer undan, knappt alls. Kärleken, passionen, besattheten - må den aldrig försvinna, må den vara barmhärtig. Så totalt utplånande förgörande. Vad vore livet utan?",
-      "price": "8 900",
+      "price": "9 800",
       "year": "2023",
       "status": "new",
       "material": {
@@ -147,7 +147,7 @@
       "path": "/queen",
       "name": "Queen",
       "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
-      "price": "5 900",
+      "price": "6 500",
       "year": "2024",
       "status": "new",
       "material": {
@@ -233,7 +233,7 @@
       "path": "/aldrig-ensam",
       "name": "Aldrig ensam",
       "description": "Hon är inte ensam. Har aldrig varit det. I den kyliga världen som omger henne står hon stadig, varm och trygg. Tveklöst rör hon sig mot nya äventyr. Aldrig ensam.",
-      "price": "6 900",
+      "price": "7 800",
       "year": "2023",
       "status": "available",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
@@ -419,7 +419,7 @@
       "path": "/curiosity",
       "name": "Curiosity",
       "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
-      "price": "8 900",
+      "price": "9 800",
       "year": "2023",
       "status": "available",
       "material": {
@@ -455,7 +455,7 @@
       "path": "/hoppet",
       "name": "Hoppet",
       "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
-      "price": "6 900",
+      "price": "7 800",
       "year": "2023",
       "status": "available",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
@@ -563,7 +563,7 @@
       "path": "/the-inner",
       "name": "The inner",
       "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
-      "price": "6 000",
+      "price": "6 800",
       "year": "2023",
       "status": "available",
       "material": {
@@ -606,7 +606,7 @@
       "path": "/men-inte-langre",
       "name": "Men inte längre",
       "description": "När de initiala Wow:en i allt snabbare takt bytts ut till ett själadödande Meh. När den pirrande nyfikenheten och pidestaluppsättandet ersatts av vältrande cynism alldeles för ofta, jämt. Då är det dags att ändra riktning, dags för förändring. Hit men inte längre.",
-      "price": "8 000",
+      "price": "9 000",
       "year": "2023",
       "status": "available",
       "material": {
@@ -641,7 +641,7 @@
       "path": "/furilden",
       "name": "Furilden",
       "description": "Som barn cyklade jag, min storebror och byns andra barn ut på ön Furilden. Vår fantasi, eller i alla fall min, förvandlade detta karga och industriella landskap till något av ett färgsprakande tivoli. Idag är detta ett populärt resmål på Gotland med bla ett fantastiskt snyggt hotell och en vinbar i ett av grustagen. Skapandet av denna målning kom fram intuitivt, helt utan plan eller medveten styrning och ligger mig varmt om hjärtat.",
-      "price": "6 500",
+      "price": "6 800",
       "year": "2022",
       "status": "available",
       "frame": "ingår",
@@ -669,7 +669,7 @@
       "path": "/rearview",
       "name": "Rearview",
       "description": "Vi ser över varandras axlar så att vi båda kan se framåt. Du och jag, nu och för alltid.",
-      "price": "8 900",
+      "price": "9 800",
       "year": "2023",
       "status": "available",
       "material": {
@@ -701,7 +701,7 @@
       "path": "/no-promises",
       "name": "No promises",
       "description": "Allt är föränderligt. Man kan ha en plan och en tanke, men ofta blir det lite annorlunda, eller helt. Att vara öppen och mottaglig för det som kommer längs vägen behöver inte betyda att man ska svälja allt med hull och hår (blä) men det kan leda till fantastiska saker. Vem vet, kanske och plötsligt växer en oväntad knopp upp och skjuter iväg. Vart ska den?",
-      "price": "4 900",
+      "price": "5 300",
       "year": "2024",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "status": "available",
@@ -745,7 +745,7 @@
       "path": "/security",
       "name": "Security",
       "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
-      "price": "8 900",
+      "price": "9 800",
       "year": "2021",
       "status": "available",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
@@ -942,7 +942,7 @@
       "path": "/everseeing",
       "name": "Ever seeing",
       "description": "Hon vet så mycket mer. Hon ser. Hon är starkare. Hon kommer stå kvar. Om hon vill. För behövs det så vänder hon utan att se sig om.",
-      "price": "7 500",
+      "price": "7 300",
       "year": "2023",
       "status": "available",
       "material": {
@@ -980,39 +980,6 @@
         }
       ]
     },
-
-    {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "Vår oförglömliga stjärna med sina rådjursliknande ögon, här tillsammans med naturen och djuren.",
-      "price": "3 000",
-      "year": "2021",
-      "status": "hide",
-      "material": {
-        "medium": "Mixed media - akryl mm",
-        "base": "duk"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["duk", "akryl", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/audrey/audrey_0.jpg",
-          "alt": "Tavlan 'Audrey' framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_1.jpeg",
-          "alt": "Tavlan 'Audrey' utan ram framifrån"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_2.jpg",
-          "alt": "Tavlan 'Audrey' i närbild"
-        }
-      ]
-    },
-
     {
       "slug": "/annanhorisont",
       "path": "/annanhorisont",
@@ -1049,7 +1016,7 @@
       "path": "/dimensions",
       "name": "Dimensions",
       "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
-      "price": "6 500",
+      "price": "7 300",
       "year": "2023",
       "status": "available",
       "material": {
@@ -1424,7 +1391,7 @@
       "path": "/newyork",
       "name": "New york",
       "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "7 500",
+      "price": "9 400",
       "year": "2020",
       "status": "available",
       "material": {
