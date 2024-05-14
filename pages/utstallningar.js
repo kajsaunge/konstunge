@@ -1,14 +1,12 @@
 import Head from 'next/head';
-import Image from 'next/image';
+import Link from 'next/link';
 import NextLink from 'next/link';
-import { motion } from 'framer-motion';
 
 import PageIntro from '@/pageIntro';
 import content from './api/content.json';
 import Card from '@/Card';
 
 import styles from '../styles/Utstallningar.module.css';
-import Link from 'next/link';
 
 const juste = '/static/news/juste.jpg';
 const galleri86 = '/static/news/insta-post.png';
