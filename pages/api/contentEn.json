@@ -231,7 +231,7 @@
     {
       "slug": "/aldrig-ensam",
       "path": "/aldrig-ensam",
-      "name": "Aldrig ensam",
+      "name": "Never alone",
       "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
       "price": "7 800",
       "year": "2023",
@@ -248,35 +248,35 @@
       "images": [
         {
           "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
-          "alt": "The painting 'Aldrig ensam' in the gallery"
+          "alt": "The painting 'Never alone' in the gallery"
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
-          "alt": "'Aldrig ensam' i ateljen"
+          "alt": "'Never alone' i ateljen"
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
-          "alt": "'Aldrig ensam' closeup"
+          "alt": "'Never alone' closeup"
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
-          "alt": "'Aldrig ensam' from the side"
+          "alt": "'Never alone' from the side"
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
-          "alt": "'Aldrig ensam'"
+          "alt": "'Never alone'"
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
-          "alt": "'Aldrig ensam'"
+          "alt": "'Never alone'"
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
-          "alt": "'Aldrig ensam'"
+          "alt": "'Never alone'"
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
-          "alt": "'Aldrig ensam'"
+          "alt": "'Never alone'"
         }
       ]
     },
@@ -452,7 +452,7 @@
     {
       "slug": "/hoppet",
       "path": "/hoppet",
-      "name": "Hoppet",
+      "name": "The hope",
       "description": "She doesn't give up. She turns her gaze and looks at the sky. There is the warmth, the one that confirms and sees. That gives hope and courage, that takes her forward again.",
       "price": "7 800",
       "year": "2023",
@@ -469,27 +469,27 @@
       "images": [
         {
           "src": "/static/paintings/hoppet/hoppet_00.jpg",
-          "alt": "The painting 'Hoppet' in the gallery"
+          "alt": "The painting 'The hope' in the gallery"
         },
         {
           "src": "/static/paintings/hoppet/20231123_063631.jpg",
-          "alt": "'Hoppet' i ateljen"
+          "alt": "'The hope' i ateljen"
         },
         {
           "src": "/static/paintings/hoppet/20231123_063602.jpg",
-          "alt": "'Hoppet' i ateljen"
+          "alt": "'The hope' i ateljen"
         },
         {
           "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
-          "alt": "'Hoppet' closeup"
+          "alt": "'The hope' closeup"
         },
         {
           "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
-          "alt": "'Hoppet'"
+          "alt": "'The hope'"
         },
         {
           "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
-          "alt": "'Hoppet'"
+          "alt": "'The hope'"
         }
       ]
     },
@@ -529,7 +529,7 @@
     {
       "slug": "/elden",
       "path": "/elden",
-      "name": "Elden",
+      "name": "Fire",
       "description": "She who is on fire. She who has been there, she who has seen. She who doesn't waste her energy explaining the obvious. She who has a heart filled to the brim with undoubted love for herself as well.",
       "price": "3 000",
       "year": "2023",
@@ -545,15 +545,15 @@
       "images": [
         {
           "src": "/static/paintings/elden/elden_00.jpg",
-          "alt": "The painting 'Elden' straight on"
+          "alt": "The painting 'Fire' straight on"
         },
         {
           "src": "/static/paintings/elden/elden.jpg",
-          "alt": "The painting 'Elden' in the gallery"
+          "alt": "The painting 'Fire' in the gallery"
         },
         {
           "src": "/static/paintings/elden/elden_1.jpg",
-          "alt": "The painting 'Elden' in situ"
+          "alt": "The painting 'Fire' in situ"
         }
       ]
     },
@@ -603,7 +603,7 @@
     {
       "slug": "/men-inte-langre",
       "path": "/men-inte-langre",
-      "name": "Men inte längre",
+      "name": "But no longer",
       "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
       "price": "9 600",
       "year": "2023",
@@ -619,19 +619,19 @@
       "images": [
         {
           "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "The painting 'Men inte längre' in the gallery"
+          "alt": "The painting 'But no longer' in the gallery"
         },
         {
           "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'Men inte längre' från vinkel"
+          "alt": "'But no longer' från vinkel"
         },
         {
           "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'Men inte längre' closeup"
+          "alt": "'But no longer' closeup"
         },
         {
           "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'Men inte längre' closeup"
+          "alt": "'But no longer' closeup"
         }
       ]
     },
@@ -982,7 +982,7 @@
     {
       "slug": "/annanhorisont",
       "path": "/annanhorisont",
-      "name": "Annan horisont",
+      "name": "Different horizon",
       "description": "The red gaze brightens, inside and out. Joy, tranquility and freedom are reawakened. That which has always been there but lost. Now fucking",
       "price": "2 800",
       "year": "2023",
@@ -998,15 +998,15 @@
       "images": [
         {
           "src": "/static/paintings/annanhorisont/annanhorisont.jpg",
-          "alt": "The painting 'Annan horisont' in the gallery"
+          "alt": "The painting 'Different horizon' in the gallery"
         },
         {
           "src": "/static/paintings/annanhorisont/20231102_103205.jpg",
-          "alt": "'Annan horisont' från vinkel"
+          "alt": "'Different horizon' från vinkel"
         },
         {
           "src": "/static/paintings/annanhorisont/20231102_103340.jpg",
-          "alt": "'Annan horisont' closeup"
+          "alt": "'Different horizon' closeup"
         }
       ]
     },
@@ -1334,19 +1334,19 @@
       "images": [
         {
           "src": "/static/paintings/owl/owl_0.jpg",
-          "alt": "The painting 'Owl' framed"
+          "alt": "The painting 'The compass' framed"
         },
         {
           "src": "/static/paintings/owl/owl_1.jpg",
-          "alt": "'Owl' from the side"
+          "alt": "'The compass' from the side"
         },
         {
           "src": "/static/paintings/owl/owl_2.jpg",
-          "alt": "'Owl' closeup"
+          "alt": "'The compass' closeup"
         },
         {
           "src": "/static/paintings/owl/owl_3.jpg",
-          "alt": "'Owl' closeup"
+          "alt": "'The compass' closeup"
         }
       ]
     },
@@ -1526,7 +1526,7 @@
     {
       "slug": "/for-evigt",
       "path": "/for-evigt",
-      "name": "För evigt",
+      "name": "For ever",
       "description": "We are like cranes that have chosen each other, forever. Love wins, we win.",
       "price": "7 500",
       "year": "2020",
@@ -1542,19 +1542,19 @@
       "images": [
         {
           "src": "/static/paintings/for-evigt/for-evigt_0.jpg",
-          "alt": "The painting 'För evigt' straight on"
+          "alt": "The painting 'For ever' straight on"
         },
         {
           "src": "/static/paintings/for-evigt/for-evigt_1.jpg",
-          "alt": "The painting 'För evigt' straight on"
+          "alt": "The painting 'For ever' straight on"
         },
         {
           "src": "/static/paintings/for-evigt/for-evigt_2.jpg",
-          "alt": "The painting 'För evigt' closeup"
+          "alt": "The painting 'For ever' closeup"
         },
         {
           "src": "/static/paintings/for-evigt/for-evigt_3.jpg",
-          "alt": "The painting 'För evigt' closeup"
+          "alt": "The painting 'For ever' closeup"
         }
       ]
     },
@@ -1674,7 +1674,7 @@
     {
       "slug": "/starksarbar",
       "path": "/starksarbar",
-      "name": "Stark och sårbar",
+      "name": "Strong and vulnerable",
       "description": "\"I am the beautiful in nature, I am the sweet in a berry. I am the mysterious thing in the night. I am the view you hold dear. I am the smooth warm breeze. I'm the sweetest of an evening, I'm the sweetest of mornings. And the wildest of fires.\"\n- Moonica Mac",
       "price": "6 500",
       "year": "2023",
@@ -1690,19 +1690,19 @@
       "images": [
         {
           "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
-          "alt": "The painting 'Stark och sårbar' in the gallery"
+          "alt": "The painting 'Strong and vulnerable' in the gallery"
         },
         {
           "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
-          "alt": "The painting 'Stark och sårbar'"
+          "alt": "The painting 'Strong and vulnerable'"
         },
         {
           "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
-          "alt": "'Stark och sårbar' from the side"
+          "alt": "'Strong and vulnerable' from the side"
         },
         {
           "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
-          "alt": "'Stark och sårbar' in situ"
+          "alt": "'Strong and vulnerable' in situ"
         }
       ]
     },
