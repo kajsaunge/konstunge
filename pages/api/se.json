@@ -1,0 +1,106 @@
+{
+  "header": {
+    "exhibit": "Utställning",
+    "gallery": "Galleri",
+    "about": "Om",
+    "contact": "Kontakt"
+  },
+  "landing": {
+    "pageTitle": "Konst[galleri] | Kajsa Unge",
+    "title": "Galleri",
+    "titleDesc": "Konst för unika rum"
+  },
+  "exhibition": {
+    "pageTitle": "Utställningar[konst] | Kajsa Unge",
+    "title": "Utställningar",
+    "titleDesc": "Kommande",
+    "titlePrev": "Tidigare",
+    "titleDescPrev": "Utställningar",
+    "exhibitionDetails": {
+      "aw": "AW",
+      "vernissage": "Vernissage",
+      "finnisage": "Finnisage",
+      "place": "Plats",
+      "gallery": "Galleriet"
+    },
+    "exhibitions": {
+      "juste": {
+        "title": "Soloutställning - Maj 2025",
+        "aw": "9 Maj kl 16-20",
+        "vernissage": "10 Maj kl 12-20",
+        "finnisage": "Söndag kl 12 -18",
+        "place": "Juste Gallery, Heleneborgsgatan 14, Hornstull",
+        "url": "https://justegallery.com/",
+        "urlText": "Juste Gallery",
+        "desc": "Ett varmt event där vi möts för att hylla glädje, frihet och det lustfullda. Välkommen att komma som du är, mingla och fira in våren!"
+      }
+    }
+  },
+  "about": {
+    "pageTitle": "Om[konst] | Kajsa Unge",
+    "title": "Om konstnären",
+    "titleDesc": "Kajsa Unge",
+    "intro1": "Skapandet är främst inspirerat av intryck, känslor och tankar. Men även av uppväxten på vackra Gotland, blandad med intryck från andra delar av världen och vårt underbara Stockholm. Materialen varierar och oftast är det akryl som får landa vilt på stora plywoodskivor.",
+    "quote": "'Motiven får växa fram organiskt utan någon direkt plan, vilket skapar flow i skapandet och konstverken.'",
+    "intro2": "Drivet och passionen för att skapa har följt med sedan barndomen där mamma Lisa spelat en stor och viktig roll. Hon var en stark kvinna som följde sin passion och sina drömmar, trots samhällsnormerna som regerade under 80-talet. Ursprungdet av de starka feminina krafterna genomsyrar konstverken och får blandas med fascinationen av djur och natur, människa och samhälle.",
+    "intro3": "Sidan växer i takt med skapandet där mer info och konst läggs till allteftersom. Hör gärna av dig till",
+    "intro4": "med förfrågningar."
+  },
+  "contact": {
+    "pageTitle": "Kontakt[beställning] | Kajsa Unge",
+    "title": "Kontakt",
+    "titleDesc": "Förfrågning och beställning",
+    "intro": "Har du några som helst frågor kring konsten, ett potentiellt samarbete eller bara vill snacka lite når du mig enklast på",
+    "intro2": ". Du kan även använda formuläret här på sidan.",
+    "order": "Beställning",
+    "orderDesc1": "För beställning fyller du i formuläret eller skickar ett mail till",
+    "orderDesc2": "Skriv i meddelandet hur du vill få din tavle levererad, många av konstverken går att leverera via bud eller post medan andra väger en del och eventuellt är för stora för att skickas. I det senare fallet brukar jag och köparen komma överens om leverans i Stockholms-området alternativt upphämtning i studion, det som passar bäst.",
+    "orderDesc3": "Studion hittar ni ca 35 minuter söder om Stockholm city.",
+    "form": {
+      "name": "Namn",
+      "namePlaceholder": "Ditt namn",
+      "mail": "E-post",
+      "mailPlaceholder": "Din e-post",
+      "message": "Meddelande",
+      "messagePlaceholder": "Ditt meddelande",
+      "submit": "Skicka",
+      "successMsg": "Yey! Du får återkoppling inom kort :)"
+    }
+  },
+  "slug": {
+    "breadcrumb": "Till galleriet",
+    "pageTitle": "Konstverk:",
+    "title": "Originalmålning:",
+    "titleDesc": "Konst för unika rum",
+    "detailsTitle": "Detaljer",
+    "year": "Årtal",
+    "price": "Pris",
+    "size": "Storlek",
+    "material": "Material",
+    "frame": "Ram",
+    "requestFrame": "Tillgänglig vid förfrågan",
+    "delivery": "Leverans",
+    "order": "Beställning",
+    "pickup": "Upphämtning i Stockholm",
+    "order1": "För beställning fyller du i formuläret eller skickar ett mail till",
+    "order2": "Skriv i meddelandet hur du vill få din tavle levererad. Många av konstverken går att leverara via bud eller post medanandra väger en del och eventuellt är för stora för att skickas. I det senare fallet brukar jag och köparen komma överens om leverans i Stockholms-området alternativt upphämtning i studion, det som passar bäst.",
+    "order3": "Studion ligger i Grödinge, ca 40 minuter söder om Stockholm city."
+  },
+  "card": {
+    "size": "Storlek:",
+    "price": "Pris:",
+    "status": "",
+    "frame": " (ram ingår)",
+    "new": "Ny",
+    "reserved": "Bokad",
+    "sold": "Såld"
+  },
+  "general": {
+    "more": "Se fler",
+    "gallery": "Galleri",
+    "galleryDesc": "Originalmålningar",
+    "priceUnit": "kr",
+    "sizeUnit": "cm",
+    "on": "på"
+  }
+}

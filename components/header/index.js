@@ -5,9 +5,10 @@ import Logo from '@/icons/logo';
 
 import styles, { linkHightlight } from './Header.module.css';
 
-const Header = () => {
+const Header = ({ content }) => {
   const router = useRouter();
   const activeLink = router.asPath;
+  const { header } = content;
 
   return (
     <header className={styles.header}>
@@ -26,7 +27,7 @@ const Header = () => {
                   activeLink === '/utstallningar' ? linkHightlight : ''
                 }`}
               >
-                Utställningar
+                {header.exhibit}
               </a>
             </NextLink>
           </li>
@@ -38,7 +39,7 @@ const Header = () => {
                   activeLink === '/' ? linkHightlight : ''
                 }`}
               >
-                Galleri
+                {header.gallery}
               </a>
             </NextLink>
             <p className='visually-hidden'>
@@ -54,7 +55,7 @@ const Header = () => {
                   activeLink === '/om' ? linkHightlight : ''
                 }`}
               >
-                Om
+                {header.about}
               </a>
             </NextLink>
             <p className='visually-hidden'>
@@ -71,7 +72,7 @@ const Header = () => {
                   activeLink === '/kontakt' ? linkHightlight : ''
                 }`}
               >
-                Kontakt
+                {header.contact}
               </a>
             </NextLink>
             <p className='visually-hidden'>

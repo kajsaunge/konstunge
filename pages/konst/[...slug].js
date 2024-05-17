@@ -1,7 +1,11 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router';
 
-import content from '../api/content.json';
+// import contentArt from '../api/content.json';
+import contentArtEn from '../api/contentEn.json';
+// import contentSe from '../api/se.json';
+import contentEn from '../api/en.json';
+
 import Form from '@/form';
 import ImageGallery from '@/imageGallery';
 import PageIntro from '@/pageIntro';
@@ -9,13 +13,15 @@ import PageIntro from '@/pageIntro';
 import styles from '../../styles/Produkt.module.css';
 
 const Product = ({ piece }) => {
+  const content = contentEn;
   const router = useRouter();
-  const hasFrame = piece.frame ? piece.frame : 'Tillgänglig vid förfrågan';
+  const hasFrame = piece.frame ? piece.frame : content.slug.requestFrame;
   return (
     <>
       <Head>
         <title>
-          Konstverk: {piece.name}[{piece.width}x{piece.height} cm] | Kajsa Unge
+          {content.slug.pageTitle} {piece.name}[{piece.width}x{piece.height} cm]
+          | Kajsa Unge
         </title>
         <link rel='icon' href='/favicon.ico' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
@@ -31,13 +37,13 @@ const Product = ({ piece }) => {
           className={styles.backNavWrapper}
         >
           <button className={styles.backNav} onClick={() => router.back()}>
-            Till galleriet
+            {content.slug.breadcrumb}
           </button>
         </nav>
         <PageIntro
           level={1}
-          title={`Originalmålning: ${piece.name}`}
-          description='Konst för unika rum'
+          title={`${content.slug.title} ${piece.name}`}
+          description={content.slug.titleDesc}
         />
         <div className={styles.grid}>
           <section className={styles.artPiecesWrapper}>
@@ -51,28 +57,32 @@ const Product = ({ piece }) => {
                 <p className={styles.artPieceDescription}>
                   {piece.description}
                 </p>
-                <h3 className={styles.artPieceSubTitle}>Detaljer</h3>
+                <h3 className={styles.artPieceSubTitle}>
+                  {content.slug.detailsTitle}
+                </h3>
                 <p className={styles.artPieceDetails}>
-                  <b>Årtal:</b> {piece.year}
+                  <b>{content.slug.year}</b> {piece.year}
                 </p>
                 <p className={styles.artPieceDetails}>
-                  <b>Pris:</b> {piece.price} kr
+                  <b>{content.slug.price}</b> {piece.price}{' '}
+                  {content.general.priceUnit}
                 </p>
                 <p className={styles.artPieceDetails}>
-                  <b>Storlek:</b> {piece.width}x{piece.height} cm
+                  <b>{content.slug.size}</b> {piece.width}x{piece.height}{' '}
+                  {content.general.sizeUnit}
                 </p>
                 <p className={styles.artPieceDetails}>
-                  <b>Material:</b> {piece.material.medium} på{' '}
-                  {piece.material.base}
+                  <b>{content.slug.material}</b> {piece.material.medium}{' '}
+                  {content.general.on} {piece.material.base}
                 </p>
                 {/* <p className={styles.artPieceDetails}>
                   <b>Certifikat:</b> Inkluderat
                 </p> */}
                 <p className={styles.artPieceDetails}>
-                  <b>Ram:</b> {hasFrame}
+                  <b>{content.slug.frame}</b> {hasFrame}
                 </p>
                 <p className={styles.artPieceDetails}>
-                  <b>Leverans:</b> Upphämtning i Stockholm
+                  <b>{content.slug.delivery}</b> {content.slug.pickup}
                 </p>
               </div>
             </div>
@@ -86,20 +96,16 @@ const Product = ({ piece }) => {
           }
         >
           <div>
-            <h3 className={styles.artPieceFooterTitle}>Beställning</h3>
+            <h3 className={styles.artPieceFooterTitle}>{content.slug.order}</h3>
             <p className={styles.artPieceDetails}>
-              För beställning fyller du i formuläret eller skickar ett mail till{' '}
+              {content.slug.order1}{' '}
               <a className='link' href='mailto:konst@kajsaunge.se'>
                 konst@kajsaunge.se
               </a>
-              . <br /> Skriv i meddelandet hur du vill få din tavle levererad.
-              Många av konstverken går att leverara via bud eller post medan
-              andra väger en del och eventuellt är för stora för att skickas. I
-              det senare fallet brukar jag och köparen komma överens om leverans
-              i Stockholms-området alternativt upphämtning i studion, det som
-              passar bäst. <br />
+              . <br /> {content.slug.order2}
               <br />
-              Studion ligger i Grödinge, ca 40 minuter söder om Stockholm city.
+              <br />
+              {content.slug.order3}
             </p>
           </div>
           <Form messagePlaceholder='Din beställning' submit='Beställ' />
@@ -110,7 +116,7 @@ const Product = ({ piece }) => {
 };
 
 export async function getStaticPaths() {
-  const paths = content.pieces.map((piece) => {
+  const paths = contentArtEn.pieces.map((piece) => {
     const slug = piece.slug.split('/').slice(1);
     return { params: { slug } };
   });
@@ -121,7 +127,9 @@ export async function getStaticProps(context) {
   const { params } = context;
 
   const currentPath = `/${params.slug.join('/')}`;
-  const piece = content.pieces.find((piece) => piece.path === currentPath) || {
+  const piece = contentArtEn.pieces.find(
+    (piece) => piece.path === currentPath
+  ) || {
     notfound: true,
   };
   return { props: { piece } };

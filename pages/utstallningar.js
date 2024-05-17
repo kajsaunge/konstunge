@@ -3,8 +3,11 @@ import Link from 'next/link';
 import NextLink from 'next/link';
 
 import PageIntro from '@/pageIntro';
-import content from './api/content.json';
+import contentArt from './api/content.json';
 import Card from '@/Card';
+
+// import contentSe from './api/se.json';
+import contentEn from './api/en.json';
 
 import styles from '../styles/Utstallningar.module.css';
 
@@ -15,8 +18,9 @@ const husby = '/static/news/husby-salong.png';
 const gtld = '/static/news/gtld-2023.png';
 
 const Utstallningar = () => {
+  const content = contentEn;
   const selectedPieces = [];
-  content.pieces.map((item) => {
+  contentArt.pieces.map((item) => {
     if (item.name === 'Annan horisont' || item.name === 'Ever seeing') {
       selectedPieces.push(item);
     }
@@ -24,7 +28,7 @@ const Utstallningar = () => {
   return (
     <>
       <Head>
-        <title>Utställningar[konst] | Kajsa Unge</title>
+        <title>{content.exhibition.pageTitle}</title>
         <link rel='icon' href='/favicon.ico' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta
@@ -33,7 +37,11 @@ const Utstallningar = () => {
         />
       </Head>
       <main aria-label='Om Kajsa Unge' role='main' className='main'>
-        <PageIntro level={1} title='Utställningar' description='Kommande' />
+        <PageIntro
+          level={1}
+          title={content.exhibition.title}
+          description={content.exhibition.titleDesc}
+        />
 
         <div className={styles.mainContent}>
           <div className={styles.mainContentImage}>
@@ -48,38 +56,46 @@ const Utstallningar = () => {
             </a>
           </div>
           <div className={styles.mainContentTextBlock}>
-            <h2>Soloutställning - Maj 2025</h2>
+            <h2>{content.exhibition.exhibitions.juste.title}</h2>
 
             <p className={styles.artPieceDetails}>
-              <b>AW:</b> 9 Maj kl 16-20
+              <b>{content.exhibition.exhibitionDetails.aw} </b>
+              {content.exhibition.exhibitions.juste.aw}
             </p>
             <p className={styles.artPieceDetails}>
-              <b>Vernissage:</b> 10 Maj kl 12-20
+              <b>{content.exhibition.exhibitionDetails.vernissage} </b>
+              {content.exhibition.exhibitions.juste.vernissage}
             </p>
             <p className={styles.artPieceDetails}>
-              <b>Finnisage:</b> Söndag kl 12 -18
+              <b>{content.exhibition.exhibitionDetails.finnisage} </b>
+              {content.exhibition.exhibitions.juste.finnisage}
             </p>
             <p className={styles.artPieceDetails}>
-              <b>Plats:</b> Juste Gallery, Heleneborgsgatan 14, Hornstull
+              <b>{content.exhibition.exhibitionDetails.place} </b>
+              {content.exhibition.exhibitions.juste.place}
             </p>
             <p className={styles.artPieceDetails}>
-              <b>Galleriet:</b>{' '}
+              <b>{content.exhibition.exhibitionDetails.gallery} </b>{' '}
               <span className='link'>
-                <Link passHref href='https://justegallery.com/'>
-                  <a target='_blank'>Juste Gallery</a>
+                <Link passHref href={content.exhibition.exhibitions.juste.url}>
+                  <a target='_blank'>
+                    {content.exhibition.exhibitions.juste.urlText}
+                  </a>
                 </Link>
               </span>
             </p>
             <p className={styles.mainContentText}>
-              Ett varmt event där vi möts för att hylla glädje, frihet och det
-              lustfullda. Varmt välkommen att komma som du är, mingla och fira
-              in våren!
+              {content.exhibition.exhibitions.juste.desc}
             </p>
           </div>
         </div>
 
         <div className={styles.hrLine}></div>
-        <PageIntro level={1} title='Tidigare' description='Utställningar' />
+        <PageIntro
+          level={1}
+          title={content.exhibition.titlePrev}
+          description={content.exhibition.titleDescPrev}
+        />
 
         <div className={styles.mainContent}>
           <div className={styles.outdatedOverlay}></div>
@@ -259,11 +275,14 @@ const Utstallningar = () => {
           </div>
         </div>
         <div className={styles.gallery}>
-          <PageIntro title='Utvalda konstverk' description='Liten och stor' />
+          <PageIntro
+            title={content.general.gallery}
+            description={content.general.galleryDesc}
+          />
           <ul className={styles.artPieces}>
             {selectedPieces.map((item, i) => (
               <li key={i} className={styles.artPiece}>
-                <Card item={item} />
+                <Card item={item} content={content} />
               </li>
             ))}
           </ul>
@@ -273,7 +292,7 @@ const Utstallningar = () => {
             className={styles.backNavWrapper}
           >
             <NextLink href='/' as='/'>
-              Se fler
+              {content.general.more}
             </NextLink>
           </nav>
         </div>

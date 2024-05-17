@@ -1,0 +1,1776 @@
+{
+  "pieces": [
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "price": "7 300",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_00.jpg",
+          "alt": "The painting 'Audrey' in the gallery"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_02.jpg",
+          "alt": "'audrey' closeup"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_03.jpg",
+          "alt": "'audrey' closeup"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_04.jpg",
+          "alt": "'audrey'"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_05.jpg",
+          "alt": "'Audrey' signaturee"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/feels",
+      "path": "/feels",
+      "name": "Feels",
+      "description": "I don't give a damn if I look stupid, I want to feel, enjoy and live out. That what I do is also for me. Why didn't anyone say anything, before? The values are mine. And yours.",
+      "price": "3 400",
+      "year": "2024",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "20",
+      "height": "30",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/feels/feels_00.jpg",
+          "alt": "The painting 'Feels' in the gallery"
+        },
+        {
+          "src": "/static/paintings/feels/feels_01.jpg",
+          "alt": "'Feels' straight on"
+        },
+        {
+          "src": "/static/paintings/feels/feels_02.jpg",
+          "alt": "'Feels' closeup"
+        },
+        {
+          "src": "/static/paintings/feels/feels_03.jpg",
+          "alt": "'Feels' från vinkel"
+        },
+        {
+          "src": "/static/paintings/feels/feels_04.jpg",
+          "alt": "'Feels' closeup"
+        },
+        {
+          "src": "/static/paintings/feels/feels_05.jpg",
+          "alt": "'Feels' signature"
+        },
+        {
+          "src": "/static/paintings/feels/feels_01.jpg",
+          "alt": "'Feels' straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/ufo",
+      "path": "/ufo",
+      "name": "U.F.O",
+      "description": "The allure, the seductive. The absorbing, jovial, confusingly good. The things that persistently pull at you, the things you can't get away, hardly at all. Love, passion, obsession - may it never go away, may it be merciful. So totally annihilating destruction. What would life be without it?",
+      "price": "9 800",
+      "year": "2023",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics, ink, crayon etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/ufo/ufo_0.jpg",
+          "alt": "The painting 'U.F.O' framed"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_1.jpg",
+          "alt": "'U.F.O' without frame"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_2.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_3.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_4.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_5.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_0.jpg",
+          "alt": "The painting 'U.F.O' framed"
+        }
+      ]
+    },
+    {
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "To be more than you know. Braver, stronger and bigger than you realize. Preferably understood. Not just kind, soft and canvasy. To have owned and to continue to own. More.",
+      "price": "6 500",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "acrylics",
+        "base": "canvas"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["canvas", "acrylics", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "The painting Queen in the gallery"
+        },
+        {
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "The painting Queen straight on"
+        },
+        {
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Closeup on the painting Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Closeup on the painting Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "The painting Queen from the side"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "The painting Queen straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/aaaah",
+      "path": "/aaaah",
+      "name": "Aaaah",
+      "description": "A reminder to breathe, and live out. To enjoy it deeply, to not just run on, to feel the desire and go for it. Now, not later.",
+      "price": "2 800",
+      "year": "2024",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "18",
+      "height": "24",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/aaaah/aaaah_00.jpg",
+          "alt": "The painting 'Aaaah' in the gallery"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_01.jpg",
+          "alt": "'Aaaah' framifråm"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_02.jpg",
+          "alt": "'Aaaah' closeup"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_03.jpg",
+          "alt": "'Aaaah' closeup"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_05.jpg",
+          "alt": "'Aaaah' från vinkel"
+        },
+        {
+          "src": "/static/paintings/aaaah/aaaah_01.jpg",
+          "alt": "'Aaaah' framifråm"
+        }
+      ]
+    },
+    {
+      "slug": "/aldrig-ensam",
+      "path": "/aldrig-ensam",
+      "name": "Aldrig ensam",
+      "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
+      "price": "7 800",
+      "year": "2023",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, sparyfärg etc",
+        "base": "woodboard"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
+          "alt": "The painting 'Aldrig ensam' in the gallery"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
+          "alt": "'Aldrig ensam' i ateljen"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
+          "alt": "'Aldrig ensam' closeup"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
+          "alt": "'Aldrig ensam' from the side"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
+          "alt": "'Aldrig ensam'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
+          "alt": "'Aldrig ensam'"
+        }
+      ]
+    },
+
+    {
+      "slug": "/spool-of-thread",
+      "path": "/spool-of-thread",
+      "name": "Spool of thread",
+      "description": "Life is like a long thread. Sometimes it breaks and we splice with another, perhaps in a different color, thickness and quality. We wrap and roll and over the years we get richer and richer and no one is the same. Or is it the other way around? Are we the ones who are the long thread and every year we get rid of unnecessary parts, save they like. Maybe, maybe not or both.",
+      "price": "5 900",
+      "year": "2024",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "canvas"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["canvas", "acrylics", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_0.jpg",
+          "alt": "The painting Spool of thread in the gallery"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_1.jpg",
+          "alt": "Closeup on the painting Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_2.jpg",
+          "alt": "Closeup on the painting Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_3.jpg",
+          "alt": "Closeup on the painting Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_5.jpg",
+          "alt": "The painting Spool of thread without frame"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_0-black.jpg",
+          "alt": "The painting Spool of thread i svart ram"
+        }
+      ]
+    },
+
+    {
+      "slug": "/frankie",
+      "path": "/frankie",
+      "name": "Frankie",
+      "description": "To create yourself. To finally decide to actually see those good parts and kind of ignore the little \"worse\". To let go of those who are not good enough, those who take, perhaps without knowing. To be ok with that. And then later far more than ok.",
+      "price": "7 500",
+      "year": "2024",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "60",
+      "height": "90",
+      "tags": ["woodboard", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/frankie/frankie_0.jpg",
+          "alt": "The painting 'Frankie' in the gallery"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_1.jpg",
+          "alt": "'Frankie' full storlek"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_2.jpg",
+          "alt": "'Frankie' closeup"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_3.jpg",
+          "alt": "'Frankie' closeup"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_4.jpg",
+          "alt": "'Frankie' closeup"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_5.jpg",
+          "alt": "'Frankie' closeup"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_6.jpg",
+          "alt": "'Frankie' closeup"
+        },
+        {
+          "src": "/static/paintings/frankie/frankie_7.jpg",
+          "alt": "'Frankie' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/q",
+      "path": "/q",
+      "name": "Q",
+      "description": "Well, what is there to say about this work? What do you think? To me, it symbolizes the beauty of not knowing, the beauty of being inquisitive and curious. That the messy can be delightful.",
+      "price": "3 400",
+      "year": "2020",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep black wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "24",
+      "height": "33",
+      "tags": ["woodboard", "acrylics", "female", "animal", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/q/q_0.jpg",
+          "alt": "The painting Q in the gallery"
+        },
+        {
+          "src": "/static/paintings/q/q_1.jpg",
+          "alt": "The painting Q framed"
+        },
+        {
+          "src": "/static/paintings/q/q_3.jpg",
+          "alt": "The painting Q from the side"
+        },
+        {
+          "src": "/static/paintings/q/q_2.jpg",
+          "alt": "Closeup on the painting Q"
+        }
+      ]
+    },
+
+    {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Go there. Allow curiosity to lead the way. Taste, smell, feel. You don't have to decide or even know what you want, just explore.",
+      "price": "9 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_00.jpg",
+          "alt": "The painting 'Curiosity' framed"
+        },
+        {
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' without frame"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "The painting 'Curiosity' in situ"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "The painting 'Curiosity' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/hoppet",
+      "path": "/hoppet",
+      "name": "Hoppet",
+      "description": "She doesn't give up. She turns her gaze and looks at the sky. There is the warmth, the one that confirms and sees. That gives hope and courage, that takes her forward again.",
+      "price": "7 800",
+      "year": "2023",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, sprayfärg etc",
+        "base": "woodboard"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/hoppet/hoppet_00.jpg",
+          "alt": "The painting 'Hoppet' in the gallery"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063631.jpg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063602.jpg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
+          "alt": "'Hoppet' closeup"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
+          "alt": "'Hoppet'"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
+          "alt": "'Hoppet'"
+        }
+      ]
+    },
+    {
+      "slug": "/deer-her",
+      "path": "/deer-her",
+      "name": "Deer her",
+      "description": "The feminine power, soft, intuitive and seductive. With the crown on our heads, society also makes us desirable prey.",
+      "price": "5 000",
+      "year": "2020",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep black wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "34",
+      "height": "34",
+      "tags": ["woodboard", "acrylics", "female", "animal", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/deer-her/deer-her-shadowbox-black_0.png",
+          "alt": "The painting Deer her straight on"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_1.jpeg",
+          "alt": "Closeup on the painting Deer her"
+        },
+        {
+          "src": "/static/paintings/deer-her/deer-her_2.jpeg",
+          "alt": "The painting Deer her without frame"
+        }
+      ]
+    },
+
+    {
+      "slug": "/elden",
+      "path": "/elden",
+      "name": "Elden",
+      "description": "She who is on fire. She who has been there, she who has seen. She who doesn't waste her energy explaining the obvious. She who has a heart filled to the brim with undoubted love for herself as well.",
+      "price": "3 000",
+      "year": "2023",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "22",
+      "height": "27",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/elden/elden_00.jpg",
+          "alt": "The painting 'Elden' straight on"
+        },
+        {
+          "src": "/static/paintings/elden/elden.jpg",
+          "alt": "The painting 'Elden' in the gallery"
+        },
+        {
+          "src": "/static/paintings/elden/elden_1.jpg",
+          "alt": "The painting 'Elden' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/the-inner",
+      "path": "/the-inner",
+      "name": "The inner",
+      "description": "Her exterior shows one thing, her inner one another. With each passing year, her inner world grows while the outer world shrinks more and more. A feeling of lost congestion is mixed with an enchanting liberation.",
+      "price": "6 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "60",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-inner/the-inner_0.jpg",
+          "alt": "The painting 'The inner' in the gallery"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
+          "alt": "'The inner' i ateljen"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
+          "alt": "'The inner' closeup"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
+          "alt": "'The inner' from the side"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
+          "alt": "'The inner'"
+        }
+      ]
+    },
+    {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "Men inte längre",
+      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
+      "price": "9 600",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon etc",
+        "base": "canvas"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "The painting 'Men inte längre' in the gallery"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'Men inte längre' från vinkel"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'Men inte längre' closeup"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'Men inte längre' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/furilden",
+      "path": "/furilden",
+      "name": "Furilden",
+      "description": "As a child, me, my older brother and the village's other children cycled out on the island of Furilden. Our imagination, or at least mine, transformed this barren and industrial landscape into something of a colorful amusement park. Today, this is a popular destination on Gotland with, among other things, a fantastically stylish hotel and a wine bar in one of the gravel pits. The creation of this painting came about intuitively, completely without plan or conscious control and is close to my heart.",
+      "price": "6 800",
+      "year": "2022",
+      "status": "available",
+      "frame": "included",
+      "material": {
+        "medium": "acrylics, ink, crayon, grafite",
+        "base": "canvas"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": ["canvas", "acrylics", "gotland"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/furilden/furilden_00.jpg",
+          "alt": "The painting Furilden framed"
+        },
+        {
+          "src": "/static/paintings/furilden/furilden_01.jpg",
+          "alt": "The painting Furilden without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "We look over each other's shoulders so that we can both look forward. You and I, now and forever.",
+      "price": "9 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
+          "alt": "The painting 'Rearview' framed"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "The painting 'Rearview' in situ"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/no-promises",
+      "path": "/no-promises",
+      "name": "No promises",
+      "description": "Everything is changeable. You can have a plan and a thought, but often it turns out a little different, or completely. Being open and receptive to what comes along the way doesn't have to mean swallowing everything with guts (blah) but it can lead to amazing things. Who knows, maybe and suddenly an unexpected bud grows up and shoots away. Where is it going?",
+      "price": "5 300",
+      "year": "2024",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "status": "available",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "38",
+      "height": "38",
+      "tags": ["woodboard", "acrylics", "floral", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/no-promises/no-promises_0.jpg",
+          "alt": "The painting No promises in the gallery"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_2.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_3.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_4.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_5.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_1.jpg",
+          "alt": "The painting No promises i sin helhet"
+        }
+      ]
+    },
+    {
+      "slug": "/security",
+      "path": "/security",
+      "name": "Security",
+      "description": "When everything is just right, when life is soft and safe. The hare symbolizes power, abundance and vicissitudes and somehow feels safe to have by your side through all the cycles of the moon spirit and life.",
+      "price": "9 800",
+      "year": "2021",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon, ink etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/security/security_00.jpg",
+          "alt": "The painting 'Security' framed"
+        },
+        {
+          "src": "/static/paintings/security/security_1.jpg",
+          "alt": "closeup av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_2.jpg",
+          "alt": "closeup av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_3.jpg",
+          "alt": "closeup av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_5.jpg",
+          "alt": "The painting 'Security' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/over-this",
+      "path": "/over-this",
+      "name": "Over this",
+      "description": "She's done, that's enough now. Nothing can make her change her mind.",
+      "price": "4 000",
+      "year": "2023",
+      "status": "hide",
+      "material": {
+        "medium": "acrylics, ink",
+        "base": "canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": ["canvas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/over-this/over-this_00.png",
+          "alt": "The painting Over this straight on"
+        },
+        {
+          "src": "/static/paintings/over-this/over-this_01.jpg",
+          "alt": "The painting Over this"
+        }
+      ]
+    },
+    {
+      "slug": "/dare-me",
+      "path": "/dare-me",
+      "name": "Dare me",
+      "description": "Behind all the layers and levels is the real one. The one who is finally ready to take a seat and come out.",
+      "price": "4 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "acrylics",
+        "base": "canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": ["canvas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dare-me/dare-me_00.jpg",
+          "alt": "The painting Dare me straight on"
+        },
+        {
+          "src": "/static/paintings/dare-me/dare-me_01.jpg",
+          "alt": "The painting Dare me"
+        }
+      ]
+    },
+    {
+      "slug": "/unity",
+      "path": "/unity",
+      "name": "Unity",
+      "description": "Close your eyes. Listen. Feel. Pause. Let go of all boundaries, allow the constantly changing to expand. Be yourself fully. Follow YOUR path.",
+      "price": "8 900",
+      "year": "2023",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/unity/unity_0.jpg",
+          "alt": "The painting 'Unity' framed"
+        },
+        {
+          "src": "/static/paintings/unity/unity_1.jpeg",
+          "alt": "'Unity' from the side"
+        },
+        {
+          "src": "/static/paintings/unity/unity_2.jpeg",
+          "alt": "'Unity' closeup"
+        },
+        {
+          "src": "/static/paintings/unity/unity_3.jpeg",
+          "alt": "'Unity' closeup"
+        },
+        {
+          "src": "/static/paintings/unity/unity_4.jpeg",
+          "alt": "'Unity' closeup"
+        },
+        {
+          "src": "/static/paintings/unity/unity_5.jpeg",
+          "alt": "'Unity' closeup"
+        },
+        {
+          "src": "/static/paintings/unity/unity_6.jpeg",
+          "alt": "'Unity' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/blood-moon",
+      "path": "/blood-moon",
+      "name": "Blood moon",
+      "description": "It is the blood that flows in her body, from her heart and out into every cell. It is what generates the loving power and caring energy needed to create a thriving singing world.",
+      "price": "4 500",
+      "year": "2022",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": ["canvas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blood-moon/blood-moon_0.jpg",
+          "alt": "The painting Blood moon straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/full-moon",
+      "path": "/full-moon",
+      "name": "Full moon",
+      "description": "Moon; the reminder of the changing and at the same time permanent. The one that is sometimes whole and sometimes half. A bit like our sensual and bodily experiences and abilities.",
+      "price": "5 000",
+      "year": "2021",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "acrylics, ink",
+        "base": "woodboard"
+      },
+      "width": "38",
+      "height": "38",
+      "tags": ["woodboard", "acrylics", "female", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/full-moon/full-moon-shadowbox_0.png",
+          "alt": "The painting Full moon straight on"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_1.jpeg",
+          "alt": "Closeup on the painting Full moon"
+        },
+        {
+          "src": "/static/paintings/full-moon/full-moon_2.jpeg",
+          "alt": "The painting Full moon without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/everseeing",
+      "path": "/everseeing",
+      "name": "Ever seeing",
+      "description": "She knows so much more. She sees. She is stronger. She will remain. If she wants to. Because if necessary, she turns around without looking back.",
+      "price": "7 300",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/everseeing/everseeing_00.jpg",
+          "alt": "The painting 'Ever seeing' in the gallery"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_091010-02.jpeg",
+          "alt": "'Ever seeing' i ateljen"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090902-01.jpeg",
+          "alt": "'Ever seeing' closeup"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090854-01.jpeg",
+          "alt": "'Ever seeing' from the side"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_091032-01.jpeg",
+          "alt": "'Ever seeing'"
+        },
+        {
+          "src": "/static/paintings/everseeing/20231101_090824-01.jpeg",
+          "alt": "'Ever seeing'"
+        }
+      ]
+    },
+    {
+      "slug": "/annanhorisont",
+      "path": "/annanhorisont",
+      "name": "Annan horisont",
+      "description": "The red gaze brightens, inside and out. Joy, tranquility and freedom are reawakened. That which has always been there but lost. Now fucking",
+      "price": "2 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "20",
+      "height": "30",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/annanhorisont/annanhorisont.jpg",
+          "alt": "The painting 'Annan horisont' in the gallery"
+        },
+        {
+          "src": "/static/paintings/annanhorisont/20231102_103205.jpg",
+          "alt": "'Annan horisont' från vinkel"
+        },
+        {
+          "src": "/static/paintings/annanhorisont/20231102_103340.jpg",
+          "alt": "'Annan horisont' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimensions of meaning and of meaning. Out of lust and displeasure. Of demands, desires, desires, fears, love, hatred and all sorts of more, it is easy to get lost. But it's never too late to lean and listen inwards, to follow the desire and what attracts.",
+      "price": "7 300",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dimensions/dimensions_0.jpg",
+          "alt": "The painting 'Dimensions' in the gallery"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
+          "alt": "'Dimensions' i ateljen"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' closeup"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' closeup"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
+          "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' in situ"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/give",
+      "path": "/give",
+      "name": "Give",
+      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Provide feedback. Give up. Give me! And so on",
+      "price": "4 500",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akvarell och acrylics",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": ["canvas", "akvarell", "acrylics", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/give/give_00.jpg",
+          "alt": "The painting T-shirt girl straight on"
+        },
+        {
+          "src": "/static/paintings/give/give_01.jpg",
+          "alt": "Closeup on the painting T-shirt girl"
+        }
+      ]
+    },
+    {
+      "slug": "/shut",
+      "path": "/shut",
+      "name": "Shut",
+      "description": "There came a day when she learned that she is the president of her own life.",
+      "price": "5 500",
+      "year": "2021",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep black wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "acrylics, ink, crayon, grafite",
+        "base": "canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": ["canvas", "acrylics", "female", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/shut/shut-shadowbox_00.png",
+          "alt": "The painting Shut framed"
+        },
+        {
+          "src": "/static/paintings/shut/shut_1.jpeg",
+          "alt": "The painting Shut without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/untouchable",
+      "path": "/untouchable",
+      "name": "Untouchable",
+      "description": "With a wall harder and higher than the most powerful prison. But those she lets in, she gives it her all.",
+      "price": "8 000",
+      "year": "2021",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "acrylics", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/untouchable/untouchable.jpg",
+          "alt": "The painting 'Untouchable' straight on"
+        },
+        {
+          "src": "/static/paintings/untouchable/untouchable-homesetting.png",
+          "alt": "The painting 'Untouchable' in situ"
+        },
+        {
+          "src": "/static/paintings/untouchable/untouchable-closeup.png",
+          "alt": "The painting 'Untouchable' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/iam",
+      "path": "/iam",
+      "name": "I am",
+      "description": "She is. She is so much. The wisest, nicest, kindest, sweetest, mischievous, prettiest, most generous, most caring. With her, the world is rich.",
+      "price": "4 000",
+      "year": "2023",
+      "status": "sold",
+      "frame": "included",
+      "material": {
+        "medium": "acrylics",
+        "base": "Glas"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": ["glas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/iam/iam_00.jpg",
+          "alt": "The painting 'I am' in the gallery"
+        },
+        {
+          "src": "/static/paintings/iam/iam_0.jpg",
+          "alt": "The painting 'I am' straight on"
+        },
+        {
+          "src": "/static/paintings/iam/iam_1.jpg",
+          "alt": "The painting 'I am' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/the-inhabitat",
+      "path": "/the-inhabitat",
+      "name": "The inhabitat",
+      "description": "Breathe. Let it come, feel how it fills up your whole being. Be here and now, enjoy.",
+      "price": "2 500",
+      "year": "2019",
+      "status": "hide",
+      "material": {
+        "medium": "acrylics",
+        "base": "canvas"
+      },
+      "width": "40",
+      "height": "40",
+      "tags": ["canvas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_0.jpg",
+          "alt": "The painting The inhabitat straight on"
+        },
+        {
+          "src": "/static/paintings/the-inhabitat/the-inhabitat_01.jpg",
+          "alt": "The painting The inhabitat straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/flowers-above",
+      "path": "/flowers-above",
+      "name": "Flowers above",
+      "description": "This painting came as a dance. As an exploration and a game. Femininity, strength and desire.",
+      "price": "6 000",
+      "year": "2019",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon, ink etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "acrylics, mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/flowers-above/flowers-above_0.jpg",
+          "alt": "The painting 'Flowers above' framed"
+        },
+        {
+          "src": "/static/paintings/flowers-above/flowers-above_1.jpeg",
+          "alt": "The painting 'Flowers above' closeup"
+        },
+        {
+          "src": "/static/paintings/flowers-above/flowers-above_2.jpeg",
+          "alt": "The painting 'Flowers above' closeup"
+        },
+        {
+          "src": "/static/paintings/flowers-above/flowers-above_3.jpeg",
+          "alt": "The painting 'Flowers above' from the side"
+        },
+        {
+          "src": "/static/paintings/flowers-above/flowers-above_4.jpeg",
+          "alt": "The painting 'Flowers above' without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/emma",
+      "path": "/emma",
+      "name": "Emma",
+      "description": "Her heart beats, it beats so hard. She is the vortex that makes the dust dizzy and the buds bloom. Emma, my Emma.",
+      "price": "6 000",
+      "year": "2022",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/emma/emma_0.png",
+          "alt": "The painting 'Emma' framed"
+        },
+        {
+          "src": "/static/paintings/emma/emma_1.png",
+          "alt": "'Emma' closeup"
+        },
+        {
+          "src": "/static/paintings/emma/emma_2.png",
+          "alt": "'Emma' closeup"
+        },
+        {
+          "src": "/static/paintings/emma/emma_3.png",
+          "alt": "'Emma' straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/spellbound",
+      "path": "/spellbound",
+      "name": "Spellbound",
+      "description": "Let go of our imaginary world and allow the smallest flower to become your whole world. Maybe just for a while or as long as you want. Let its beauty fill your whole being, let the fragrance take you to strange places, let the size be insignificant. Allow it.",
+      "price": "6 000",
+      "year": "2022",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/spellbound/spellbound_0.jpg",
+          "alt": "The painting 'Spellbound' framed"
+        },
+        {
+          "src": "/static/paintings/spellbound/spellbound_1.jpg",
+          "alt": "'Spellbound' from the side"
+        },
+        {
+          "src": "/static/paintings/spellbound/spellbound_2.jpg",
+          "alt": "'Spellbound' closeup"
+        },
+        {
+          "src": "/static/paintings/spellbound/spellbound_3.jpg",
+          "alt": "'Spellbound' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/owl",
+      "path": "/owl",
+      "name": "The compass",
+      "description": "The owl stands for intelligence and guidance. Maybe that's what made me make her, as a help to choose, someone who stands by your side and makes sure you don't fool yourself. As a safe reminder.",
+      "price": "6 000",
+      "year": "2021",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/owl/owl_0.jpg",
+          "alt": "The painting 'Owl' framed"
+        },
+        {
+          "src": "/static/paintings/owl/owl_1.jpg",
+          "alt": "'Owl' from the side"
+        },
+        {
+          "src": "/static/paintings/owl/owl_2.jpg",
+          "alt": "'Owl' closeup"
+        },
+        {
+          "src": "/static/paintings/owl/owl_3.jpg",
+          "alt": "'Owl' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/female",
+      "path": "/female",
+      "name": "Female",
+      "description": "The big strong female symbol, surrounded by freedom birds made of paper. It is a fragile, almost treacherous freedom that women have.",
+      "price": "6 500",
+      "year": "2020",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/female/female_0.jpg",
+          "alt": "The painting 'female' straight on"
+        },
+        {
+          "src": "/static/paintings/female/female_1.jpg",
+          "alt": "The painting 'female' straight on"
+        },
+        {
+          "src": "/static/paintings/female/female_2.jpg",
+          "alt": "The painting 'female' closeup"
+        },
+        {
+          "src": "/static/paintings/female/female_3.jpg",
+          "alt": "The painting 'female' from the side"
+        }
+      ]
+    },
+    {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
+      "price": "9 400",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["woodboard", "acrylics", "typografi"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "The painting New york straight on"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "The painting New york straight on"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "The painting New york from the side"
+        }
+      ]
+    },
+    {
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "4 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "acrylics, ink, crayon, grafite",
+        "base": "canvas"
+      },
+      "width": "54",
+      "height": "64",
+      "tags": ["canvas", "acrylics", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
+          "alt": "The painting Garden girl straight on"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Closeup on del av tavlan Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "The painting Garden girl without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/dear-deer",
+      "path": "/dear-deer",
+      "name": "Dear deer",
+      "description": "A tribute to the wild and beautiful. A humble apology for the insecurity. Proof of blind awareness. Even from me.",
+      "price": "3 400",
+      "year": "2020",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "24",
+      "height": "33",
+      "tags": ["woodboard", "acrylics", "female", "animal", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_0.jpg",
+          "alt": "The painting Dear deer straight on"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_1.jpg",
+          "alt": "Closeup on the painting Dear deer"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_2.jpeg",
+          "alt": "The painting Dear deer without frame"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_3.jpg",
+          "alt": "The painting Dear deer without frame"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_4.jpeg",
+          "alt": "The painting Dear deer without frame"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
+          "alt": "The painting Dear deer without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/leaving",
+      "path": "/leaving",
+      "name": "Leaving",
+      "description": "The power and the opportunity to leave is there, don't forget that.",
+      "price": "4 400",
+      "year": "2020",
+      "status": "available",
+      "frame": "included",
+      "material": {
+        "medium": "acrylics",
+        "base": "Glas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": ["glas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/leaving/leaving_0.png",
+          "alt": "The painting Leaving straight on"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_2.jpg",
+          "alt": "The painting Leaving closeup"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "alt": "The painting Leaving from the side"
+        }
+      ]
+    },
+    {
+      "slug": "/for-evigt",
+      "path": "/for-evigt",
+      "name": "För evigt",
+      "description": "We are like cranes that have chosen each other, forever. Love wins, we win.",
+      "price": "7 500",
+      "year": "2020",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "100",
+      "height": "120",
+      "tags": ["woodboard", "acrylics", "typografi"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/for-evigt/for-evigt_0.jpg",
+          "alt": "The painting 'För evigt' straight on"
+        },
+        {
+          "src": "/static/paintings/for-evigt/for-evigt_1.jpg",
+          "alt": "The painting 'För evigt' straight on"
+        },
+        {
+          "src": "/static/paintings/for-evigt/for-evigt_2.jpg",
+          "alt": "The painting 'För evigt' closeup"
+        },
+        {
+          "src": "/static/paintings/for-evigt/for-evigt_3.jpg",
+          "alt": "The painting 'För evigt' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/the-force-within",
+      "path": "/the-force-within",
+      "name": "The force within",
+      "description": "Beyoncé, our queen. She has created power with power, success with integrity and joy from music.",
+      "price": "6 000",
+      "year": "2019",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_0.jpg",
+          "alt": "The painting 'The force within' straight on"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
+          "alt": "The painting 'The force within' straight on"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
+          "alt": "The painting 'The force within' closeup"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
+          "alt": "The painting 'The force within' from the side"
+        }
+      ]
+    },
+    {
+      "slug": "/strong-and",
+      "path": "/strong-and",
+      "name": "Strong and",
+      "description": "She is the strongest you can imagine. She withstands the harshest winds and has the largest and warmest arms.",
+      "price": "3 500",
+      "year": "2018",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/strong-and/strong-and_0.jpg",
+          "alt": "The painting 'Strong and' straight on"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_1.jpg",
+          "alt": "The painting 'Strong and' straight on"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_2.jpg",
+          "alt": "The painting 'Strong and' closeup"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_3.jpg",
+          "alt": "The painting 'Strong and' from the side"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_4.jpg",
+          "alt": "The painting 'Strong and' closeup"
+        },
+        {
+          "src": "/static/paintings/strong-and/strong-and_5.jpg",
+          "alt": "The painting 'Strong and' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/balance",
+      "path": "/balance",
+      "name": "Balance",
+      "description": "She was so fragile and now she's so strong. How did she get through, how did she break all the walls?",
+      "price": "4 000",
+      "year": "2018",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "Plexiglas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["plexiglas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/balance/balance_0.jpg",
+          "alt": "The painting Balance straight on"
+        },
+        {
+          "src": "/static/paintings/balance/balance_1.jpg",
+          "alt": "The painting Balance straight on"
+        },
+        {
+          "src": "/static/paintings/balance/balance_2.jpg",
+          "alt": "The painting Balance closeup"
+        },
+        {
+          "src": "/static/paintings/balance/balance_3.jpg",
+          "alt": "The painting Balance from the side"
+        }
+      ]
+    },
+    {
+      "slug": "/starksarbar",
+      "path": "/starksarbar",
+      "name": "Stark och sårbar",
+      "description": "\"I am the beautiful in nature, I am the sweet in a berry. I am the mysterious thing in the night. I am the view you hold dear. I am the smooth warm breeze. I'm the sweetest of an evening, I'm the sweetest of mornings. And the wildest of fires.\"\n- Moonica Mac",
+      "price": "6 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "MDF"
+      },
+      "width": "70",
+      "height": "50",
+      "tags": ["mdf", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
+          "alt": "The painting 'Stark och sårbar' in the gallery"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
+          "alt": "The painting 'Stark och sårbar'"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
+          "alt": "'Stark och sårbar' from the side"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
+          "alt": "'Stark och sårbar' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
+      "price": "6 900",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "The painting 'Blue Hope' framed"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' closeup"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' closeup"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/you-first",
+      "path": "/you-first",
+      "name": "You first",
+      "description": "There is something wonderful about a parent's inexhaustible care and love. What a gift to experience that. What if we extended it to others around us, known and unknown - what could the world look like then?",
+      "price": "2 000",
+      "year": "2018",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics och ink",
+        "base": "canvas"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/you-first/you-first_0.jpg",
+          "alt": "The painting 'You first' framed"
+        },
+        {
+          "src": "/static/paintings/you-first/you-first_1.png",
+          "alt": "'You first' from the side"
+        },
+        {
+          "src": "/static/paintings/you-first/you-first_2.png",
+          "alt": "'You first' closeup"
+        }
+      ]
+    }
+  ]
+}

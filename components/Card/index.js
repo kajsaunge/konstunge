@@ -1,25 +1,26 @@
-import Image from "next/image";
+import Image from 'next/image';
 
-import NextLink from "next/link";
-import styles from "./Card.module.css";
+import NextLink from 'next/link';
+import styles from './Card.module.css';
 
-const Card = ({ item }) => {
+const Card = ({ item, content }) => {
+  const { card, general } = content;
   return (
     <section className={styles.artPiecesWrapper}>
       <div className={styles.artPiece}>
-        {item.status === "sold" && (
+        {item.status === 'sold' && (
           <div className={styles.artPieceSold}>
-            <p>SÅLD</p>
+            <p>{card.sold}</p>
           </div>
         )}
-        {item.status === "new" && (
+        {item.status === 'new' && (
           <div className={styles.artPieceNew}>
-            <p>NY</p>
+            <p>{card.new}</p>
           </div>
         )}
-        {item.status === "reserved" && (
+        {item.status === 'reserved' && (
           <div className={styles.artPieceReserved}>
-            <p>BOKAD</p>
+            <p>{card.reserved}</p>
           </div>
         )}
         <NextLink href={`/konst${item.slug}`} as={`/konst${item.path}`}>
@@ -36,11 +37,12 @@ const Card = ({ item }) => {
               <h3 className={styles.artPieceTitle}>{item.name}</h3>
               <div className={styles.artPieceDescription}>
                 <p className={styles.artPieceDescriptionText}>
-                  <b>Storlek:</b> {item.width}x{item.height} cm
+                  <b>{card.size}</b> {item.width}x{item.height}{' '}
+                  {general.sizeUnit}
                 </p>
                 <p className={styles.artPieceDescriptionText}>
-                  <b>Pris:</b> {item.price} kr
-                  {item.frame && " (ram ingår)"}
+                  <b>{card.price}</b> {item.price} {general.priceUnit}
+                  {item.frame && card.frame}
                 </p>
               </div>
             </div>

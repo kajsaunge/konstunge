@@ -4,18 +4,22 @@ import Head from 'next/head';
 import PageIntro from '@/pageIntro';
 // import Sorter from '@/sorter';
 
-import content from './api/content.json';
+import contentArtEn from './api/contentEn.json';
+// import contentArt from './api/content.json';
+// import contentSe from './api/se.json';
+import contentEn from './api/en.json';
 
 import styles from '../styles/Hem.module.css';
 import Card from '@/Card';
-import Link from 'next/link';
+// import Link from 'next/link';
 
 const galleri86 = '/static/news/insta-post.png';
 
 const Home = () => {
+  const content = contentEn;
   const [sortValue, setSortValue] = useState('status');
 
-  const mappedContent = content.pieces.map((el, i) => {
+  const mappedContent = contentArtEn.pieces.map((el, i) => {
     const elWidth = parseInt(el.width);
     const elHeight = parseInt(el.height);
 
@@ -42,9 +46,10 @@ const Home = () => {
   });
 
   const sortedContent = mappedContent.map((el) => {
-    return content.pieces[el.index];
+    return contentArtEn.pieces[el.index];
   });
-  const useCorrectContent = sortValue === '' ? content.pieces : sortedContent;
+  const useCorrectContent =
+    sortValue === '' ? contentArtEn.pieces : sortedContent;
 
   const shouldBeShown = useCorrectContent.filter((el) =>
     el.status !== 'hide' ? el : ''
@@ -57,7 +62,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Konst[galleri] | Kajsa Unge</title>
+        <title>{content.landing.pageTitle}</title>
         <link rel='icon' href='/favicon.ico' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta
@@ -68,9 +73,9 @@ const Home = () => {
       <main aria-label='Galleri Kajsa Unge' role='main' className='main'>
         <PageIntro
           level={1}
-          subtitle='Galleri'
+          subtitle={content.landing.title}
           title='Kajsa Unge'
-          description='Konst för unika rum'
+          description={content.landing.titleDesc}
         />
         {/* <div className='hide-on-mobile'>
           <Sorter
@@ -80,11 +85,11 @@ const Home = () => {
         </div> */}
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
-            {content &&
+            {contentArtEn &&
               shouldBeShown.map((piece, i) => {
                 return (
                   <li key={i}>
-                    <Card item={piece} />
+                    <Card item={piece} content={content} />
                   </li>
                 );
               })}

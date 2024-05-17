@@ -2,15 +2,18 @@ import Head from 'next/head';
 import Form from '@/form';
 import NextLink from 'next/link';
 
-import content from './api/content.json';
+import contentArt from './api/content.json';
+// import contentSe from './api/se.json';
+import contentEn from './api/en.json';
 
 import PageIntro from '@/pageIntro';
 import Card from '@/Card';
 import styles from '../styles/Kontakt.module.css';
 
 const Kontakt = () => {
+  const content = contentEn;
   const selectedPieces = [];
-  content.pieces.map((item) => {
+  contentArt.pieces.map((item) => {
     if (item.name === 'Rearview' || item.name === 'Security') {
       selectedPieces.push(item);
     }
@@ -18,7 +21,7 @@ const Kontakt = () => {
   return (
     <>
       <Head>
-        <title>Kontakt[beställning] | Kajsa Unge</title>
+        <title>{content.contact.pageTitle}</title>
         <link rel='icon' href='/favicon.ico' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <meta
@@ -29,46 +32,44 @@ const Kontakt = () => {
       <main aria-label='Kontaktinformation' role='main' className='main'>
         <PageIntro
           level={1}
-          description='Förfrågning och beställning'
-          title='Kontakt'
+          title={content.contact.title}
+          description={content.contact.titleDesc}
           seo='För köp av konst och konstverk från konstgalleri i stockholm. Samarbete och representation'
         />
         <div className={styles.mainContentTextBlock}>
           <p className={styles.mainContentText}>
-            Har du några som helst frågor kring konsten, ett potentiellt
-            samarbete eller bara vill snacka lite når du mig enklast på{' '}
+            {content.contact.intro}{' '}
             <a className='link' href='mailto:konst@kajsaunge.se'>
               konst@kajsaunge.se
             </a>
-            . Du kan även använda formuläret här på sidan.
+            {content.contact.intro2}
           </p>
         </div>
         <div className={styles.mainContent}>
           <div className={styles.mainContentWrapper}>
-            <h3 className={styles.mainContentTitle}>Beställning</h3>
+            <h3 className={styles.mainContentTitle}>{content.contact.order}</h3>
             <p className={styles.artPieceDetails}>
-              För beställning fyller du i formuläret eller skickar ett mail till{' '}
+              {content.contact.orderDesc1}{' '}
               <a className='link' href='mailto:konst@kajsaunge.se'>
                 konst@kajsaunge.se
               </a>
-              . <br /> Skriv i meddelandet hur du vill få din tavle levererad,
-              många av konstverken går att leverera via bud eller post medan
-              andra väger en del och eventuellt är för stora för att skickas. I
-              det senare fallet brukar jag och köparen komma överens om leverans
-              i Stockholms-området alternativt upphämtning i studion, det som
-              passar bäst. <br />
+              . <br />
+              {content.contact.orderDesc2} <br />
               <br />
-              Studion hittar ni ca 35 minuter söder om Stockholm city.
+              {content.contact.orderDesc3}
             </p>
           </div>
           <Form messagePlaceholder='Ditt meddelande' />
         </div>
         <div className={styles.gallery}>
-          <PageIntro title='Galleri' description='Stora konstverk' />
+          <PageIntro
+            title={content.general.gallery}
+            description={content.general.galleryDesc}
+          />
           <ul className={styles.artPieces}>
             {selectedPieces.map((item, i) => (
               <li key={i} className={styles.artPiece}>
-                <Card item={item} />
+                <Card item={item} content={content} />
               </li>
             ))}
           </ul>
@@ -78,7 +79,7 @@ const Kontakt = () => {
             className={styles.backNavWrapper}
           >
             <NextLink href='/' as='/'>
-              Se fler
+              {content.general.more}
             </NextLink>
           </nav>
         </div>
