@@ -11,6 +11,7 @@ import contentEn from './api/en.json';
 
 import styles from '../styles/Utstallningar.module.css';
 
+const clarion = '/static/news/clarion.png';
 const juste = '/static/news/juste.jpg';
 const galleri86 = '/static/news/insta-post.png';
 const gaStan = '/static/news/ga_stan.jpg';
@@ -42,6 +43,53 @@ const Utstallningar = () => {
           title={content.exhibition.title}
           description={content.exhibition.titleDesc}
         />
+
+        <div className={styles.mainContent}>
+          <div className={styles.mainContentImage}>
+            <a target='_blank' href='https://linktr.ee/clarionstockholm'>
+              <img
+                width={372}
+                height={520}
+                src={clarion}
+                alt={clarion}
+                className={styles.mainContentImage}
+              />
+            </a>
+          </div>
+          <div className={styles.mainContentTextBlock}>
+            <h2>{content.exhibition.exhibitions.clarion.title}</h2>
+
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.vernissage} </b>
+              {content.exhibition.exhibitions.clarion.vernissage}
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.open} </b>
+              {content.exhibition.exhibitions.clarion.open}
+            </p>
+
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.place} </b>
+              {content.exhibition.exhibitions.clarion.place}
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.gallery} </b>{' '}
+              <span className='link'>
+                <Link
+                  passHref
+                  href={content.exhibition.exhibitions.clarion.url}
+                >
+                  <a target='_blank'>
+                    {content.exhibition.exhibitions.clarion.urlText}
+                  </a>
+                </Link>
+              </span>
+            </p>
+            <p className={styles.mainContentText}>
+              {content.exhibition.exhibitions.clarion.desc}
+            </p>
+          </div>
+        </div>
 
         <div className={styles.mainContent}>
           <div className={styles.mainContentImage}>

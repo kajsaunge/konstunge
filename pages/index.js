@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 
 import PageIntro from '@/pageIntro';
 // import Sorter from '@/sorter';
@@ -11,9 +12,8 @@ import contentEn from './api/en.json';
 
 import styles from '../styles/Hem.module.css';
 import Card from '@/Card';
-// import Link from 'next/link';
 
-const galleri86 = '/static/news/insta-post.png';
+const clarion = '/static/news/clarion.png';
 
 const Home = () => {
   const content = contentEn;
@@ -95,7 +95,7 @@ const Home = () => {
               })}
           </ul>
         </section>
-        {/* <section className={styles.exhibitions}>
+        <section className={styles.exhibitions}>
           <div className={styles.hrLine}></div>
           <PageIntro
             level={1}
@@ -107,13 +107,13 @@ const Home = () => {
               <img
                 width={372}
                 height={520}
-                src={galleri86}
-                alt={galleri86}
+                src={clarion}
+                alt={clarion}
                 className={styles.exhibitionsImage}
               />
             </a>
           </Link>
-        </section> */}
+        </section>
       </main>
     </>
   );

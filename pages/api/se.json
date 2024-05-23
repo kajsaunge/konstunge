@@ -17,6 +17,7 @@
     "titlePrev": "Tidigare",
     "titleDescPrev": "Utställningar",
     "exhibitionDetails": {
+      "open": "Öppet",
       "aw": "AW",
       "vernissage": "Vernissage",
       "finnisage": "Finnisage",
@@ -24,6 +25,15 @@
       "gallery": "Galleriet"
     },
     "exhibitions": {
+      "clarion": {
+        "title": "Solo exhibition - Juni-Augusti 2024",
+        "vernissage": "14:e Juni kl 17-19",
+        "open": "Samma som hotellet",
+        "place": "Clarion Hotel Stockholm, Ringvägen 98, Stockholm",
+        "url": "https://linktr.ee/clarionstockholm",
+        "urlText": "Clarion Hotel Stockholm",
+        "desc": "Denna sommar blir du mött av mina verk i lobbyn till ett av Stockholms absolut snyggaste och trevligaste hotell. På vernissaget den 14:e juni träffar du mig och får en chans att prata om konsten, processen och livet. Kom!"
+      },
       "juste": {
         "title": "Soloutställning - Maj 2025",
         "aw": "9 Maj kl 16-20",
