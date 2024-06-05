@@ -46,7 +46,7 @@ const Utstallningar = () => {
 
         <div className={styles.mainContent}>
           <div className={styles.mainContentImage}>
-            <a target='_blank' href='https://linktr.ee/clarionstockholm'>
+            <a target='_blank' href='https://fb.me/e/1sRK8fRzi'>
               <img
                 width={372}
                 height={520}
