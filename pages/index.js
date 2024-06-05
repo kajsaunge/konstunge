@@ -52,7 +52,10 @@ const Home = () => {
     sortValue === '' ? contentArtEn.pieces : sortedContent;
 
   const shouldBeShown = useCorrectContent.filter((el) =>
-    el.status !== 'hide' ? el : ''
+    el.status !== 'hide' && el.status !== 'sold' ? el : ''
+  );
+  const sold = useCorrectContent.filter((el) =>
+    el.status === 'sold' ? el : ''
   );
 
   useEffect(() => {
@@ -95,13 +98,51 @@ const Home = () => {
               })}
           </ul>
         </section>
+        <div className={styles.hrLine}></div>
+        <PageIntro
+          level={1}
+          title={content.exhibition.title}
+          description={content.exhibition.titleDesc}
+        />
         <section className={styles.exhibitions}>
+          <Link href='/utstallningar'>
+            <a className={styles.exhibitionsLink}>
+              <img
+                width={372}
+                height={520}
+                src={clarion}
+                alt={clarion}
+                className={styles.exhibitionsImage}
+              />
+            </a>
+          </Link>
           <div className={styles.hrLine}></div>
-          <PageIntro
-            level={1}
-            title='Utställningar'
-            description='Pågång just nu'
-          />
+        </section>
+        <PageIntro
+          level={1}
+          subtitle={content.landing.title}
+          title='Kajsa Unge'
+          description={content.landing.titleDesc}
+        />
+        <section className={styles.artPiecesWrapper}>
+          <ul className={styles.artPieces}>
+            {contentArtEn &&
+              sold.map((piece, i) => {
+                return (
+                  <li key={i}>
+                    <Card item={piece} content={content} />
+                  </li>
+                );
+              })}
+          </ul>
+        </section>
+        <div className={styles.hrLine}></div>
+        <PageIntro
+          level={1}
+          title={content.exhibition.title}
+          description={content.exhibition.titleDesc}
+        />
+        <section className={styles.exhibitions}>
           <Link href='/utstallningar'>
             <a className={styles.exhibitionsLink}>
               <img

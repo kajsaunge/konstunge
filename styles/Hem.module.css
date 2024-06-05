@@ -16,7 +16,6 @@
 }
 .exhibitions {
   width: 100%;
-  margin-top: 40px;
   display: inline;
   display: flex;
   flex-direction: column;
