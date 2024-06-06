@@ -22,7 +22,7 @@
       "vernissage": "Vernissage",
       "finnisage": "Finnisage",
       "place": "Place",
-      "gallery": "Gallery"
+      "gallery": "More info"
     },
     "exhibitions": {
       "clarion": {
@@ -31,7 +31,7 @@
         "open": "Same as hotel hours",
         "place": "Clarion Hotel Stockholm, Ringvägen 98, Stockholm",
         "url": "https://fb.me/e/1sRK8fRzi",
-        "urlText": "Sign up",
+        "urlText": "Event page",
         "desc": "This summer you will be greeted by my art when you enter the lobby of one of the loveliest and most genuine hotels in Stockholm. Come meet me, enjoy light snacks and drinks and experience an inspiring evening of art and creativity on June 14th. See you there!"
       },
       "juste": {
@@ -52,7 +52,16 @@
     "titleDesc": "Kajsa Unge",
     "intro1": "The strength of vulnerability. Her inner driving force emerges from feelings and impressions with emphasis on freedom and hope, pain and injustice. Kajsa has an attraction to the primordial power of humanity, nature and the great feminine strength, the one that is not always visible but is there. The crucial aspects our society so often rushes past and thus misses out on.",
     "quote": "'The works are often initially created freely and intuitively, a bit like a dance'",
-    "intro2": "After that, thoughts and a more structured work takes place to produce a composition. Finally, an often lengthy process begins with completing the work and giving it its expression and feeling. It may take time, a silent protest against the machinery of society and its all too fast pace."
+    "intro2": "After that, thoughts and a more structured work takes place to produce a composition. Finally, an often lengthy process begins with completing the work and giving it its expression and feeling. It may take time, a silent protest against the machinery of society and its all too fast pace.",
+    "facts": "Short facts",
+    "fact": {
+      "origin": "Born and raised on Gotland 1982, now living and working in Stockholm.",
+      "drive": "Influenced by her mother Lisa, who followed her passion and her dreams, despite the narrow social norms of the time.",
+      "education": "Autodidact until 2023 when she, as a 41 year old, attended a one year art program at Ågesta folkhögskola. Batchelor degree in Graphic Arts.",
+      "current": "Works alongside art, or vice versa, with web development and graphic design.",
+      "portfolio": "View portfolio",
+      "portfolioUrl": "https://kajsaunge.se/cv"
+    }
   },
   "contact": {
     "pageTitle": "Contact[orders] | Kajsa Unge",

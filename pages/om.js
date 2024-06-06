@@ -13,6 +13,9 @@ import PageIntro from '@/pageIntro';
 import styles from '../styles/Om.module.css';
 
 const profile = '/static/profile/kajsaunge.jpg';
+const vernissage = '/static/profile/kajsaunge-vernissage.jpg';
+const studio = '/static/profile/kajsaunge-studio.jpg';
+const studio2 = '/static/profile/kajsaunge-studio2.jpg';
 
 const Om = () => {
   const content = contentEn;
@@ -71,46 +74,51 @@ const Om = () => {
             </p> */}
           </div>
           {/* Text + bilder */}
-          {/* <div className={styles.horizontalLine}></div>
           <div className={styles.horizontalLine}></div>
-          <div className={styles.mainContentAtelje}>
-            <h3>Ateljen</h3>
-            <p>Studion hittar ni ca 40 minuter söder om Stockholm city.</p>
+          <div className={styles.horizontalLine}></div>
+          <div className={styles.mainContentFacts}>
+            <h3>{content.about.facts}</h3>
+            <p className={styles.factsDetails}>{content.about.fact.origin}</p>
+            <p className={styles.factsDetails}>
+              {content.about.fact.education}
+            </p>
+            <p className={styles.factsDetails}>
+              {content.about.fact.current}{' '}
+              <a
+                className='link'
+                href={content.about.fact.portfolioUrl}
+                target='_blank'
+              >
+                {content.about.fact.portfolio}
+              </a>
+            </p>
           </div>
-          <div className={styles.ateljeImages}>
-            <div className={styles.ateljeImageWrapper}>
+          <div className={styles.factsImages}>
+            <div className={styles.factsImageWrapper}>
               <Image
-                src={profile}
-                alt="Portrait of the artist Kajsa Unge"
+                src={studio}
+                alt='Portrait of the artist Kajsa Unge'
                 width={400}
                 height={400}
               />
             </div>
-            <div className={styles.ateljeImageWrapper}>
+            <div className={styles.factsImageWrapper}>
               <Image
-                src={profile}
-                alt="Portrait of the artist Kajsa Unge"
+                src={studio2}
+                alt='Portrait of the artist Kajsa Unge'
                 width={400}
                 height={400}
               />
             </div>
-            <div className={styles.ateljeImageWrapper}>
+            <div className={styles.factsImageWrapper}>
               <Image
-                src={profile}
-                alt="Portrait of the artist Kajsa Unge"
+                src={vernissage}
+                alt='Portrait of the artist Kajsa Unge'
                 width={400}
                 height={400}
               />
             </div>
-            <div className={styles.ateljeImageWrapper}>
-              <Image
-                src={profile}
-                alt="Portrait of the artist Kajsa Unge"
-                width={400}
-                height={400}
-              />
-            </div>
-          </div>*/}
+          </div>
         </div>
         <div className={styles.gallery}>
           <PageIntro

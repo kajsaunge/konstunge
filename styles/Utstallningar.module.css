@@ -3,9 +3,11 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 14px;
-  align-items: start;
+  /* align-items: start; */
   margin-bottom: 40px;
   position: relative;
+  margin: 0 auto;
+  align-items: center;
 }
 .outdatedOverlay {
   position: absolute;
@@ -24,18 +26,8 @@
   height: auto;
   object-fit: contain;
   transform: scale(0.99);
-  align-self: flex-start;
-}
-
-.imageBackground {
-  background-image: url('static/profile/logo.svg');
-  background-size: 20%;
-  object-fit: contain;
-  margin: 0;
-  padding: 0;
-  fill: transparent;
-  max-width: 396px;
-  max-height: 396px;
+  /* align-self: flex-start; */
+  margin: 0 auto;
 }
 .mainContentText {
   line-height: 1.6;
@@ -71,6 +63,8 @@
 .mainContentTextBlock {
   max-width: 600px;
   margin-top: 6px;
+  margin-left: 10px;
+  margin-bottom: 30px;
 }
 .mainContentTextBlock h2 {
   margin-top: 0;
@@ -112,7 +106,7 @@
   margin: 30px 0;
 }
 
-@media screen and (min-width: 510px) {
+/* @media screen and (min-width: 510px) {
   .mainContentImage {
     width: 90%;
   }
@@ -121,8 +115,9 @@
   .mainContentImage {
     width: 80%;
   }
-}
-@media screen and (min-width: 1100px) {
+} */
+/* @media screen and (min-width: 1100px) { */
+@media screen and (min-width: 980px) {
   .mainContent {
     grid-template-columns: 1fr 2fr;
     margin-bottom: 20px;

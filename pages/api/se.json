@@ -22,7 +22,7 @@
       "vernissage": "Vernissage",
       "finnisage": "Finnisage",
       "place": "Plats",
-      "gallery": "Galleriet"
+      "gallery": "Mer info"
     },
     "exhibitions": {
       "clarion": {
@@ -31,7 +31,7 @@
         "open": "Samma som hotellet",
         "place": "Clarion Hotel Stockholm, Ringvägen 98, Stockholm",
         "url": "https://fb.me/e/1sRK8fRzi",
-        "urlText": "Boka",
+        "urlText": "Eventsida",
         "desc": "Denna sommar blir du mött av mina verk i lobbyn till ett av Stockholms absolut snyggaste och trevligaste hotell. På vernissaget den 14:e juni träffar du mig och får en chans att prata om konsten, processen och livet. Kom!"
       },
       "juste": {
@@ -54,7 +54,16 @@
     "quote": "'Motiven får växa fram organiskt utan någon direkt plan, vilket skapar flow i skapandet och konstverken.'",
     "intro2": "Drivet och passionen för att skapa har följt med sedan barndomen där mamma Lisa spelat en stor och viktig roll. Hon var en stark kvinna som följde sin passion och sina drömmar, trots samhällsnormerna som regerade under 80-talet. Ursprungdet av de starka feminina krafterna genomsyrar konstverken och får blandas med fascinationen av djur och natur, människa och samhälle.",
     "intro3": "Sidan växer i takt med skapandet där mer info och konst läggs till allteftersom. Hör gärna av dig till",
-    "intro4": "med förfrågningar."
+    "intro4": "med förfrågningar.",
+    "facts": "Korta fakta",
+    "fact": {
+      "origin": "Född och uppvuxwen på Gotland 1982, nu bosatt och verksam i Stockholm.",
+      "drive": "Influerad av modern Lisa, som följde sin passion och sina drömmar, trots dåtidens trånga samhällsnormer.",
+      "education": "Autodidakt till 2023 när hon, som 41-åring, gick konstlinjen på Ågesta folkhögskola. Batchelor degree i Grafisk formgivning.",
+      "current": "Arbetar vid sidan om konsten, eller tvärtom, med webbutveckling och grafisk formgivning.",
+      "portfolio": "Se portfolion",
+      "portfolioUrl": "https://kajsaunge.se/cv"
+    }
   },
   "contact": {
     "pageTitle": "Kontakt[beställning] | Kajsa Unge",
