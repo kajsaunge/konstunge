@@ -8,7 +8,7 @@
   "landing": {
     "pageTitle": "Art[gallery] | Kajsa Unge",
     "title": "Gallery",
-    "titleDesc": "Art for uniqueness"
+    "titleDesc": "Original Art"
   },
   "exhibition": {
     "pageTitle": "Exhibition[art] | Kajsa Unge",
@@ -50,9 +50,9 @@
     "pageTitle": "About[art] | Kajsa Unge",
     "title": "About the artist",
     "titleDesc": "Kajsa Unge",
-    "intro1": "The strength of vulnerability. Her inner driving force emerges from feelings and impressions with emphasis on freedom and hope, pain and injustice. Kajsa has an attraction to the primordial power of humanity, nature and the great feminine strength, the one that is not always visible but is there. The crucial aspects our society so often rushes past and thus misses out on.",
-    "quote": "'The works are often initially created freely and intuitively, a bit like a dance'",
-    "intro2": "After that, thoughts and a more structured work takes place to produce a composition. Finally, an often lengthy process begins with completing the work and giving it its expression and feeling. It may take time, a silent protest against the machinery of society and its all too fast pace.",
+    "intro1": "The inner driving force emerges from feelings and impressions with emphasis on pain and injustice, freedom and hope. Kajsa has an attraction to the primordial power of humanity, nature and the great feminine strength, the one that is not always visible but is undoubtly there. The crucial aspects our society so often rushes past and thus misses out on.",
+    "quote": "'Her works are often initially created freely and intuitively, a bit like a dance'",
+    "intro2": "After that, thoughts and a more structured workprocess takes place to produce a unique composition. Finally, an often lengthy process begins with completing the work and giving it its expression and feeling. It may take time, a silent protest against the machinery of society and its all too fast pace.",
     "facts": "Short facts",
     "fact": {
       "origin": "Born and raised on Gotland 1982, now living and working in Stockholm.",
@@ -67,12 +67,12 @@
     "pageTitle": "Contact[orders] | Kajsa Unge",
     "title": "Contact",
     "titleDesc": "Requests and orders",
-    "intro": "Reach out to me for any questions, orders, requests or potential collaborations. The simplest way is to send me an email",
+    "intro": "Reach out to for any questions, orders, requests or potential collaborations. The simplest way is to send me an email",
     "intro2": " or you can use the form on this page.",
     "order": "Orders",
     "orderDesc1": "To place an order, fill the form, or send an email to",
     "orderDesc2": "Write in the message how you prefer to get the painting delivered, some artworks can be shipped while some are wuite heavy. I sometimes offer to meet up in the Stockholms are or pick up at my art studio, whatever suits the needs best.",
-    "orderDesc3": "The studio is located about 35 minutes south of Stockholm city center.",
+    "orderDesc3": "The studio is located about 40 minutes south of Stockholm city center.",
     "form": {
       "name": "Name",
       "namePlaceholder": "Your name",
@@ -101,7 +101,7 @@
     "pickup": "Shipping or pick up in Stockholm area",
     "order1": "To make an order, fill in the form or send an email to",
     "order2": "Remember to write how you prefer to get your painting delivered. Many of the artworks can be shipped while I'm also happy to meet up in the Stockholm area. And you are of course welcome to pick up at my studio, whatever is best for you.",
-    "order3": "The studio is located in Grödinge, around 35 minutes south of Stockholm city center."
+    "order3": "The studio is located in Grödinge, around 40 minutes south of Stockholm city center."
   },
   "card": {
     "size": "Size:",

@@ -8,7 +8,7 @@
   "landing": {
     "pageTitle": "Konst[galleri] | Kajsa Unge",
     "title": "Galleri",
-    "titleDesc": "Konst för unika rum"
+    "titleDesc": "Originalmålningar"
   },
   "exhibition": {
     "pageTitle": "Utställningar[konst] | Kajsa Unge",
@@ -74,7 +74,7 @@
     "order": "Beställning",
     "orderDesc1": "För beställning fyller du i formuläret eller skickar ett mail till",
     "orderDesc2": "Skriv i meddelandet hur du vill få din tavle levererad, många av konstverken går att leverera via bud eller post medan andra väger en del och eventuellt är för stora för att skickas. I det senare fallet brukar jag och köparen komma överens om leverans i Stockholms-området alternativt upphämtning i studion, det som passar bäst.",
-    "orderDesc3": "Studion hittar ni ca 35 minuter söder om Stockholm city.",
+    "orderDesc3": "Studion hittar ni ca 40 minuter söder om Stockholm city.",
     "form": {
       "name": "Namn",
       "namePlaceholder": "Ditt namn",
