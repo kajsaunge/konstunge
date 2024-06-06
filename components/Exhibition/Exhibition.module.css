@@ -1,0 +1,23 @@
+.exhibitions {
+  width: 100%;
+  display: inline;
+  display: flex;
+  flex-direction: column;
+}
+.hrLine {
+  border-top: 2px dashed var(--disabled-border);
+  margin: 30px 0;
+}
+.exhibitionsLink {
+  align-self: center;
+}
+.exhibitionsImage {
+  width: 100%;
+  object-fit: contain;
+}
+@media screen and (min-width: 768px) {
+  .exhibitionsImage {
+    width: 760px;
+    object-fit: cover;
+  }
+}

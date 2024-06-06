@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 import Head from 'next/head';
-import Link from 'next/link';
 
 import PageIntro from '@/pageIntro';
 // import Sorter from '@/sorter';
+import Card from '@/Card';
+import Exhibition from '@/Exhibition';
 
 import contentArtEn from './api/contentEn.json';
 // import contentArt from './api/content.json';
@@ -11,9 +12,6 @@ import contentArtEn from './api/contentEn.json';
 import contentEn from './api/en.json';
 
 import styles from '../styles/Hem.module.css';
-import Card from '@/Card';
-
-const clarion = '/static/news/clarion.png';
 
 const Home = () => {
   const content = contentEn;
@@ -98,32 +96,8 @@ const Home = () => {
               })}
           </ul>
         </section>
+        <Exhibition />
         <div className={styles.hrLine}></div>
-        <PageIntro
-          level={1}
-          title={content.exhibition.title}
-          description={content.exhibition.titleDesc}
-        />
-        <section className={styles.exhibitions}>
-          <Link href='/utstallningar'>
-            <a className={styles.exhibitionsLink}>
-              <img
-                width={372}
-                height={520}
-                src={clarion}
-                alt={clarion}
-                className={styles.exhibitionsImage}
-              />
-            </a>
-          </Link>
-          <div className={styles.hrLine}></div>
-        </section>
-        <PageIntro
-          level={1}
-          subtitle={content.landing.title}
-          title='Kajsa Unge'
-          description={content.landing.titleDesc}
-        />
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
             {contentArtEn &&
@@ -136,25 +110,7 @@ const Home = () => {
               })}
           </ul>
         </section>
-        <div className={styles.hrLine}></div>
-        <PageIntro
-          level={1}
-          title={content.exhibition.title}
-          description={content.exhibition.titleDesc}
-        />
-        <section className={styles.exhibitions}>
-          <Link href='/utstallningar'>
-            <a className={styles.exhibitionsLink}>
-              <img
-                width={372}
-                height={520}
-                src={clarion}
-                alt={clarion}
-                className={styles.exhibitionsImage}
-              />
-            </a>
-          </Link>
-        </section>
+        <Exhibition />
       </main>
     </>
   );

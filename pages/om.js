@@ -9,6 +9,7 @@ import contentEn from './api/en.json';
 
 import Card from '@/Card';
 import PageIntro from '@/pageIntro';
+import Exhibition from '@/Exhibition';
 
 import styles from '../styles/Om.module.css';
 
@@ -120,6 +121,7 @@ const Om = () => {
             </div>
           </div>
         </div>
+        <Exhibition />
         <div className={styles.gallery}>
           <PageIntro
             title={content.general.gallery}
