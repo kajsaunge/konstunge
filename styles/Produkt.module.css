@@ -19,7 +19,7 @@
   color: var(--nav-link-color--active);
 }
 .backNav:before {
-  content: "";
+  content: '';
   border: solid var(--nav-link-color);
   border-width: 0 1px 1px 0;
   display: inline-block;
@@ -41,6 +41,7 @@
   padding-left: 0;
   width: 100%;
   margin: 0 auto;
+  align-items: center;
 }
 .artPieceContent {
   padding: 0 8px 32px 0;
@@ -100,6 +101,7 @@
   }
   .artPieces {
     flex-direction: row;
+    align-items: start;
   }
   .artPieceContent {
     padding: 0 8px 32px 8px;
