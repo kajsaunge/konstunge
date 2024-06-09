@@ -28,21 +28,23 @@
       "clarion": {
         "title": "Solo exhibition - June-August 2024",
         "vernissage": "June 14th at 5 pm",
-        "open": "Same as hotel hours",
-        "place": "Clarion Hotel Stockholm, Ringvägen 98, Stockholm",
+        "address": "Ringvägen 98, Stockholm",
+        "open": "June until end of August",
+        "place": "Clarion Hotel Stockholm",
+        "placeUrl": "https://linktr.ee/clarionstockholm",
         "url": "https://fb.me/e/1sRK8fRzi",
-        "urlText": "Event page",
-        "desc": "This summer you will be greeted by my art when you enter the lobby of one of the loveliest and most genuine hotels in Stockholm. Come meet me, enjoy light snacks and drinks and experience an inspiring evening of art and creativity on June 14th. See you there!"
+        "urlText": "Vernissage",
+        "desc": "The subject of the exhibition might spark connotations to shallowness, beauty and surface. Looking closer, you might discover a shift, a desire or what do YOU see? The exhibition will greet hotel visitors throughout the summer. We are opening with a vernissage on June 14th - come meet me, enjoy light snacks and drinks and experience an inspiring evening of art and creativity. See you there!"
       },
       "juste": {
         "title": "Solo exhibition - May 2025",
-        "aw": "9th May at 16-20",
-        "vernissage": "10th May at 12-20",
-        "finnisage": " 11th May at 12 -18",
+        "aw": "Friday May 9th at 16-20",
+        "vernissage": "Saturday May 10th at 12-20",
+        "finnisage": "Sunday May 11th at 12 -18",
         "place": "Juste Gallery, Heleneborgsgatan 14, Hornstull",
         "url": "https://justegallery.com/index.php?sida=events",
         "urlText": "Juste Gallery",
-        "desc": "A warm event where we meet to celebrate joy, freedom and lustfullness. Welcome as you are, mingle and have fun!"
+        "desc": "Welcome to an exhibition where you can explore some of my more experimental, abstract and playful work. We meet to celebrate joy, freedom and playfullness. Come as you are, mingle and have fun!"
       }
     }
   },

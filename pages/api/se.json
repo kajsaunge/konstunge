@@ -28,21 +28,23 @@
       "clarion": {
         "title": "Solo exhibition - Juni-Augusti 2024",
         "vernissage": "14:e Juni kl 17",
-        "open": "Samma som hotellet",
+        "address": "Ringvägen 98, Stockholm",
+        "open": "Juni till slutet av augusti",
         "place": "Clarion Hotel Stockholm, Ringvägen 98, Stockholm",
+        "placeUrl": "https://linktr.ee/clarionstockholm",
         "url": "https://fb.me/e/1sRK8fRzi",
         "urlText": "Eventsida",
-        "desc": "Denna sommar blir du mött av mina verk i lobbyn till ett av Stockholms absolut snyggaste och trevligaste hotell. På vernissaget den 14:e juni träffar du mig och får en chans att prata om konsten, processen och livet. Kom!"
+        "desc": "I sommar möts du av min konst när du kliver in i lobbyn på ett av Stockholms snyggaste och mest genuina hotell. Utställningens ämne kan ge associationer till ytlighet, skönhet och yta, medan fokus i själva verket ligger på det inre skiftet, den efterlängtade och nödvändiga förändringen. Kom och träffa mig, njut av lättare tilltugg och dryck och upplev en inspirerande kväll med konst och kreativitet den 14 juni. Vi ses där!"
       },
       "juste": {
         "title": "Soloutställning - Maj 2025",
-        "aw": "9 Maj kl 16-20",
-        "vernissage": "10 Maj kl 12-20",
-        "finnisage": "11 Maj kl 12 -18",
+        "aw": "Fredag 9:e Maj kl 16-20",
+        "vernissage": "Lörsdag 10:e Maj kl 12-20",
+        "finnisage": "Söndag 11:e Maj kl 12 -18",
         "place": "Juste Gallery, Heleneborgsgatan 14, Hornstull",
         "url": "https://justegallery.com/index.php?sida=events",
         "urlText": "Juste Gallery",
-        "desc": "Ett varmt event där vi möts för att hylla glädje, frihet och det lustfullda. Välkommen att komma som du är, mingla och fira in våren!"
+        "desc": "Välkommen till en utställning där du får utforska några av mina mer experimentella, abstrakta och lekfulla verk. Vi träffas för att hylla glädje, frihet och lekfullhet. Kom som du är, mingla, skåla och ha kul!"
       }
     }
   },

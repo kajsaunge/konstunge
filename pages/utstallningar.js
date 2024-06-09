@@ -70,7 +70,17 @@ const Utstallningar = () => {
 
             <p className={styles.artPieceDetails}>
               <b>{content.exhibition.exhibitionDetails.place} </b>
-              {content.exhibition.exhibitions.clarion.place}
+              <span className='link'>
+                <Link
+                  passHref
+                  href={content.exhibition.exhibitions.clarion.placeUrl}
+                >
+                  <a target='_blank'>
+                    {content.exhibition.exhibitions.clarion.place}
+                  </a>
+                </Link>
+              </span>{' '}
+              {content.exhibition.exhibitions.clarion.address}
             </p>
             <p className={styles.artPieceDetails}>
               <b>{content.exhibition.exhibitionDetails.gallery} </b>{' '}
