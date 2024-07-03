@@ -1,13 +1,65 @@
 {
   "pieces": [
     {
+      "slug": "/holy-cow",
+      "path": "/holy-cow",
+      "name": "Holy cow",
+      "description": "Ibland är världen uppochner och inget verkar rimligt alls. Det är lätt att undra varför, vad en ska göra eller om det ens är på riktigt. Och svårt att veta hur en ska agera eller agera alls. Är det galenskap elle är det jag?",
+      "price": "9 800",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics, ink, crayon etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_00.jpg",
+          "alt": "Målningen 'Holy cow' i galleriet"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_01.jpg",
+          "alt": "'Holy cow' detalj"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_02.jpg",
+          "alt": "Målningen 'Holy cow' detalj"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_03.jpg",
+          "alt": "Målningen 'Holy cow' detalj"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_04.jpg",
+          "alt": "Målningen 'Holy cow' detalj"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_05.jpg",
+          "alt": "Målningen 'Holy cow' detalj"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_06.jpg",
+          "alt": "Målningen 'Holy cow' i vinkel"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_07.jpg",
+          "alt": "Målningen 'Holy cow' utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/audrey",
       "path": "/audrey",
       "name": "Audrey",
       "description": "En klassisk superstjärna, tagen ur sin kontext, avklädd och knivskarp. Tiden var en annan men orden är värda att upprepas: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' och 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
       "price": "7 300",
       "year": "2024",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - akryl mm",
         "base": "duk"
@@ -101,7 +153,7 @@
       "description": "Lockelsen, det förföriska. Det insugande, josiga, förvirrande goda. Det som ihärdigt drar i en, det man inte kommer undan, knappt alls. Kärleken, passionen, besattheten - må den aldrig försvinna, må den vara barmhärtig. Så totalt utplånande förgörande. Vad vore livet utan?",
       "price": "9 800",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - akryl, bläck, krita mm",
         "base": "pannå"
@@ -139,49 +191,6 @@
         {
           "src": "/static/paintings/ufo/ufo_0.jpg",
           "alt": "Tavlan 'U.F.O' i ram"
-        }
-      ]
-    },
-    {
-      "slug": "/queen",
-      "path": "/queen",
-      "name": "Queen",
-      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
-      "price": "6 500",
-      "year": "2024",
-      "status": "new",
-      "material": {
-        "medium": "Akryl",
-        "base": "duk"
-      },
-      "width": "45",
-      "height": "55",
-      "tags": ["duk", "akryl", "female", "animal"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/queen/queen_00.jpg",
-          "alt": "Tavlan Queen i galleriet"
-        },
-        {
-          "src": "/static/paintings/queen/queen_01.jpg",
-          "alt": "Tavlan Queen framifrån"
-        },
-        {
-          "src": "/static/paintings/queen/queen_02.jpg",
-          "alt": "Närbild på tavlan Queen"
-        },
-        {
-          "src": "/static/paintings/queen/queen_03.jpg",
-          "alt": "Närbild på tavlan Queen"
-        },
-        {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "Tavlan Queen från sidan"
-        },
-        {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "Tavlan Queen framifrån"
         }
       ]
     },
@@ -525,7 +534,6 @@
         }
       ]
     },
-
     {
       "slug": "/elden",
       "path": "/elden",
@@ -554,49 +562,6 @@
         {
           "src": "/static/paintings/elden/elden_1.jpg",
           "alt": "Tavlan 'Elden' i hemmiljö"
-        }
-      ]
-    },
-    {
-      "slug": "/the-inner",
-      "path": "/the-inner",
-      "name": "The inner",
-      "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
-      "price": "6 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - akryl mm",
-        "base": "duk"
-      },
-      "width": "50",
-      "height": "60",
-      "tags": ["duk", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-inner/the-inner_0.jpg",
-          "alt": "Tavlan 'The inner' i galleriet"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
-          "alt": "'The inner' i ateljen"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
-          "alt": "'The inner' närbild"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
-          "alt": "'The inner' från sidan"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
-          "alt": "'The inner'"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
-          "alt": "'The inner'"
         }
       ]
     },
@@ -803,6 +768,49 @@
         {
           "src": "/static/paintings/over-this/over-this_01.jpg",
           "alt": "Tavlan Over this"
+        }
+      ]
+    },
+    {
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
+      "price": "6 500",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "duk"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["duk", "akryl", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "Tavlan Queen i galleriet"
+        },
+        {
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "Tavlan Queen framifrån"
+        },
+        {
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Närbild på tavlan Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Närbild på tavlan Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen från sidan"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen framifrån"
         }
       ]
     },
@@ -1081,6 +1089,37 @@
         {
           "src": "/static/paintings/give/give_01.jpg",
           "alt": "Närbild på tavlan T-shirt girl"
+        }
+      ]
+    },
+    {
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "4 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "duk"
+      },
+      "width": "54",
+      "height": "64",
+      "tags": ["duk", "akryl", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
+          "alt": "Tavlan Garden girl framifrån"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
@@ -1386,6 +1425,38 @@
       ]
     },
     {
+      "slug": "/leaving",
+      "path": "/leaving",
+      "name": "Leaving",
+      "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
+      "price": "4 400",
+      "year": "2020",
+      "status": "available",
+      "frame": "ingår",
+      "material": {
+        "medium": "Akryl",
+        "base": "Glas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": ["glas", "akryl"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/leaving/leaving_0.png",
+          "alt": "Tavlan Leaving framifrån"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_2.jpg",
+          "alt": "Tavlan Leaving närbild"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "alt": "Tavlan Leaving från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/newyork",
       "path": "/newyork",
       "name": "New york",
@@ -1413,37 +1484,6 @@
         {
           "src": "/static/paintings/newyork/newyork_3.jpg",
           "alt": "Tavlan New york från sidan"
-        }
-      ]
-    },
-    {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "4 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "duk"
-      },
-      "width": "54",
-      "height": "64",
-      "tags": ["duk", "akryl", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
-          "alt": "Tavlan Garden girl framifrån"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
         }
       ]
     },
@@ -1491,35 +1531,47 @@
         }
       ]
     },
+
     {
-      "slug": "/leaving",
-      "path": "/leaving",
-      "name": "Leaving",
-      "description": "Kraften och möjligheten att lämna finns, glöm inte det.",
-      "price": "4 400",
-      "year": "2020",
+      "slug": "/the-inner",
+      "path": "/the-inner",
+      "name": "The inner",
+      "description": "Hennes yttre visar en sak, hennes inre en annan. För varje år som går växer hennes inre värld medan den yttre krymper allt mer. En känsla av vilsen trängsel blandas med en förtrollande befrielse.",
+      "price": "6 800",
+      "year": "2023",
       "status": "available",
-      "frame": "ingår",
       "material": {
-        "medium": "Akryl",
-        "base": "Glas"
+        "medium": "Mixed media - akryl mm",
+        "base": "duk"
       },
-      "width": "30",
-      "height": "40",
-      "tags": ["glas", "akryl"],
+      "width": "50",
+      "height": "60",
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/leaving/leaving_0.png",
-          "alt": "Tavlan Leaving framifrån"
+          "src": "/static/paintings/the-inner/the-inner_0.jpg",
+          "alt": "Tavlan 'The inner' i galleriet"
         },
         {
-          "src": "/static/paintings/leaving/leaving_2.jpg",
-          "alt": "Tavlan Leaving närbild"
+          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
+          "alt": "'The inner' i ateljen"
         },
         {
-          "src": "/static/paintings/leaving/leaving_3.jpg",
-          "alt": "Tavlan Leaving från sidan"
+          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
+          "alt": "'The inner' närbild"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
+          "alt": "'The inner' från sidan"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
+          "alt": "'The inner'"
         }
       ]
     },
@@ -1590,6 +1642,41 @@
         {
           "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
           "alt": "Tavlan 'The force within' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
+      "price": "6 900",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["pannå", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "Tavlan 'Blue Hope' i ram"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' detaljbild"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' framifrån"
         }
       ]
     },
@@ -1703,41 +1790,6 @@
         {
           "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
           "alt": "'Stark och sårbar' i miljö"
-        }
-      ]
-    },
-    {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "I det kallaste av mörker, i det blötase av regn, i den tyngsta av sorger. Där finns det ljus. Det finns skönhet, värme och hopp. Det må vara litet så litet att det varken syns eller känns men det kommer att växa. Ge inte upp.",
-      "price": "6 900",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - akryl mm",
-        "base": "pannå"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["pannå", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
-          "alt": "Tavlan 'Blue Hope' i ram"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' detaljbild"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' framifrån"
         }
       ]
     },
