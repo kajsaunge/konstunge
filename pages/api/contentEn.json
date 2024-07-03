@@ -195,49 +195,6 @@
       ]
     },
     {
-      "slug": "/queen",
-      "path": "/queen",
-      "name": "Queen",
-      "description": "To be more than you know. Braver, stronger and bigger than you realize. Preferably understood. Not just kind, soft and canvasy. To have owned and to continue to own. More.",
-      "price": "6 500",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "acrylics",
-        "base": "canvas"
-      },
-      "width": "45",
-      "height": "55",
-      "tags": ["canvas", "acrylics", "female", "animal"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/queen/queen_00.jpg",
-          "alt": "The painting Queen in the gallery"
-        },
-        {
-          "src": "/static/paintings/queen/queen_01.jpg",
-          "alt": "The painting Queen straight on"
-        },
-        {
-          "src": "/static/paintings/queen/queen_02.jpg",
-          "alt": "Closeup on the painting Queen"
-        },
-        {
-          "src": "/static/paintings/queen/queen_03.jpg",
-          "alt": "Closeup on the painting Queen"
-        },
-        {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "The painting Queen from the side"
-        },
-        {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "The painting Queen straight on"
-        }
-      ]
-    },
-    {
       "slug": "/aaaah",
       "path": "/aaaah",
       "name": "Aaaah",
@@ -610,49 +567,6 @@
       ]
     },
     {
-      "slug": "/the-inner",
-      "path": "/the-inner",
-      "name": "The inner",
-      "description": "Her exterior shows one thing, her inner one another. With each passing year, her inner world grows while the outer world shrinks more and more. A feeling of lost congestion is mixed with an enchanting liberation.",
-      "price": "6 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "canvas"
-      },
-      "width": "50",
-      "height": "60",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-inner/the-inner_0.jpg",
-          "alt": "The painting 'The inner' in the gallery"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
-          "alt": "'The inner' i ateljen"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
-          "alt": "'The inner' closeup"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
-          "alt": "'The inner' from the side"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
-          "alt": "'The inner'"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
-          "alt": "'The inner'"
-        }
-      ]
-    },
-    {
       "slug": "/men-inte-langre",
       "path": "/men-inte-langre",
       "name": "But no longer",
@@ -855,6 +769,49 @@
         {
           "src": "/static/paintings/over-this/over-this_01.jpg",
           "alt": "The painting Over this"
+        }
+      ]
+    },
+    {
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "To be more than you know. Braver, stronger and bigger than you realize. Preferably understood. Not just kind, soft and canvasy. To have owned and to continue to own. More.",
+      "price": "6 500",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "acrylics",
+        "base": "canvas"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["canvas", "acrylics", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "The painting Queen in the gallery"
+        },
+        {
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "The painting Queen straight on"
+        },
+        {
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Closeup on the painting Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Closeup on the painting Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "The painting Queen from the side"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "The painting Queen straight on"
         }
       ]
     },
@@ -1136,6 +1093,38 @@
         }
       ]
     },
+    {
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "4 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "acrylics, ink, crayon, grafite",
+        "base": "canvas"
+      },
+      "width": "54",
+      "height": "64",
+      "tags": ["canvas", "acrylics", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
+          "alt": "The painting Garden girl straight on"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Closeup on del av tavlan Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "The painting Garden girl without frame"
+        }
+      ]
+    },
+
     {
       "slug": "/shut",
       "path": "/shut",
@@ -1438,6 +1427,38 @@
       ]
     },
     {
+      "slug": "/leaving",
+      "path": "/leaving",
+      "name": "Leaving",
+      "description": "The power and the opportunity to leave is there, don't forget that.",
+      "price": "4 400",
+      "year": "2020",
+      "status": "available",
+      "frame": "included",
+      "material": {
+        "medium": "acrylics",
+        "base": "Glas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": ["glas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/leaving/leaving_0.png",
+          "alt": "The painting Leaving straight on"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_2.jpg",
+          "alt": "The painting Leaving closeup"
+        },
+        {
+          "src": "/static/paintings/leaving/leaving_3.jpg",
+          "alt": "The painting Leaving from the side"
+        }
+      ]
+    },
+    {
       "slug": "/newyork",
       "path": "/newyork",
       "name": "New york",
@@ -1465,37 +1486,6 @@
         {
           "src": "/static/paintings/newyork/newyork_3.jpg",
           "alt": "The painting New york from the side"
-        }
-      ]
-    },
-    {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "4 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "acrylics, ink, crayon, grafite",
-        "base": "canvas"
-      },
-      "width": "54",
-      "height": "64",
-      "tags": ["canvas", "acrylics", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
-          "alt": "The painting Garden girl straight on"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Closeup on del av tavlan Garden girl"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "The painting Garden girl without frame"
         }
       ]
     },
@@ -1544,34 +1534,45 @@
       ]
     },
     {
-      "slug": "/leaving",
-      "path": "/leaving",
-      "name": "Leaving",
-      "description": "The power and the opportunity to leave is there, don't forget that.",
-      "price": "4 400",
-      "year": "2020",
+      "slug": "/the-inner",
+      "path": "/the-inner",
+      "name": "The inner",
+      "description": "Her exterior shows one thing, her inner one another. With each passing year, her inner world grows while the outer world shrinks more and more. A feeling of lost congestion is mixed with an enchanting liberation.",
+      "price": "6 800",
+      "year": "2023",
       "status": "available",
-      "frame": "included",
       "material": {
-        "medium": "acrylics",
-        "base": "Glas"
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
       },
-      "width": "30",
-      "height": "40",
-      "tags": ["glas", "acrylics"],
+      "width": "50",
+      "height": "60",
+      "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/leaving/leaving_0.png",
-          "alt": "The painting Leaving straight on"
+          "src": "/static/paintings/the-inner/the-inner_0.jpg",
+          "alt": "The painting 'The inner' in the gallery"
         },
         {
-          "src": "/static/paintings/leaving/leaving_2.jpg",
-          "alt": "The painting Leaving closeup"
+          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
+          "alt": "'The inner' i ateljen"
         },
         {
-          "src": "/static/paintings/leaving/leaving_3.jpg",
-          "alt": "The painting Leaving from the side"
+          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
+          "alt": "'The inner' closeup"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
+          "alt": "'The inner' from the side"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
+          "alt": "'The inner'"
         }
       ]
     },
@@ -1642,6 +1643,41 @@
         {
           "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
           "alt": "The painting 'The force within' from the side"
+        }
+      ]
+    },
+    {
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
+      "price": "6 900",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "The painting 'Blue Hope' framed"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' closeup"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' closeup"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' straight on"
         }
       ]
     },
@@ -1758,41 +1794,7 @@
         }
       ]
     },
-    {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
-      "price": "6 900",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
-          "alt": "The painting 'Blue Hope' framed"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' closeup"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' closeup"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' straight on"
-        }
-      ]
-    },
+
     {
       "slug": "/you-first",
       "path": "/you-first",
