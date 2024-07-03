@@ -1,13 +1,65 @@
 {
   "pieces": [
     {
+      "slug": "/holy-cow",
+      "path": "/holy-cow",
+      "name": "Holy cow",
+      "description": "Sometimes the world is upside down and nothing seems to makes sense at all. It's easy to wonder why, what to do or if it's even real. And harder to know how to act or to act at all. Is it toal crazyness or am I?",
+      "price": "9 800",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics, ink, crayon etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_00.jpg",
+          "alt": "The painting 'Holy cow' in the gallery"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_01.jpg",
+          "alt": "'Holy cow' detail"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_02.jpg",
+          "alt": "The painting 'Holy cow' detail"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_03.jpg",
+          "alt": "The painting 'Holy cow' detail"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_04.jpg",
+          "alt": "The painting 'Holy cow' detail"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_05.jpg",
+          "alt": "The painting 'Holy cow' detail"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_06.jpg",
+          "alt": "The painting 'Holy cow' from an angle"
+        },
+        {
+          "src": "/static/paintings/holy-cow/holy-cow_07.jpg",
+          "alt": "The painting 'Holy cow' without frame"
+        }
+      ]
+    },
+    {
       "slug": "/audrey",
       "path": "/audrey",
       "name": "Audrey",
       "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
       "price": "7 300",
       "year": "2024",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - acrylics etc",
         "base": "canvas"
@@ -101,7 +153,7 @@
       "description": "The allure, the seductive. The absorbing, jovial, confusingly good. The things that persistently pull at you, the things you can't get away, hardly at all. Love, passion, obsession - may it never go away, may it be merciful. So totally annihilating destruction. What would life be without it?",
       "price": "9 800",
       "year": "2023",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - acrylics, ink, crayon etc",
         "base": "woodboard"
@@ -149,7 +201,7 @@
       "description": "To be more than you know. Braver, stronger and bigger than you realize. Preferably understood. Not just kind, soft and canvasy. To have owned and to continue to own. More.",
       "price": "6 500",
       "year": "2024",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "acrylics",
         "base": "canvas"
