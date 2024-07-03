@@ -967,23 +967,23 @@
           "alt": "The painting 'Ever seeing' in the gallery"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_091010-02.jpeg",
+          "src": "/static/paintings/everseeing/20231101_091010-02.jpg",
           "alt": "'Ever seeing' i ateljen"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_090902-01.jpeg",
+          "src": "/static/paintings/everseeing/20231101_090902-01.jpg",
           "alt": "'Ever seeing' closeup"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_090854-01.jpeg",
+          "src": "/static/paintings/everseeing/20231101_090854-01.jpg",
           "alt": "'Ever seeing' from the side"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_091032-01.jpeg",
+          "src": "/static/paintings/everseeing/20231101_091032-01.jpg",
           "alt": "'Ever seeing'"
         },
         {
-          "src": "/static/paintings/everseeing/20231101_090824-01.jpeg",
+          "src": "/static/paintings/everseeing/20231101_090824-01.jpg",
           "alt": "'Ever seeing'"
         }
       ]
@@ -1041,10 +1041,6 @@
           "alt": "The painting 'Dimensions' in the gallery"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
-          "alt": "'Dimensions' i ateljen"
-        },
-        {
           "src": "/static/paintings/dimensions/dimensions_3.jpg",
           "alt": "'Dimensions' closeup"
         },
@@ -1053,8 +1049,12 @@
           "alt": "'Dimensions' closeup"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
+          "src": "/static/paintings/dimensions/dimensions_5.jpg",
           "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_1.jpg",
+          "alt": "'Dimensions' i ateljen"
         },
         {
           "src": "/static/paintings/dimensions/dimensions_6.jpg",
@@ -1555,15 +1555,15 @@
           "alt": "The painting 'The inner' in the gallery"
         },
         {
-          "src": "/static/paintings/the-inner/the-inner_1.jpeg",
+          "src": "/static/paintings/the-inner/the-inner_1.jpg",
           "alt": "'The inner' i ateljen"
         },
         {
-          "src": "/static/paintings/the-inner/the-inner_2.jpeg",
+          "src": "/static/paintings/the-inner/the-inner_2.jpg",
           "alt": "'The inner' closeup"
         },
         {
-          "src": "/static/paintings/the-inner/the-inner_3.jpeg",
+          "src": "/static/paintings/the-inner/the-inner_3.jpg",
           "alt": "'The inner' from the side"
         },
         {
@@ -1571,7 +1571,7 @@
           "alt": "'The inner'"
         },
         {
-          "src": "/static/paintings/the-inner/the-inner_5.jpeg",
+          "src": "/static/paintings/the-inner/the-inner_5.jpg",
           "alt": "'The inner'"
         }
       ]
