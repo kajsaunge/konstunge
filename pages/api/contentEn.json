@@ -3,7 +3,7 @@
     {
       "slug": "/holy-cow",
       "path": "/holy-cow",
-      "name": "Holy cow",
+      "name": "Holy cow!",
       "description": "Sometimes the world is upside down and nothing seems to makes sense at all. It's easy to wonder why, what to do or if it's even real. And harder to know how to act or to act at all. Is it toal crazyness or am I?",
       "price": "9 800",
       "year": "2024",
@@ -534,7 +534,6 @@
         }
       ]
     },
-
     {
       "slug": "/elden",
       "path": "/elden",
