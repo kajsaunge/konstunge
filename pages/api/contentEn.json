@@ -1,6 +1,84 @@
 {
   "pieces": [
     {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "But no longer",
+      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
+      "price": "9 600",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon etc",
+        "base": "canvas"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "The painting 'But no longer' in the gallery"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'But no longer' från vinkel"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'But no longer' closeup"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'But no longer' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/the-inner",
+      "path": "/the-inner",
+      "name": "The inner",
+      "description": "Her exterior shows one thing, her inner one another. With each passing year, her inner world grows while the outer world shrinks more and more. A feeling of lost congestion is mixed with an enchanting liberation.",
+      "price": "6 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "60",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-inner/the-inner_0.jpg",
+          "alt": "The painting 'The inner' in the gallery"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_1.jpg",
+          "alt": "'The inner' i ateljen"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_2.jpg",
+          "alt": "'The inner' closeup"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_3.jpg",
+          "alt": "'The inner' from the side"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
+          "alt": "'The inner'"
+        },
+        {
+          "src": "/static/paintings/the-inner/the-inner_5.jpg",
+          "alt": "'The inner'"
+        }
+      ]
+    },
+    {
       "slug": "/holy-cow",
       "path": "/holy-cow",
       "name": "Holy cow!",
@@ -52,53 +130,7 @@
         }
       ]
     },
-    {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
-      "price": "7 300",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/audrey/audrey_00.jpg",
-          "alt": "The painting 'Audrey' in the gallery"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' straight on"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_02.jpg",
-          "alt": "'audrey' closeup"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_03.jpg",
-          "alt": "'audrey' closeup"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_04.jpg",
-          "alt": "'audrey'"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_05.jpg",
-          "alt": "'Audrey' signaturee"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' straight on"
-        }
-      ]
-    },
+
     {
       "slug": "/feels",
       "path": "/feels",
@@ -146,54 +178,7 @@
         }
       ]
     },
-    {
-      "slug": "/ufo",
-      "path": "/ufo",
-      "name": "U.F.O",
-      "description": "The allure, the seductive. The absorbing, jovial, confusingly good. The things that persistently pull at you, the things you can't get away, hardly at all. Love, passion, obsession - may it never go away, may it be merciful. So totally annihilating destruction. What would life be without it?",
-      "price": "9 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, ink, crayon etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
-      "category": "original",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "images": [
-        {
-          "src": "/static/paintings/ufo/ufo_0.jpg",
-          "alt": "The painting 'U.F.O' framed"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_1.jpg",
-          "alt": "'U.F.O' without frame"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_2.jpg",
-          "alt": "The painting 'U.F.O' in situ"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_3.jpg",
-          "alt": "The painting 'U.F.O' in situ"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_4.jpg",
-          "alt": "The painting 'U.F.O' in situ"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_5.jpg",
-          "alt": "The painting 'U.F.O' in situ"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_0.jpg",
-          "alt": "The painting 'U.F.O' framed"
-        }
-      ]
-    },
+
     {
       "slug": "/aaaah",
       "path": "/aaaah",
@@ -237,59 +222,6 @@
         }
       ]
     },
-    {
-      "slug": "/aldrig-ensam",
-      "path": "/aldrig-ensam",
-      "name": "Never alone",
-      "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
-      "price": "7 800",
-      "year": "2023",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "material": {
-        "medium": "Mixed media - acrylics, sparyfärg etc",
-        "base": "woodboard"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
-          "alt": "The painting 'Never alone' in the gallery"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
-          "alt": "'Never alone' i ateljen"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
-          "alt": "'Never alone' closeup"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
-          "alt": "'Never alone' from the side"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
-          "alt": "'Never alone'"
-        }
-      ]
-    },
-
     {
       "slug": "/spool-of-thread",
       "path": "/spool-of-thread",
@@ -422,6 +354,101 @@
       ]
     },
 
+    {
+      "slug": "/ufo",
+      "path": "/ufo",
+      "name": "U.F.O",
+      "description": "The allure, the seductive. The absorbing, jovial, confusingly good. The things that persistently pull at you, the things you can't get away, hardly at all. Love, passion, obsession - may it never go away, may it be merciful. So totally annihilating destruction. What would life be without it?",
+      "price": "9 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, ink, crayon etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/ufo/ufo_0.jpg",
+          "alt": "The painting 'U.F.O' framed"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_1.jpg",
+          "alt": "'U.F.O' without frame"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_2.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_3.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_4.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_5.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_0.jpg",
+          "alt": "The painting 'U.F.O' framed"
+        }
+      ]
+    },
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "price": "7 300",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_00.jpg",
+          "alt": "The painting 'Audrey' in the gallery"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_02.jpg",
+          "alt": "'audrey' closeup"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_03.jpg",
+          "alt": "'audrey' closeup"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_04.jpg",
+          "alt": "'audrey'"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_05.jpg",
+          "alt": "'Audrey' signaturee"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
+        }
+      ]
+    },
     {
       "slug": "/curiosity",
       "path": "/curiosity",
@@ -565,41 +592,7 @@
         }
       ]
     },
-    {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "But no longer",
-      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
-      "price": "9 600",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, crayon etc",
-        "base": "canvas"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "The painting 'But no longer' in the gallery"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'But no longer' från vinkel"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'But no longer' closeup"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'But no longer' closeup"
-        }
-      ]
-    },
+
     {
       "slug": "/furilden",
       "path": "/furilden",
@@ -625,6 +618,58 @@
         {
           "src": "/static/paintings/furilden/furilden_01.jpg",
           "alt": "The painting Furilden without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/aldrig-ensam",
+      "path": "/aldrig-ensam",
+      "name": "Never alone",
+      "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
+      "price": "7 800",
+      "year": "2023",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, sparyfärg etc",
+        "base": "woodboard"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
+          "alt": "The painting 'Never alone' in the gallery"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
+          "alt": "'Never alone' i ateljen"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
+          "alt": "'Never alone' closeup"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
+          "alt": "'Never alone' from the side"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
+          "alt": "'Never alone'"
         }
       ]
     },
@@ -1426,6 +1471,37 @@
       ]
     },
     {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
+      "price": "9 400",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "acrylics",
+        "base": "woodboard"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["woodboard", "acrylics", "typografi"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "The painting New york straight on"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "The painting New york straight on"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "The painting New york from the side"
+        }
+      ]
+    },
+    {
       "slug": "/leaving",
       "path": "/leaving",
       "name": "Leaving",
@@ -1454,37 +1530,6 @@
         {
           "src": "/static/paintings/leaving/leaving_3.jpg",
           "alt": "The painting Leaving from the side"
-        }
-      ]
-    },
-    {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
-      "price": "9 400",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "acrylics",
-        "base": "woodboard"
-      },
-      "width": "80",
-      "height": "120",
-      "tags": ["woodboard", "acrylics", "typografi"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "The painting New york straight on"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "The painting New york straight on"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "The painting New york from the side"
         }
       ]
     },
@@ -1532,49 +1577,7 @@
         }
       ]
     },
-    {
-      "slug": "/the-inner",
-      "path": "/the-inner",
-      "name": "The inner",
-      "description": "Her exterior shows one thing, her inner one another. With each passing year, her inner world grows while the outer world shrinks more and more. A feeling of lost congestion is mixed with an enchanting liberation.",
-      "price": "6 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "canvas"
-      },
-      "width": "50",
-      "height": "60",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-inner/the-inner_0.jpg",
-          "alt": "The painting 'The inner' in the gallery"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_1.jpg",
-          "alt": "'The inner' i ateljen"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_2.jpg",
-          "alt": "'The inner' closeup"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_3.jpg",
-          "alt": "'The inner' from the side"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_4.jpeg",
-          "alt": "'The inner'"
-        },
-        {
-          "src": "/static/paintings/the-inner/the-inner_5.jpg",
-          "alt": "'The inner'"
-        }
-      ]
-    },
+
     {
       "slug": "/for-evigt",
       "path": "/for-evigt",
@@ -1677,6 +1680,50 @@
         {
           "src": "/static/paintings/blue-hope/blue-hope_3.png",
           "alt": "'Blue Hope' straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/sista-dansen",
+      "path": "/sista-dansen",
+      "name": "Sista dansen på Fårö",
+      "description": "There is so much mystery to this small little island of an island. I painted this full of longing and desire for the rough landscape, the salty winds and peculiar atmosphere. It's namned after a documentary I listened to while painting, which is about bohemian life, a murder and feminism. For me the painting is about more than that but there is something to that story that is as peculiar as the island it self. Oh Fårö.",
+      "price": "2 200",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "30",
+      "height": "20",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "frame": "A 2 cm white edge frame. Ready to hang",
+      "images": [
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-gallery.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' in the gallery"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-angle.jpg",
+          "alt": "'Sista dansen på Fårö' i vinkel"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-detail.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' detail"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-sidan.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' from the side"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-corner.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' detail"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-signatur.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' signatur"
         }
       ]
     },
