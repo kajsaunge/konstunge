@@ -1508,7 +1508,7 @@
       "description": "The power and the opportunity to leave is there, don't forget that.",
       "price": "4 400",
       "year": "2020",
-      "status": "available",
+      "status": "hide",
       "frame": "included",
       "material": {
         "medium": "acrylics",
@@ -1690,7 +1690,7 @@
       "description": "There is so much mystery to this small little island of an island. I painted this full of longing and desire for the rough landscape, the salty winds and peculiar atmosphere. It's namned after a documentary I listened to while painting, which is about bohemian life, a murder and feminism. For me the painting is about more than that but there is something to that story that is as peculiar as the island it self. Oh Fårö.",
       "price": "2 200",
       "year": "2024",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - acrylics, ink etc",
         "base": "woodboard"
