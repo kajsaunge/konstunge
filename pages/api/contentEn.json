@@ -1,48 +1,13 @@
 {
   "pieces": [
     {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "But no longer",
-      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
-      "price": "9 600",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, crayon etc",
-        "base": "canvas"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "The painting 'But no longer' in the gallery"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'But no longer' från vinkel"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'But no longer' closeup"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'But no longer' closeup"
-        }
-      ]
-    },
-    {
       "slug": "/the-inner",
       "path": "/the-inner",
       "name": "The inner",
       "description": "Her exterior shows one thing, her inner one another. With each passing year, her inner world grows while the outer world shrinks more and more. A feeling of lost congestion is mixed with an enchanting liberation.",
       "price": "6 800",
       "year": "2023",
-      "status": "available",
+      "status": "sold",
       "material": {
         "medium": "Mixed media - acrylics etc",
         "base": "canvas"
@@ -130,7 +95,53 @@
         }
       ]
     },
-
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "price": "7 300",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_00.jpg",
+          "alt": "The painting 'Audrey' in the gallery"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_02.jpg",
+          "alt": "'audrey' closeup"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_03.jpg",
+          "alt": "'audrey' closeup"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_04.jpg",
+          "alt": "'audrey'"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_05.jpg",
+          "alt": "'Audrey' signaturee"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
+        }
+      ]
+    },
     {
       "slug": "/feels",
       "path": "/feels",
@@ -403,49 +414,70 @@
       ]
     },
     {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
-      "price": "7 300",
-      "year": "2024",
+      "slug": "/rearview",
+      "path": "/rearview",
+      "name": "Rearview",
+      "description": "We look over each other's shoulders so that we can both look forward. You and I, now and forever.",
+      "price": "9 800",
+      "year": "2023",
       "status": "available",
       "material": {
         "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
+          "alt": "The painting 'Rearview' framed"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-3.jpg",
+          "alt": "The painting 'Rearview' in situ"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview-1.jpeg",
+          "alt": "'Rearview' without frame"
+        }
+      ]
+    },
+
+    {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "But no longer",
+      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
+      "price": "9 600",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon etc",
         "base": "canvas"
       },
-      "width": "50",
-      "height": "70",
+      "width": "80",
+      "height": "100",
       "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/audrey/audrey_00.jpg",
-          "alt": "The painting 'Audrey' in the gallery"
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "The painting 'But no longer' in the gallery"
         },
         {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' straight on"
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'But no longer' från vinkel"
         },
         {
-          "src": "/static/paintings/audrey/audrey_02.jpg",
-          "alt": "'audrey' closeup"
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'But no longer' closeup"
         },
         {
-          "src": "/static/paintings/audrey/audrey_03.jpg",
-          "alt": "'audrey' closeup"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_04.jpg",
-          "alt": "'audrey'"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_05.jpg",
-          "alt": "'Audrey' signaturee"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' straight on"
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'But no longer' closeup"
         }
       ]
     },
@@ -673,38 +705,7 @@
         }
       ]
     },
-    {
-      "slug": "/rearview",
-      "path": "/rearview",
-      "name": "Rearview",
-      "description": "We look over each other's shoulders so that we can both look forward. You and I, now and forever.",
-      "price": "9 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
-      "category": "original",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "images": [
-        {
-          "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
-          "alt": "The painting 'Rearview' framed"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "The painting 'Rearview' in situ"
-        },
-        {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' without frame"
-        }
-      ]
-    },
+
     {
       "slug": "/no-promises",
       "path": "/no-promises",
