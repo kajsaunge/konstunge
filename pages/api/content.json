@@ -7,7 +7,7 @@
       "description": "Ibland är världen uppochner och inget verkar rimligt alls. Det är lätt att undra varför, vad en ska göra eller om det ens är på riktigt. Och svårt att veta hur en ska agera eller agera alls. Är det galenskap elle är det jag?",
       "price": "9 800",
       "year": "2024",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - acrylics, ink etc",
         "base": "woodboard"
@@ -661,6 +661,46 @@
       ]
     },
     {
+      "slug": "/security",
+      "path": "/security",
+      "name": "Security",
+      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
+      "price": "9 800",
+      "year": "2021",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media - akryl, krita, bläck mm",
+        "base": "pannå"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["pannå", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/security/security_00.jpg",
+          "alt": "Tavlan 'Security' i ram"
+        },
+        {
+          "src": "/static/paintings/security/security_1.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_2.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_3.jpg",
+          "alt": "Detaljbild av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_5.jpg",
+          "alt": "Tavlan 'Security' i miljö"
+        }
+      ]
+    },
+    {
       "slug": "/no-promises",
       "path": "/no-promises",
       "name": "No promises",
@@ -705,46 +745,6 @@
       ]
     },
     {
-      "slug": "/security",
-      "path": "/security",
-      "name": "Security",
-      "description": "När allt bara stämmer, när livet är mjukt och tryggt. Haren symboliserar makt, överflöd och växlingar och känns på något sätt trygg att ha vid sin sida genom månandens och livets alla cykler.",
-      "price": "9 800",
-      "year": "2021",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media - akryl, krita, bläck mm",
-        "base": "pannå"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["pannå", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/security/security_00.jpg",
-          "alt": "Tavlan 'Security' i ram"
-        },
-        {
-          "src": "/static/paintings/security/security_1.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_2.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_3.jpg",
-          "alt": "Detaljbild av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_5.jpg",
-          "alt": "Tavlan 'Security' i miljö"
-        }
-      ]
-    },
-    {
       "slug": "/over-this",
       "path": "/over-this",
       "name": "Over this",
@@ -772,45 +772,49 @@
       ]
     },
     {
-      "slug": "/queen",
-      "path": "/queen",
-      "name": "Queen",
-      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
-      "price": "6 500",
-      "year": "2024",
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
+      "price": "7 300",
+      "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Akryl",
+        "medium": "Mixed media - akryl mm",
         "base": "duk"
       },
-      "width": "45",
-      "height": "55",
-      "tags": ["duk", "akryl", "female", "animal"],
+      "width": "50",
+      "height": "70",
+      "tags": ["duk", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/queen/queen_00.jpg",
-          "alt": "Tavlan Queen i galleriet"
+          "src": "/static/paintings/dimensions/dimensions_0.jpg",
+          "alt": "Tavlan 'Dimensions' i galleriet"
         },
         {
-          "src": "/static/paintings/queen/queen_01.jpg",
-          "alt": "Tavlan Queen framifrån"
+          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
+          "alt": "'Dimensions' i ateljen"
         },
         {
-          "src": "/static/paintings/queen/queen_02.jpg",
-          "alt": "Närbild på tavlan Queen"
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' närbild"
         },
         {
-          "src": "/static/paintings/queen/queen_03.jpg",
-          "alt": "Närbild på tavlan Queen"
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' närbild"
         },
         {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "Tavlan Queen från sidan"
+          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
+          "alt": "'Dimensions'"
         },
         {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "Tavlan Queen framifrån"
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' i miljö"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' i miljö"
         }
       ]
     },
@@ -1019,49 +1023,45 @@
       ]
     },
     {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
-      "price": "7 300",
-      "year": "2023",
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
+      "price": "6 500",
+      "year": "2024",
       "status": "available",
       "material": {
-        "medium": "Mixed media - akryl mm",
+        "medium": "Akryl",
         "base": "duk"
       },
-      "width": "50",
-      "height": "70",
-      "tags": ["duk", "mixed media"],
+      "width": "45",
+      "height": "55",
+      "tags": ["duk", "akryl", "female", "animal"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/dimensions/dimensions_0.jpg",
-          "alt": "Tavlan 'Dimensions' i galleriet"
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "Tavlan Queen i galleriet"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
-          "alt": "'Dimensions' i ateljen"
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "Tavlan Queen framifrån"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' närbild"
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Närbild på tavlan Queen"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' närbild"
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Närbild på tavlan Queen"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
-          "alt": "'Dimensions'"
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen från sidan"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' i miljö"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' i miljö"
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "Tavlan Queen framifrån"
         }
       ]
     },

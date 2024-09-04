@@ -50,7 +50,7 @@
       "description": "Sometimes the world is upside down and nothing seems to makes sense at all. It's easy to wonder why, what to do or if it's even real. And harder to know how to act or to act at all. Is it toal crazyness or am I?",
       "price": "9 800",
       "year": "2024",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - acrylics, ink etc",
         "base": "woodboard"
@@ -705,7 +705,46 @@
         }
       ]
     },
-
+    {
+      "slug": "/security",
+      "path": "/security",
+      "name": "Security",
+      "description": "When everything is just right, when life is soft and safe. The hare symbolizes power, abundance and vicissitudes and somehow feels safe to have by your side through all the cycles of the moon spirit and life.",
+      "price": "9 800",
+      "year": "2021",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon, ink etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/security/security_00.jpg",
+          "alt": "The painting 'Security' framed"
+        },
+        {
+          "src": "/static/paintings/security/security_1.jpg",
+          "alt": "closeup av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_2.jpg",
+          "alt": "closeup av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_3.jpg",
+          "alt": "closeup av 'Security'"
+        },
+        {
+          "src": "/static/paintings/security/security_5.jpg",
+          "alt": "The painting 'Security' in situ"
+        }
+      ]
+    },
     {
       "slug": "/no-promises",
       "path": "/no-promises",
@@ -751,46 +790,6 @@
       ]
     },
     {
-      "slug": "/security",
-      "path": "/security",
-      "name": "Security",
-      "description": "When everything is just right, when life is soft and safe. The hare symbolizes power, abundance and vicissitudes and somehow feels safe to have by your side through all the cycles of the moon spirit and life.",
-      "price": "9 800",
-      "year": "2021",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "material": {
-        "medium": "Mixed media - acrylics, crayon, ink etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/security/security_00.jpg",
-          "alt": "The painting 'Security' framed"
-        },
-        {
-          "src": "/static/paintings/security/security_1.jpg",
-          "alt": "closeup av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_2.jpg",
-          "alt": "closeup av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_3.jpg",
-          "alt": "closeup av 'Security'"
-        },
-        {
-          "src": "/static/paintings/security/security_5.jpg",
-          "alt": "The painting 'Security' in situ"
-        }
-      ]
-    },
-    {
       "slug": "/over-this",
       "path": "/over-this",
       "name": "Over this",
@@ -818,45 +817,49 @@
       ]
     },
     {
-      "slug": "/queen",
-      "path": "/queen",
-      "name": "Queen",
-      "description": "To be more than you know. Braver, stronger and bigger than you realize. Preferably understood. Not just kind, soft and canvasy. To have owned and to continue to own. More.",
-      "price": "6 500",
-      "year": "2024",
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimensions of meaning and of meaning. Out of lust and displeasure. Of demands, desires, desires, fears, love, hatred and all sorts of more, it is easy to get lost. But it's never too late to lean and listen inwards, to follow the desire and what attracts.",
+      "price": "7 300",
+      "year": "2023",
       "status": "available",
       "material": {
-        "medium": "acrylics",
+        "medium": "Mixed media - acrylics etc",
         "base": "canvas"
       },
-      "width": "45",
-      "height": "55",
-      "tags": ["canvas", "acrylics", "female", "animal"],
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/queen/queen_00.jpg",
-          "alt": "The painting Queen in the gallery"
+          "src": "/static/paintings/dimensions/dimensions_0.jpg",
+          "alt": "The painting 'Dimensions' in the gallery"
         },
         {
-          "src": "/static/paintings/queen/queen_01.jpg",
-          "alt": "The painting Queen straight on"
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' closeup"
         },
         {
-          "src": "/static/paintings/queen/queen_02.jpg",
-          "alt": "Closeup on the painting Queen"
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' closeup"
         },
         {
-          "src": "/static/paintings/queen/queen_03.jpg",
-          "alt": "Closeup on the painting Queen"
+          "src": "/static/paintings/dimensions/dimensions_5.jpg",
+          "alt": "'Dimensions'"
         },
         {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "The painting Queen from the side"
+          "src": "/static/paintings/dimensions/dimensions_1.jpg",
+          "alt": "'Dimensions' i ateljen"
         },
         {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "The painting Queen straight on"
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' in situ"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' in situ"
         }
       ]
     },
@@ -1065,49 +1068,45 @@
       ]
     },
     {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimensions of meaning and of meaning. Out of lust and displeasure. Of demands, desires, desires, fears, love, hatred and all sorts of more, it is easy to get lost. But it's never too late to lean and listen inwards, to follow the desire and what attracts.",
-      "price": "7 300",
-      "year": "2023",
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "To be more than you know. Braver, stronger and bigger than you realize. Preferably understood. Not just kind, soft and canvasy. To have owned and to continue to own. More.",
+      "price": "6 500",
+      "year": "2024",
       "status": "available",
       "material": {
-        "medium": "Mixed media - acrylics etc",
+        "medium": "acrylics",
         "base": "canvas"
       },
-      "width": "50",
-      "height": "70",
-      "tags": ["canvas", "mixed media"],
+      "width": "45",
+      "height": "55",
+      "tags": ["canvas", "acrylics", "female", "animal"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/dimensions/dimensions_0.jpg",
-          "alt": "The painting 'Dimensions' in the gallery"
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "The painting Queen in the gallery"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' closeup"
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "The painting Queen straight on"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' closeup"
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Closeup on the painting Queen"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_5.jpg",
-          "alt": "'Dimensions'"
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Closeup on the painting Queen"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_1.jpg",
-          "alt": "'Dimensions' i ateljen"
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "The painting Queen from the side"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' in situ"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' in situ"
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "The painting Queen straight on"
         }
       ]
     },
