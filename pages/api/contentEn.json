@@ -44,6 +44,85 @@
       ]
     },
     {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Go there. Allow curiosity to lead the way. Taste, smell, feel. You don't have to decide or even know what you want, just explore.",
+      "price": "9 800",
+      "year": "2023",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_00.jpg",
+          "alt": "The painting 'Curiosity' framed"
+        },
+        {
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' without frame"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "The painting 'Curiosity' in situ"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "The painting 'Curiosity' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/spool-of-thread",
+      "path": "/spool-of-thread",
+      "name": "Spool of thread",
+      "description": "Life is like a long thread. Sometimes it breaks and we splice with another, perhaps in a different color, thickness and quality. We wrap and roll and over the years we get richer and richer and no one is the same. Or is it the other way around? Are we the ones who are the long thread and every year we get rid of unnecessary parts, save they like. Maybe, maybe not or both.",
+      "price": "5 900",
+      "year": "2024",
+      "status": "sold",
+      "material": {
+        "medium": "acrylics",
+        "base": "canvas"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["canvas", "acrylics", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_0.jpg",
+          "alt": "The painting Spool of thread in the gallery"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_1.jpg",
+          "alt": "Closeup on the painting Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_2.jpg",
+          "alt": "Closeup on the painting Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_3.jpg",
+          "alt": "Closeup on the painting Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_5.jpg",
+          "alt": "The painting Spool of thread without frame"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_0-black.jpg",
+          "alt": "The painting Spool of thread i svart ram"
+        }
+      ]
+    },
+    {
       "slug": "/holy-cow",
       "path": "/holy-cow",
       "name": "Holy cow!",
@@ -233,50 +312,6 @@
         }
       ]
     },
-    {
-      "slug": "/spool-of-thread",
-      "path": "/spool-of-thread",
-      "name": "Spool of thread",
-      "description": "Life is like a long thread. Sometimes it breaks and we splice with another, perhaps in a different color, thickness and quality. We wrap and roll and over the years we get richer and richer and no one is the same. Or is it the other way around? Are we the ones who are the long thread and every year we get rid of unnecessary parts, save they like. Maybe, maybe not or both.",
-      "price": "5 900",
-      "year": "2024",
-      "status": "sold",
-      "material": {
-        "medium": "acrylics",
-        "base": "canvas"
-      },
-      "width": "45",
-      "height": "55",
-      "tags": ["canvas", "acrylics", "female", "animal"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_0.jpg",
-          "alt": "The painting Spool of thread in the gallery"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_1.jpg",
-          "alt": "Closeup on the painting Spool of thread"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_2.jpg",
-          "alt": "Closeup on the painting Spool of thread"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_3.jpg",
-          "alt": "Closeup on the painting Spool of thread"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_5.jpg",
-          "alt": "The painting Spool of thread without frame"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_0-black.jpg",
-          "alt": "The painting Spool of thread i svart ram"
-        }
-      ]
-    },
-
     {
       "slug": "/frankie",
       "path": "/frankie",
@@ -482,38 +517,33 @@
       ]
     },
     {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Go there. Allow curiosity to lead the way. Taste, smell, feel. You don't have to decide or even know what you want, just explore.",
-      "price": "9 800",
-      "year": "2023",
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
+      "price": "9 400",
+      "year": "2020",
       "status": "available",
       "material": {
-        "medium": "Mixed media - acrylics etc",
+        "medium": "acrylics",
         "base": "woodboard"
       },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "width": "80",
+      "height": "120",
+      "tags": ["woodboard", "acrylics", "typografi"],
       "category": "original",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "images": [
         {
-          "src": "/static/paintings/curiosity/curiosity_00.jpg",
-          "alt": "The painting 'Curiosity' framed"
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "The painting New york straight on"
         },
         {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' without frame"
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "The painting New york straight on"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity_1.jpg",
-          "alt": "The painting 'Curiosity' in situ"
-        },
-        {
-          "src": "/static/paintings/curiosity/curiosity_2.jpg",
-          "alt": "The painting 'Curiosity' in situ"
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "The painting New york from the side"
         }
       ]
     },
@@ -1467,37 +1497,6 @@
         {
           "src": "/static/paintings/female/female_3.jpg",
           "alt": "The painting 'female' from the side"
-        }
-      ]
-    },
-    {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
-      "price": "9 400",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "acrylics",
-        "base": "woodboard"
-      },
-      "width": "80",
-      "height": "120",
-      "tags": ["woodboard", "acrylics", "typografi"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "The painting New york straight on"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "The painting New york straight on"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "The painting New york from the side"
         }
       ]
     },
