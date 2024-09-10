@@ -75,8 +75,7 @@
     "intro2": ". Du kan även använda formuläret här på sidan.",
     "order": "Beställning",
     "orderDesc1": "För beställning fyller du i formuläret eller skickar ett mail till",
-    "orderDesc2": "Skriv i meddelandet hur du vill få din tavle levererad, många av konstverken går att leverera via bud eller post medan andra väger en del och eventuellt är för stora för att skickas. I det senare fallet brukar jag och köparen komma överens om leverans i Stockholms-området alternativt upphämtning i studion, det som passar bäst.",
-    "orderDesc3": "Studion hittar ni ca 40 minuter söder om Stockholm city.",
+    "orderDesc2": "Skriv gärna i meddelandet hur du vill få din tavla levererad. Befinner du dig i Stockholmsområdet kan vi mötas för överlämning och det går även utmärkt att skicka tavlan, då tillkommer frakt.",
     "form": {
       "name": "Namn",
       "namePlaceholder": "Ditt namn",
@@ -102,10 +101,9 @@
     "requestFrame": "Tillgänglig vid förfrågan",
     "delivery": "Leverans",
     "order": "Beställning",
-    "pickup": "Upphämtning i Stockholm",
+    "pickup": "Skickas globalt eller upphämtning i Stockholmsområdet",
     "order1": "För beställning fyller du i formuläret eller skickar ett mail till",
-    "order2": "Skriv i meddelandet hur du vill få din tavle levererad. Många av konstverken går att leverara via bud eller post medanandra väger en del och eventuellt är för stora för att skickas. I det senare fallet brukar jag och köparen komma överens om leverans i Stockholms-området alternativt upphämtning i studion, det som passar bäst.",
-    "order3": "Studion ligger i Grödinge, ca 40 minuter söder om Stockholm city."
+    "order2": "Skriv gärna i meddelandet hur du vill få din tavla levererad. Befinner du dig i Stockholmsområdet kan vi mötas för överlämning och det går även utmärkt att skicka tavlan, då tillkommer frakt."
   },
   "card": {
     "size": "Storlek:",

@@ -55,8 +55,6 @@ const Kontakt = () => {
               </a>
               . <br />
               {content.contact.orderDesc2} <br />
-              <br />
-              {content.contact.orderDesc3}
             </p>
           </div>
           <Form messagePlaceholder='Ditt meddelande' />

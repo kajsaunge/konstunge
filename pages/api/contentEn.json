@@ -1,6 +1,138 @@
 {
   "pieces": [
     {
+      "slug": "/hoppet",
+      "path": "/hoppet",
+      "name": "The hope",
+      "description": "She doesn't give up. She turns her gaze and looks at the sky. There is the warmth, the one that confirms and sees. That gives hope and courage, that takes her forward again.",
+      "price": "7 800",
+      "year": "2023",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, sprayfärg etc",
+        "base": "woodboard"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/hoppet/hoppet_00.jpg",
+          "alt": "The painting 'The hope' in the gallery"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063631.jpg",
+          "alt": "'The hope' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063602.jpg",
+          "alt": "'The hope' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
+          "alt": "'The hope' closeup"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
+          "alt": "'The hope'"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
+          "alt": "'The hope'"
+        }
+      ]
+    },
+    {
+      "slug": "/all-over",
+      "path": "/all-over",
+      "name": "All over",
+      "description": "Stop walking all over my f*cking dreams she heared herself saying, inside her head. It was the moment she finally realized she needed to let go. And so she did.",
+      "price": "9 800",
+      "year": "2024",
+      "frame": "White wooden frame",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "80",
+      "height": "80",
+      "tags": ["woodboard", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/all-over/all-over_00.jpg",
+          "alt": "The painting 'All over' in the gallery"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_01.jpg",
+          "alt": "'All over' details"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_02.jpg",
+          "alt": "'All over' details"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_03.jpg",
+          "alt": "'All over' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/aldrig-ensam",
+      "path": "/aldrig-ensam",
+      "name": "Never alone",
+      "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
+      "price": "7 800",
+      "year": "2023",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, sparyfärg etc",
+        "base": "woodboard"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
+          "alt": "The painting 'Never alone' in the gallery"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
+          "alt": "'Never alone' i ateljen"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
+          "alt": "'Never alone' closeup"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
+          "alt": "'Never alone' from the side"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
+          "alt": "'Never alone'"
+        }
+      ]
+    },
+    {
       "slug": "/the-inner",
       "path": "/the-inner",
       "name": "The inner",
@@ -49,7 +181,7 @@
       "name": "Curiosity",
       "description": "Go there. Allow curiosity to lead the way. Taste, smell, feel. You don't have to decide or even know what you want, just explore.",
       "price": "9 800",
-      "year": "2023",
+      "year": "2022",
       "status": "sold",
       "material": {
         "medium": "Mixed media - acrylics etc",
@@ -88,7 +220,7 @@
       "year": "2024",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "canvas"
       },
       "width": "45",
@@ -373,7 +505,7 @@
       "status": "sold",
       "frame": "Shadowbox. 4.5 cm deep black wooden frame with 6 mm distance between the frame and the painting",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "24",
@@ -525,7 +657,7 @@
       "year": "2020",
       "status": "available",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "80",
@@ -548,50 +680,6 @@
       ]
     },
     {
-      "slug": "/hoppet",
-      "path": "/hoppet",
-      "name": "The hope",
-      "description": "She doesn't give up. She turns her gaze and looks at the sky. There is the warmth, the one that confirms and sees. That gives hope and courage, that takes her forward again.",
-      "price": "7 800",
-      "year": "2023",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "material": {
-        "medium": "Mixed media - acrylics, sprayfärg etc",
-        "base": "woodboard"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/hoppet/hoppet_00.jpg",
-          "alt": "The painting 'The hope' in the gallery"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231123_063631.jpg",
-          "alt": "'The hope' i ateljen"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231123_063602.jpg",
-          "alt": "'The hope' i ateljen"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
-          "alt": "'The hope' closeup"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
-          "alt": "'The hope'"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
-          "alt": "'The hope'"
-        }
-      ]
-    },
-    {
       "slug": "/deer-her",
       "path": "/deer-her",
       "name": "Deer her",
@@ -601,7 +689,7 @@
       "status": "sold",
       "frame": "Shadowbox. 4.5 cm deep black wooden frame with 6 mm distance between the frame and the painting",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "34",
@@ -632,7 +720,7 @@
       "year": "2023",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "22",
@@ -651,87 +739,6 @@
         {
           "src": "/static/paintings/elden/elden_1.jpg",
           "alt": "The painting 'Fire' in situ"
-        }
-      ]
-    },
-
-    {
-      "slug": "/furilden",
-      "path": "/furilden",
-      "name": "Furilden",
-      "description": "As a child, me, my older brother and the village's other children cycled out on the island of Furilden. Our imagination, or at least mine, transformed this barren and industrial landscape into something of a colorful amusement park. Today, this is a popular destination on Gotland with, among other things, a fantastically stylish hotel and a wine bar in one of the gravel pits. The creation of this painting came about intuitively, completely without plan or conscious control and is close to my heart.",
-      "price": "6 800",
-      "year": "2022",
-      "status": "available",
-      "frame": "included",
-      "material": {
-        "medium": "acrylics, ink, crayon, grafite",
-        "base": "canvas"
-      },
-      "width": "40",
-      "height": "50",
-      "tags": ["canvas", "acrylics", "gotland"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/furilden/furilden_00.jpg",
-          "alt": "The painting Furilden framed"
-        },
-        {
-          "src": "/static/paintings/furilden/furilden_01.jpg",
-          "alt": "The painting Furilden without frame"
-        }
-      ]
-    },
-    {
-      "slug": "/aldrig-ensam",
-      "path": "/aldrig-ensam",
-      "name": "Never alone",
-      "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
-      "price": "7 800",
-      "year": "2023",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "material": {
-        "medium": "Mixed media - acrylics, sparyfärg etc",
-        "base": "woodboard"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
-          "alt": "The painting 'Never alone' in the gallery"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
-          "alt": "'Never alone' i ateljen"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
-          "alt": "'Never alone' closeup"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
-          "alt": "'Never alone' from the side"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
-          "alt": "'Never alone'"
         }
       ]
     },
@@ -785,7 +792,7 @@
       "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "status": "available",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "38",
@@ -828,7 +835,7 @@
       "year": "2023",
       "status": "hide",
       "material": {
-        "medium": "acrylics, ink",
+        "medium": "Acrylics, ink",
         "base": "canvas"
       },
       "width": "30",
@@ -902,7 +909,7 @@
       "year": "2023",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "canvas"
       },
       "width": "40",
@@ -977,7 +984,7 @@
       "year": "2022",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "canvas"
       },
       "width": "40",
@@ -1001,7 +1008,7 @@
       "status": "sold",
       "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "material": {
-        "medium": "acrylics, ink",
+        "medium": "Acrylics, ink",
         "base": "woodboard"
       },
       "width": "38",
@@ -1106,7 +1113,7 @@
       "year": "2024",
       "status": "available",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "canvas"
       },
       "width": "45",
@@ -1176,7 +1183,7 @@
       "year": "2019",
       "status": "available",
       "material": {
-        "medium": "acrylics, ink, crayon, grafite",
+        "medium": "Acrylics, ink, crayon, grafite",
         "base": "canvas"
       },
       "width": "54",
@@ -1198,7 +1205,34 @@
         }
       ]
     },
-
+    {
+      "slug": "/furilden",
+      "path": "/furilden",
+      "name": "Furilden",
+      "description": "As a child, me, my older brother and the village's other children cycled out on the island of Furilden. Our imagination, or at least mine, transformed this barren and industrial landscape into something of a colorful amusement park. Today, this is a popular destination on Gotland with, among other things, a fantastically stylish hotel and a wine bar in one of the gravel pits. The creation of this painting came about intuitively, completely without plan or conscious control and is close to my heart.",
+      "price": "6 800",
+      "year": "2022",
+      "status": "available",
+      "frame": "included",
+      "material": {
+        "medium": "Acrylics, ink, crayon, grafite",
+        "base": "canvas"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": ["canvas", "acrylics", "gotland"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/furilden/furilden_00.jpg",
+          "alt": "The painting Furilden framed"
+        },
+        {
+          "src": "/static/paintings/furilden/furilden_01.jpg",
+          "alt": "The painting Furilden without frame"
+        }
+      ]
+    },
     {
       "slug": "/shut",
       "path": "/shut",
@@ -1209,7 +1243,7 @@
       "status": "sold",
       "frame": "Shadowbox. 4.5 cm deep black wooden frame with 6 mm distance between the frame and the painting",
       "material": {
-        "medium": "acrylics, ink, crayon, grafite",
+        "medium": "Acrylics, ink, crayon, grafite",
         "base": "canvas"
       },
       "width": "30",
@@ -1237,7 +1271,7 @@
       "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "70",
@@ -1269,7 +1303,7 @@
       "status": "sold",
       "frame": "included",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "Glas"
       },
       "width": "50",
@@ -1300,7 +1334,7 @@
       "year": "2019",
       "status": "hide",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "canvas"
       },
       "width": "40",
@@ -1474,7 +1508,7 @@
       "year": "2020",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "80",
@@ -1510,7 +1544,7 @@
       "status": "hide",
       "frame": "included",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "Glas"
       },
       "width": "30",
@@ -1533,51 +1567,6 @@
       ]
     },
     {
-      "slug": "/dear-deer",
-      "path": "/dear-deer",
-      "name": "Dear deer",
-      "description": "A tribute to the wild and beautiful. A humble apology for the insecurity. Proof of blind awareness. Even from me.",
-      "price": "3 400",
-      "year": "2020",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "material": {
-        "medium": "acrylics",
-        "base": "woodboard"
-      },
-      "width": "24",
-      "height": "33",
-      "tags": ["woodboard", "acrylics", "female", "animal", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_0.jpg",
-          "alt": "The painting Dear deer straight on"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_1.jpg",
-          "alt": "Closeup on the painting Dear deer"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_2.jpeg",
-          "alt": "The painting Dear deer without frame"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_3.jpg",
-          "alt": "The painting Dear deer without frame"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_4.jpeg",
-          "alt": "The painting Dear deer without frame"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
-          "alt": "The painting Dear deer without frame"
-        }
-      ]
-    },
-
-    {
       "slug": "/for-evigt",
       "path": "/for-evigt",
       "name": "For ever",
@@ -1586,7 +1575,7 @@
       "year": "2020",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "100",
@@ -1621,7 +1610,7 @@
       "year": "2019",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
       "width": "70",
@@ -1648,81 +1637,46 @@
       ]
     },
     {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
-      "price": "6 900",
+      "slug": "/dear-deer",
+      "path": "/dear-deer",
+      "name": "Dear deer",
+      "description": "A tribute to the wild and beautiful. A humble apology for the insecurity. Proof of blind awareness. Even from me.",
+      "price": "3 400",
       "year": "2020",
       "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "material": {
-        "medium": "Mixed media - acrylics etc",
+        "medium": "Acrylics",
         "base": "woodboard"
       },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media"],
+      "width": "24",
+      "height": "33",
+      "tags": ["woodboard", "acrylics", "female", "animal", "shadowbox"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
-          "alt": "The painting 'Blue Hope' framed"
+          "src": "/static/paintings/dear-deer/dear-deer_0.jpg",
+          "alt": "The painting Dear deer straight on"
         },
         {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' closeup"
+          "src": "/static/paintings/dear-deer/dear-deer_1.jpg",
+          "alt": "Closeup on the painting Dear deer"
         },
         {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' closeup"
+          "src": "/static/paintings/dear-deer/dear-deer_2.jpeg",
+          "alt": "The painting Dear deer without frame"
         },
         {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' straight on"
-        }
-      ]
-    },
-    {
-      "slug": "/sista-dansen",
-      "path": "/sista-dansen",
-      "name": "Sista dansen på Fårö",
-      "description": "There is so much mystery to this small little island of an island. I painted this full of longing and desire for the rough landscape, the salty winds and peculiar atmosphere. It's namned after a documentary I listened to while painting, which is about bohemian life, a murder and feminism. For me the painting is about more than that but there is something to that story that is as peculiar as the island it self. Oh Fårö.",
-      "price": "2 200",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, ink etc",
-        "base": "woodboard"
-      },
-      "width": "30",
-      "height": "20",
-      "tags": ["woodboard", "acrylics"],
-      "category": "original",
-      "frame": "A 2 cm white edge frame. Ready to hang",
-      "images": [
-        {
-          "src": "/static/paintings/sista-dansen/sistadansen_sq-gallery.jpg",
-          "alt": "The painting 'Sista dansen på Fårö' in the gallery"
+          "src": "/static/paintings/dear-deer/dear-deer_3.jpg",
+          "alt": "The painting Dear deer without frame"
         },
         {
-          "src": "/static/paintings/sista-dansen/sistadansen_sq-angle.jpg",
-          "alt": "'Sista dansen på Fårö' i vinkel"
+          "src": "/static/paintings/dear-deer/dear-deer_4.jpeg",
+          "alt": "The painting Dear deer without frame"
         },
         {
-          "src": "/static/paintings/sista-dansen/sistadansen_sq-detail.jpg",
-          "alt": "The painting 'Sista dansen på Fårö' detail"
-        },
-        {
-          "src": "/static/paintings/sista-dansen/sistadansen_sq-sidan.jpg",
-          "alt": "The painting 'Sista dansen på Fårö' from the side"
-        },
-        {
-          "src": "/static/paintings/sista-dansen/sistadansen_sq-corner.jpg",
-          "alt": "The painting 'Sista dansen på Fårö' detail"
-        },
-        {
-          "src": "/static/paintings/sista-dansen/sistadansen_sq-signatur.jpg",
-          "alt": "The painting 'Sista dansen på Fårö' signatur"
+          "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
+          "alt": "The painting Dear deer without frame"
         }
       ]
     },
@@ -1735,7 +1689,7 @@
       "year": "2018",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "canvas"
       },
       "width": "50",
@@ -1778,7 +1732,7 @@
       "year": "2018",
       "status": "sold",
       "material": {
-        "medium": "acrylics",
+        "medium": "Acrylics",
         "base": "Plexiglas"
       },
       "width": "50",
@@ -1839,7 +1793,85 @@
         }
       ]
     },
-
+    {
+      "slug": "/sista-dansen",
+      "path": "/sista-dansen",
+      "name": "Sista dansen på Fårö",
+      "description": "There is so much mystery to this small little island of an island. I painted this full of longing and desire for the rough landscape, the salty winds and peculiar atmosphere. It's namned after a documentary I listened to while painting, which is about bohemian life, a murder and feminism. For me the painting is about more than that but there is something to that story that is as peculiar as the island it self. Oh Fårö.",
+      "price": "2 200",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "30",
+      "height": "20",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "frame": "A 2 cm white edge frame. Ready to hang",
+      "images": [
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-gallery.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' in the gallery"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-angle.jpg",
+          "alt": "'Sista dansen på Fårö' i vinkel"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-detail.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' detail"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-sidan.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' from the side"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-corner.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' detail"
+        },
+        {
+          "src": "/static/paintings/sista-dansen/sistadansen_sq-signatur.jpg",
+          "alt": "The painting 'Sista dansen på Fårö' signatur"
+        }
+      ]
+    },
+    {
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
+      "price": "6 900",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "The painting 'Blue Hope' framed"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' closeup"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' closeup"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' straight on"
+        }
+      ]
+    },
     {
       "slug": "/you-first",
       "path": "/you-first",
@@ -1849,7 +1881,7 @@
       "year": "2018",
       "status": "sold",
       "material": {
-        "medium": "acrylics och ink",
+        "medium": "Acrylics och ink",
         "base": "canvas"
       },
       "width": "40",

@@ -104,8 +104,6 @@ const Product = ({ piece }) => {
               </a>
               . <br /> {content.slug.order2}
               <br />
-              <br />
-              {content.slug.order3}
             </p>
           </div>
           <Form messagePlaceholder='Din beställning' submit='Beställ' />

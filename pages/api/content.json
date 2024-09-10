@@ -1,6 +1,42 @@
 {
   "pieces": [
     {
+      "slug": "/all-over",
+      "path": "/all-over",
+      "name": "All over",
+      "description": "Sluta trampa över alla mina j*kla drömmar hörde hon sig själv säga, i sitt huvud. Det var stunden då hon äntligen förstod att hon behöver släppa taget. Och så gjorde hon.",
+      "price": "9 800",
+      "year": "2024",
+      "frame": "Vit träram",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - akryl mm",
+        "base": "pannå"
+      },
+      "width": "80",
+      "height": "80",
+      "tags": ["pannå", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/all-over/all-over_00.jpg",
+          "alt": "Målningen 'All over' i galleriet"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_01.jpg",
+          "alt": "'All over' detaljer"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_02.jpg",
+          "alt": "'All over' detaljer"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_03.jpg",
+          "alt": "'All over' detaljer"
+        }
+      ]
+    },
+    {
       "slug": "/holy-cow",
       "path": "/holy-cow",
       "name": "Holy cow!",
@@ -428,7 +464,7 @@
       "name": "Curiosity",
       "description": "Gå dit. Tillåt nyfikenheten att leda vägen. Smaka, lukta, känn. Du behöver inte bestämma eller ens veta vad du vill, bara utforska.",
       "price": "9 800",
-      "year": "2023",
+      "year": "2022",
       "status": "sold",
       "material": {
         "medium": "Mixed media - akryl mm",

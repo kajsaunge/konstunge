@@ -73,8 +73,7 @@
     "intro2": " or you can use the form on this page.",
     "order": "Orders",
     "orderDesc1": "To place an order, fill the form, or send an email to",
-    "orderDesc2": "Write in the message how you prefer to get the painting delivered, some artworks can be shipped while some are wuite heavy. I sometimes offer to meet up in the Stockholms are or pick up at my art studio, whatever suits the needs best.",
-    "orderDesc3": "The studio is located about 40 minutes south of Stockholm city center.",
+    "orderDesc2": "Remember to write how you prefer to get your painting delivered. Shipment world wide or pick-up in the Stockholm area.",
     "form": {
       "name": "Name",
       "namePlaceholder": "Your name",
@@ -100,10 +99,9 @@
     "requestFrame": "Available on request",
     "delivery": "Delivery",
     "order": "Order",
-    "pickup": "Shipping or pick up in Stockholm area",
+    "pickup": "World wide shipping or pick up in Stockholm area",
     "order1": "To make an order, fill in the form or send an email to",
-    "order2": "Remember to write how you prefer to get your painting delivered. Many of the artworks can be shipped while I'm also happy to meet up in the Stockholm area. And you are of course welcome to pick up at my studio, whatever is best for you.",
-    "order3": "The studio is located in Grödinge, around 40 minutes south of Stockholm city center."
+    "order2": "Remember to write how you prefer to get your painting delivered. Shipment world wide or pick-up in the Stockholm area."
   },
   "card": {
     "size": "Size:",
