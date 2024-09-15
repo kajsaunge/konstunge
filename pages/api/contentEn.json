@@ -1,85 +1,145 @@
 {
   "pieces": [
     {
-      "slug": "/hoppet",
-      "path": "/hoppet",
-      "name": "The hope",
-      "description": "She doesn't give up. She turns her gaze and looks at the sky. There is the warmth, the one that confirms and sees. That gives hope and courage, that takes her forward again.",
-      "price": "7 800",
-      "year": "2023",
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "price": "7 300",
+      "year": "2024",
       "status": "available",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "material": {
-        "medium": "Mixed media - acrylics, sprayfärg etc",
-        "base": "woodboard"
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
       },
-      "width": "43",
+      "width": "50",
       "height": "70",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/hoppet/hoppet_00.jpg",
-          "alt": "The painting 'The hope' in the gallery"
+          "src": "/static/paintings/audrey/audrey_00.jpg",
+          "alt": "The painting 'Audrey' in the gallery"
         },
         {
-          "src": "/static/paintings/hoppet/20231123_063631.jpg",
-          "alt": "'The hope' i ateljen"
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
         },
         {
-          "src": "/static/paintings/hoppet/20231123_063602.jpg",
-          "alt": "'The hope' i ateljen"
+          "src": "/static/paintings/audrey/audrey_02.jpg",
+          "alt": "'audrey' closeup"
         },
         {
-          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
-          "alt": "'The hope' closeup"
+          "src": "/static/paintings/audrey/audrey_03.jpg",
+          "alt": "'audrey' closeup"
         },
         {
-          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
-          "alt": "'The hope'"
+          "src": "/static/paintings/audrey/audrey_04.jpg",
+          "alt": "'audrey'"
         },
         {
-          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
-          "alt": "'The hope'"
+          "src": "/static/paintings/audrey/audrey_05.jpg",
+          "alt": "'Audrey' signaturee"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
         }
       ]
     },
     {
-      "slug": "/all-over",
-      "path": "/all-over",
-      "name": "All over",
-      "description": "Stop walking all over my f*cking dreams she heared herself saying, inside her head. It was the moment she finally realized she needed to let go. And so she did.",
+      "slug": "/ufo",
+      "path": "/ufo",
+      "name": "U.F.O",
+      "description": "The allure, the seductive. The absorbing, jovial, confusingly good. The things that persistently pull at you, the things you can't get away, hardly at all. Love, passion, obsession - may it never go away, may it be merciful. So totally annihilating destruction. What would life be without it?",
       "price": "9 800",
-      "year": "2024",
-      "frame": "White wooden frame",
-      "status": "new",
+      "year": "2023",
+      "status": "available",
       "material": {
-        "medium": "Mixed media - acrylics etc",
+        "medium": "Mixed media - acrylics, ink, crayon etc",
         "base": "woodboard"
       },
-      "width": "80",
-      "height": "80",
-      "tags": ["woodboard", "mixed media"],
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
       "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "images": [
         {
-          "src": "/static/paintings/all-over/all-over_00.jpg",
-          "alt": "The painting 'All over' in the gallery"
+          "src": "/static/paintings/ufo/ufo_0.jpg",
+          "alt": "The painting 'U.F.O' framed"
         },
         {
-          "src": "/static/paintings/all-over/all-over_01.jpg",
-          "alt": "'All over' details"
+          "src": "/static/paintings/ufo/ufo_1.jpg",
+          "alt": "'U.F.O' without frame"
         },
         {
-          "src": "/static/paintings/all-over/all-over_02.jpg",
-          "alt": "'All over' details"
+          "src": "/static/paintings/ufo/ufo_2.jpg",
+          "alt": "The painting 'U.F.O' in situ"
         },
         {
-          "src": "/static/paintings/all-over/all-over_03.jpg",
-          "alt": "'All over' closeup"
+          "src": "/static/paintings/ufo/ufo_3.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_4.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_5.jpg",
+          "alt": "The painting 'U.F.O' in situ"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_0.jpg",
+          "alt": "The painting 'U.F.O' framed"
         }
       ]
     },
+
+    {
+      "slug": "/queen",
+      "path": "/queen",
+      "name": "Queen",
+      "description": "To be more than you know. Braver, stronger and bigger than you realize. Preferably understood. Not just kind, soft and canvasy. To have owned and to continue to own. More.",
+      "price": "6 500",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "canvas"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["canvas", "acrylics", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/queen/queen_00.jpg",
+          "alt": "The painting Queen in the gallery"
+        },
+        {
+          "src": "/static/paintings/queen/queen_01.jpg",
+          "alt": "The painting Queen straight on"
+        },
+        {
+          "src": "/static/paintings/queen/queen_02.jpg",
+          "alt": "Closeup on the painting Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_03.jpg",
+          "alt": "Closeup on the painting Queen"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "The painting Queen from the side"
+        },
+        {
+          "src": "/static/paintings/queen/queen_05.jpg",
+          "alt": "The painting Queen straight on"
+        }
+      ]
+    },
+
     {
       "slug": "/aldrig-ensam",
       "path": "/aldrig-ensam",
@@ -87,7 +147,7 @@
       "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
       "price": "7 800",
       "year": "2023",
-      "status": "available",
+      "status": "sold",
       "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "material": {
         "medium": "Mixed media - acrylics, sparyfärg etc",
@@ -307,53 +367,6 @@
       ]
     },
     {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
-      "price": "7 300",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/audrey/audrey_00.jpg",
-          "alt": "The painting 'Audrey' in the gallery"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' straight on"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_02.jpg",
-          "alt": "'audrey' closeup"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_03.jpg",
-          "alt": "'audrey' closeup"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_04.jpg",
-          "alt": "'audrey'"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_05.jpg",
-          "alt": "'Audrey' signaturee"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' straight on"
-        }
-      ]
-    },
-    {
       "slug": "/feels",
       "path": "/feels",
       "name": "Feels",
@@ -533,54 +546,6 @@
     },
 
     {
-      "slug": "/ufo",
-      "path": "/ufo",
-      "name": "U.F.O",
-      "description": "The allure, the seductive. The absorbing, jovial, confusingly good. The things that persistently pull at you, the things you can't get away, hardly at all. Love, passion, obsession - may it never go away, may it be merciful. So totally annihilating destruction. What would life be without it?",
-      "price": "9 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, ink, crayon etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
-      "category": "original",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "images": [
-        {
-          "src": "/static/paintings/ufo/ufo_0.jpg",
-          "alt": "The painting 'U.F.O' framed"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_1.jpg",
-          "alt": "'U.F.O' without frame"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_2.jpg",
-          "alt": "The painting 'U.F.O' in situ"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_3.jpg",
-          "alt": "The painting 'U.F.O' in situ"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_4.jpg",
-          "alt": "The painting 'U.F.O' in situ"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_5.jpg",
-          "alt": "The painting 'U.F.O' in situ"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_0.jpg",
-          "alt": "The painting 'U.F.O' framed"
-        }
-      ]
-    },
-    {
       "slug": "/rearview",
       "path": "/rearview",
       "name": "Rearview",
@@ -649,36 +614,86 @@
       ]
     },
     {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
-      "price": "9 400",
-      "year": "2020",
+      "slug": "/hoppet",
+      "path": "/hoppet",
+      "name": "The hope",
+      "description": "She doesn't give up. She turns her gaze and looks at the sky. There is the warmth, the one that confirms and sees. That gives hope and courage, that takes her forward again.",
+      "price": "7 800",
+      "year": "2023",
       "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "material": {
-        "medium": "Acrylics",
+        "medium": "Mixed media - acrylics, sprayfärg etc",
         "base": "woodboard"
       },
-      "width": "80",
-      "height": "120",
-      "tags": ["woodboard", "acrylics", "typografi"],
+      "width": "43",
+      "height": "70",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "The painting New york straight on"
+          "src": "/static/paintings/hoppet/hoppet_00.jpg",
+          "alt": "The painting 'The hope' in the gallery"
         },
         {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "The painting New york straight on"
+          "src": "/static/paintings/hoppet/20231123_063631.jpg",
+          "alt": "'The hope' i ateljen"
         },
         {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "The painting New york from the side"
+          "src": "/static/paintings/hoppet/20231123_063602.jpg",
+          "alt": "'The hope' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
+          "alt": "'The hope' closeup"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
+          "alt": "'The hope'"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
+          "alt": "'The hope'"
         }
       ]
     },
+    {
+      "slug": "/all-over",
+      "path": "/all-over",
+      "name": "All over",
+      "description": "Stop walking all over my f*cking dreams she heared herself saying, inside her head. It was the moment she finally realized she needed to let go. And so she did.",
+      "price": "9 800",
+      "year": "2024",
+      "frame": "White wooden frame",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "80",
+      "height": "80",
+      "tags": ["woodboard", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/all-over/all-over_00.jpg",
+          "alt": "The painting 'All over' in the gallery"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_01.jpg",
+          "alt": "'All over' details"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_02.jpg",
+          "alt": "'All over' details"
+        },
+        {
+          "src": "/static/paintings/all-over/all-over_03.jpg",
+          "alt": "'All over' closeup"
+        }
+      ]
+    },
+
     {
       "slug": "/deer-her",
       "path": "/deer-her",
@@ -783,50 +798,6 @@
       ]
     },
     {
-      "slug": "/no-promises",
-      "path": "/no-promises",
-      "name": "No promises",
-      "description": "Everything is changeable. You can have a plan and a thought, but often it turns out a little different, or completely. Being open and receptive to what comes along the way doesn't have to mean swallowing everything with guts (blah) but it can lead to amazing things. Who knows, maybe and suddenly an unexpected bud grows up and shoots away. Where is it going?",
-      "price": "5 300",
-      "year": "2024",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "status": "available",
-      "material": {
-        "medium": "Acrylics",
-        "base": "woodboard"
-      },
-      "width": "38",
-      "height": "38",
-      "tags": ["woodboard", "acrylics", "floral", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/no-promises/no-promises_0.jpg",
-          "alt": "The painting No promises in the gallery"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_2.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_3.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_4.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_5.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_1.jpg",
-          "alt": "The painting No promises i sin helhet"
-        }
-      ]
-    },
-    {
       "slug": "/over-this",
       "path": "/over-this",
       "name": "Over this",
@@ -897,6 +868,50 @@
         {
           "src": "/static/paintings/dimensions/dimensions_7.jpg",
           "alt": "'Dimensions' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/no-promises",
+      "path": "/no-promises",
+      "name": "No promises",
+      "description": "Everything is changeable. You can have a plan and a thought, but often it turns out a little different, or completely. Being open and receptive to what comes along the way doesn't have to mean swallowing everything with guts (blah) but it can lead to amazing things. Who knows, maybe and suddenly an unexpected bud grows up and shoots away. Where is it going?",
+      "price": "5 300",
+      "year": "2024",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "38",
+      "height": "38",
+      "tags": ["woodboard", "acrylics", "floral", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/no-promises/no-promises_0.jpg",
+          "alt": "The painting No promises in the gallery"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_2.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_3.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_4.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_5.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_1.jpg",
+          "alt": "The painting No promises i sin helhet"
         }
       ]
     },
@@ -1074,6 +1089,33 @@
       ]
     },
     {
+      "slug": "/give",
+      "path": "/give",
+      "name": "Give",
+      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Provide feedback. Give up. Give me! And so on",
+      "price": "4 500",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akvarell och acrylics",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": ["canvas", "akvarell", "acrylics", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/give/give_00.jpg",
+          "alt": "The painting T-shirt girl straight on"
+        },
+        {
+          "src": "/static/paintings/give/give_01.jpg",
+          "alt": "Closeup on the painting T-shirt girl"
+        }
+      ]
+    },
+    {
       "slug": "/annanhorisont",
       "path": "/annanhorisont",
       "name": "Different horizon",
@@ -1104,76 +1146,7 @@
         }
       ]
     },
-    {
-      "slug": "/queen",
-      "path": "/queen",
-      "name": "Queen",
-      "description": "To be more than you know. Braver, stronger and bigger than you realize. Preferably understood. Not just kind, soft and canvasy. To have owned and to continue to own. More.",
-      "price": "6 500",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Acrylics",
-        "base": "canvas"
-      },
-      "width": "45",
-      "height": "55",
-      "tags": ["canvas", "acrylics", "female", "animal"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/queen/queen_00.jpg",
-          "alt": "The painting Queen in the gallery"
-        },
-        {
-          "src": "/static/paintings/queen/queen_01.jpg",
-          "alt": "The painting Queen straight on"
-        },
-        {
-          "src": "/static/paintings/queen/queen_02.jpg",
-          "alt": "Closeup on the painting Queen"
-        },
-        {
-          "src": "/static/paintings/queen/queen_03.jpg",
-          "alt": "Closeup on the painting Queen"
-        },
-        {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "The painting Queen from the side"
-        },
-        {
-          "src": "/static/paintings/queen/queen_05.jpg",
-          "alt": "The painting Queen straight on"
-        }
-      ]
-    },
-    {
-      "slug": "/give",
-      "path": "/give",
-      "name": "Give",
-      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Provide feedback. Give up. Give me! And so on",
-      "price": "4 500",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Akvarell och acrylics",
-        "base": "canvas"
-      },
-      "width": "50",
-      "height": "50",
-      "tags": ["canvas", "akvarell", "acrylics", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/give/give_00.jpg",
-          "alt": "The painting T-shirt girl straight on"
-        },
-        {
-          "src": "/static/paintings/give/give_01.jpg",
-          "alt": "Closeup on the painting T-shirt girl"
-        }
-      ]
-    },
+
     {
       "slug": "/garden-girl",
       "path": "/garden-girl",
@@ -1790,6 +1763,37 @@
         {
           "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
           "alt": "'Strong and vulnerable' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
+      "price": "9 400",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["woodboard", "acrylics", "typografi"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "The painting New york straight on"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "The painting New york straight on"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "The painting New york from the side"
         }
       ]
     },
