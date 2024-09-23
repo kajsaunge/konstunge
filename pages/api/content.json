@@ -1,6 +1,86 @@
 {
   "pieces": [
     {
+      "slug": "/inbetween",
+      "path": "/inbetween",
+      "name": "Inbetween One",
+      "description": "Those moments, just before it hits you. Sometimes long, sometimes short, they might be painful and hard or gentle and sweet. But they always, always lead us forward and upward.",
+      "price": "3 500",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "20",
+      "height": "30",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "frame": "A 2 cm black edge frame. Ready to hang",
+      "images": [
+        {
+          "src": "/static/paintings/inbetween/inbetween1_01.jpg",
+          "alt": "The painting 'Inbetween 1' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_02.jpg",
+          "alt": "'Inbetween 1'"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_03.jpg",
+          "alt": "The painting 'Inbetween 1'"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_04.jpg",
+          "alt": "The painting 'Inbetween 1'"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween_00.jpg",
+          "alt": "The painting 'Inbetween 1' in the gallery"
+        }
+      ]
+    },
+    {
+      "slug": "/inbetween-2",
+      "path": "/inbetween-2",
+      "name": "Inbetween Two",
+      "description": "Those moments, just before it hits you. Sometimes long, sometimes short, they might be painful and hard or gentle and sweet. But they always, always lead us forward and upward.",
+      "price": "3 500",
+      "year": "2024",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "20",
+      "height": "30",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "frame": "A 2 cm black edge frame. Ready to hang",
+      "images": [
+        {
+          "src": "/static/paintings/inbetween-2/inbetween2_01.jpg",
+          "alt": "The painting 'Inbetween 2' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween-2/inbetween2_02.jpg",
+          "alt": "'Inbetween 2'"
+        },
+        {
+          "src": "/static/paintings/inbetween-2/inbetween2_03.jpg",
+          "alt": "The painting 'Inbetween 2'"
+        },
+        {
+          "src": "/static/paintings/inbetween-2/inbetween2_04.jpg",
+          "alt": "The painting 'Inbetween 2'"
+        },
+        {
+          "src": "/static/paintings/inbetween-2/inbetween_00.jpg",
+          "alt": "The painting 'Inbetween 2' in the gallery"
+        }
+      ]
+    },
+    {
       "slug": "/all-over",
       "path": "/all-over",
       "name": "All over",
