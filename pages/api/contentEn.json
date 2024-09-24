@@ -31,11 +31,23 @@
           "alt": "The painting 'Inbetween 1'"
         },
         {
-          "src": "/static/paintings/inbetween/inbetween1_04.jpg",
-          "alt": "The painting 'Inbetween 1'"
+          "src": "/static/paintings/inbetween/inbetween_00.jpg",
+          "alt": "The painting 'Inbetween 1' in the gallery"
         },
         {
-          "src": "/static/paintings/inbetween/inbetween_00.jpg",
+          "src": "/static/paintings/inbetween/inbetween1_06.jpg",
+          "alt": "The painting 'Inbetween 1' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_07.jpg",
+          "alt": "The painting 'Inbetween 1' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_09.jpg",
+          "alt": "The painting 'Inbetween 1' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_05.jpg",
           "alt": "The painting 'Inbetween 1' in the gallery"
         }
       ]
@@ -118,12 +130,24 @@
           "alt": "The painting 'Inbetween 2'"
         },
         {
-          "src": "/static/paintings/inbetween-2/inbetween2_04.jpg",
-          "alt": "The painting 'Inbetween 2'"
-        },
-        {
           "src": "/static/paintings/inbetween-2/inbetween_00.jpg",
           "alt": "The painting 'Inbetween 2' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween-2/inbetween2_05.jpg",
+          "alt": "The painting 'Inbetween 2' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween-2/inbetween2_06.jpg",
+          "alt": "The painting 'Inbetween 2' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween-2/inbetween2_07.jpg",
+          "alt": "The painting 'Inbetween 2' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inbetween-2/inbetween2_04.jpg",
+          "alt": "The painting 'Inbetween 2'"
         }
       ]
     },
