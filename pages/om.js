@@ -68,6 +68,15 @@ const Om = () => {
               className={`${styles.mainContentText} ${styles.mainContentTextExtraSpace}`}
             >
               {content.about.intro2}
+              <p className={styles.mainContentText}>
+                <a
+                  className='link'
+                  href={content.about.instaUrl}
+                  target='_blank'
+                >
+                  {content.about.insta}
+                </a>
+              </p>
             </p>
             {/* <p className={styles.mainContentText}>
               Vid sidan av konsten spenderas tiden som mjukvaruutvecklare och
