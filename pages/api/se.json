@@ -91,6 +91,8 @@
   },
   "slug": {
     "breadcrumb": "Till galleriet",
+    "prev": "Föregående",
+    "next": "Nästa",
     "pageTitle": "Konstverk:",
     "title": "Originalmålning:",
     "titleDesc": "Konst för unika rum",

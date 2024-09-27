@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import NextLink from 'next/link';
 
 // import contentArt from '../api/content.json';
 import contentArtEn from '../api/contentEn.json';
@@ -9,13 +10,23 @@ import contentEn from '../api/en.json';
 import Form from '@/form';
 import ImageGallery from '@/imageGallery';
 import PageIntro from '@/pageIntro';
-
 import styles from '../../styles/Produkt.module.css';
 
 const Product = ({ piece }) => {
+  const thisIndex = contentArtEn.pieces.findIndex(
+    (item) => piece?.path === item?.path
+  );
+  const prevPath =
+    contentArtEn.pieces[thisIndex >= 1 ? thisIndex - 1 : '']?.path;
+  const nextPath =
+    contentArtEn.pieces[
+      thisIndex <= contentArtEn.pieces.length - 2 ? thisIndex + 1 : ''
+    ]?.path;
+
   const content = contentEn;
   const router = useRouter();
   const hasFrame = piece.frame ? piece.frame : content.slug.requestFrame;
+
   return (
     <>
       <Head>
@@ -30,15 +41,27 @@ const Product = ({ piece }) => {
           content='Produktsida för konstverk och tavlor av svenska konstnären Kajsa Unge. Information och specifikationer om konsten och tavlorna samt beställning.'
         />
       </Head>
-      <main aria-label={`Tavlan ${piece.name}`} role='main' className='main'>
-        <nav
-          aria-label='Till galleriet'
-          role='navigation'
-          className={styles.backNavWrapper}
-        >
-          <button className={styles.backNav} onClick={() => router.back()}>
-            {content.slug.breadcrumb}
-          </button>
+      <main aria-label={`Tavlan ${piece.name}`} role='main' className=''>
+        <nav className={styles.artsNav}>
+          {prevPath ? (
+            <a className={styles.artsNavPrev} href={`/konst${prevPath}`}>
+              {content.slug.prev}
+            </a>
+          ) : (
+            <span />
+          )}
+          <NextLink className={styles.artsNavBack} href='/' as='/'>
+            <a aria-label='Till galleriet' role='navigation' href='/'>
+              {content.slug.breadcrumb}
+            </a>
+          </NextLink>
+          {nextPath ? (
+            <a className={styles.artsNavNext} href={`/konst${nextPath}`}>
+              {content.slug.next}
+            </a>
+          ) : (
+            <span />
+          )}
         </nav>
         <PageIntro
           level={1}

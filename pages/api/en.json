@@ -88,7 +88,9 @@
     }
   },
   "slug": {
-    "breadcrumb": "To the gallery",
+    "breadcrumb": "Back to gallery",
+    "prev": "Previous",
+    "next": "Next",
     "pageTitle": "Artwork:",
     "title": "Original artwork:",
     "titleDesc": "Art for uniqueness",
