@@ -64,7 +64,7 @@
   align-items: center;
 }
 .artPieceContent {
-  padding: 0 8px 32px 0;
+  padding: 0 8px 32px 8px;
   margin-top: 24px;
   max-width: 410px;
 }
@@ -80,7 +80,7 @@
   font-size: 16px;
 }
 .artPieceDetails {
-  margin: 2px 0;
+  margin: 0 2px 20px;
   font-size: 16px;
 }
 .artPieceSubTitle {
@@ -88,6 +88,9 @@
   margin-bottom: 8px;
 }
 
+.artPieceOrder {
+  padding: 0 8px;
+}
 .artPieceFooter {
   display: grid;
   grid-template-columns: 1fr;

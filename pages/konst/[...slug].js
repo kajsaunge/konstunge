@@ -41,7 +41,7 @@ const Product = ({ piece }) => {
           content='Produktsida för konstverk och tavlor av svenska konstnären Kajsa Unge. Information och specifikationer om konsten och tavlorna samt beställning.'
         />
       </Head>
-      <main aria-label={`Tavlan ${piece.name}`} role='main' className=''>
+      <main aria-label={`Tavlan ${piece.name}`} role='main' className='main'>
         <nav className={styles.artsNav}>
           {prevPath ? (
             <a className={styles.artsNavPrev} href={`/konst${prevPath}`}>
@@ -118,7 +118,7 @@ const Product = ({ piece }) => {
               : styles.artPieceFooter
           }
         >
-          <div>
+          <div className={styles.artPieceOrder}>
             <h3 className={styles.artPieceFooterTitle}>{content.slug.order}</h3>
             <p className={styles.artPieceDetails}>
               {content.slug.order1}{' '}
@@ -128,8 +128,8 @@ const Product = ({ piece }) => {
               . <br /> {content.slug.order2}
               <br />
             </p>
+            <Form messagePlaceholder='Din beställning' submit='Beställ' />
           </div>
-          <Form messagePlaceholder='Din beställning' submit='Beställ' />
         </aside>
       </main>
     </>
