@@ -121,7 +121,7 @@
       "path": "/holy-cow",
       "name": "Holy cow!",
       "description": "Ibland är världen uppochner och inget verkar rimligt alls. Det är lätt att undra varför, vad en ska göra eller om det ens är på riktigt. Och svårt att veta hur en ska agera eller agera alls. Är det galenskap elle är det jag?",
-      "price": "9 800",
+      "price": "9 000",
       "year": "2024",
       "status": "available",
       "material": {
@@ -132,7 +132,6 @@
       "height": "100",
       "tags": ["woodboard", "mixed media", "shadowbox"],
       "category": "original",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "images": [
         {
           "src": "/static/paintings/holy-cow/holy-cow_00.jpg",
