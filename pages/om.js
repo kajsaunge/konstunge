@@ -4,8 +4,7 @@ import NextLink from 'next/link';
 import { motion } from 'framer-motion';
 
 import contentArt from './api/content.json';
-// import contentSe from './api/se.json';
-import contentEn from './api/en.json';
+import content from './api/se.json';
 
 import Card from '@/Card';
 import PageIntro from '@/pageIntro';
@@ -19,7 +18,6 @@ const studio = '/static/profile/kajsaunge-studio.jpg';
 const studio2 = '/static/profile/kajsaunge-studio2.jpg';
 
 const Om = () => {
-  const content = contentEn;
   const selectedPieces = [];
   contentArt.pieces.map((item) => {
     if (item.name === 'Audrey' || item.name === 'Stark och sårbar') {
@@ -130,7 +128,7 @@ const Om = () => {
             </div>
           </div>
         </div>
-        <Exhibition />
+        {/* <Exhibition /> */}
         <div className={styles.gallery}>
           <PageIntro
             title={content.general.gallery}

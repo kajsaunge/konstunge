@@ -3,15 +3,13 @@ import Form from '@/form';
 import NextLink from 'next/link';
 
 import contentArt from './api/content.json';
-// import contentSe from './api/se.json';
-import contentEn from './api/en.json';
+import content from './api/se.json';
 
 import PageIntro from '@/pageIntro';
 import Card from '@/Card';
 import styles from '../styles/Kontakt.module.css';
 
 const Kontakt = () => {
-  const content = contentEn;
   const selectedPieces = [];
   contentArt.pieces.map((item) => {
     if (item.name === 'Rearview' || item.name === 'Security') {

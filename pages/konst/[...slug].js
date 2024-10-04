@@ -2,10 +2,8 @@ import Head from 'next/head';
 import { useRouter } from 'next/router';
 import NextLink from 'next/link';
 
-// import contentArt from '../api/content.json';
-import contentArtEn from '../api/contentEn.json';
-// import contentSe from '../api/se.json';
-import contentEn from '../api/en.json';
+import contentArt from '../api/content.json';
+import content from '../api/se.json';
 
 import Form from '@/form';
 import ImageGallery from '@/imageGallery';
@@ -13,17 +11,15 @@ import PageIntro from '@/pageIntro';
 import styles from '../../styles/Produkt.module.css';
 
 const Product = ({ piece }) => {
-  const thisIndex = contentArtEn.pieces.findIndex(
+  const thisIndex = contentArt.pieces.findIndex(
     (item) => piece?.path === item?.path
   );
-  const prevPath =
-    contentArtEn.pieces[thisIndex >= 1 ? thisIndex - 1 : '']?.path;
+  const prevPath = contentArt.pieces[thisIndex >= 1 ? thisIndex - 1 : '']?.path;
   const nextPath =
-    contentArtEn.pieces[
-      thisIndex <= contentArtEn.pieces.length - 2 ? thisIndex + 1 : ''
+    contentArt.pieces[
+      thisIndex <= contentArt.pieces.length - 2 ? thisIndex + 1 : ''
     ]?.path;
 
-  const content = contentEn;
   const router = useRouter();
   const hasFrame = piece.frame ? piece.frame : content.slug.requestFrame;
 
@@ -137,7 +133,7 @@ const Product = ({ piece }) => {
 };
 
 export async function getStaticPaths() {
-  const paths = contentArtEn.pieces.map((piece) => {
+  const paths = contentArt.pieces.map((piece) => {
     const slug = piece.slug.split('/').slice(1);
     return { params: { slug } };
   });
@@ -148,7 +144,7 @@ export async function getStaticProps(context) {
   const { params } = context;
 
   const currentPath = `/${params.slug.join('/')}`;
-  const piece = contentArtEn.pieces.find(
+  const piece = contentArt.pieces.find(
     (piece) => piece.path === currentPath
   ) || {
     notfound: true,

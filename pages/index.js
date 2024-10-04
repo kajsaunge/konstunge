@@ -4,20 +4,16 @@ import Head from 'next/head';
 import PageIntro from '@/pageIntro';
 // import Sorter from '@/sorter';
 import Card from '@/Card';
-import Exhibition from '@/Exhibition';
 
-import contentArtEn from './api/contentEn.json';
-// import contentArt from './api/content.json';
-// import contentSe from './api/se.json';
-import contentEn from './api/en.json';
+import contentArt from './api/content.json';
+import content from './api/se.json';
 
 import styles from '../styles/Hem.module.css';
 
 const Home = () => {
-  const content = contentEn;
   const [sortValue, setSortValue] = useState('status');
 
-  const mappedContent = contentArtEn.pieces.map((el, i) => {
+  const mappedContent = contentArt.pieces.map((el, i) => {
     const elWidth = parseInt(el.width);
     const elHeight = parseInt(el.height);
 
@@ -44,10 +40,10 @@ const Home = () => {
   });
 
   const sortedContent = mappedContent.map((el) => {
-    return contentArtEn.pieces[el.index];
+    return contentArt.pieces[el.index];
   });
   const useCorrectContent =
-    sortValue === '' ? contentArtEn.pieces : sortedContent;
+    sortValue === '' ? contentArt.pieces : sortedContent;
 
   const shouldBeShown = useCorrectContent.filter((el) =>
     el.status !== 'hide' && el.status !== 'sold' ? el : ''
@@ -86,7 +82,7 @@ const Home = () => {
         </div> */}
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
-            {contentArtEn &&
+            {contentArt &&
               shouldBeShown.map((piece, i) => {
                 return (
                   <li key={i}>
@@ -96,11 +92,11 @@ const Home = () => {
               })}
           </ul>
         </section>
-        <Exhibition />
+        {/* <Exhibition /> */}
         <div className={styles.hrLine}></div>
         <section className={styles.artPiecesWrapper}>
           <ul className={styles.artPieces}>
-            {contentArtEn &&
+            {contentArt &&
               sold.map((piece, i) => {
                 return (
                   <li key={i}>
@@ -110,7 +106,7 @@ const Home = () => {
               })}
           </ul>
         </section>
-        <Exhibition />
+        {/* <Exhibition /> */}
       </main>
     </>
   );

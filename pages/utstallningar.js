@@ -6,8 +6,7 @@ import PageIntro from '@/pageIntro';
 import contentArt from './api/content.json';
 import Card from '@/Card';
 
-// import contentSe from './api/se.json';
-import contentEn from './api/en.json';
+import content from './api/se.json';
 
 import styles from '../styles/Utstallningar.module.css';
 
@@ -19,7 +18,6 @@ const husby = '/static/news/husby-salong.png';
 const gtld = '/static/news/gtld-2023.png';
 
 const Utstallningar = () => {
-  const content = contentEn;
   const selectedPieces = [];
   contentArt.pieces.map((item) => {
     if (item.name === 'Annan horisont' || item.name === 'Ever seeing') {
@@ -45,6 +43,61 @@ const Utstallningar = () => {
         />
 
         <div className={styles.mainContent}>
+          <div className={styles.mainContentImage}>
+            <a target='_blank' href='https://justegallery.com/'>
+              <img
+                width={372}
+                height={520}
+                src={juste}
+                alt={juste}
+                className={styles.mainContentImage}
+              />
+            </a>
+          </div>
+          <div className={styles.mainContentTextBlock}>
+            <h2>{content.exhibition.exhibitions.juste.title}</h2>
+
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.aw} </b>
+              {content.exhibition.exhibitions.juste.aw}
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.vernissage} </b>
+              {content.exhibition.exhibitions.juste.vernissage}
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.finnisage} </b>
+              {content.exhibition.exhibitions.juste.finnisage}
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.place} </b>
+              {content.exhibition.exhibitions.juste.place}
+            </p>
+            <p className={styles.artPieceDetails}>
+              <b>{content.exhibition.exhibitionDetails.gallery} </b>{' '}
+              <span className='link'>
+                <Link passHref href={content.exhibition.exhibitions.juste.url}>
+                  <a target='_blank'>
+                    {content.exhibition.exhibitions.juste.urlText}
+                  </a>
+                </Link>
+              </span>
+            </p>
+            <p className={styles.mainContentText}>
+              {content.exhibition.exhibitions.juste.desc}
+            </p>
+          </div>
+        </div>
+
+        <div className={styles.hrLine}></div>
+        <PageIntro
+          level={1}
+          title={content.exhibition.titlePrev}
+          description={content.exhibition.titleDescPrev}
+        />
+
+        <div className={styles.mainContent}>
+          <div className={styles.outdatedOverlay}></div>
           <div className={styles.mainContentImage}>
             <a target='_blank' href='https://fb.me/e/1sRK8fRzi'>
               <img
@@ -100,60 +153,6 @@ const Utstallningar = () => {
             </p>
           </div>
         </div>
-
-        <div className={styles.mainContent}>
-          <div className={styles.mainContentImage}>
-            <a target='_blank' href='https://justegallery.com/'>
-              <img
-                width={372}
-                height={520}
-                src={juste}
-                alt={juste}
-                className={styles.mainContentImage}
-              />
-            </a>
-          </div>
-          <div className={styles.mainContentTextBlock}>
-            <h2>{content.exhibition.exhibitions.juste.title}</h2>
-
-            <p className={styles.artPieceDetails}>
-              <b>{content.exhibition.exhibitionDetails.aw} </b>
-              {content.exhibition.exhibitions.juste.aw}
-            </p>
-            <p className={styles.artPieceDetails}>
-              <b>{content.exhibition.exhibitionDetails.vernissage} </b>
-              {content.exhibition.exhibitions.juste.vernissage}
-            </p>
-            <p className={styles.artPieceDetails}>
-              <b>{content.exhibition.exhibitionDetails.finnisage} </b>
-              {content.exhibition.exhibitions.juste.finnisage}
-            </p>
-            <p className={styles.artPieceDetails}>
-              <b>{content.exhibition.exhibitionDetails.place} </b>
-              {content.exhibition.exhibitions.juste.place}
-            </p>
-            <p className={styles.artPieceDetails}>
-              <b>{content.exhibition.exhibitionDetails.gallery} </b>{' '}
-              <span className='link'>
-                <Link passHref href={content.exhibition.exhibitions.juste.url}>
-                  <a target='_blank'>
-                    {content.exhibition.exhibitions.juste.urlText}
-                  </a>
-                </Link>
-              </span>
-            </p>
-            <p className={styles.mainContentText}>
-              {content.exhibition.exhibitions.juste.desc}
-            </p>
-          </div>
-        </div>
-
-        <div className={styles.hrLine}></div>
-        <PageIntro
-          level={1}
-          title={content.exhibition.titlePrev}
-          description={content.exhibition.titleDescPrev}
-        />
 
         <div className={styles.mainContent}>
           <div className={styles.outdatedOverlay}></div>

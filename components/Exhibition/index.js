@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 import PageIntro from '@/pageIntro';
-import contentEn from '../../pages/api/en.json';
+import content from '../../pages/api/se.json';
 
 import styles from './Exhibition.module.css';
 
@@ -12,8 +12,8 @@ const Exhibition = () => (
     <div className={styles.hrLine}></div>
     <PageIntro
       level={1}
-      title={contentEn.exhibition.title}
-      description={contentEn.exhibition.titleDesc}
+      title={content.exhibition.title}
+      description={content.exhibition.titleDesc}
     />
     <section className={styles.exhibitions}>
       <Link href='/utstallningar'>
