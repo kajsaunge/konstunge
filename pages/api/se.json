@@ -25,6 +25,14 @@
       "gallery": "Mer info"
     },
     "exhibitions": {
+      "kvinna": {
+        "title": "Grupputställning - Mars 2026",
+        "aw": "Fredag 6:e Mars kl 16-20",
+        "vernissage": "Lörsdag 7:e Mars kl 12-20",
+        "finnisage": "INTERNATIONELLA KVINNODAGEN! Söndag 8:e Mars kl 12 -18",
+        "place": "Galleri86Stockholm, Skånegatan 86, Stockholm",
+        "desc": "Tillsammans med gallerist Erika Wilhelmsson och allkonstnären Raven Mogford arrangerar jag en hejdundrande hyllning till internationella kvinnodagen 2026. Det är långt dit men in me't i kalendern så ses vi då!"
+      },
       "clarion": {
         "title": "Solo exhibition - Juni-September 2024",
         "vernissage": "14:e Juni kl 17",
@@ -35,16 +43,6 @@
         "url": "https://fb.me/e/1sRK8fRzi",
         "urlText": "Eventsida",
         "desc": "I sommar möts du av min konst när du kliver in i lobbyn på ett av Stockholms snyggaste och mest genuina hotell. Utställningens ämne kan ge associationer till ytlighet, skönhet och yta, medan fokus i själva verket ligger på det inre skiftet, den efterlängtade och nödvändiga förändringen. Kom och träffa mig, njut av lättare tilltugg och dryck och upplev en inspirerande kväll med konst och kreativitet den 14 juni. Vi ses där!"
-      },
-      "juste": {
-        "title": "Soloutställning - Maj 2025",
-        "aw": "Fredag 9:e Maj kl 16-20",
-        "vernissage": "Lörsdag 10:e Maj kl 12-20",
-        "finnisage": "Söndag 11:e Maj kl 12 -18",
-        "place": "Juste Gallery, Heleneborgsgatan 14, Hornstull",
-        "url": "https://justegallery.com/index.php?sida=events",
-        "urlText": "Juste Gallery",
-        "desc": "Välkommen till en utställning där du får utforska några av mina mer experimentella, abstrakta och lekfulla verk. Vi träffas för att hylla glädje, frihet och lekfullhet. Kom som du är, mingla, skåla och ha kul!"
       }
     }
   },

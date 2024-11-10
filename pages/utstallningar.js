@@ -11,7 +11,7 @@ import content from './api/se.json';
 import styles from '../styles/Utstallningar.module.css';
 
 const clarion = '/static/news/clarion.png';
-const juste = '/static/news/juste.jpg';
+const kvinna = '/static/news/kvinna.jpg';
 const galleri86 = '/static/news/insta-post.png';
 const gaStan = '/static/news/ga_stan.jpg';
 const husby = '/static/news/husby-salong.png';
@@ -44,47 +44,47 @@ const Utstallningar = () => {
 
         <div className={styles.mainContent}>
           <div className={styles.mainContentImage}>
-            <a target='_blank' href='https://justegallery.com/'>
-              <img
-                width={372}
-                height={520}
-                src={juste}
-                alt={juste}
-                className={styles.mainContentImage}
-              />
-            </a>
+            {/* <a target='_blank' href='https://justegallery.com/'> */}
+            <img
+              width={372}
+              height={520}
+              src={kvinna}
+              alt={kvinna}
+              className={styles.mainContentImage}
+            />
+            {/* </a> */}
           </div>
           <div className={styles.mainContentTextBlock}>
-            <h2>{content.exhibition.exhibitions.juste.title}</h2>
+            <h2>{content.exhibition.exhibitions.kvinna.title}</h2>
 
             <p className={styles.artPieceDetails}>
               <b>{content.exhibition.exhibitionDetails.aw} </b>
-              {content.exhibition.exhibitions.juste.aw}
+              {content.exhibition.exhibitions.kvinna.aw}
             </p>
             <p className={styles.artPieceDetails}>
               <b>{content.exhibition.exhibitionDetails.vernissage} </b>
-              {content.exhibition.exhibitions.juste.vernissage}
+              {content.exhibition.exhibitions.kvinna.vernissage}
             </p>
             <p className={styles.artPieceDetails}>
               <b>{content.exhibition.exhibitionDetails.finnisage} </b>
-              {content.exhibition.exhibitions.juste.finnisage}
+              {content.exhibition.exhibitions.kvinna.finnisage}
             </p>
             <p className={styles.artPieceDetails}>
               <b>{content.exhibition.exhibitionDetails.place} </b>
-              {content.exhibition.exhibitions.juste.place}
+              {content.exhibition.exhibitions.kvinna.place}
             </p>
-            <p className={styles.artPieceDetails}>
+            {/* <p className={styles.artPieceDetails}>
               <b>{content.exhibition.exhibitionDetails.gallery} </b>{' '}
               <span className='link'>
-                <Link passHref href={content.exhibition.exhibitions.juste.url}>
+                <Link passHref href={content.exhibition.exhibitions.kvinna.url}>
                   <a target='_blank'>
-                    {content.exhibition.exhibitions.juste.urlText}
+                    {content.exhibition.exhibitions.kvinna.urlText}
                   </a>
                 </Link>
               </span>
-            </p>
+            </p> */}
             <p className={styles.mainContentText}>
-              {content.exhibition.exhibitions.juste.desc}
+              {content.exhibition.exhibitions.kvinna.desc}
             </p>
           </div>
         </div>
