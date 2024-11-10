@@ -40,10 +40,10 @@ const Card = ({ item, content }) => {
                   <b>{card.size}</b> {item.width}x{item.height}{' '}
                   {general.sizeUnit}
                 </p>
-                {/* <p className={styles.artPieceDescriptionText}>
+                <p className={styles.artPieceDescriptionText}>
                   <b>{card.price}</b> {item.price} {general.priceUnit}
                   {item.frame && card.frame}
-                </p> */}
+                </p>
               </div>
             </div>
           </a>

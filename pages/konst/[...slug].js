@@ -82,10 +82,10 @@ const Product = ({ piece }) => {
                 <p className={styles.artPieceDetails}>
                   <b>{content.slug.year}</b> {piece.year}
                 </p>
-                {/* <p className={styles.artPieceDetails}>
+                <p className={styles.artPieceDetails}>
                   <b>{content.slug.price}</b> {piece.price}{' '}
                   {content.general.priceUnit}
-                </p> */}
+                </p>
                 <p className={styles.artPieceDetails}>
                   <b>{content.slug.size}</b> {piece.width}x{piece.height}{' '}
                   {content.general.sizeUnit}
