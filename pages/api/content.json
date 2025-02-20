@@ -1,21 +1,83 @@
 {
   "pieces": [
     {
+      "slug": "/miss-thorn",
+      "path": "/miss-thorn",
+      "name": "Miss Thorn",
+      "description": "Beställt konstvert. Generös kreativ frihet och tidsram. De önskade riktlinjerna var en liknande palett som verket Dare me föreställande rosor och en arg eller ledsen kvinna.",
+      "price": "10 800",
+      "year": "2025",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylic",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "pannå", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_01.jpg",
+          "alt": "Målningen 'Miss Thorn' i galleriet"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_02.jpg",
+          "alt": "Målningen 'Miss Thorn' detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_03.jpg",
+          "alt": "Målningen 'Miss Thorn' detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_04.jpg",
+          "alt": "Målningen 'Miss Thorn' detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_05.jpg",
+          "alt": "Målningen 'Miss Thorn' detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_06.jpg",
+          "alt": "Målningen 'Miss Thorn' i detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_07.jpg",
+          "alt": "Målningen 'Miss Thorn' i detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_08.jpg",
+          "alt": "Målningen 'Miss Thorn' detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_09.jpg",
+          "alt": "Målningen 'Miss Thorn' detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_10.jpg",
+          "alt": "Målningen 'Miss Thorn' detalj"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_11.jpg",
+          "alt": "Målningen 'Miss Thorn' i ett rum"
+        }
+      ]
+    },
+    {
       "slug": "/inside-garden",
       "path": "/inside-garden",
       "name": "Inside garden",
       "description": "Jag har en trädgård, som växer och blommar året om. Vild, bångstyrig, makalöst vacker och omöjlig att förstå. Men som den doftar, som en dröm jag följer och vill nå. Min inuti-trädgård.",
       "price": "9 000",
       "year": "2024",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - acrylics, ink etc",
         "base": "woodboard"
       },
       "width": "70",
       "height": "100",
-      "frame": "Svävande, ca 2cm från väggen. Redo att hängas",
-      "tags": ["woodboard", "pannå", "mixed media", "shadowbox"],
+      "tags": ["woodboard", "pannå", "mixed media"],
       "category": "original",
       "images": [
         {
