@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <div className={styles.content}>
-        <h2 className={styles.copyright}>©kajsaunge 2024</h2>
+        <h2 className={styles.copyright}>©kajsaunge 2025</h2>
         <nav aria-label='Extern länklista' role='navigation'>
           <ul className={styles.footerNavList}>
             <li>

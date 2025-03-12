@@ -20,18 +20,6 @@ const Header = ({ content }) => {
       <nav aria-label='Hemsidans sidor' role='navigation'>
         <ul className={styles.navList}>
           <li className={styles.navListItem}>
-            <NextLink href='/utstallningar'>
-              <a
-                href='/utstallningar'
-                className={`${styles.navListItemLink} ${
-                  activeLink === '/utstallningar' ? linkHightlight : ''
-                }`}
-              >
-                {header.exhibit}
-              </a>
-            </NextLink>
-          </li>
-          <li className={styles.navListItem}>
             <NextLink href='/'>
               <a
                 href='/'
@@ -63,6 +51,18 @@ const Header = ({ content }) => {
               Kajsa Unge galleri och konstnären som skapar abstrakt och reell
               konst
             </p>
+          </li>
+          <li className={styles.navListItem}>
+            <NextLink href='/utstallningar'>
+              <a
+                href='/utstallningar'
+                className={`${styles.navListItemLink} ${
+                  activeLink === '/utstallningar' ? linkHightlight : ''
+                }`}
+              >
+                {header.exhibit}
+              </a>
+            </NextLink>
           </li>
           <li className={styles.navListItem}>
             <NextLink href='/kontakt'>

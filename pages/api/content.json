@@ -64,137 +64,6 @@
       ]
     },
     {
-      "slug": "/hoppet",
-      "path": "/hoppet",
-      "name": "Hoppet",
-      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
-      "price": "7 800",
-      "year": "2023",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media - akryl, sprayfärg mm",
-        "base": "pannå"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["pannå", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/hoppet/hoppet_00.jpg",
-          "alt": "Tavlan 'Hoppet' i galleriet"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231123_063631.jpg",
-          "alt": "'Hoppet' i ateljen"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231123_063602.jpg",
-          "alt": "'Hoppet' i ateljen"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
-          "alt": "'Hoppet' närbild"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
-          "alt": "'Hoppet'"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
-          "alt": "'Hoppet'"
-        }
-      ]
-    },
-    {
-      "slug": "/inside-garden",
-      "path": "/inside-garden",
-      "name": "Inside garden",
-      "description": "Jag har en trädgård, som växer och blommar året om. Vild, bångstyrig, makalöst vacker och omöjlig att förstå. Men som den doftar, som en dröm jag följer och vill nå. Min inuti-trädgård.",
-      "price": "9 000",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, ink etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "pannå", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_01.jpg",
-          "alt": "Målningen 'Inside garden' i galleriet"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_02.jpg",
-          "alt": "Målningen 'Inside garden' detalj"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_03.jpg",
-          "alt": "Målningen 'Inside garden' detalj"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_04.jpg",
-          "alt": "Målningen 'Inside garden' detalj"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_05.jpg",
-          "alt": "Målningen 'Inside garden' detalj"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_06.jpg",
-          "alt": "Målningen 'Inside garden' i vinkel"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_07.jpg",
-          "alt": "Målningen 'Inside garden' utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/inbetween",
-      "path": "/inbetween",
-      "name": "Inbetween One",
-      "description": "De där stunderna, precis innan det slår dig. De som ibland är långa, ibland korta, ibland smärtsamma och svåra och ibland mjuka och sköna. Men alltid, alltid, leder de oss framåt och uppåt.",
-      "price": "4 000",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - akryl, bläck etc",
-        "base": "pannå"
-      },
-      "width": "20",
-      "height": "30",
-      "tags": ["pannå", "akryl"],
-      "category": "original",
-      "frame": "En 2 cm svart distans. Redo att hängas",
-      "images": [
-        {
-          "src": "/static/paintings/inbetween/inbetween1_01.jpg",
-          "alt": "Tavlan 'Inbetween 1' i galleriet"
-        },
-        {
-          "src": "/static/paintings/inbetween/inbetween1_02.jpg",
-          "alt": "'Inbetween 1'"
-        },
-        {
-          "src": "/static/paintings/inbetween/inbetween1_03.jpg",
-          "alt": "Tavlan 'Inbetween 1'"
-        },
-        {
-          "src": "/static/paintings/inbetween/inbetween1_04.jpg",
-          "alt": "Tavlan 'Inbetween 1'"
-        },
-        {
-          "src": "/static/paintings/inbetween/inbetween_00.jpg",
-          "alt": "Tavlan 'Inbetween 1' i galleriet"
-        }
-      ]
-    },
-    {
       "slug": "/audrey",
       "path": "/audrey",
       "name": "Audrey",
@@ -608,6 +477,137 @@
         {
           "src": "/static/paintings/everseeing/20231101_090824-01.jpg",
           "alt": "'Ever seeing'"
+        }
+      ]
+    },
+    {
+      "slug": "/hoppet",
+      "path": "/hoppet",
+      "name": "Hoppet",
+      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
+      "price": "7 800",
+      "year": "2023",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media - akryl, sprayfärg mm",
+        "base": "pannå"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["pannå", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/hoppet/hoppet_00.jpg",
+          "alt": "Tavlan 'Hoppet' i galleriet"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063631.jpg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063602.jpg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
+          "alt": "'Hoppet' närbild"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
+          "alt": "'Hoppet'"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
+          "alt": "'Hoppet'"
+        }
+      ]
+    },
+    {
+      "slug": "/inside-garden",
+      "path": "/inside-garden",
+      "name": "Inside garden",
+      "description": "Jag har en trädgård, som växer och blommar året om. Vild, bångstyrig, makalöst vacker och omöjlig att förstå. Men som den doftar, som en dröm jag följer och vill nå. Min inuti-trädgård.",
+      "price": "9 000",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "pannå", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_01.jpg",
+          "alt": "Målningen 'Inside garden' i galleriet"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_02.jpg",
+          "alt": "Målningen 'Inside garden' detalj"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_03.jpg",
+          "alt": "Målningen 'Inside garden' detalj"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_04.jpg",
+          "alt": "Målningen 'Inside garden' detalj"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_05.jpg",
+          "alt": "Målningen 'Inside garden' detalj"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_06.jpg",
+          "alt": "Målningen 'Inside garden' i vinkel"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_07.jpg",
+          "alt": "Målningen 'Inside garden' utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/inbetween",
+      "path": "/inbetween",
+      "name": "Inbetween One",
+      "description": "De där stunderna, precis innan det slår dig. De som ibland är långa, ibland korta, ibland smärtsamma och svåra och ibland mjuka och sköna. Men alltid, alltid, leder de oss framåt och uppåt.",
+      "price": "4 000",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - akryl, bläck etc",
+        "base": "pannå"
+      },
+      "width": "20",
+      "height": "30",
+      "tags": ["pannå", "akryl"],
+      "category": "original",
+      "frame": "En 2 cm svart distans. Redo att hängas",
+      "images": [
+        {
+          "src": "/static/paintings/inbetween/inbetween1_01.jpg",
+          "alt": "Tavlan 'Inbetween 1' i galleriet"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_02.jpg",
+          "alt": "'Inbetween 1'"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_03.jpg",
+          "alt": "Tavlan 'Inbetween 1'"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween1_04.jpg",
+          "alt": "Tavlan 'Inbetween 1'"
+        },
+        {
+          "src": "/static/paintings/inbetween/inbetween_00.jpg",
+          "alt": "Tavlan 'Inbetween 1' i galleriet"
         }
       ]
     },
