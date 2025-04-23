@@ -5,7 +5,7 @@
       "path": "/audrey",
       "name": "Audrey",
       "description": "En klassisk superstjärna, tagen ur sin kontext, avklädd och knivskarp. Tiden var en annan men orden är värda att upprepas: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' och 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
-      "price": "7 300",
+      "price": "8 000",
       "year": "2024",
       "status": "available",
       "material": {
@@ -224,7 +224,6 @@
         }
       ]
     },
-
     {
       "slug": "/dimensions",
       "path": "/dimensions",
@@ -557,7 +556,7 @@
       "path": "/everseeing",
       "name": "Ever seeing",
       "description": "Hon vet så mycket mer. Hon ser. Hon är starkare. Hon kommer stå kvar. Om hon vill. För behövs det så vänder hon utan att se sig om.",
-      "price": "7 300",
+      "price": "8 000",
       "year": "2023",
       "status": "available",
       "material": {
@@ -1308,49 +1307,6 @@
       ]
     },
     {
-      "slug": "/spool-of-thread",
-      "path": "/spool-of-thread",
-      "name": "Spool of thread",
-      "description": "Livet är som en lång tråd. Ibland brister den och vi skarvar med en annan, kanske i en annan färg, tjocklek och kvalité. Vi virar och virar och med åren blir vi rikare och rikare och ingen är den andra lik. Eller är det tvärtom? Är det vi som är den långa tråden och för varje år gör vi oss av med onödiga delar, spar de gillar. Kanske, kanske inte eller både och.",
-      "price": "5 900",
-      "year": "2024",
-      "status": "sold",
-      "material": {
-        "medium": "Akryl",
-        "base": "duk"
-      },
-      "width": "45",
-      "height": "55",
-      "tags": ["duk", "akryl", "female", "animal"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_0.jpg",
-          "alt": "Tavlan Spool of thread i galleriet"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_1.jpg",
-          "alt": "Närbild på tavlan Spool of thread"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_2.jpg",
-          "alt": "Närbild på tavlan Spool of thread"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_3.jpg",
-          "alt": "Närbild på tavlan Spool of thread"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_5.jpg",
-          "alt": "Tavlan Spool of thread utan ram"
-        },
-        {
-          "src": "/static/paintings/spool-of-thread/spool-of-thread_0-black.jpg",
-          "alt": "Tavlan Spool of thread i svart ram"
-        }
-      ]
-    },
-    {
       "slug": "/feels",
       "path": "/feels",
       "name": "Feels",
@@ -1398,6 +1354,49 @@
       ]
     },
     {
+      "slug": "/spool-of-thread",
+      "path": "/spool-of-thread",
+      "name": "Spool of thread",
+      "description": "Livet är som en lång tråd. Ibland brister den och vi skarvar med en annan, kanske i en annan färg, tjocklek och kvalité. Vi virar och virar och med åren blir vi rikare och rikare och ingen är den andra lik. Eller är det tvärtom? Är det vi som är den långa tråden och för varje år gör vi oss av med onödiga delar, spar de gillar. Kanske, kanske inte eller både och.",
+      "price": "5 900",
+      "year": "2024",
+      "status": "sold",
+      "material": {
+        "medium": "Akryl",
+        "base": "duk"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["duk", "akryl", "female", "animal"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_0.jpg",
+          "alt": "Tavlan Spool of thread i galleriet"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_1.jpg",
+          "alt": "Närbild på tavlan Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_2.jpg",
+          "alt": "Närbild på tavlan Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_3.jpg",
+          "alt": "Närbild på tavlan Spool of thread"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_5.jpg",
+          "alt": "Tavlan Spool of thread utan ram"
+        },
+        {
+          "src": "/static/paintings/spool-of-thread/spool-of-thread_0-black.jpg",
+          "alt": "Tavlan Spool of thread i svart ram"
+        }
+      ]
+    },
+    {
       "slug": "/aaaah",
       "path": "/aaaah",
       "name": "Aaaah",
@@ -1440,7 +1439,42 @@
         }
       ]
     },
-
+    {
+      "slug": "/q",
+      "path": "/q",
+      "name": "Q",
+      "description": "Jaa, vad finns det att säga om detta verk? Vad tycker du? För mig symboliserar den det vackra i att inte veta, det fina i att vara frågandes och nyfiken. Att det stökiga kan vara förtjusande.",
+      "price": "3 400",
+      "year": "2020",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Akryl",
+        "base": "pannå"
+      },
+      "width": "24",
+      "height": "33",
+      "tags": ["pannå", "akryl", "female", "animal", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/q/q_0.jpg",
+          "alt": "Tavlan Q i galleriet"
+        },
+        {
+          "src": "/static/paintings/q/q_1.jpg",
+          "alt": "Tavlan Q i ram"
+        },
+        {
+          "src": "/static/paintings/q/q_3.jpg",
+          "alt": "Tavlan Q från sidan"
+        },
+        {
+          "src": "/static/paintings/q/q_2.jpg",
+          "alt": "Närbild på tavlan Q"
+        }
+      ]
+    },
     {
       "slug": "/frankie",
       "path": "/frankie",
@@ -1489,42 +1523,6 @@
         {
           "src": "/static/paintings/frankie/frankie_7.jpg",
           "alt": "'Frankie' närbild"
-        }
-      ]
-    },
-    {
-      "slug": "/q",
-      "path": "/q",
-      "name": "Q",
-      "description": "Jaa, vad finns det att säga om detta verk? Vad tycker du? För mig symboliserar den det vackra i att inte veta, det fina i att vara frågandes och nyfiken. Att det stökiga kan vara förtjusande.",
-      "price": "3 400",
-      "year": "2020",
-      "status": "sold",
-      "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Akryl",
-        "base": "pannå"
-      },
-      "width": "24",
-      "height": "33",
-      "tags": ["pannå", "akryl", "female", "animal", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/q/q_0.jpg",
-          "alt": "Tavlan Q i galleriet"
-        },
-        {
-          "src": "/static/paintings/q/q_1.jpg",
-          "alt": "Tavlan Q i ram"
-        },
-        {
-          "src": "/static/paintings/q/q_3.jpg",
-          "alt": "Tavlan Q från sidan"
-        },
-        {
-          "src": "/static/paintings/q/q_2.jpg",
-          "alt": "Närbild på tavlan Q"
         }
       ]
     },
@@ -1680,34 +1678,6 @@
       ]
     },
     {
-      "slug": "/shut",
-      "path": "/shut",
-      "name": "Shut",
-      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
-      "price": "5 500",
-      "year": "2021",
-      "status": "sold",
-      "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "duk"
-      },
-      "width": "30",
-      "height": "40",
-      "tags": ["duk", "akryl", "female", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/shut/shut-shadowbox_00.png",
-          "alt": "Tavlan Shut framifrån i ram"
-        },
-        {
-          "src": "/static/paintings/shut/shut_1.jpeg",
-          "alt": "Tavlan Shut utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/untouchable",
       "path": "/untouchable",
       "name": "Untouchable",
@@ -1739,7 +1709,34 @@
         }
       ]
     },
-
+    {
+      "slug": "/shut",
+      "path": "/shut",
+      "name": "Shut",
+      "description": "Det kom en dag då hon lärde sig att hon är president över sitt eget liv.",
+      "price": "5 500",
+      "year": "2021",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm djup svart träram med 6mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "duk"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": ["duk", "akryl", "female", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/shut/shut-shadowbox_00.png",
+          "alt": "Tavlan Shut framifrån i ram"
+        },
+        {
+          "src": "/static/paintings/shut/shut_1.jpeg",
+          "alt": "Tavlan Shut utan ram"
+        }
+      ]
+    },
     {
       "slug": "/the-inhabitat",
       "path": "/the-inhabitat",
@@ -1927,6 +1924,41 @@
       ]
     },
     {
+      "slug": "/female",
+      "path": "/female",
+      "name": "Female",
+      "description": "Den stora starka kvinnliga symbolen, omgien av frihetsfåglar gjorda av papper. Det är en skör, nästan förädisk frihet kvinnan har.",
+      "price": "6 500",
+      "year": "2020",
+      "status": "sold",
+      "material": {
+        "medium": "Akryl",
+        "base": "pannå"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["pannå", "akryl"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/female/female_0.jpg",
+          "alt": "Tavlan 'female' framifrån"
+        },
+        {
+          "src": "/static/paintings/female/female_1.jpg",
+          "alt": "Tavlan 'female' framifrån"
+        },
+        {
+          "src": "/static/paintings/female/female_2.jpg",
+          "alt": "Tavlan 'female' närbild"
+        },
+        {
+          "src": "/static/paintings/female/female_3.jpg",
+          "alt": "Tavlan 'female' från sidan"
+        }
+      ]
+    },
+    {
       "slug": "/spellbound",
       "path": "/spellbound",
       "name": "Spellbound",
@@ -1963,41 +1995,6 @@
       ]
     },
     {
-      "slug": "/female",
-      "path": "/female",
-      "name": "Female",
-      "description": "Den stora starka kvinnliga symbolen, omgien av frihetsfåglar gjorda av papper. Det är en skör, nästan förädisk frihet kvinnan har.",
-      "price": "6 500",
-      "year": "2020",
-      "status": "sold",
-      "material": {
-        "medium": "Akryl",
-        "base": "pannå"
-      },
-      "width": "80",
-      "height": "120",
-      "tags": ["pannå", "akryl"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/female/female_0.jpg",
-          "alt": "Tavlan 'female' framifrån"
-        },
-        {
-          "src": "/static/paintings/female/female_1.jpg",
-          "alt": "Tavlan 'female' framifrån"
-        },
-        {
-          "src": "/static/paintings/female/female_2.jpg",
-          "alt": "Tavlan 'female' närbild"
-        },
-        {
-          "src": "/static/paintings/female/female_3.jpg",
-          "alt": "Tavlan 'female' från sidan"
-        }
-      ]
-    },
-    {
       "slug": "/leaving",
       "path": "/leaving",
       "name": "Leaving",
@@ -2029,78 +2026,6 @@
         }
       ]
     },
-
-    {
-      "slug": "/for-evigt",
-      "path": "/for-evigt",
-      "name": "För evigt",
-      "description": "Vi är som tranor som valt varann, för evigt. Kärleken vinner, vi vinner.",
-      "price": "7 500",
-      "year": "2020",
-      "status": "sold",
-      "material": {
-        "medium": "Akryl",
-        "base": "pannå"
-      },
-      "width": "100",
-      "height": "120",
-      "tags": ["pannå", "akryl", "typografi"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/for-evigt/for-evigt_0.jpg",
-          "alt": "Tavlan 'För evigt' framifrån"
-        },
-        {
-          "src": "/static/paintings/for-evigt/for-evigt_1.jpg",
-          "alt": "Tavlan 'För evigt' framifrån"
-        },
-        {
-          "src": "/static/paintings/for-evigt/for-evigt_2.jpg",
-          "alt": "Tavlan 'För evigt' närbild"
-        },
-        {
-          "src": "/static/paintings/for-evigt/for-evigt_3.jpg",
-          "alt": "Tavlan 'För evigt' närbild"
-        }
-      ]
-    },
-    {
-      "slug": "/the-force-within",
-      "path": "/the-force-within",
-      "name": "The force within",
-      "description": "Beyoncé, vår queen. Hon har skapat makt med kraft, framgång med integritet och glädje av musik.",
-      "price": "6 000",
-      "year": "2019",
-      "status": "sold",
-      "material": {
-        "medium": "Akryl",
-        "base": "pannå"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["pannå", "akryl"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_0.jpg",
-          "alt": "Tavlan 'The force within' framifrån"
-        },
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
-          "alt": "Tavlan 'The force within' framifrån"
-        },
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
-          "alt": "Tavlan 'The force within' närbild"
-        },
-        {
-          "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
-          "alt": "Tavlan 'The force within' från sidan"
-        }
-      ]
-    },
-
     {
       "slug": "/strong-and",
       "path": "/strong-and",
@@ -2145,33 +2070,37 @@
       ]
     },
     {
-      "slug": "/you-first",
-      "path": "/you-first",
-      "name": "You first",
-      "description": "Det är något förunderligt över en förälders outsinliga omtanke och kärlek. Vilken gåva att få uppleva det. Tänk om vi förlängde den till andra runtomkring oss, kända och okända - hur skulle världen kunna se ut då?",
-      "price": "2 000",
-      "year": "2018",
+      "slug": "/for-evigt",
+      "path": "/for-evigt",
+      "name": "För evigt",
+      "description": "Vi är som tranor som valt varann, för evigt. Kärleken vinner, vi vinner.",
+      "price": "7 500",
+      "year": "2020",
       "status": "sold",
       "material": {
-        "medium": "Akryl och bläck",
-        "base": "duk"
+        "medium": "Akryl",
+        "base": "pannå"
       },
-      "width": "40",
-      "height": "50",
-      "tags": ["duk", "mixed media"],
+      "width": "100",
+      "height": "120",
+      "tags": ["pannå", "akryl", "typografi"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/you-first/you-first_0.jpg",
-          "alt": "Tavlan 'You first' i ram"
+          "src": "/static/paintings/for-evigt/for-evigt_0.jpg",
+          "alt": "Tavlan 'För evigt' framifrån"
         },
         {
-          "src": "/static/paintings/you-first/you-first_1.png",
-          "alt": "'You first' från sidan"
+          "src": "/static/paintings/for-evigt/for-evigt_1.jpg",
+          "alt": "Tavlan 'För evigt' framifrån"
         },
         {
-          "src": "/static/paintings/you-first/you-first_2.png",
-          "alt": "'You first' detaljbild"
+          "src": "/static/paintings/for-evigt/for-evigt_2.jpg",
+          "alt": "Tavlan 'För evigt' närbild"
+        },
+        {
+          "src": "/static/paintings/for-evigt/for-evigt_3.jpg",
+          "alt": "Tavlan 'För evigt' närbild"
         }
       ]
     },
@@ -2207,6 +2136,72 @@
         {
           "src": "/static/paintings/balance/balance_3.jpg",
           "alt": "Tavlan Balance från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/the-force-within",
+      "path": "/the-force-within",
+      "name": "The force within",
+      "description": "Beyoncé, vår queen. Hon har skapat makt med kraft, framgång med integritet och glädje av musik.",
+      "price": "6 000",
+      "year": "2019",
+      "status": "sold",
+      "material": {
+        "medium": "Akryl",
+        "base": "pannå"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["pannå", "akryl"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_0.jpg",
+          "alt": "Tavlan 'The force within' framifrån"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_1.jpg",
+          "alt": "Tavlan 'The force within' framifrån"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_2.jpg",
+          "alt": "Tavlan 'The force within' närbild"
+        },
+        {
+          "src": "/static/paintings/the-force-within/the-force-within_3.jpg",
+          "alt": "Tavlan 'The force within' från sidan"
+        }
+      ]
+    },
+    {
+      "slug": "/you-first",
+      "path": "/you-first",
+      "name": "You first",
+      "description": "Det är något förunderligt över en förälders outsinliga omtanke och kärlek. Vilken gåva att få uppleva det. Tänk om vi förlängde den till andra runtomkring oss, kända och okända - hur skulle världen kunna se ut då?",
+      "price": "2 000",
+      "year": "2018",
+      "status": "sold",
+      "material": {
+        "medium": "Akryl och bläck",
+        "base": "duk"
+      },
+      "width": "40",
+      "height": "50",
+      "tags": ["duk", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/you-first/you-first_0.jpg",
+          "alt": "Tavlan 'You first' i ram"
+        },
+        {
+          "src": "/static/paintings/you-first/you-first_1.png",
+          "alt": "'You first' från sidan"
+        },
+        {
+          "src": "/static/paintings/you-first/you-first_2.png",
+          "alt": "'You first' detaljbild"
         }
       ]
     }
