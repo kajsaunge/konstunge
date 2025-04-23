@@ -1,6 +1,167 @@
 {
   "pieces": [
     {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "En klassisk superstjärna, tagen ur sin kontext, avklädd och knivskarp. Tiden var en annan men orden är värda att upprepas: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' och 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "price": "7 300",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - akryl mm",
+        "base": "duk"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["duk", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_00.jpg",
+          "alt": "Tavlan 'Audrey' i galleriet"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' framifrån"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_02.jpg",
+          "alt": "'audrey' närbild"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_03.jpg",
+          "alt": "'audrey' närbild"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_04.jpg",
+          "alt": "'audrey'"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_05.jpg",
+          "alt": "'Audrey' med signatur"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' framifrån"
+        }
+      ]
+    },
+    {
+      "slug": "/so-long-deer",
+      "path": "/so-long-deer",
+      "name": "So long deer",
+      "description": "Hon står där, stark och sårbar. Med hjärtat bultande, ömt serverat på silverfat. Den långa väntan, den alldeles för långa, den outtröttliga uthålligheten vacklar, hjärtat saktar ner. Ilande kommer den, naturens självklara grymhet. Skymningens smärta befriar hennes själ, släpper in ljus och kraft, livet kommer åter.",
+      "price": "10 800",
+      "year": "2025",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylic",
+        "base": "Woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "pannå", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/so-long-deer/so-long-deer_00.jpg",
+          "alt": "Målningen 'So long deer' i galleriet"
+        },
+        {
+          "src": "/static/paintings/so-long-deer/so-long-deer_01.png",
+          "alt": "Målningen 'So long deer'"
+        },
+        {
+          "src": "/static/paintings/so-long-deer/so-long-deer_04.jpg",
+          "alt": "Målningen 'So long deer' detalj"
+        },
+        {
+          "src": "/static/paintings/so-long-deer/so-long-deer_05.jpg",
+          "alt": "Målningen 'So long deer' detalj"
+        },
+        {
+          "src": "/static/paintings/so-long-deer/so-long-deer_06.jpg",
+          "alt": "Målningen 'So long deer' detalj"
+        },
+        {
+          "src": "/static/paintings/so-long-deer/so-long-deer_07.jpg",
+          "alt": "Målningen 'So long deer' detalj"
+        },
+        {
+          "src": "/static/paintings/so-long-deer/so-long-deer_08.jpg",
+          "alt": "Målningen 'So long deer' i miljö"
+        },
+        {
+          "src": "/static/paintings/so-long-deer/so-long-deer_09.jpg",
+          "alt": "Tavlan 'So long deer' utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/good-karma-in-your-face",
+      "path": "/good-karma-in-your-face",
+      "name": "Good karma in your face",
+      "description": "",
+      "price": "10 800",
+      "year": "2025",
+      "status": "hide",
+      "material": {
+        "medium": "Mixed media - acrylic",
+        "base": "Canvas"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["canvas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_01.jpg",
+          "alt": "Målningen 'Good karma in your face' i galleriet"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_02.jpg",
+          "alt": "Målningen 'Good karma in your face' detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_03.jpg",
+          "alt": "Målningen 'Good karma in your face' detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_04.jpg",
+          "alt": "Målningen 'Good karma in your face' detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_05.jpg",
+          "alt": "Målningen 'Good karma in your face' detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_06.jpg",
+          "alt": "Målningen 'Good karma in your face' i detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_07.jpg",
+          "alt": "Målningen 'Good karma in your face' i detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_08.jpg",
+          "alt": "Målningen 'Good karma in your face' detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_09.jpg",
+          "alt": "Målningen 'Good karma in your face' detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_10.jpg",
+          "alt": "Målningen 'Good karma in your face' detalj"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_11.jpg",
+          "alt": "Målningen 'Good karma in your face' i ett rum"
+        }
+      ]
+    },
+    {
       "slug": "/miss-thorn",
       "path": "/miss-thorn",
       "name": "Miss Thorn",
@@ -63,13 +224,14 @@
         }
       ]
     },
+
     {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "En klassisk superstjärna, tagen ur sin kontext, avklädd och knivskarp. Tiden var en annan men orden är värda att upprepas: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' och 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
       "price": "7 300",
-      "year": "2024",
+      "year": "2023",
       "status": "available",
       "material": {
         "medium": "Mixed media - akryl mm",
@@ -81,32 +243,32 @@
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/audrey/audrey_00.jpg",
-          "alt": "Tavlan 'Audrey' i galleriet"
+          "src": "/static/paintings/dimensions/dimensions_0.jpg",
+          "alt": "Tavlan 'Dimensions' i galleriet"
         },
         {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' framifrån"
+          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
+          "alt": "'Dimensions' i ateljen"
         },
         {
-          "src": "/static/paintings/audrey/audrey_02.jpg",
-          "alt": "'audrey' närbild"
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' närbild"
         },
         {
-          "src": "/static/paintings/audrey/audrey_03.jpg",
-          "alt": "'audrey' närbild"
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' närbild"
         },
         {
-          "src": "/static/paintings/audrey/audrey_04.jpg",
-          "alt": "'audrey'"
+          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
+          "alt": "'Dimensions'"
         },
         {
-          "src": "/static/paintings/audrey/audrey_05.jpg",
-          "alt": "'Audrey' med signatur"
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' i miljö"
         },
         {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' framifrån"
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' i miljö"
         }
       ]
     },
@@ -325,84 +487,6 @@
       ]
     },
     {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
-      "price": "9 400",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Akryl",
-        "base": "pannå"
-      },
-      "width": "80",
-      "height": "120",
-      "tags": ["pannå", "akryl", "typografi"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "Tavlan New york framifrån"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "Tavlan New york framifrån"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "Tavlan New york från sidan"
-        }
-      ]
-    },
-    {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
-      "price": "7 300",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - akryl mm",
-        "base": "duk"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["duk", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/dimensions/dimensions_0.jpg",
-          "alt": "Tavlan 'Dimensions' i galleriet"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
-          "alt": "'Dimensions' i ateljen"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
-          "alt": "'Dimensions'"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' i miljö"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' i miljö"
-        }
-      ]
-    },
-    {
       "slug": "/men-inte-langre",
       "path": "/men-inte-langre",
       "name": "Men inte längre",
@@ -434,6 +518,37 @@
         {
           "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
           "alt": "'Men inte längre' närbild"
+        }
+      ]
+    },
+    {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "Staden som (nästan) alla blir förälskade i. Det är något ljust över den, något flytande, något för alla.",
+      "price": "9 400",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akryl",
+        "base": "pannå"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["pannå", "akryl", "typografi"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "Tavlan New york framifrån"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "Tavlan New york från sidan"
         }
       ]
     },
@@ -477,50 +592,6 @@
         {
           "src": "/static/paintings/everseeing/20231101_090824-01.jpg",
           "alt": "'Ever seeing'"
-        }
-      ]
-    },
-    {
-      "slug": "/hoppet",
-      "path": "/hoppet",
-      "name": "Hoppet",
-      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
-      "price": "7 800",
-      "year": "2023",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "material": {
-        "medium": "Mixed media - akryl, sprayfärg mm",
-        "base": "pannå"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["pannå", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/hoppet/hoppet_00.jpg",
-          "alt": "Tavlan 'Hoppet' i galleriet"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231123_063631.jpg",
-          "alt": "'Hoppet' i ateljen"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231123_063602.jpg",
-          "alt": "'Hoppet' i ateljen"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
-          "alt": "'Hoppet' närbild"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
-          "alt": "'Hoppet'"
-        },
-        {
-          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
-          "alt": "'Hoppet'"
         }
       ]
     },
@@ -571,6 +642,51 @@
         }
       ]
     },
+    {
+      "slug": "/hoppet",
+      "path": "/hoppet",
+      "name": "Hoppet",
+      "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
+      "price": "7 800",
+      "year": "2023",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "material": {
+        "medium": "Mixed media - akryl, sprayfärg mm",
+        "base": "pannå"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["pannå", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/hoppet/hoppet_00.jpg",
+          "alt": "Tavlan 'Hoppet' i galleriet"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063631.jpg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231123_063602.jpg",
+          "alt": "'Hoppet' i ateljen"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
+          "alt": "'Hoppet' närbild"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091342-01.jpg",
+          "alt": "'Hoppet'"
+        },
+        {
+          "src": "/static/paintings/hoppet/20231101_091522-01.jpg",
+          "alt": "'Hoppet'"
+        }
+      ]
+    },
+
     {
       "slug": "/inbetween",
       "path": "/inbetween",
@@ -719,6 +835,37 @@
       ]
     },
     {
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "4 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "Akryl, ink, krita, grafit",
+        "base": "duk"
+      },
+      "width": "54",
+      "height": "64",
+      "tags": ["duk", "akryl", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
+          "alt": "Tavlan Garden girl framifrån"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Närbild på del av tavlan Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "Tavlan Garden girl utan ram"
+        }
+      ]
+    },
+    {
       "slug": "/security",
       "path": "/security",
       "name": "Security",
@@ -759,37 +906,6 @@
       ]
     },
     {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "4 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Akryl, ink, krita, grafit",
-        "base": "duk"
-      },
-      "width": "54",
-      "height": "64",
-      "tags": ["duk", "akryl", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
-          "alt": "Tavlan Garden girl framifrån"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Närbild på del av tavlan Garden girl"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "Tavlan Garden girl utan ram"
-        }
-      ]
-    },
-    {
       "slug": "/annanhorisont",
       "path": "/annanhorisont",
       "name": "Annan horisont",
@@ -821,33 +937,6 @@
       ]
     },
     {
-      "slug": "/give",
-      "path": "/give",
-      "name": "Give",
-      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Give feedback. Give up. Give me! And so on",
-      "price": "4 500",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Akvarell och akryl",
-        "base": "duk"
-      },
-      "width": "50",
-      "height": "50",
-      "tags": ["duk", "akvarell", "akryl", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/give/give_00.jpg",
-          "alt": "Tavlan T-shirt girl framifrån"
-        },
-        {
-          "src": "/static/paintings/give/give_01.jpg",
-          "alt": "Närbild på tavlan T-shirt girl"
-        }
-      ]
-    },
-    {
       "slug": "/furilden",
       "path": "/furilden",
       "name": "Furilden",
@@ -872,6 +961,33 @@
         {
           "src": "/static/paintings/furilden/furilden_01.jpg",
           "alt": "Tavlan Furilden utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/give",
+      "path": "/give",
+      "name": "Give",
+      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Give feedback. Give up. Give me! And so on",
+      "price": "4 500",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akvarell och akryl",
+        "base": "duk"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": ["duk", "akvarell", "akryl", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/give/give_00.jpg",
+          "alt": "Tavlan T-shirt girl framifrån"
+        },
+        {
+          "src": "/static/paintings/give/give_01.jpg",
+          "alt": "Närbild på tavlan T-shirt girl"
         }
       ]
     },
