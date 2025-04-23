@@ -2,8 +2,8 @@ import Head from 'next/head';
 import Form from '@/form';
 import NextLink from 'next/link';
 
-import contentArt from './api/content.json';
-import content from './api/se.json';
+import contentArt from './api/contentEn.json';
+import content from './api/en.json';
 
 import PageIntro from '@/pageIntro';
 import Card from '@/Card';

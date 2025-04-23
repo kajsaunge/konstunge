@@ -3,10 +3,10 @@ import Link from 'next/link';
 import NextLink from 'next/link';
 
 import PageIntro from '@/pageIntro';
-import contentArt from './api/content.json';
+import contentArt from './api/contentEn.json';
 import Card from '@/Card';
 
-import content from './api/se.json';
+import content from './api/en.json';
 
 import styles from '../styles/Utstallningar.module.css';
 
@@ -20,7 +20,7 @@ const gtld = '/static/news/gtld-2023.png';
 const Utstallningar = () => {
   const selectedPieces = [];
   contentArt.pieces.map((item) => {
-    if (item.name === 'Annan horisont' || item.name === 'Ever seeing') {
+    if (item.name === 'Different horizon' || item.name === 'Ever seeing') {
       selectedPieces.push(item);
     }
   });

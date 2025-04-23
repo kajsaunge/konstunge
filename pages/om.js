@@ -3,8 +3,8 @@ import Image from 'next/image';
 import NextLink from 'next/link';
 import { motion } from 'framer-motion';
 
-import contentArt from './api/content.json';
-import content from './api/se.json';
+import contentArt from './api/contentEn.json';
+import content from './api/en.json';
 
 import Card from '@/Card';
 import PageIntro from '@/pageIntro';
@@ -20,7 +20,7 @@ const studio2 = '/static/profile/kajsaunge-studio2.jpg';
 const Om = () => {
   const selectedPieces = [];
   contentArt.pieces.map((item) => {
-    if (item.name === 'Audrey' || item.name === 'Stark och sårbar') {
+    if (item.name === 'Audrey' || item.name === 'Queen') {
       selectedPieces.push(item);
     }
   });

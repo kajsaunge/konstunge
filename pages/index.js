@@ -5,8 +5,8 @@ import PageIntro from '@/pageIntro';
 // import Sorter from '@/sorter';
 import Card from '@/Card';
 
-import contentArt from './api/content.json';
-import content from './api/se.json';
+import contentArt from './api/contentEn.json';
+import content from './api/en.json';
 
 import styles from '../styles/Hem.module.css';
 

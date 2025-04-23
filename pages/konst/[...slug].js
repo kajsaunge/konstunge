@@ -2,8 +2,8 @@ import Head from 'next/head';
 import { useRouter } from 'next/router';
 import NextLink from 'next/link';
 
-import contentArt from '../api/content.json';
-import content from '../api/se.json';
+import contentArt from '../api/contentEn.json';
+import content from '../api/en.json';
 
 import Form from '@/form';
 import ImageGallery from '@/imageGallery';
