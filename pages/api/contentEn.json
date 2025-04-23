@@ -51,7 +51,7 @@
       "slug": "/so-long-deer",
       "path": "/so-long-deer",
       "name": "So long deer",
-      "description": "Hon står där, stark och sårbar. Med hjärtat bultande, ömt serverat på silverfat. Den långa väntan, den alldeles för långa, den outtröttliga uthålligheten vacklar, hjärtat saktar ner. Ilande kommer den, naturens självklara grymhet. Skymningens smärta befriar hennes själ, släpper in ljus och kraft, livet kommer åter.",
+      "description": "There she stands, strong and vulnerable. Pounding heart, tenderly served on a silver platter. The long await, the too long, the tireless endurance falters, the heart slows down. Arriving sharply, natures axiomatic cruelty. The pain of twilight liberates her soul, allows for light and strenght, life returns.",
       "price": "10 800",
       "year": "2025",
       "status": "new",
@@ -66,35 +66,35 @@
       "images": [
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_00.jpg",
-          "alt": "Målningen 'So long deer' i galleriet"
+          "alt": "The painting 'So long deer' in the gallery"
         },
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_01.png",
-          "alt": "Målningen 'So long deer'"
+          "alt": "The painting 'So long deer'"
         },
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_04.jpg",
-          "alt": "Målningen 'So long deer' detalj"
+          "alt": "The painting 'So long deer' closeup"
         },
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_05.jpg",
-          "alt": "Målningen 'So long deer' detalj"
+          "alt": "The painting 'So long deer' closeup"
         },
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_06.jpg",
-          "alt": "Målningen 'So long deer' detalj"
+          "alt": "The painting 'So long deer' closeup"
         },
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_07.jpg",
-          "alt": "Målningen 'So long deer' detalj"
+          "alt": "The painting 'So long deer' closeup"
         },
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_08.jpg",
-          "alt": "Målningen 'So long deer' i miljö"
+          "alt": "The painting 'So long deer' i miljö"
         },
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_09.jpg",
-          "alt": "Tavlan 'So long deer' utan ram"
+          "alt": "The painting 'So long deer' no frame"
         }
       ]
     },
@@ -117,47 +117,47 @@
       "images": [
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_01.jpg",
-          "alt": "Målningen 'Good karma in your face' i galleriet"
+          "alt": "The painting 'Good karma in your face' in the gallery"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_02.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_03.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_04.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_05.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_06.jpg",
-          "alt": "Målningen 'Good karma in your face' i detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_07.jpg",
-          "alt": "Målningen 'Good karma in your face' i detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_08.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_09.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_10.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
+          "alt": "The painting 'Good karma in your face' closeup"
         },
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_11.jpg",
-          "alt": "Målningen 'Good karma in your face' i ett rum"
+          "alt": "The painting 'Good karma in your face' in situ"
         }
       ]
     },
@@ -180,47 +180,47 @@
       "images": [
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_01.jpg",
-          "alt": "Målningen 'Miss Thorn' i galleriet"
+          "alt": "The painting 'Miss Thorn' in the gallery"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_02.jpg",
-          "alt": "Målningen 'Miss Thorn' detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_03.jpg",
-          "alt": "Målningen 'Miss Thorn' detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_04.jpg",
-          "alt": "Målningen 'Miss Thorn' detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_05.jpg",
-          "alt": "Målningen 'Miss Thorn' detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_06.jpg",
-          "alt": "Målningen 'Miss Thorn' i detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_07.jpg",
-          "alt": "Målningen 'Miss Thorn' i detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_08.jpg",
-          "alt": "Målningen 'Miss Thorn' detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_09.jpg",
-          "alt": "Målningen 'Miss Thorn' detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_10.jpg",
-          "alt": "Målningen 'Miss Thorn' detalj"
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
           "src": "/static/paintings/miss-thorn/miss-thorn_11.jpg",
-          "alt": "Målningen 'Miss Thorn' i ett rum"
+          "alt": "The painting 'Miss Thorn' in situ"
         }
       ]
     },
@@ -259,7 +259,7 @@
         },
         {
           "src": "/static/paintings/dimensions/dimensions_1.jpg",
-          "alt": "'Dimensions' i ateljen"
+          "alt": "'Dimensions' in the studio"
         },
         {
           "src": "/static/paintings/dimensions/dimensions_6.jpg",
@@ -520,7 +520,7 @@
         },
         {
           "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'But no longer' från vinkel"
+          "alt": "'But no longer' from angle"
         },
         {
           "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
@@ -586,7 +586,7 @@
         },
         {
           "src": "/static/paintings/everseeing/20231101_091010-02.jpg",
-          "alt": "'Ever seeing' i ateljen"
+          "alt": "'Ever seeing' in the studio"
         },
         {
           "src": "/static/paintings/everseeing/20231101_090902-01.jpg",
@@ -610,7 +610,7 @@
       "slug": "/inside-garden",
       "path": "/inside-garden",
       "name": "Inside garden",
-      "description": "Jag har en trädgård, som växer och blommar året om. Vild, bångstyrig, makalöst vacker och omöjlig att förstå. Men som den doftar, som en dröm jag följer och vill nå. Min inuti-trädgård.",
+      "description": "I have a garden, in bloom all year round. Wild, unruly, incomparably beautiful and impossible to figure out. It smells like a dream I follow and want to reach. My inside garden.",
       "price": "9 000",
       "year": "2024",
       "status": "available",
@@ -625,31 +625,31 @@
       "images": [
         {
           "src": "/static/paintings/inside-garden/inside-garden_01.jpg",
-          "alt": "Målningen 'Inside garden' i galleriet"
+          "alt": "The painting 'Inside garden' in the gallery"
         },
         {
           "src": "/static/paintings/inside-garden/inside-garden_02.jpg",
-          "alt": "Målningen 'Inside garden' detalj"
+          "alt": "The painting 'Inside garden' closeup"
         },
         {
           "src": "/static/paintings/inside-garden/inside-garden_03.jpg",
-          "alt": "Målningen 'Inside garden' detalj"
+          "alt": "The painting 'Inside garden' closeup"
         },
         {
           "src": "/static/paintings/inside-garden/inside-garden_04.jpg",
-          "alt": "Målningen 'Inside garden' detalj"
+          "alt": "The painting 'Inside garden' closeup"
         },
         {
           "src": "/static/paintings/inside-garden/inside-garden_05.jpg",
-          "alt": "Målningen 'Inside garden' detalj"
+          "alt": "The painting 'Inside garden' closeup"
         },
         {
           "src": "/static/paintings/inside-garden/inside-garden_06.jpg",
-          "alt": "Målningen 'Inside garden' i vinkel"
+          "alt": "The painting 'Inside garden' i angle"
         },
         {
           "src": "/static/paintings/inside-garden/inside-garden_07.jpg",
-          "alt": "Målningen 'Inside garden' utan ram"
+          "alt": "The painting 'Inside garden' utan ram"
         }
       ]
     },
@@ -677,11 +677,11 @@
         },
         {
           "src": "/static/paintings/hoppet/20231123_063631.jpg",
-          "alt": "'The hope' i ateljen"
+          "alt": "'The hope' in the studio"
         },
         {
           "src": "/static/paintings/hoppet/20231123_063602.jpg",
-          "alt": "'The hope' i ateljen"
+          "alt": "'The hope' in the studio"
         },
         {
           "src": "/static/paintings/hoppet/20231101_091429-01-01.jpg",
@@ -880,7 +880,7 @@
         },
         {
           "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Closeup on del av tavlan Garden girl"
+          "alt": "Closeup on del av The painting Garden girl"
         },
         {
           "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
@@ -952,7 +952,7 @@
         },
         {
           "src": "/static/paintings/annanhorisont/20231102_103205.jpg",
-          "alt": "'Different horizon' från vinkel"
+          "alt": "'Different horizon' from angle"
         },
         {
           "src": "/static/paintings/annanhorisont/20231102_103340.jpg",
@@ -1118,7 +1118,7 @@
         },
         {
           "src": "/static/paintings/sista-dansen/sistadansen_sq-angle.jpg",
-          "alt": "'Sista dansen på Fårö' i vinkel"
+          "alt": "'Sista dansen på Fårö' i angle"
         },
         {
           "src": "/static/paintings/sista-dansen/sistadansen_sq-detail.jpg",
@@ -1197,7 +1197,7 @@
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
-          "alt": "'Never alone' i ateljen"
+          "alt": "'Never alone' in the studio"
         },
         {
           "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
@@ -1285,7 +1285,7 @@
         },
         {
           "src": "/static/paintings/the-inner/the-inner_1.jpg",
-          "alt": "'The inner' i ateljen"
+          "alt": "'The inner' in the studio"
         },
         {
           "src": "/static/paintings/the-inner/the-inner_2.jpg",
@@ -1363,7 +1363,7 @@
         },
         {
           "src": "/static/paintings/feels/feels_03.jpg",
-          "alt": "'Feels' från vinkel"
+          "alt": "'Feels' from angle"
         },
         {
           "src": "/static/paintings/feels/feels_04.jpg",
@@ -1445,7 +1445,7 @@
         },
         {
           "src": "/static/paintings/aaaah/aaaah_01.jpg",
-          "alt": "'Aaaah' framifråm"
+          "alt": "The painting 'Aaaah'"
         },
         {
           "src": "/static/paintings/aaaah/aaaah_02.jpg",
@@ -1457,11 +1457,11 @@
         },
         {
           "src": "/static/paintings/aaaah/aaaah_05.jpg",
-          "alt": "'Aaaah' från vinkel"
+          "alt": "'Aaaah' from angle"
         },
         {
           "src": "/static/paintings/aaaah/aaaah_01.jpg",
-          "alt": "'Aaaah' framifråm"
+          "alt": "The painting 'Aaaah'"
         }
       ]
     },
