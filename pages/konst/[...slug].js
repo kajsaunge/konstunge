@@ -11,14 +11,19 @@ import PageIntro from '@/pageIntro';
 import styles from '../../styles/Produkt.module.css';
 
 const Product = ({ piece }) => {
-  const thisIndex = contentArt.pieces.findIndex(
+  const availableArt = contentArt.pieces.filter(
+    (item) => item.status !== 'hide'
+  );
+  //  && item.status !== 'sold'
+  const thisIndex = availableArt.findIndex(
     (item) => piece?.path === item?.path
   );
-  const prevPath = contentArt.pieces[thisIndex >= 1 ? thisIndex - 1 : '']?.path;
+
+  const prevPath = availableArt[thisIndex >= 1 ? thisIndex - 1 : '']?.path;
+
   const nextPath =
-    contentArt.pieces[
-      thisIndex <= contentArt.pieces.length - 2 ? thisIndex + 1 : ''
-    ]?.path;
+    availableArt[thisIndex <= availableArt.length - 2 ? thisIndex + 1 : '']
+      ?.path;
 
   const router = useRouter();
   const hasFrame = piece.frame ? piece.frame : content.slug.requestFrame;
@@ -61,7 +66,7 @@ const Product = ({ piece }) => {
         </nav>
         <PageIntro
           level={1}
-          title={`${content.slug.title} ${piece.name}`}
+          title={`${piece.name}`}
           description={content.slug.titleDesc}
         />
         <div className={styles.grid}>
@@ -70,6 +75,7 @@ const Product = ({ piece }) => {
               <ImageGallery
                 images={piece.images}
                 notAvailable={piece.status === 'sold'}
+                newArt={piece.status === 'new'}
               />
               <div className={styles.artPieceContent}>
                 <h3 className={styles.artPieceTitle}>{piece.name}</h3>

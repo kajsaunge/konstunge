@@ -1,11 +1,11 @@
-import { useEffect, useState } from "react";
-import Image from "next/image";
+import { useEffect, useState } from 'react';
+import Image from 'next/image';
 
-import Arrow from "@/icons/arrow";
+import Arrow from '@/icons/arrow';
 
-import styles from "./ImageGallery.module.css";
+import styles from './ImageGallery.module.css';
 
-const ImageGallery = ({ images, notAvailable }) => {
+const ImageGallery = ({ images, notAvailable, newArt }) => {
   const [selectedImage, setSelectedImage] = useState(images[0]);
 
   const handleImageChange = (e) => {
@@ -15,7 +15,7 @@ const ImageGallery = ({ images, notAvailable }) => {
     const prev = currentIndex <= 0 ? arrayLength : currentIndex - 1;
     const next = currentIndex >= arrayLength ? 0 : currentIndex + 1;
     return setSelectedImage(
-      e.target.id === "prev" ? images[prev] : images[next]
+      e.target.id === 'prev' ? images[prev] : images[next]
     );
   };
 
@@ -30,32 +30,37 @@ const ImageGallery = ({ images, notAvailable }) => {
           <p>SÅLD</p>
         </div>
       )}
+      {newArt && (
+        <div className={styles.itemNew}>
+          <p>NEW</p>
+        </div>
+      )}
       <div className={styles.galleryMainWrapper}>
         <nav
           className={styles.galleryNavList}
-          aria-label="Bläddra bland bilderna"
-          role="navigation"
+          aria-label='Bläddra bland bilderna'
+          role='navigation'
         >
           <button
-            id="prev"
+            id='prev'
             className={`${styles.galleryNavButton} ${styles.galleryNavPrev}`}
             onClick={(e) => handleImageChange(e)}
-            aria-label="föregående bild"
+            aria-label='föregående bild'
           >
             <Arrow />
           </button>
           <button
-            id="next"
+            id='next'
             className={styles.galleryNavButton}
             onClick={(e) => handleImageChange(e)}
-            aria-label="nästa bild"
+            aria-label='nästa bild'
           >
             <Arrow />
           </button>
         </nav>
         <div className={styles.galleryMainImageWrapper}>
           <Image
-            loading="lazy"
+            loading='lazy'
             src={selectedImage.src}
             alt={selectedImage.alt}
             width={660}
@@ -73,7 +78,7 @@ const ImageGallery = ({ images, notAvailable }) => {
                 onClick={() => setSelectedImage(image)}
               >
                 <Image
-                  loading="lazy"
+                  loading='lazy'
                   src={image.src}
                   alt={image.alt}
                   width={80}
