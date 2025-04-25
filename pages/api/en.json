@@ -83,7 +83,7 @@
     "intro2": " or you can use the form on this page.",
     "order": "Orders",
     "orderDesc1": "To place an order, fill the form, or send an email to",
-    "orderDesc2": "Remember to write how you prefer to get your painting delivered. Shipment world wide or pick-up in the Stockholm area.",
+    "orderDesc2": "Remember to write your delivery preferens. Options to pick up in the Stockholm area or shipment (world wide).",
     "form": {
       "name": "Name",
       "namePlaceholder": "Your name",
@@ -111,9 +111,9 @@
     "requestFrame": "Available on request",
     "delivery": "Delivery",
     "order": "Order",
-    "pickup": "World wide shipping or pick up in Stockholm area",
+    "pickup": "Pick up in Stockholm area or shipment.",
     "order1": "To make an order, fill in the form or send an email to",
-    "order2": "Remember to write how you prefer to get your painting delivered. Shipment world wide or pick-up in the Stockholm area."
+    "order2": "Remember to write your delivery preferens. Options to pick up in the Stockholm area or shipment (world wide)."
   },
   "card": {
     "size": "Size:",
