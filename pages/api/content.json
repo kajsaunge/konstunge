@@ -1,6 +1,53 @@
 {
   "pieces": [
     {
+      "slug": "/good-karma-in-your-face",
+      "path": "/good-karma-in-your-face",
+      "name": "Good karma in your face",
+      "description": "Bär varje god handling som en rustning, varje kärlekens gest som eld. Välvilja förvandlad till styrka, uthållighet och klarhet. Kränkningar och respektlöshet förvandlas till ett brinnande ljus — rakt tillbaka mot världen. Onåbar.",
+      "price": "12 000",
+      "year": "2025",
+      "status": "new",
+      "material": {
+        "medium": "Mixed media - acrylics and spraypaint",
+        "base": "Canvas"
+      },
+      "width": "70",
+      "height": "90",
+      "tags": ["canvas", "acrylics", "spary paint"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_00.jpg",
+          "alt": "Tavlan 'Good karma in your face' i galleriet"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_01.jpg",
+          "alt": "Tavlan 'Good karma in your face' i närbild"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_02.jpg",
+          "alt": "Tavlan 'Good karma in your face' i närbild"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_03.jpg",
+          "alt": "Tavlan 'Good karma in your face' i närbild"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_04.jpg",
+          "alt": "Tavlan 'Good karma in your face' i närbild"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_05.jpg",
+          "alt": "Tavlan 'Good karma in your face' i miljö"
+        },
+        {
+          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_06.jpg",
+          "alt": "Tavlan 'Good karma in your face' i helhet"
+        }
+      ]
+    },
+    {
       "slug": "/audrey",
       "path": "/audrey",
       "name": "Audrey",
@@ -95,69 +142,6 @@
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_09.jpg",
           "alt": "Tavlan 'So long deer' utan ram"
-        }
-      ]
-    },
-    {
-      "slug": "/good-karma-in-your-face",
-      "path": "/good-karma-in-your-face",
-      "name": "Good karma in your face",
-      "description": "",
-      "price": "10 800",
-      "year": "2025",
-      "status": "hide",
-      "material": {
-        "medium": "Mixed media - acrylic",
-        "base": "Canvas"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["canvas", "acrylics"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_01.jpg",
-          "alt": "Målningen 'Good karma in your face' i galleriet"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_02.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_03.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_04.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_05.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_06.jpg",
-          "alt": "Målningen 'Good karma in your face' i detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_07.jpg",
-          "alt": "Målningen 'Good karma in your face' i detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_08.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_09.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_10.jpg",
-          "alt": "Målningen 'Good karma in your face' detalj"
-        },
-        {
-          "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_11.jpg",
-          "alt": "Målningen 'Good karma in your face' i ett rum"
         }
       ]
     },
