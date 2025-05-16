@@ -1,13 +1,61 @@
 {
   "pieces": [
     {
+      "slug": "/echos-of-her-tide",
+      "path": "/echos-of-her-tide",
+      "name": "Echos of her tide",
+      "description": "A never ending soundtrack with different beats, a fuled machine no one hears but sees. Always changing, never quiet inside, moves her to unimaginable places never seen.",
+      "price": "7 200",
+      "year": "2025",
+      "status": "new",
+      "frame": "Incorporated in the artwork. Wood frame with details, red, pink and neon yellow.",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "47",
+      "height": "57",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_00.jpg",
+          "alt": "Tavlan 'Echos of her tide' i galleriet"
+        },
+        {
+          "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_03.jpg",
+          "alt": "Tavlan 'Echos of her tide' i helhet utan ram"
+        },
+        {
+          "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_01.jpg",
+          "alt": "Tavlan 'Echos of her tide' i närbild"
+        },
+        {
+          "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_02.jpg",
+          "alt": "Tavlan 'Echos of her tide' i närbild"
+        },
+        {
+          "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_04.jpg",
+          "alt": "Tavlan 'Echos of her tide' i helhet"
+        },
+        {
+          "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_05.jpg",
+          "alt": "Tavlan 'Echos of her tide' i helhet"
+        },
+        {
+          "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_06.jpg",
+          "alt": "Tavlan 'Echos of her tide' i miljö"
+        }
+      ]
+    },
+    {
       "slug": "/good-karma-in-your-face",
       "path": "/good-karma-in-your-face",
       "name": "Good karma in your face",
       "description": "Bär varje god handling som en rustning, varje kärlekens gest som eld. Välvilja förvandlad till styrka, uthållighet och klarhet. Kränkningar och respektlöshet förvandlas till ett brinnande ljus — rakt tillbaka mot världen. Onåbar.",
       "price": "10 800",
       "year": "2025",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - acrylics, spray paint",
         "base": "canvas"
@@ -101,7 +149,7 @@
       "description": "Hon står där, stark och sårbar. Med hjärtat bultande, ömt serverat på silverfat. Den långa väntan, den alldeles för långa, den outtröttliga uthålligheten vacklar, hjärtat saktar ner. Ilande kommer den, naturens självklara grymhet. Skymningens smärta befriar hennes själ, släpper in ljus och kraft, livet kommer åter.",
       "price": "10 800",
       "year": "2025",
-      "status": "new",
+      "status": "available",
       "material": {
         "medium": "Mixed media - acrylic",
         "base": "Woodboard"
