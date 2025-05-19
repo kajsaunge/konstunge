@@ -149,7 +149,7 @@
       "description": "Hon står där, stark och sårbar. Med hjärtat bultande, ömt serverat på silverfat. Den långa väntan, den alldeles för långa, den outtröttliga uthålligheten vacklar, hjärtat saktar ner. Ilande kommer den, naturens självklara grymhet. Skymningens smärta befriar hennes själ, släpper in ljus och kraft, livet kommer åter.",
       "price": "10 800",
       "year": "2025",
-      "status": "available",
+      "status": "sold",
       "material": {
         "medium": "Mixed media - acrylic",
         "base": "Woodboard"
@@ -386,7 +386,7 @@
       "description": "Att vara mer än man vet. Modigare, starkare och större än man förstår. Helst förstått. Inte bara snäll, mjuk och duktig. Att ha ägt och att fortsätta äga. Mer.",
       "price": "6 500",
       "year": "2024",
-      "status": "available",
+      "status": "sold",
       "material": {
         "medium": "Akryl",
         "base": "duk"
@@ -931,7 +931,7 @@
       "description": "Den röda blicken ljusnar, inifrån och ut. Åter väcks glädjen, lugnet och friheten. Det som alltid funnits där men tappats bort. Nu jävlar",
       "price": "2 800",
       "year": "2023",
-      "status": "available",
+      "status": "sold",
       "material": {
         "medium": "Mixed media - akryl mm",
         "base": "duk"
