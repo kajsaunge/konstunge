@@ -20,7 +20,10 @@ const gtld = '/static/news/gtld-2023.png';
 const Utstallningar = () => {
   const selectedPieces = [];
   contentArt.pieces.map((item) => {
-    if (item.name === 'Different horizon' || item.name === 'Ever seeing') {
+    if (
+      item.name === 'Good karma in your face' ||
+      item.name === 'Ever seeing'
+    ) {
       selectedPieces.push(item);
     }
   });

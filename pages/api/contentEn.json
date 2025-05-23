@@ -194,57 +194,6 @@
       ]
     },
     {
-      "slug": "/miss-thorn",
-      "path": "/miss-thorn",
-      "name": "Miss Thorn",
-      "description": "Commisioned art piece. The brief was: similar colors as the painting Dare me portraying roses and an angry or sad woman.",
-      "price": "10 800",
-      "year": "2025",
-      "status": "sold",
-      "material": {
-        "medium": "Mixed media - acrylic",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "pannå", "acrylics"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/miss-thorn/miss-thorn_01.jpg",
-          "alt": "The painting 'Miss Thorn' in the gallery"
-        },
-        {
-          "src": "/static/paintings/miss-thorn/miss-thorn_02.jpg",
-          "alt": "The painting 'Miss Thorn' closeup"
-        },
-        {
-          "src": "/static/paintings/miss-thorn/miss-thorn_03.jpg",
-          "alt": "The painting 'Miss Thorn' closeup"
-        },
-        {
-          "src": "/static/paintings/miss-thorn/miss-thorn_04.jpg",
-          "alt": "The painting 'Miss Thorn' closeup"
-        },
-        {
-          "src": "/static/paintings/miss-thorn/miss-thorn_05.jpg",
-          "alt": "The painting 'Miss Thorn' closeup"
-        },
-        {
-          "src": "/static/paintings/miss-thorn/miss-thorn_06.jpg",
-          "alt": "The painting 'Miss Thorn' closeup"
-        },
-        {
-          "src": "/static/paintings/miss-thorn/miss-thorn_10.jpg",
-          "alt": "The painting 'Miss Thorn' closeup"
-        },
-        {
-          "src": "/static/paintings/miss-thorn/miss-thorn_11.jpg",
-          "alt": "The painting 'Miss Thorn' in situ"
-        }
-      ]
-    },
-    {
       "slug": "/dimensions",
       "path": "/dimensions",
       "name": "Dimensions",
@@ -340,6 +289,58 @@
         {
           "src": "/static/paintings/inbetween-2/inbetween2_04.jpg",
           "alt": "The painting 'In between 2'"
+        }
+      ]
+    },
+    {
+      "slug": "/aldrig-ensam",
+      "path": "/aldrig-ensam",
+      "name": "Never alone",
+      "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
+      "price": "7 800",
+      "year": "2023",
+      "status": "sold",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Mixed media - acrylics, sparyfärg etc",
+        "base": "woodboard"
+      },
+      "width": "43",
+      "height": "70",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
+          "alt": "The painting 'Never alone' in the gallery"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
+          "alt": "'Never alone' in the studio"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
+          "alt": "'Never alone' closeup"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
+          "alt": "'Never alone' from the side"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
+          "alt": "'Never alone'"
+        },
+        {
+          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
+          "alt": "'Never alone'"
         }
       ]
     },
@@ -508,12 +509,20 @@
           "alt": "The painting 'Rearview' framed"
         },
         {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "The painting 'Rearview' in situ"
+          "src": "/static/paintings/rearview/rearview_02.jpg",
+          "alt": "'Rearview' in a room"
         },
         {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' without frame"
+          "src": "/static/paintings/rearview/rearview-cut.jpg",
+          "alt": "The painting 'Rearview' without frame"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview_05.jpg",
+          "alt": "'Rearview' in situ"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview_06.jpg",
+          "alt": "'Rearview' rearview_05.jpg"
         }
       ]
     },
@@ -977,64 +986,6 @@
       ]
     },
     {
-      "slug": "/annanhorisont",
-      "path": "/annanhorisont",
-      "name": "Different horizon",
-      "description": "The red gaze brightens, inside and out. Joy, tranquility and freedom are reawakened. That which has always been there but lost. Now fucking",
-      "price": "2 800",
-      "year": "2023",
-      "status": "sold",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "canvas"
-      },
-      "width": "20",
-      "height": "30",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/annanhorisont/annanhorisont.jpg",
-          "alt": "The painting 'Different horizon' in the gallery"
-        },
-        {
-          "src": "/static/paintings/annanhorisont/20231102_103205.jpg",
-          "alt": "'Different horizon' from angle"
-        },
-        {
-          "src": "/static/paintings/annanhorisont/20231102_103340.jpg",
-          "alt": "'Different horizon' closeup"
-        }
-      ]
-    },
-    {
-      "slug": "/give",
-      "path": "/give",
-      "name": "Give",
-      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Provide feedback. Give up. Give me! And so on",
-      "price": "4 500",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Akvarell och acrylics",
-        "base": "canvas"
-      },
-      "width": "50",
-      "height": "50",
-      "tags": ["canvas", "akvarell", "acrylics", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/give/give_00.jpg",
-          "alt": "The painting T-shirt girl straight on"
-        },
-        {
-          "src": "/static/paintings/give/give_01.jpg",
-          "alt": "Closeup on the painting T-shirt girl"
-        }
-      ]
-    },
-    {
       "slug": "/dear-deer",
       "path": "/dear-deer",
       "name": "Dear deer",
@@ -1193,91 +1144,111 @@
       ]
     },
     {
-      "slug": "/aldrig-ensam",
-      "path": "/aldrig-ensam",
-      "name": "Never alone",
-      "description": "She is not alone. Never have been. In the chilly world that surrounds her, she stands firm, warm and safe. Undoubtedly, she is moving towards new adventures. Never alone.",
-      "price": "7 800",
+      "slug": "/annanhorisont",
+      "path": "/annanhorisont",
+      "name": "Different horizon",
+      "description": "The red gaze brightens, inside and out. Joy, tranquility and freedom are reawakened. That which has always been there but lost. Now fucking",
+      "price": "2 800",
       "year": "2023",
-      "status": "sold",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "material": {
-        "medium": "Mixed media - acrylics, sparyfärg etc",
-        "base": "woodboard"
-      },
-      "width": "43",
-      "height": "70",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/aldrig-ensam/aldrig-ensam_00.jpg",
-          "alt": "The painting 'Never alone' in the gallery"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091626-01.jpg",
-          "alt": "'Never alone' in the studio"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091607-01.jpg",
-          "alt": "'Never alone' closeup"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091600-01.jpg",
-          "alt": "'Never alone' from the side"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091620.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091637-01.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091644-01.jpg",
-          "alt": "'Never alone'"
-        },
-        {
-          "src": "/static/paintings/aldrig-ensam/20231101_091547-01.jpg",
-          "alt": "'Never alone'"
-        }
-      ]
-    },
-
-    {
-      "slug": "/curiosity",
-      "path": "/curiosity",
-      "name": "Curiosity",
-      "description": "Go there. Allow curiosity to lead the way. Taste, smell, feel. You don't have to decide or even know what you want, just explore.",
-      "price": "9 800",
-      "year": "2022",
       "status": "sold",
       "material": {
         "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "20",
+      "height": "30",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/annanhorisont/annanhorisont.jpg",
+          "alt": "The painting 'Different horizon' in the gallery"
+        },
+        {
+          "src": "/static/paintings/annanhorisont/20231102_103205.jpg",
+          "alt": "'Different horizon' from angle"
+        },
+        {
+          "src": "/static/paintings/annanhorisont/20231102_103340.jpg",
+          "alt": "'Different horizon' closeup"
+        }
+      ]
+    },
+    {
+      "slug": "/miss-thorn",
+      "path": "/miss-thorn",
+      "name": "Miss Thorn",
+      "description": "Commisioned art piece. The brief was: similar colors as the painting Dare me portraying roses and an angry or sad woman.",
+      "price": "10 800",
+      "year": "2025",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media - acrylic",
         "base": "woodboard"
       },
       "width": "70",
       "height": "100",
-      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "tags": ["woodboard", "pannå", "acrylics"],
       "category": "original",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "images": [
         {
-          "src": "/static/paintings/curiosity/curiosity_00.jpg",
-          "alt": "The painting 'Curiosity' framed"
+          "src": "/static/paintings/miss-thorn/miss-thorn_01.jpg",
+          "alt": "The painting 'Miss Thorn' in the gallery"
         },
         {
-          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
-          "alt": "'Curiosity' without frame"
+          "src": "/static/paintings/miss-thorn/miss-thorn_02.jpg",
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity_1.jpg",
-          "alt": "The painting 'Curiosity' in situ"
+          "src": "/static/paintings/miss-thorn/miss-thorn_03.jpg",
+          "alt": "The painting 'Miss Thorn' closeup"
         },
         {
-          "src": "/static/paintings/curiosity/curiosity_2.jpg",
-          "alt": "The painting 'Curiosity' in situ"
+          "src": "/static/paintings/miss-thorn/miss-thorn_04.jpg",
+          "alt": "The painting 'Miss Thorn' closeup"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_05.jpg",
+          "alt": "The painting 'Miss Thorn' closeup"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_06.jpg",
+          "alt": "The painting 'Miss Thorn' closeup"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_10.jpg",
+          "alt": "The painting 'Miss Thorn' closeup"
+        },
+        {
+          "src": "/static/paintings/miss-thorn/miss-thorn_11.jpg",
+          "alt": "The painting 'Miss Thorn' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/give",
+      "path": "/give",
+      "name": "Give",
+      "description": "Give. Give a shit. Give it your all. Give a damn. Give of yourself. Provide feedback. Give up. Give me! And so on",
+      "price": "4 500",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Akvarell och acrylics",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "50",
+      "tags": ["canvas", "akvarell", "acrylics", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/give/give_00.jpg",
+          "alt": "The painting T-shirt girl straight on"
+        },
+        {
+          "src": "/static/paintings/give/give_01.jpg",
+          "alt": "Closeup on the painting T-shirt girl"
         }
       ]
     },
@@ -1321,6 +1292,42 @@
         {
           "src": "/static/paintings/the-inner/the-inner_5.jpg",
           "alt": "'The inner'"
+        }
+      ]
+    },
+    {
+      "slug": "/curiosity",
+      "path": "/curiosity",
+      "name": "Curiosity",
+      "description": "Go there. Allow curiosity to lead the way. Taste, smell, feel. You don't have to decide or even know what you want, just explore.",
+      "price": "9 800",
+      "year": "2022",
+      "status": "sold",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "images": [
+        {
+          "src": "/static/paintings/curiosity/curiosity_00.jpg",
+          "alt": "The painting 'Curiosity' framed"
+        },
+        {
+          "src": "/static/paintings/curiosity/20230131_143557-01.jpg",
+          "alt": "'Curiosity' without frame"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_1.jpg",
+          "alt": "The painting 'Curiosity' in situ"
+        },
+        {
+          "src": "/static/paintings/curiosity/curiosity_2.jpg",
+          "alt": "The painting 'Curiosity' in situ"
         }
       ]
     },

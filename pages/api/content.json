@@ -493,15 +493,23 @@
       "images": [
         {
           "src": "/static/paintings/rearview/rearview-shadowbox_0.jpg",
-          "alt": "Tavlan 'Rearview' i ram"
+          "alt": "Tavlan 'Rearview' i galleriet"
         },
         {
-          "src": "/static/paintings/rearview/rearview-3.jpg",
-          "alt": "Tavlan 'Rearview' i miljö"
+          "src": "/static/paintings/rearview/rearview_02.jpg",
+          "alt": "'Rearview' i miljö"
         },
         {
-          "src": "/static/paintings/rearview/rearview-1.jpeg",
-          "alt": "'Rearview' utan ram"
+          "src": "/static/paintings/rearview/rearview-cut.jpg",
+          "alt": "The painting 'Rearview' utan ram"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview_05.jpg",
+          "alt": "'Rearview' i miljö"
+        },
+        {
+          "src": "/static/paintings/rearview/rearview_06.jpg",
+          "alt": "'Rearview' i miljö"
         }
       ]
     },

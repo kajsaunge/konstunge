@@ -20,7 +20,7 @@ const studio2 = '/static/profile/kajsaunge-studio2.jpg';
 const Om = () => {
   const selectedPieces = [];
   contentArt.pieces.map((item) => {
-    if (item.name === 'Audrey' || item.name === 'Queen') {
+    if (item.name === 'Audrey' || item.name === 'U.F.O') {
       selectedPieces.push(item);
     }
   });
