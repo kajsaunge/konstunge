@@ -194,49 +194,37 @@
       ]
     },
     {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimensions of meaning and of meaning. Out of lust and displeasure. Of demands, desires, desires, fears, love, hatred and all sorts of more, it is easy to get lost. But it's never too late to lean and listen inwards, to follow the desire and what attracts.",
-      "price": "7 300",
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "But no longer",
+      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
+      "price": "9 600",
       "year": "2023",
       "status": "available",
       "material": {
-        "medium": "Mixed media - acrylics etc",
+        "medium": "Mixed media - acrylics, crayon etc",
         "base": "canvas"
       },
-      "width": "50",
-      "height": "70",
+      "width": "80",
+      "height": "100",
       "tags": ["canvas", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/dimensions/dimensions_0.jpg",
-          "alt": "The painting 'Dimensions' in the gallery"
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "The painting 'But no longer' in the gallery"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' closeup"
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'But no longer' from angle"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' closeup"
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'But no longer' closeup"
         },
         {
-          "src": "/static/paintings/dimensions/dimensions_5.jpg",
-          "alt": "'Dimensions'"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_1.jpg",
-          "alt": "'Dimensions' in the studio"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' in situ"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' in situ"
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'But no longer' closeup"
         }
       ]
     },
@@ -527,41 +515,6 @@
       ]
     },
     {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "But no longer",
-      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
-      "price": "9 600",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, crayon etc",
-        "base": "canvas"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "The painting 'But no longer' in the gallery"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'But no longer' from angle"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'But no longer' closeup"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'But no longer' closeup"
-        }
-      ]
-    },
-    {
       "slug": "/everseeing",
       "path": "/everseeing",
       "name": "Ever seeing",
@@ -632,53 +585,6 @@
         {
           "src": "/static/paintings/newyork/newyork_3.jpg",
           "alt": "The painting New york from the side"
-        }
-      ]
-    },
-    {
-      "slug": "/inside-garden",
-      "path": "/inside-garden",
-      "name": "Inside garden",
-      "description": "I have a garden, in bloom all year round. Wild, unruly, incomparably beautiful and impossible to figure out. It smells like a dream I follow and want to reach. My inside garden.",
-      "price": "9 000",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, ink etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "pannå", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_01.jpg",
-          "alt": "The painting 'Inside garden' in the gallery"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_02.jpg",
-          "alt": "The painting 'Inside garden' closeup"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_03.jpg",
-          "alt": "The painting 'Inside garden' closeup"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_04.jpg",
-          "alt": "The painting 'Inside garden' closeup"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_05.jpg",
-          "alt": "The painting 'Inside garden' closeup"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_06.jpg",
-          "alt": "The painting 'Inside garden' i angle"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_07.jpg",
-          "alt": "The painting 'Inside garden' utan ram"
         }
       ]
     },
@@ -763,6 +669,214 @@
       ]
     },
     {
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimensions of meaning and of meaning. Out of lust and displeasure. Of demands, desires, desires, fears, love, hatred and all sorts of more, it is easy to get lost. But it's never too late to lean and listen inwards, to follow the desire and what attracts.",
+      "price": "7 300",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dimensions/dimensions_0.jpg",
+          "alt": "The painting 'Dimensions' in the gallery"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' closeup"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' closeup"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_5.jpg",
+          "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_1.jpg",
+          "alt": "'Dimensions' in the studio"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' in situ"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/over-this",
+      "path": "/over-this",
+      "name": "Over this",
+      "description": "She's done, that's enough now. Nothing can make her change her mind.",
+      "price": "4 000",
+      "year": "2023",
+      "status": "hide",
+      "material": {
+        "medium": "Acrylics, ink",
+        "base": "canvas"
+      },
+      "width": "30",
+      "height": "40",
+      "tags": ["canvas", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/over-this/over-this_00.png",
+          "alt": "The painting Over this straight on"
+        },
+        {
+          "src": "/static/paintings/over-this/over-this_01.jpg",
+          "alt": "The painting Over this"
+        }
+      ]
+    },
+    {
+      "slug": "/tack",
+      "path": "/tack",
+      "name": "Tack",
+      "description": "Tulips are like a box of chocolate, you never know when and who or to and from.",
+      "price": "2 200",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "canvas"
+      },
+      "width": "30",
+      "height": "30",
+      "tags": ["canvas", "acrylics", "floral"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/tack/tack_00.jpg",
+          "alt": "The painting Tack in the gallery"
+        },
+        {
+          "src": "/static/paintings/tack/tack_01.jpg",
+          "alt": "The painting Tack"
+        },
+        {
+          "src": "/static/paintings/tack/tack_02.jpg",
+          "alt": "Closeup on the painting Tack"
+        },
+        {
+          "src": "/static/paintings/tack/tack_03.jpg",
+          "alt": "Closeup on the painting Tack"
+        },
+        {
+          "src": "/static/paintings/tack/tack_04.jpg",
+          "alt": "Closeup on the painting Tack"
+        },
+        {
+          "src": "/static/paintings/tack/tack_05.jpg",
+          "alt": "The painting Tack in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/inside-garden",
+      "path": "/inside-garden",
+      "name": "Inside garden",
+      "description": "I have a garden, in bloom all year round. Wild, unruly, incomparably beautiful and impossible to figure out. It smells like a dream I follow and want to reach. My inside garden.",
+      "price": "9 000",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "pannå", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_01.jpg",
+          "alt": "The painting 'Inside garden' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_02.jpg",
+          "alt": "The painting 'Inside garden' closeup"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_03.jpg",
+          "alt": "The painting 'Inside garden' closeup"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_04.jpg",
+          "alt": "The painting 'Inside garden' closeup"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_05.jpg",
+          "alt": "The painting 'Inside garden' closeup"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_06.jpg",
+          "alt": "The painting 'Inside garden' i angle"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_07.jpg",
+          "alt": "The painting 'Inside garden' utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/no-promises",
+      "path": "/no-promises",
+      "name": "No promises",
+      "description": "Everything is changeable. You can have a plan and a thought, but often it turns out a little different, or completely. Being open and receptive to what comes along the way doesn't have to mean swallowing everything with guts (blah) but it can lead to amazing things. Who knows, maybe and suddenly an unexpected bud grows up and shoots away. Where is it going?",
+      "price": "5 300",
+      "year": "2024",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "38",
+      "height": "38",
+      "tags": ["woodboard", "acrylics", "floral", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/no-promises/no-promises_0.jpg",
+          "alt": "The painting No promises in the gallery"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_2.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_3.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_4.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_5.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_1.jpg",
+          "alt": "The painting No promises i sin helhet"
+        }
+      ]
+    },
+    {
       "slug": "/inbetween",
       "path": "/inbetween",
       "name": "In between One",
@@ -811,78 +925,6 @@
         {
           "src": "/static/paintings/inbetween/inbetween1_05.jpg",
           "alt": "The painting 'In between 1' in the gallery"
-        }
-      ]
-    },
-    {
-      "slug": "/over-this",
-      "path": "/over-this",
-      "name": "Over this",
-      "description": "She's done, that's enough now. Nothing can make her change her mind.",
-      "price": "4 000",
-      "year": "2023",
-      "status": "hide",
-      "material": {
-        "medium": "Acrylics, ink",
-        "base": "canvas"
-      },
-      "width": "30",
-      "height": "40",
-      "tags": ["canvas", "acrylics"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/over-this/over-this_00.png",
-          "alt": "The painting Over this straight on"
-        },
-        {
-          "src": "/static/paintings/over-this/over-this_01.jpg",
-          "alt": "The painting Over this"
-        }
-      ]
-    },
-
-    {
-      "slug": "/no-promises",
-      "path": "/no-promises",
-      "name": "No promises",
-      "description": "Everything is changeable. You can have a plan and a thought, but often it turns out a little different, or completely. Being open and receptive to what comes along the way doesn't have to mean swallowing everything with guts (blah) but it can lead to amazing things. Who knows, maybe and suddenly an unexpected bud grows up and shoots away. Where is it going?",
-      "price": "5 300",
-      "year": "2024",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "status": "available",
-      "material": {
-        "medium": "Acrylics",
-        "base": "woodboard"
-      },
-      "width": "38",
-      "height": "38",
-      "tags": ["woodboard", "acrylics", "floral", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/no-promises/no-promises_0.jpg",
-          "alt": "The painting No promises in the gallery"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_2.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_3.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_4.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_5.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_1.jpg",
-          "alt": "The painting No promises i sin helhet"
         }
       ]
     },

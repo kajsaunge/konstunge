@@ -623,6 +623,49 @@
       ]
     },
     {
+      "slug": "/tack",
+      "path": "/tack",
+      "name": "Tack",
+      "description": "Tulpaner är som en ask choklad, man vet aldrig när och vem eller till och från.",
+      "price": "2 200",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "canvas"
+      },
+      "width": "30",
+      "height": "30",
+      "tags": ["canvas", "acrylics", "floral"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/tack/tack_00.jpg",
+          "alt": "Tavlan Tack i galleriet"
+        },
+        {
+          "src": "/static/paintings/tack/tack_01.jpg",
+          "alt": "Tavlan Tack"
+        },
+        {
+          "src": "/static/paintings/tack/tack_02.jpg",
+          "alt": "Närbild på tavlan Tack"
+        },
+        {
+          "src": "/static/paintings/tack/tack_03.jpg",
+          "alt": "Närbild på tavlan Tack"
+        },
+        {
+          "src": "/static/paintings/tack/tack_04.jpg",
+          "alt": "Närbild på tavlan Tack"
+        },
+        {
+          "src": "/static/paintings/tack/tack_05.jpg",
+          "alt": "Tavlan Tack i miljö"
+        }
+      ]
+    },
+    {
       "slug": "/inside-garden",
       "path": "/inside-garden",
       "name": "Inside garden",
