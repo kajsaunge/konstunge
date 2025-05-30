@@ -1,6 +1,50 @@
 {
   "pieces": [
     {
+      "slug": "/emerald-dreams-of-silent-screams",
+      "path": "/emerald-dreams-of-silent-screams",
+      "name": "Emerald dreams of silent screams",
+      "description": "Våren kommer, kanske. Den oändliga drömmen det nordiska folket, efter månader av mörker i ett vakuum. Hoppet stiger, kanske. Av långa smaragdgröna dagar och längre neonnätter. Äntligen, kanske.",
+      "price": "7 200",
+      "year": "2025",
+      "status": "new",
+      "frame": "Incorporated in the artwork. White wood frame with details, pink edge.",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_00.jpg",
+          "alt": "Tavlan 'Emerald dreams of silent screams' i galleriet"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_01.jpg",
+          "alt": "Tavlan 'Emerald dreams of silent screams' i detalj"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_02.jpg",
+          "alt": "Tavlan 'Emerald dreams of silent screams'i detalj"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_03.jpg",
+          "alt": "Tavlan 'Emerald dreams of silent screams'i detalj"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_05.jpg",
+          "alt": "Tavlan 'Emerald dreams of silent screams'"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_06.jpg",
+          "alt": "Tavlan 'Emerald dreams of silent screams' imiljö"
+        }
+      ]
+    },
+    {
       "slug": "/echos-of-her-tide",
       "path": "/echos-of-her-tide",
       "name": "Echos of her tide",
@@ -501,7 +545,7 @@
         },
         {
           "src": "/static/paintings/rearview/rearview-cut.jpg",
-          "alt": "The painting 'Rearview' utan ram"
+          "alt": "Tavlan 'Rearview' utan ram"
         },
         {
           "src": "/static/paintings/rearview/rearview_05.jpg",

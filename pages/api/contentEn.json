@@ -1,6 +1,50 @@
 {
   "pieces": [
     {
+      "slug": "/emerald-dreams-of-silent-screams",
+      "path": "/emerald-dreams-of-silent-screams",
+      "name": "Emerald dreams of silent screams",
+      "description": "Spring arrives, maybe. The neverending dream the nordic people, after months of darkness in a vacuum. Hope rises, maybe. Of long emerald days and longer neon nights. Finally, maybe.",
+      "price": "7 200",
+      "year": "2025",
+      "status": "new",
+      "frame": "Incorporated in the artwork. White wood frame with details, pink edge.",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "45",
+      "height": "55",
+      "tags": ["woodboard", "acrylics"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_00.jpg",
+          "alt": "The painting 'Emerald dreams of silent screams' in the gallery"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_01.jpg",
+          "alt": "The painting 'Emerald dreams of silent screams' in detail"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_02.jpg",
+          "alt": "The painting 'Emerald dreams of silent screams'in detail"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_03.jpg",
+          "alt": "The painting 'Emerald dreams of silent screams'in detail"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_05.jpg",
+          "alt": "The painting 'Emerald dreams of silent screams'"
+        },
+        {
+          "src": "/static/paintings/emerald-dreams-of-silent-screams/emerald-dreams-of-silent-screams_06.jpg",
+          "alt": "The painting 'Emerald dreams of silent screams' in situ"
+        }
+      ]
+    },
+    {
       "slug": "/echos-of-her-tide",
       "path": "/echos-of-her-tide",
       "name": "Echos of her tide",
@@ -20,31 +64,31 @@
       "images": [
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_00.jpg",
-          "alt": "Tavlan 'Echos of her tide' i galleriet"
+          "alt": "The painting 'Echos of her tide' in the gallery"
         },
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_03.jpg",
-          "alt": "Tavlan 'Echos of her tide' i helhet utan ram"
+          "alt": "The painting 'Echos of her tide' in detail"
         },
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_01.jpg",
-          "alt": "Tavlan 'Echos of her tide' i närbild"
+          "alt": "The painting 'Echos of her tide'in detail"
         },
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_02.jpg",
-          "alt": "Tavlan 'Echos of her tide' i närbild"
+          "alt": "The painting 'Echos of her tide'in detail"
         },
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_04.jpg",
-          "alt": "Tavlan 'Echos of her tide' i helhet"
+          "alt": "The painting 'Echos of her tide' in detail"
         },
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_05.jpg",
-          "alt": "Tavlan 'Echos of her tide' i helhet"
+          "alt": "The painting 'Echos of her tide'"
         },
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_06.jpg",
-          "alt": "Tavlan 'Echos of her tide' i miljö"
+          "alt": "The painting 'Echos of her tide' in situ"
         }
       ]
     },
@@ -92,6 +136,41 @@
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_06.jpg",
           "alt": "The painting 'Good karma in your face'"
+        }
+      ]
+    },
+    {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "But no longer",
+      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
+      "price": "9 600",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon etc",
+        "base": "canvas"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "The painting 'But no longer' in the gallery"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'But no longer' from angle"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'But no longer' closeup"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'But no longer' closeup"
         }
       ]
     },
@@ -190,41 +269,6 @@
         {
           "src": "/static/paintings/so-long-deer/so-long-deer_09.jpg",
           "alt": "The painting 'So long deer' no frame"
-        }
-      ]
-    },
-    {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "But no longer",
-      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
-      "price": "9 600",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, crayon etc",
-        "base": "canvas"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "The painting 'But no longer' in the gallery"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'But no longer' from angle"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'But no longer' closeup"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'But no longer' closeup"
         }
       ]
     },
@@ -669,53 +713,6 @@
       ]
     },
     {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimensions of meaning and of meaning. Out of lust and displeasure. Of demands, desires, desires, fears, love, hatred and all sorts of more, it is easy to get lost. But it's never too late to lean and listen inwards, to follow the desire and what attracts.",
-      "price": "7 300",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/dimensions/dimensions_0.jpg",
-          "alt": "The painting 'Dimensions' in the gallery"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' closeup"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' closeup"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_5.jpg",
-          "alt": "'Dimensions'"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_1.jpg",
-          "alt": "'Dimensions' in the studio"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' in situ"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' in situ"
-        }
-      ]
-    },
-    {
       "slug": "/over-this",
       "path": "/over-this",
       "name": "Over this",
@@ -739,6 +736,49 @@
         {
           "src": "/static/paintings/over-this/over-this_01.jpg",
           "alt": "The painting Over this"
+        }
+      ]
+    },
+    {
+      "slug": "/utfyllnad",
+      "path": "/utfyllnad",
+      "name": "Utfyllnad",
+      "description": "",
+      "price": "2 200",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "canvas"
+      },
+      "width": "30",
+      "height": "30",
+      "tags": ["canvas", "acrylics", "floral"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_00.jpg",
+          "alt": "The painting Utfyllnad in the gallery"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_01.jpg",
+          "alt": "The painting Utfyllnad"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_02.jpg",
+          "alt": "Closeup on the painting Utfyllnad"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_03.jpg",
+          "alt": "Closeup on the painting Utfyllnad"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_04.jpg",
+          "alt": "Closeup on the painting Utfyllnad"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_05.jpg",
+          "alt": "The painting Utfyllnad in situ"
         }
       ]
     },
@@ -785,53 +825,7 @@
         }
       ]
     },
-    {
-      "slug": "/inside-garden",
-      "path": "/inside-garden",
-      "name": "Inside garden",
-      "description": "I have a garden, in bloom all year round. Wild, unruly, incomparably beautiful and impossible to figure out. It smells like a dream I follow and want to reach. My inside garden.",
-      "price": "9 000",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, ink etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "pannå", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_01.jpg",
-          "alt": "The painting 'Inside garden' in the gallery"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_02.jpg",
-          "alt": "The painting 'Inside garden' closeup"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_03.jpg",
-          "alt": "The painting 'Inside garden' closeup"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_04.jpg",
-          "alt": "The painting 'Inside garden' closeup"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_05.jpg",
-          "alt": "The painting 'Inside garden' closeup"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_06.jpg",
-          "alt": "The painting 'Inside garden' i angle"
-        },
-        {
-          "src": "/static/paintings/inside-garden/inside-garden_07.jpg",
-          "alt": "The painting 'Inside garden' utan ram"
-        }
-      ]
-    },
+
     {
       "slug": "/no-promises",
       "path": "/no-promises",
@@ -873,6 +867,53 @@
         {
           "src": "/static/paintings/no-promises/no-promises_1.jpg",
           "alt": "The painting No promises i sin helhet"
+        }
+      ]
+    },
+    {
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimensions of meaning and of meaning. Out of lust and displeasure. Of demands, desires, desires, fears, love, hatred and all sorts of more, it is easy to get lost. But it's never too late to lean and listen inwards, to follow the desire and what attracts.",
+      "price": "7 300",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dimensions/dimensions_0.jpg",
+          "alt": "The painting 'Dimensions' in the gallery"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_3.jpg",
+          "alt": "'Dimensions' closeup"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' closeup"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_5.jpg",
+          "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_1.jpg",
+          "alt": "'Dimensions' in the studio"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_6.jpg",
+          "alt": "'Dimensions' in situ"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.jpg",
+          "alt": "'Dimensions' in situ"
         }
       ]
     },
@@ -969,37 +1010,6 @@
       ]
     },
     {
-      "slug": "/garden-girl",
-      "path": "/garden-girl",
-      "name": "Garden girl",
-      "description": "What's behind her? Underneath what's visible there's a million stories.",
-      "price": "4 500",
-      "year": "2019",
-      "status": "available",
-      "material": {
-        "medium": "Acrylics, ink, crayon, grafite",
-        "base": "canvas"
-      },
-      "width": "54",
-      "height": "64",
-      "tags": ["canvas", "acrylics", "female"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
-          "alt": "The painting Garden girl straight on"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
-          "alt": "Closeup on del av The painting Garden girl"
-        },
-        {
-          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
-          "alt": "The painting Garden girl without frame"
-        }
-      ]
-    },
-    {
       "slug": "/furilden",
       "path": "/furilden",
       "name": "Furilden",
@@ -1028,81 +1038,37 @@
       ]
     },
     {
-      "slug": "/dear-deer",
-      "path": "/dear-deer",
-      "name": "Dear deer",
-      "description": "A tribute to the wild and beautiful. A humble apology for the insecurity. Proof of blind awareness. Even from me.",
-      "price": "3 400",
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
+      "price": "6 900",
       "year": "2020",
-      "status": "available",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "material": {
-        "medium": "Acrylics",
-        "base": "woodboard"
-      },
-      "width": "24",
-      "height": "33",
-      "tags": ["woodboard", "acrylics", "female", "animal", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_0.jpg",
-          "alt": "The painting Dear deer straight on"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_1.jpg",
-          "alt": "Closeup on the painting Dear deer"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_2.jpeg",
-          "alt": "The painting Dear deer without frame"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_3.jpg",
-          "alt": "The painting Dear deer without frame"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_4.jpeg",
-          "alt": "The painting Dear deer without frame"
-        },
-        {
-          "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
-          "alt": "The painting Dear deer without frame"
-        }
-      ]
-    },
-    {
-      "slug": "/starksarbar",
-      "path": "/starksarbar",
-      "name": "Strong and vulnerable",
-      "description": "\"I am the beautiful in nature, I am the sweet in a berry. I am the mysterious thing in the night. I am the view you hold dear. I am the smooth warm breeze. I'm the sweetest of an evening, I'm the sweetest of mornings. And the wildest of fires.\"\n- Moonica Mac",
-      "price": "6 500",
-      "year": "2023",
       "status": "available",
       "material": {
         "medium": "Mixed media - acrylics etc",
-        "base": "MDF"
+        "base": "woodboard"
       },
       "width": "70",
-      "height": "50",
-      "tags": ["mdf", "mixed media"],
+      "height": "100",
+      "tags": ["woodboard", "mixed media"],
       "category": "original",
       "images": [
         {
-          "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
-          "alt": "The painting 'Strong and vulnerable' in the gallery"
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "The painting 'Blue Hope' framed"
         },
         {
-          "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
-          "alt": "The painting 'Strong and vulnerable'"
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' closeup"
         },
         {
-          "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
-          "alt": "'Strong and vulnerable' from the side"
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' closeup"
         },
         {
-          "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
-          "alt": "'Strong and vulnerable' in situ"
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' straight on"
         }
       ]
     },
@@ -1147,41 +1113,6 @@
         {
           "src": "/static/paintings/sista-dansen/sistadansen_sq-signatur.jpg",
           "alt": "The painting 'Sista dansen på Fårö' signatur"
-        }
-      ]
-    },
-    {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
-      "price": "6 900",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
-          "alt": "The painting 'Blue Hope' framed"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' closeup"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' closeup"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' straight on"
         }
       ]
     },
@@ -1291,6 +1222,163 @@
         {
           "src": "/static/paintings/give/give_01.jpg",
           "alt": "Closeup on the painting T-shirt girl"
+        }
+      ]
+    },
+    {
+      "slug": "/inside-garden",
+      "path": "/inside-garden",
+      "name": "Inside garden",
+      "description": "I have a garden, in bloom all year round. Wild, unruly, incomparably beautiful and impossible to figure out. It smells like a dream I follow and want to reach. My inside garden.",
+      "price": "9 000",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, ink etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "pannå", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_01.jpg",
+          "alt": "The painting 'Inside garden' in the gallery"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_02.jpg",
+          "alt": "The painting 'Inside garden' closeup"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_03.jpg",
+          "alt": "The painting 'Inside garden' closeup"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_04.jpg",
+          "alt": "The painting 'Inside garden' closeup"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_05.jpg",
+          "alt": "The painting 'Inside garden' closeup"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_06.jpg",
+          "alt": "The painting 'Inside garden' i angle"
+        },
+        {
+          "src": "/static/paintings/inside-garden/inside-garden_07.jpg",
+          "alt": "The painting 'Inside garden' utan ram"
+        }
+      ]
+    },
+    {
+      "slug": "/garden-girl",
+      "path": "/garden-girl",
+      "name": "Garden girl",
+      "description": "What's behind her? Underneath what's visible there's a million stories.",
+      "price": "4 500",
+      "year": "2019",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics, ink, crayon, grafite",
+        "base": "canvas"
+      },
+      "width": "54",
+      "height": "64",
+      "tags": ["canvas", "acrylics", "female"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_00.jpg",
+          "alt": "The painting Garden girl straight on"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_1.jpg",
+          "alt": "Closeup on del av The painting Garden girl"
+        },
+        {
+          "src": "/static/paintings/garden-girl/garden-girl_2.jpg",
+          "alt": "The painting Garden girl without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/dear-deer",
+      "path": "/dear-deer",
+      "name": "Dear deer",
+      "description": "A tribute to the wild and beautiful. A humble apology for the insecurity. Proof of blind awareness. Even from me.",
+      "price": "3 400",
+      "year": "2020",
+      "status": "available",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "24",
+      "height": "33",
+      "tags": ["woodboard", "acrylics", "female", "animal", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_0.jpg",
+          "alt": "The painting Dear deer straight on"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_1.jpg",
+          "alt": "Closeup on the painting Dear deer"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_2.jpeg",
+          "alt": "The painting Dear deer without frame"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_3.jpg",
+          "alt": "The painting Dear deer without frame"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_4.jpeg",
+          "alt": "The painting Dear deer without frame"
+        },
+        {
+          "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
+          "alt": "The painting Dear deer without frame"
+        }
+      ]
+    },
+    {
+      "slug": "/starksarbar",
+      "path": "/starksarbar",
+      "name": "Strong and vulnerable",
+      "description": "\"I am the beautiful in nature, I am the sweet in a berry. I am the mysterious thing in the night. I am the view you hold dear. I am the smooth warm breeze. I'm the sweetest of an evening, I'm the sweetest of mornings. And the wildest of fires.\"\n- Moonica Mac",
+      "price": "6 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "MDF"
+      },
+      "width": "70",
+      "height": "50",
+      "tags": ["mdf", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
+          "alt": "The painting 'Strong and vulnerable' in the gallery"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
+          "alt": "The painting 'Strong and vulnerable'"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
+          "alt": "'Strong and vulnerable' from the side"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
+          "alt": "'Strong and vulnerable' in situ"
         }
       ]
     },
