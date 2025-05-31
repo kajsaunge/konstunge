@@ -742,50 +742,50 @@
     {
       "slug": "/utfyllnad",
       "path": "/utfyllnad",
-      "name": "Utfyllnad",
-      "description": "",
+      "name": "Complement",
+      "description": "Sometimes it's that little extra, the surroundings, that holds increadible beauty. The lasting and long living.",
       "price": "2 200",
       "year": "2023",
       "status": "available",
       "material": {
         "medium": "Acrylics",
-        "base": "canvas"
+        "base": "MDF"
       },
       "width": "30",
       "height": "30",
-      "tags": ["canvas", "acrylics", "floral"],
+      "tags": ["mdf", "acrylics", "floral"],
       "category": "original",
       "images": [
         {
           "src": "/static/paintings/utfyllnad/utfyllnad_00.jpg",
-          "alt": "The painting Utfyllnad in the gallery"
+          "alt": "The painting Complement in the gallery"
         },
         {
           "src": "/static/paintings/utfyllnad/utfyllnad_01.jpg",
-          "alt": "The painting Utfyllnad"
+          "alt": "The painting Complement"
         },
         {
           "src": "/static/paintings/utfyllnad/utfyllnad_02.jpg",
-          "alt": "Closeup on the painting Utfyllnad"
+          "alt": "Closeup on the painting Complement"
         },
         {
           "src": "/static/paintings/utfyllnad/utfyllnad_03.jpg",
-          "alt": "Closeup on the painting Utfyllnad"
+          "alt": "Closeup on the painting Complement"
         },
         {
           "src": "/static/paintings/utfyllnad/utfyllnad_04.jpg",
-          "alt": "Closeup on the painting Utfyllnad"
+          "alt": "Closeup on the painting Complement"
         },
         {
           "src": "/static/paintings/utfyllnad/utfyllnad_05.jpg",
-          "alt": "The painting Utfyllnad in situ"
+          "alt": "The painting Complement in situ"
         }
       ]
     },
     {
       "slug": "/tack",
       "path": "/tack",
-      "name": "Tack",
+      "name": "Thanks",
       "description": "Tulips are like a box of chocolate, you never know when and who or to and from.",
       "price": "2 200",
       "year": "2023",

@@ -710,6 +710,49 @@
       ]
     },
     {
+      "slug": "/utfyllnad",
+      "path": "/utfyllnad",
+      "name": "Utfyllnad",
+      "description": "Ibland är det där extra, det som är runt omkring så himla vackert. Det som står sig och lever längst.",
+      "price": "2 200",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "MDF"
+      },
+      "width": "30",
+      "height": "30",
+      "tags": ["mdf", "acrylics", "floral"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_00.jpg",
+          "alt": "Tavlan Complement i galleriet"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_01.jpg",
+          "alt": "Tavlan Complement"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_02.jpg",
+          "alt": "Närbild på tavlan Complement"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_03.jpg",
+          "alt": "Närbild på tavlan Complement"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_04.jpg",
+          "alt": "Närbild på tavlan Complement"
+        },
+        {
+          "src": "/static/paintings/utfyllnad/utfyllnad_05.jpg",
+          "alt": "Tavlan Complement i miljö"
+        }
+      ]
+    },
+    {
       "slug": "/inside-garden",
       "path": "/inside-garden",
       "name": "Inside garden",
