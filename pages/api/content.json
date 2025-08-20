@@ -7,7 +7,7 @@
       "description": "Våren kommer, kanske. Den oändliga drömmen det nordiska folket, efter månader av mörker i ett vakuum. Hoppet stiger, kanske. Av långa smaragdgröna dagar och längre neonnätter. Äntligen, kanske.",
       "price": "7 200",
       "year": "2025",
-      "status": "new",
+      "status": "sold",
       "frame": "Incorporated in the artwork. White wood frame with details, pink edge.",
       "material": {
         "medium": "Acrylics",
@@ -51,7 +51,7 @@
       "description": "A never ending soundtrack with different beats, a fuled machine no one hears but sees. Always changing, never quiet inside, moves her to unimaginable places never seen.",
       "price": "7 200",
       "year": "2025",
-      "status": "new",
+      "status": "available",
       "frame": "Incorporated in the artwork. Wood frame with details, red, pink and neon yellow.",
       "material": {
         "medium": "Acrylics",
@@ -1155,7 +1155,7 @@
       "description": "En hyllning till det vilda och vackra. En ödmjuk ursäkt för otryggheten. Ett bevis på den blinda medvetenheten. Även från mig.",
       "price": "3 400",
       "year": "2020",
-      "status": "available",
+      "status": "sold",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Akryl",

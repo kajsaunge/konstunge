@@ -7,7 +7,7 @@
       "description": "Spring arrives, maybe. The never-ending dream the nordic people, after months of darkness in a sea of vacuum. Hope rises, maybe. Of long emerald days and even longer neon nights. Finally, maybe.",
       "price": "7 200",
       "year": "2025",
-      "status": "new",
+      "status": "sold",
       "frame": "Incorporated in the artwork. White wood frame with details, pink edge.",
       "material": {
         "medium": "Acrylics",
@@ -51,7 +51,7 @@
       "description": "A never ending soundtrack with different beats, a fuled machine no one hears but sees. Always changing, never quiet inside, moves her to unimaginable places never seen.",
       "price": "7 200",
       "year": "2025",
-      "status": "new",
+      "status": "available",
       "frame": "Incorporated in the artwork. Wood frame with details, red, pink and neon yellow.",
       "material": {
         "medium": "Acrylics",
@@ -89,6 +89,41 @@
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_06.jpg",
           "alt": "The painting 'Echos of her tide' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "But no longer",
+      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
+      "price": "9 600",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon etc",
+        "base": "canvas"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "The painting 'But no longer' in the gallery"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'But no longer' from angle"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'But no longer' closeup"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'But no longer' closeup"
         }
       ]
     },
@@ -136,88 +171,6 @@
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_06.jpg",
           "alt": "The painting 'Good karma in your face'"
-        }
-      ]
-    },
-    {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "But no longer",
-      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
-      "price": "9 600",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, crayon etc",
-        "base": "canvas"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "The painting 'But no longer' in the gallery"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'But no longer' from angle"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'But no longer' closeup"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'But no longer' closeup"
-        }
-      ]
-    },
-    {
-      "slug": "/audrey",
-      "path": "/audrey",
-      "name": "Audrey",
-      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
-      "price": "8 000",
-      "year": "2024",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "canvas"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/audrey/audrey_00.jpg",
-          "alt": "The painting 'Audrey' in the gallery"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' straight on"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_02.jpg",
-          "alt": "'audrey' closeup"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_03.jpg",
-          "alt": "'audrey' closeup"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_04.jpg",
-          "alt": "'audrey'"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_05.jpg",
-          "alt": "'Audrey' signaturee"
-        },
-        {
-          "src": "/static/paintings/audrey/audrey_01.jpg",
-          "alt": "'Audrey' straight on"
         }
       ]
     },
@@ -464,6 +417,53 @@
         {
           "src": "/static/paintings/ufo/ufo_0.jpg",
           "alt": "The painting 'U.F.O' framed"
+        }
+      ]
+    },
+    {
+      "slug": "/audrey",
+      "path": "/audrey",
+      "name": "Audrey",
+      "description": "A classic superstar, taken out of context, stripped down and razor-sharp. The time was different, but the words are worth repeating: 'Nothing is impossible, the word itself says 'I'm possible'!', 'As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.' and 'The most important thing is to enjoy your life - to be happy - it's all that matters.'",
+      "price": "8 000",
+      "year": "2024",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "canvas"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/audrey/audrey_00.jpg",
+          "alt": "The painting 'Audrey' in the gallery"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_02.jpg",
+          "alt": "'audrey' closeup"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_03.jpg",
+          "alt": "'audrey' closeup"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_04.jpg",
+          "alt": "'audrey'"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_05.jpg",
+          "alt": "'Audrey' signaturee"
+        },
+        {
+          "src": "/static/paintings/audrey/audrey_01.jpg",
+          "alt": "'Audrey' straight on"
         }
       ]
     },
@@ -825,51 +825,6 @@
         }
       ]
     },
-
-    {
-      "slug": "/no-promises",
-      "path": "/no-promises",
-      "name": "No promises",
-      "description": "Everything is changeable. You can have a plan and a thought, but often it turns out a little different, or completely. Being open and receptive to what comes along the way doesn't have to mean swallowing everything with guts (blah) but it can lead to amazing things. Who knows, maybe and suddenly an unexpected bud grows up and shoots away. Where is it going?",
-      "price": "5 300",
-      "year": "2024",
-      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
-      "status": "available",
-      "material": {
-        "medium": "Acrylics",
-        "base": "woodboard"
-      },
-      "width": "38",
-      "height": "38",
-      "tags": ["woodboard", "acrylics", "floral", "shadowbox"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/no-promises/no-promises_0.jpg",
-          "alt": "The painting No promises in the gallery"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_2.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_3.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_4.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_5.jpg",
-          "alt": "Closeup on the painting No promises"
-        },
-        {
-          "src": "/static/paintings/no-promises/no-promises_1.jpg",
-          "alt": "The painting No promises i sin helhet"
-        }
-      ]
-    },
     {
       "slug": "/dimensions",
       "path": "/dimensions",
@@ -914,6 +869,50 @@
         {
           "src": "/static/paintings/dimensions/dimensions_7.jpg",
           "alt": "'Dimensions' in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/no-promises",
+      "path": "/no-promises",
+      "name": "No promises",
+      "description": "Everything is changeable. You can have a plan and a thought, but often it turns out a little different, or completely. Being open and receptive to what comes along the way doesn't have to mean swallowing everything with guts (blah) but it can lead to amazing things. Who knows, maybe and suddenly an unexpected bud grows up and shoots away. Where is it going?",
+      "price": "5 300",
+      "year": "2024",
+      "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "38",
+      "height": "38",
+      "tags": ["woodboard", "acrylics", "floral", "shadowbox"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/no-promises/no-promises_0.jpg",
+          "alt": "The painting No promises in the gallery"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_2.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_3.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_4.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_5.jpg",
+          "alt": "Closeup on the painting No promises"
+        },
+        {
+          "src": "/static/paintings/no-promises/no-promises_1.jpg",
+          "alt": "The painting No promises i sin helhet"
         }
       ]
     },
@@ -1038,41 +1037,6 @@
       ]
     },
     {
-      "slug": "/blue-hope",
-      "path": "/blue-hope",
-      "name": "Blue Hope",
-      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
-      "price": "6 900",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "woodboard"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["woodboard", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
-          "alt": "The painting 'Blue Hope' framed"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_1.png",
-          "alt": "'Blue Hope' closeup"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_2.png",
-          "alt": "'Blue Hope' closeup"
-        },
-        {
-          "src": "/static/paintings/blue-hope/blue-hope_3.png",
-          "alt": "'Blue Hope' straight on"
-        }
-      ]
-    },
-    {
       "slug": "/sista-dansen",
       "path": "/sista-dansen",
       "name": "Sista dansen på Fårö",
@@ -1113,6 +1077,76 @@
         {
           "src": "/static/paintings/sista-dansen/sistadansen_sq-signatur.jpg",
           "alt": "The painting 'Sista dansen på Fårö' signatur"
+        }
+      ]
+    },
+    {
+      "slug": "/blue-hope",
+      "path": "/blue-hope",
+      "name": "Blue Hope",
+      "description": "In the coldest of darkness, in the wettest of rain, in the heaviest of sorrows. There is light there. There is beauty, warmth and hope. It may be small, so small that it is neither visible nor felt, but it will grow. Don't give up.",
+      "price": "6 900",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "woodboard"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["woodboard", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_00.jpg",
+          "alt": "The painting 'Blue Hope' framed"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_1.png",
+          "alt": "'Blue Hope' closeup"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_2.png",
+          "alt": "'Blue Hope' closeup"
+        },
+        {
+          "src": "/static/paintings/blue-hope/blue-hope_3.png",
+          "alt": "'Blue Hope' straight on"
+        }
+      ]
+    },
+    {
+      "slug": "/starksarbar",
+      "path": "/starksarbar",
+      "name": "Strong and vulnerable",
+      "description": "\"I am the beautiful in nature, I am the sweet in a berry. I am the mysterious thing in the night. I am the view you hold dear. I am the smooth warm breeze. I'm the sweetest of an evening, I'm the sweetest of mornings. And the wildest of fires.\"\n- Moonica Mac",
+      "price": "6 500",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics etc",
+        "base": "MDF"
+      },
+      "width": "70",
+      "height": "50",
+      "tags": ["mdf", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
+          "alt": "The painting 'Strong and vulnerable' in the gallery"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
+          "alt": "The painting 'Strong and vulnerable'"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
+          "alt": "'Strong and vulnerable' from the side"
+        },
+        {
+          "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
+          "alt": "'Strong and vulnerable' in situ"
         }
       ]
     },
@@ -1310,7 +1344,7 @@
       "description": "A tribute to the wild and beautiful. A humble apology for the insecurity. Proof of blind awareness. Even from me.",
       "price": "3 400",
       "year": "2020",
-      "status": "available",
+      "status": "sold",
       "frame": "Shadowbox. 4.5 cm deep white wooden frame with 6 mm distance between the frame and the painting",
       "material": {
         "medium": "Acrylics",
@@ -1344,41 +1378,6 @@
         {
           "src": "/static/paintings/dear-deer/dear-deer_5.jpeg",
           "alt": "The painting Dear deer without frame"
-        }
-      ]
-    },
-    {
-      "slug": "/starksarbar",
-      "path": "/starksarbar",
-      "name": "Strong and vulnerable",
-      "description": "\"I am the beautiful in nature, I am the sweet in a berry. I am the mysterious thing in the night. I am the view you hold dear. I am the smooth warm breeze. I'm the sweetest of an evening, I'm the sweetest of mornings. And the wildest of fires.\"\n- Moonica Mac",
-      "price": "6 500",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics etc",
-        "base": "MDF"
-      },
-      "width": "70",
-      "height": "50",
-      "tags": ["mdf", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/starksarbar/starksarbar_00.jpg",
-          "alt": "The painting 'Strong and vulnerable' in the gallery"
-        },
-        {
-          "src": "/static/paintings/starksarbar/starksarbar_1.jpg",
-          "alt": "The painting 'Strong and vulnerable'"
-        },
-        {
-          "src": "/static/paintings/starksarbar/starksarbar_2.jpeg",
-          "alt": "'Strong and vulnerable' from the side"
-        },
-        {
-          "src": "/static/paintings/starksarbar/starksarbar_3.jpeg",
-          "alt": "'Strong and vulnerable' in situ"
         }
       ]
     },
