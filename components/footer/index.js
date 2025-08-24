@@ -14,7 +14,7 @@ const Footer = () => {
             <li>
               <a
                 className={styles.footerNavLink}
-                href='https://www.instagram.com/kajsaunge'
+                href='https://www.instagram.com/konst.kajsaunge'
                 target='_blank'
                 rel='noreferrer'
               >
