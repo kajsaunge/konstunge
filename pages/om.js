@@ -87,11 +87,9 @@ const Om = () => {
           <div className={styles.mainContentFacts}>
             <h3>{content.about.facts}</h3>
             <p className={styles.factsDetails}>{content.about.fact.origin}</p>
+            <p className={styles.factsDetails}>{content.about.fact.current}</p>
             <p className={styles.factsDetails}>
-              {content.about.fact.education}
-            </p>
-            <p className={styles.factsDetails}>
-              {content.about.fact.current}{' '}
+              {content.about.fact.education}{' '}
               <a
                 className='link'
                 href={content.about.fact.portfolioUrl}
