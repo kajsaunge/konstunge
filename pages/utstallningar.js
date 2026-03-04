@@ -42,12 +42,12 @@ const Utstallningar = () => {
         <PageIntro
           level={1}
           title={content.exhibition.title}
-          description={content.exhibition.titleDesc}
+          description='Currently nothing booked. Warmly welcoming any ideas, collaborations and opportunities'
         />
 
-        <div className={styles.mainContent}>
+        {/* <div className={styles.mainContent}>
           <div className={styles.mainContentImage}>
-            {/* <a target='_blank' href='https://justegallery.com/'> */}
+            <a target='_blank' href='https://justegallery.com/'>
             <img
               width={372}
               height={520}
@@ -55,7 +55,7 @@ const Utstallningar = () => {
               alt={kvinna}
               className={styles.mainContentImage}
             />
-            {/* </a> */}
+            </a>
           </div>
           <div className={styles.mainContentTextBlock}>
             <h2>{content.exhibition.exhibitions.kvinna.title}</h2>
@@ -76,7 +76,7 @@ const Utstallningar = () => {
               <b>{content.exhibition.exhibitionDetails.place} </b>
               {content.exhibition.exhibitions.kvinna.place}
             </p>
-            {/* <p className={styles.artPieceDetails}>
+            <p className={styles.artPieceDetails}>
               <b>{content.exhibition.exhibitionDetails.gallery} </b>{' '}
               <span className='link'>
                 <Link passHref href={content.exhibition.exhibitions.kvinna.url}>
@@ -85,12 +85,12 @@ const Utstallningar = () => {
                   </a>
                 </Link>
               </span>
-            </p> */}
+            </p>
             <p className={styles.mainContentText}>
               {content.exhibition.exhibitions.kvinna.desc}
             </p>
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.hrLine}></div>
         <PageIntro
