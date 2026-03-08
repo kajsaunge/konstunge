@@ -75,6 +75,17 @@
   margin: 0;
   line-height: 0;
 }
+.artPieceCampaign {
+  position: absolute;
+  z-index: 99;
+  top: -6px;
+  right: -6px;
+  color: white;
+  background-color: var(--campaign-color);
+  padding: 2px 10px;
+  margin: 0;
+  line-height: 0;
+}
 .artPieceReserved,
 .artPieceSold,
 .artPieceNew {

@@ -51,7 +51,7 @@
       "description": "A never ending soundtrack with different beats, a fuled machine no one hears but sees. Always changing, never quiet inside, moves her to unimaginable places never seen.",
       "price": "12 400",
       "year": "2025",
-      "status": "available",
+      "status": "reserved",
       "frame": "Incorporated in the artwork. Wood frame with details, red, pink and neon yellow.",
       "material": {
         "medium": "Acrylics",
@@ -473,7 +473,7 @@
       "description": "Ibland är världen uppochner och inget verkar rimligt alls. Det är lätt att undra varför, vad en ska göra eller om det ens är på riktigt. Och svårt att veta hur en ska agera eller agera alls. Är det galenskap elle är det jag?",
       "price": "15 000",
       "year": "2024",
-      "status": "available",
+      "status": "reserved",
       "material": {
         "medium": "Mixed media - acrylics, ink etc",
         "base": "woodboard"
@@ -892,7 +892,7 @@
       "price": "9 800",
       "year": "2024",
       "frame": "Vit träram",
-      "status": "available",
+      "status": "hide",
       "material": {
         "medium": "Mixed media - akryl mm",
         "base": "pannå"

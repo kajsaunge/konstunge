@@ -76,6 +76,8 @@ const Product = ({ piece }) => {
                 images={piece.images}
                 notAvailable={piece.status === 'sold'}
                 newArt={piece.status === 'new'}
+                reservedArt={piece.status === 'reserved'}
+                campaignArt={piece.status === 'available'}
               />
               <div className={styles.artPieceContent}>
                 <h3 className={styles.artPieceTitle}>{piece.name}</h3>

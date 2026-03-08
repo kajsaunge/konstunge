@@ -5,7 +5,13 @@ import Arrow from '@/icons/arrow';
 
 import styles from './ImageGallery.module.css';
 
-const ImageGallery = ({ images, notAvailable, newArt }) => {
+const ImageGallery = ({
+  images,
+  notAvailable,
+  newArt,
+  campaignArt,
+  reservedArt,
+}) => {
   const [selectedImage, setSelectedImage] = useState(images[0]);
 
   const handleImageChange = (e) => {
@@ -33,6 +39,16 @@ const ImageGallery = ({ images, notAvailable, newArt }) => {
       {newArt && (
         <div className={styles.itemNew}>
           <p>NEW</p>
+        </div>
+      )}
+      {campaignArt && (
+        <div className={styles.itemCampaign}>
+          <p>40%</p>
+        </div>
+      )}
+      {reservedArt && (
+        <div className={styles.itemReserved}>
+          <p>Reserved</p>
         </div>
       )}
       <div className={styles.galleryMainWrapper}>

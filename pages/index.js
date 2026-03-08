@@ -48,6 +48,7 @@ const Home = () => {
   const shouldBeShown = useCorrectContent.filter((el) =>
     el.status !== 'hide' && el.status !== 'sold' ? el : ''
   );
+
   const sold = useCorrectContent.filter((el) =>
     el.status === 'sold' ? el : ''
   );
