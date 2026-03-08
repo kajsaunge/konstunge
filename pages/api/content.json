@@ -473,7 +473,7 @@
       "description": "Ibland är världen uppochner och inget verkar rimligt alls. Det är lätt att undra varför, vad en ska göra eller om det ens är på riktigt. Och svårt att veta hur en ska agera eller agera alls. Är det galenskap elle är det jag?",
       "price": "15 000",
       "year": "2024",
-      "status": "reserved",
+      "status": "sold",
       "material": {
         "medium": "Mixed media - acrylics, ink etc",
         "base": "woodboard"
@@ -806,7 +806,7 @@
       "description": "Hon ger inte upp. Hon vänder blicken och tittar mot skyn. Där finns den varma, den som bekräftar och ser. Som inger hopp och mod, som tar henne framåt igen.",
       "price": "12 800",
       "year": "2023",
-      "status": "available",
+      "status": "sold",
       "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
       "material": {
         "medium": "Mixed media - akryl, sprayfärg mm",
