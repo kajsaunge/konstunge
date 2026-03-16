@@ -23,11 +23,11 @@ const Card = ({ item, content }) => {
             <p>{card.reserved}</p>
           </div>
         )}
-        {item.status === 'available' && (
+        {/* {item.status === 'available' && (
           <div className={styles.artPieceCampaign}>
             <p>{card.campaign}</p>
           </div>
-        )}
+        )} */}
         <NextLink href={`/konst${item.slug}`} as={`/konst${item.path}`}>
           <a href={`/konst${item.slug}`}>
             <Image

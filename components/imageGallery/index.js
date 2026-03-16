@@ -41,11 +41,11 @@ const ImageGallery = ({
           <p>NEW</p>
         </div>
       )}
-      {campaignArt && (
+      {/* {campaignArt && (
         <div className={styles.itemCampaign}>
           <p>40%</p>
         </div>
-      )}
+      )} */}
       {reservedArt && (
         <div className={styles.itemReserved}>
           <p>Reserved</p>
