@@ -51,7 +51,7 @@
       "description": "A never ending soundtrack with different beats, a fuled machine no one hears but sees. Always changing, never quiet inside, moves her to unimaginable places never seen.",
       "price": "12 400",
       "year": "2025",
-      "status": "reserved",
+      "status": "sold",
       "frame": "Incorporated in the artwork. Wood frame with details, red, pink and neon yellow.",
       "material": {
         "medium": "Acrylics",
@@ -89,41 +89,6 @@
         {
           "src": "/static/paintings/echos-of-her-tide/echos-of-her-tide_06.jpg",
           "alt": "The painting 'Echos of her tide' in situ"
-        }
-      ]
-    },
-    {
-      "slug": "/men-inte-langre",
-      "path": "/men-inte-langre",
-      "name": "But no longer",
-      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
-      "price": "15 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - acrylics, crayon etc",
-        "base": "canvas"
-      },
-      "width": "80",
-      "height": "100",
-      "tags": ["canvas", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
-          "alt": "The painting 'But no longer' in the gallery"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
-          "alt": "'But no longer' from angle"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
-          "alt": "'But no longer' closeup"
-        },
-        {
-          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
-          "alt": "'But no longer' closeup"
         }
       ]
     },
@@ -171,6 +136,41 @@
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_06.jpg",
           "alt": "The painting 'Good karma in your face'"
+        }
+      ]
+    },
+    {
+      "slug": "/men-inte-langre",
+      "path": "/men-inte-langre",
+      "name": "But no longer",
+      "description": "When the initial Wows have been replaced at an increasingly rapid pace with a soul-killing Meh. When the tingling curiosity and pedestal setting has been replaced by wallowing cynicism far too often, all the time. Then it's time to change direction, time for change. Here but no further.",
+      "price": "15 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - acrylics, crayon etc",
+        "base": "canvas"
+      },
+      "width": "80",
+      "height": "100",
+      "tags": ["canvas", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/men-inte-langre/men-inte-langre_00.png",
+          "alt": "The painting 'But no longer' in the gallery"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230917_170919.jpg",
+          "alt": "'But no longer' from angle"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110035.jpg",
+          "alt": "'But no longer' closeup"
+        },
+        {
+          "src": "/static/paintings/men-inte-langre/20230927_110003.jpg",
+          "alt": "'But no longer' closeup"
         }
       ]
     },
@@ -602,37 +602,6 @@
       ]
     },
     {
-      "slug": "/newyork",
-      "path": "/newyork",
-      "name": "New york",
-      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
-      "price": "14 000",
-      "year": "2020",
-      "status": "available",
-      "material": {
-        "medium": "Acrylics",
-        "base": "woodboard"
-      },
-      "width": "80",
-      "height": "120",
-      "tags": ["woodboard", "acrylics", "typografi"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/newyork/newyork_00.jpg",
-          "alt": "The painting New york straight on"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_1.jpg",
-          "alt": "The painting New york straight on"
-        },
-        {
-          "src": "/static/paintings/newyork/newyork_3.jpg",
-          "alt": "The painting New york from the side"
-        }
-      ]
-    },
-    {
       "slug": "/hoppet",
       "path": "/hoppet",
       "name": "The hope",
@@ -779,6 +748,37 @@
         {
           "src": "/static/paintings/utfyllnad/utfyllnad_05.jpg",
           "alt": "The painting Complement in situ"
+        }
+      ]
+    },
+    {
+      "slug": "/newyork",
+      "path": "/newyork",
+      "name": "New york",
+      "description": "The city that (almost) everyone falls in love with. There is something bright about it, something fluid, something for everyone.",
+      "price": "14 000",
+      "year": "2020",
+      "status": "available",
+      "material": {
+        "medium": "Acrylics",
+        "base": "woodboard"
+      },
+      "width": "80",
+      "height": "120",
+      "tags": ["woodboard", "acrylics", "typografi"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/newyork/newyork_00.jpg",
+          "alt": "The painting New york straight on"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_1.jpg",
+          "alt": "The painting New york straight on"
+        },
+        {
+          "src": "/static/paintings/newyork/newyork_3.jpg",
+          "alt": "The painting New york from the side"
         }
       ]
     },
