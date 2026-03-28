@@ -31,13 +31,13 @@
   font-weight: 400;
 }
 .artPieceDescription {
-  margin-top: 2px;
+  margin-top: -12px;
   font-size: 16px;
   text-align: center;
   color: var(--nav-link-color);
-  padding-top: 24px;
   padding-bottom: 24px;
-  border-top: 1px solid silver;
+  /* padding-top: 24px; */
+  /* border-top: 1px solid silver; */
 }
 .artPieceDescriptionText {
   margin-top: 0;
