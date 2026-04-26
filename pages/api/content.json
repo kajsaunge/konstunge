@@ -1,6 +1,53 @@
 {
   "pieces": [
     {
+      "slug": "/dimensions",
+      "path": "/dimensions",
+      "name": "Dimensions",
+      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
+      "price": "8 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - akryl mm",
+        "base": "duk"
+      },
+      "width": "50",
+      "height": "70",
+      "tags": ["duk", "mixed media"],
+      "category": "original",
+      "images": [
+        {
+          "src": "/static/paintings/dimensions/dimensions_0.png",
+          "alt": "Tavlan 'Dimensions' i galleriet"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_2.jpeg",
+          "alt": "'Dimensions' i ateljen"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_2.jpg",
+          "alt": "'Dimensions' närbild"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_5.jpg",
+          "alt": "'Dimensions'"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_6.png",
+          "alt": "'Dimensions' i miljö"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions_7.png",
+          "alt": "'Dimensions' i miljö"
+        },
+        {
+          "src": "/static/paintings/dimensions/dimensions-cut.png",
+          "alt": "'Dimensions'"
+        }
+      ]
+    },
+    {
       "slug": "/emerald-dreams-of-silent-screams",
       "path": "/emerald-dreams-of-silent-screams",
       "name": "Emerald dreams of silent screams",
@@ -136,6 +183,46 @@
         {
           "src": "/static/paintings/good-karma-in-your-face/good-karma-in-your-face_06.jpg",
           "alt": "Tavlan 'Good karma in your face' i helhet"
+        }
+      ]
+    },
+    {
+      "slug": "/ufo",
+      "path": "/ufo",
+      "name": "U.F.O",
+      "description": "Lockelsen, det förföriska. Det insugande, josiga, förvirrande goda. Det som ihärdigt drar i en, det man inte kommer undan, knappt alls. Kärleken, passionen, besattheten - må den aldrig försvinna, må den vara barmhärtig. Så totalt utplånande förgörande. Vad vore livet utan?",
+      "price": "16 800",
+      "year": "2023",
+      "status": "available",
+      "material": {
+        "medium": "Mixed media - akryl, bläck, krita mm",
+        "base": "pannå"
+      },
+      "width": "70",
+      "height": "100",
+      "tags": ["pannå", "mixed media", "shadowbox"],
+      "category": "original",
+      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
+      "images": [
+        {
+          "src": "/static/paintings/ufo/ufo_0.png",
+          "alt": "Tavlan 'U.F.O' i ram"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_2.png",
+          "alt": "Tavlan 'U.F.O' i miljö"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_3.png",
+          "alt": "Tavlan 'U.F.O' i miljö"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_4.png",
+          "alt": "Tavlan 'U.F.O' i miljö"
+        },
+        {
+          "src": "/static/paintings/ufo/ufo_5.jpg",
+          "alt": "Tavlan 'U.F.O' i miljö"
         }
       ]
     },
@@ -289,53 +376,6 @@
       ]
     },
     {
-      "slug": "/dimensions",
-      "path": "/dimensions",
-      "name": "Dimensions",
-      "description": "Dimmensioner av mening och av omening. Av lust och olust. Av krav, önskan, åtrå, räddsla, kärlek, hat och allt möjligt mer, är det lätt att tappa bort sig. Men det är aldrig för sent att luta och lyssna inåt, att följa lusten och det som lockar.",
-      "price": "8 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - akryl mm",
-        "base": "duk"
-      },
-      "width": "50",
-      "height": "70",
-      "tags": ["duk", "mixed media"],
-      "category": "original",
-      "images": [
-        {
-          "src": "/static/paintings/dimensions/dimensions_0.jpg",
-          "alt": "Tavlan 'Dimensions' i galleriet"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_1.jpeg",
-          "alt": "'Dimensions' i ateljen"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_3.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_2.jpg",
-          "alt": "'Dimensions' närbild"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_5.jpeg",
-          "alt": "'Dimensions'"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_6.jpg",
-          "alt": "'Dimensions' i miljö"
-        },
-        {
-          "src": "/static/paintings/dimensions/dimensions_7.jpg",
-          "alt": "'Dimensions' i miljö"
-        }
-      ]
-    },
-    {
       "slug": "/inbetween-2",
       "path": "/inbetween-2",
       "name": "Inbetween Two",
@@ -372,54 +412,6 @@
         {
           "src": "/static/paintings/inbetween-2/inbetween_00.jpg",
           "alt": "Tavlan 'Inbetween 2' i galleriet"
-        }
-      ]
-    },
-    {
-      "slug": "/ufo",
-      "path": "/ufo",
-      "name": "U.F.O",
-      "description": "Lockelsen, det förföriska. Det insugande, josiga, förvirrande goda. Det som ihärdigt drar i en, det man inte kommer undan, knappt alls. Kärleken, passionen, besattheten - må den aldrig försvinna, må den vara barmhärtig. Så totalt utplånande förgörande. Vad vore livet utan?",
-      "price": "16 800",
-      "year": "2023",
-      "status": "available",
-      "material": {
-        "medium": "Mixed media - akryl, bläck, krita mm",
-        "base": "pannå"
-      },
-      "width": "70",
-      "height": "100",
-      "tags": ["pannå", "mixed media", "shadowbox"],
-      "category": "original",
-      "frame": "Shadowbox. 4.5 cm djup vit träram med 6mm distans mellan tavla och ram",
-      "images": [
-        {
-          "src": "/static/paintings/ufo/ufo_0.jpg",
-          "alt": "Tavlan 'U.F.O' i ram"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_1.jpg",
-          "alt": "'U.F.O' utan ram"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_2.jpg",
-          "alt": "Tavlan 'U.F.O' i miljö"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_3.jpg",
-          "alt": "Tavlan 'U.F.O' i miljö"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_4.jpg",
-          "alt": "Tavlan 'U.F.O' i miljö"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_5.jpg",
-          "alt": "Tavlan 'U.F.O' i miljö"
-        },
-        {
-          "src": "/static/paintings/ufo/ufo_0.jpg",
-          "alt": "Tavlan 'U.F.O' i ram"
         }
       ]
     },
